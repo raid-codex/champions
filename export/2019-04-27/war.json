@@ -1,0 +1,24 @@
+{
+  "faction": "Ogryn-Tribes",
+  "name": "War",
+  "rarity": "Legendary",
+  "element": "Magic",
+  "type": "Attack",
+  "rating": {
+    "overall": "A",
+    "campaign": "B",
+    "arena_offense": "A",
+    "arena_defense": "B",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "A",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "C",
+    "minotaur": "B",
+    "force_dungeon": "B",
+    "magic_dungeon": "C",
+    "spirit_dungeon": "C",
+    "void_dungeon": "B"
+  }
+}

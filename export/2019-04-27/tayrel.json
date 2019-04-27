@@ -1,0 +1,24 @@
+{
+  "faction": "High Elves",
+  "name": "Tayrel",
+  "rarity": "Epic",
+  "element": "Magic",
+  "type": "Def",
+  "rating": {
+    "overall": "A",
+    "campaign": "SS",
+    "arena_offense": "S",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "B",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "C",
+    "minotaur": "A",
+    "force_dungeon": "A",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "B",
+    "void_dungeon": "A"
+  }
+}

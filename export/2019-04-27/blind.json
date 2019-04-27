@@ -1,0 +1,24 @@
+{
+  "faction": "Dark Elves",
+  "name": "Blind",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "Assist",
+  "rating": {
+    "overall": "A",
+    "campaign": "C",
+    "arena_offense": "A",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "C",
+    "clan_boss_with_giant_slayer": "",
+    "ice_guardian": "B",
+    "dragon": "A",
+    "spider": "C",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "C",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "A",
+    "void_dungeon": "S"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "faction": "Sacred Order",
+  "name": "Martyr",
+  "rarity": "Legendary",
+  "element": "Spirit",
+  "type": "Def",
+  "rating": {
+    "overall": "S",
+    "campaign": "B",
+    "arena_offense": "S",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "B",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "S",
+    "dragon": "S",
+    "spider": "B",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "S",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "S",
+    "void_dungeon": "A"
+  }
+}

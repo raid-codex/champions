@@ -1,0 +1,24 @@
+{
+  "faction": "High Elves",
+  "name": "Elhain",
+  "rarity": "Rare",
+  "element": "Magic",
+  "type": "Attack",
+  "rating": {
+    "overall": "A",
+    "campaign": "A",
+    "arena_offense": "A",
+    "arena_defense": "B",
+    "clan_boss_without_giant_slayer": "B",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "S",
+    "fire_knight": "B",
+    "minotaur": "A",
+    "force_dungeon": "B",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}

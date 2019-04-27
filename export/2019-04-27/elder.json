@@ -1,0 +1,24 @@
+{
+  "faction": "Barbarians",
+  "name": "Elder",
+  "rarity": "Rare",
+  "element": "Magic",
+  "type": "Def",
+  "rating": {
+    "overall": "C",
+    "campaign": "C",
+    "arena_offense": "B",
+    "arena_defense": "C",
+    "clan_boss_without_giant_slayer": "D",
+    "clan_boss_with_giant_slayer": "D",
+    "ice_guardian": "C",
+    "dragon": "C",
+    "spider": "D",
+    "fire_knight": "D",
+    "minotaur": "C",
+    "force_dungeon": "C",
+    "magic_dungeon": "C",
+    "spirit_dungeon": "C",
+    "void_dungeon": "C"
+  }
+}

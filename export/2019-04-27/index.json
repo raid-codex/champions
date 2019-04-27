@@ -1,0 +1,978 @@
+[
+  {
+    "name": "Lord",
+    "url": "lord.json"
+  },
+  {
+    "name": "Sethallia",
+    "url": "sethallia.json"
+  },
+  {
+    "name": "Black",
+    "url": "black.json"
+  },
+  {
+    "name": "Lugan",
+    "url": "lugan.json"
+  },
+  {
+    "name": "Septimus",
+    "url": "septimus.json"
+  },
+  {
+    "name": "Richtoff",
+    "url": "richtoff.json"
+  },
+  {
+    "name": "Raglin",
+    "url": "raglin.json"
+  },
+  {
+    "name": "Baron",
+    "url": "baron.json"
+  },
+  {
+    "name": "Hordin",
+    "url": "hordin.json"
+  },
+  {
+    "name": "Oathbound",
+    "url": "oathbound.json"
+  },
+  {
+    "name": "Knight",
+    "url": "knight.json"
+  },
+  {
+    "name": "Rowan",
+    "url": "rowan.json"
+  },
+  {
+    "name": "Azure",
+    "url": "azure.json"
+  },
+  {
+    "name": "Warcaster",
+    "url": "warcaster.json"
+  },
+  {
+    "name": "Crossbowman",
+    "url": "crossbowman.json"
+  },
+  {
+    "name": "Valerie",
+    "url": "valerie.json"
+  },
+  {
+    "name": "Grandmaster",
+    "url": "grandmaster.json"
+  },
+  {
+    "name": "Preserver",
+    "url": "preserver.json"
+  },
+  {
+    "name": "Courtier",
+    "url": "courtier.json"
+  },
+  {
+    "name": "Cataphract",
+    "url": "cataphract.json"
+  },
+  {
+    "name": "Conquerer",
+    "url": "conquerer.json"
+  },
+  {
+    "name": "Halberdier",
+    "url": "halberdier.json"
+  },
+  {
+    "name": "Chevalier",
+    "url": "chevalier.json"
+  },
+  {
+    "name": "Elenaril",
+    "url": "elenaril.json"
+  },
+  {
+    "name": "Shirimani",
+    "url": "shirimani.json"
+  },
+  {
+    "name": "Lyssandra",
+    "url": "lyssandra.json"
+  },
+  {
+    "name": "Royal",
+    "url": "royal.json"
+  },
+  {
+    "name": "Ithos",
+    "url": "ithos.json"
+  },
+  {
+    "name": "Belanor",
+    "url": "belanor.json"
+  },
+  {
+    "name": "Royal",
+    "url": "royal.json"
+  },
+  {
+    "name": "Tayrel",
+    "url": "tayrel.json"
+  },
+  {
+    "name": "Thenasil",
+    "url": "thenasil.json"
+  },
+  {
+    "name": "Luthiea",
+    "url": "luthiea.json"
+  },
+  {
+    "name": "Vergis",
+    "url": "vergis.json"
+  },
+  {
+    "name": "Marksman",
+    "url": "marksman.json"
+  },
+  {
+    "name": "Jinglehunter",
+    "url": "jinglehunter.json"
+  },
+  {
+    "name": "Battlesage",
+    "url": "battlesage.json"
+  },
+  {
+    "name": "Exemplar",
+    "url": "exemplar.json"
+  },
+  {
+    "name": "Apothecary",
+    "url": "apothecary.json"
+  },
+  {
+    "name": "Avenger",
+    "url": "avenger.json"
+  },
+  {
+    "name": "Elhain",
+    "url": "elhain.json"
+  },
+  {
+    "name": "Heiress",
+    "url": "heiress.json"
+  },
+  {
+    "name": "Magister",
+    "url": "magister.json"
+  },
+  {
+    "name": "Hyria",
+    "url": "hyria.json"
+  },
+  {
+    "name": "Roshcard",
+    "url": "roshcard.json"
+  },
+  {
+    "name": "Errol",
+    "url": "errol.json"
+  },
+  {
+    "name": "Abbess",
+    "url": "abbess.json"
+  },
+  {
+    "name": "Martyr",
+    "url": "martyr.json"
+  },
+  {
+    "name": "Cupidus",
+    "url": "cupidus.json"
+  },
+  {
+    "name": "Sir",
+    "url": "sir.json"
+  },
+  {
+    "name": "Venus",
+    "url": "venus.json"
+  },
+  {
+    "name": "Canoness",
+    "url": "canoness.json"
+  },
+  {
+    "name": "Adriel",
+    "url": "adriel.json"
+  },
+  {
+    "name": "Hope",
+    "url": "hope.json"
+  },
+  {
+    "name": "Frostbringer",
+    "url": "frostbringer.json"
+  },
+  {
+    "name": "Tallia",
+    "url": "tallia.json"
+  },
+  {
+    "name": "Juliana",
+    "url": "juliana.json"
+  },
+  {
+    "name": "Aothar",
+    "url": "aothar.json"
+  },
+  {
+    "name": "Relickeeper",
+    "url": "relickeeper.json"
+  },
+  {
+    "name": "Romero",
+    "url": "romero.json"
+  },
+  {
+    "name": "Bushi",
+    "url": "bushi.json"
+  },
+  {
+    "name": "Fenax",
+    "url": "fenax.json"
+  },
+  {
+    "name": "Cardinal",
+    "url": "cardinal.json"
+  },
+  {
+    "name": "Lightsworn",
+    "url": "lightsworn.json"
+  },
+  {
+    "name": "Athel",
+    "url": "athel.json"
+  },
+  {
+    "name": "Hospitaller",
+    "url": "hospitaller.json"
+  },
+  {
+    "name": "Chaplain",
+    "url": "chaplain.json"
+  },
+  {
+    "name": "Lamellar",
+    "url": "lamellar.json"
+  },
+  {
+    "name": "Templar",
+    "url": "templar.json"
+  },
+  {
+    "name": "Penitent",
+    "url": "penitent.json"
+  },
+  {
+    "name": "Warpriest",
+    "url": "warpriest.json"
+  },
+  {
+    "name": "Judicator",
+    "url": "judicator.json"
+  },
+  {
+    "name": "Maiden",
+    "url": "maiden.json"
+  },
+  {
+    "name": "Confessor",
+    "url": "confessor.json"
+  },
+  {
+    "name": "Justiciar",
+    "url": "justiciar.json"
+  },
+  {
+    "name": "Harrier",
+    "url": "harrier.json"
+  },
+  {
+    "name": "Altan",
+    "url": "altan.json"
+  },
+  {
+    "name": "Valkyrie",
+    "url": "valkyrie.json"
+  },
+  {
+    "name": "Turvold",
+    "url": "turvold.json"
+  },
+  {
+    "name": "Aina",
+    "url": "aina.json"
+  },
+  {
+    "name": "Jotun",
+    "url": "jotun.json"
+  },
+  {
+    "name": "Atur",
+    "url": "atur.json"
+  },
+  {
+    "name": "Kallia",
+    "url": "kallia.json"
+  },
+  {
+    "name": "Woad",
+    "url": "woad.json"
+  },
+  {
+    "name": "Marked",
+    "url": "marked.json"
+  },
+  {
+    "name": "Elder",
+    "url": "elder.json"
+  },
+  {
+    "name": "Sentinel",
+    "url": "sentinel.json"
+  },
+  {
+    "name": "Warmaiden",
+    "url": "warmaiden.json"
+  },
+  {
+    "name": "Slayer",
+    "url": "slayer.json"
+  },
+  {
+    "name": "Anointed",
+    "url": "anointed.json"
+  },
+  {
+    "name": "Berserker",
+    "url": "berserker.json"
+  },
+  {
+    "name": "Bloodbraid",
+    "url": "bloodbraid.json"
+  },
+  {
+    "name": "Skirmisher",
+    "url": "skirmisher.json"
+  },
+  {
+    "name": "Ox",
+    "url": "ox.json"
+  },
+  {
+    "name": "Big'Un",
+    "url": "big_un.json"
+  },
+  {
+    "name": "War",
+    "url": "war.json"
+  },
+  {
+    "name": "Ignatius",
+    "url": "ignatius.json"
+  },
+  {
+    "name": "Shamrock",
+    "url": "shamrock.json"
+  },
+  {
+    "name": "Gurgoh",
+    "url": "gurgoh.json"
+  },
+  {
+    "name": "Grimskin",
+    "url": "grimskin.json"
+  },
+  {
+    "name": "Skullcrusher",
+    "url": "skullcrusher.json"
+  },
+  {
+    "name": "Shatterbones",
+    "url": "shatterbones.json"
+  },
+  {
+    "name": "Galkut",
+    "url": "galkut.json"
+  },
+  {
+    "name": "Maneater",
+    "url": "maneater.json"
+  },
+  {
+    "name": "Rocktooth",
+    "url": "rocktooth.json"
+  },
+  {
+    "name": "Pounder",
+    "url": "pounder.json"
+  },
+  {
+    "name": "Magmablood",
+    "url": "magmablood.json"
+  },
+  {
+    "name": "Furystoker",
+    "url": "furystoker.json"
+  },
+  {
+    "name": "Siegebreaker",
+    "url": "siegebreaker.json"
+  },
+  {
+    "name": "Flesheater",
+    "url": "flesheater.json"
+  },
+  {
+    "name": "Stoneskin",
+    "url": "stoneskin.json"
+  },
+  {
+    "name": "Bellower",
+    "url": "bellower.json"
+  },
+  {
+    "name": "Dracomorph",
+    "url": "dracomorph.json"
+  },
+  {
+    "name": "Fu",
+    "url": "fu.json"
+  },
+  {
+    "name": "Rhazin",
+    "url": "rhazin.json"
+  },
+  {
+    "name": "Jarang",
+    "url": "jarang.json"
+  },
+  {
+    "name": "Drake",
+    "url": "drake.json"
+  },
+  {
+    "name": "Jizoh",
+    "url": "jizoh.json"
+  },
+  {
+    "name": "Broadmaw",
+    "url": "broadmaw.json"
+  },
+  {
+    "name": "Muckstalker",
+    "url": "muckstalker.json"
+  },
+  {
+    "name": "Skink",
+    "url": "skink.json"
+  },
+  {
+    "name": "Gator",
+    "url": "gator.json"
+  },
+  {
+    "name": "Slitherbrute",
+    "url": "slitherbrute.json"
+  },
+  {
+    "name": "Bogwalker",
+    "url": "bogwalker.json"
+  },
+  {
+    "name": "Skullsworn",
+    "url": "skullsworn.json"
+  },
+  {
+    "name": "Hurler",
+    "url": "hurler.json"
+  },
+  {
+    "name": "Flinger",
+    "url": "flinger.json"
+  },
+  {
+    "name": "Slasher",
+    "url": "slasher.json"
+  },
+  {
+    "name": "Metalshaper",
+    "url": "metalshaper.json"
+  },
+  {
+    "name": "Norog",
+    "url": "norog.json"
+  },
+  {
+    "name": "Longbeard",
+    "url": "longbeard.json"
+  },
+  {
+    "name": "Warchief",
+    "url": "warchief.json"
+  },
+  {
+    "name": "Taurus",
+    "url": "taurus.json"
+  },
+  {
+    "name": "Flesh",
+    "url": "flesh.json"
+  },
+  {
+    "name": "Ripper",
+    "url": "ripper.json"
+  },
+  {
+    "name": "Reinbeast",
+    "url": "reinbeast.json"
+  },
+  {
+    "name": "Steelskull",
+    "url": "steelskull.json"
+  },
+  {
+    "name": "Basher",
+    "url": "basher.json"
+  },
+  {
+    "name": "Graybeard",
+    "url": "graybeard.json"
+  },
+  {
+    "name": "Bloodpainter",
+    "url": "bloodpainter.json"
+  },
+  {
+    "name": "Gnarlhorn",
+    "url": "gnarlhorn.json"
+  },
+  {
+    "name": "Channeler",
+    "url": "channeler.json"
+  },
+  {
+    "name": "Grappler",
+    "url": "grappler.json"
+  },
+  {
+    "name": "Bloodhorn",
+    "url": "bloodhorn.json"
+  },
+  {
+    "name": "Robar",
+    "url": "robar.json"
+  },
+  {
+    "name": "Warlord",
+    "url": "warlord.json"
+  },
+  {
+    "name": "Angar",
+    "url": "angar.json"
+  },
+  {
+    "name": "Torturehelm",
+    "url": "torturehelm.json"
+  },
+  {
+    "name": "Zargala",
+    "url": "zargala.json"
+  },
+  {
+    "name": "Bloodfeather",
+    "url": "bloodfeather.json"
+  },
+  {
+    "name": "Bonekepper",
+    "url": "bonekepper.json"
+  },
+  {
+    "name": "Shaman",
+    "url": "shaman.json"
+  },
+  {
+    "name": "Terrorbeast",
+    "url": "terrorbeast.json"
+  },
+  {
+    "name": "Vrask",
+    "url": "vrask.json"
+  },
+  {
+    "name": "Seer",
+    "url": "seer.json"
+  },
+  {
+    "name": "Deathchanter",
+    "url": "deathchanter.json"
+  },
+  {
+    "name": "Chopper",
+    "url": "chopper.json"
+  },
+  {
+    "name": "Galek",
+    "url": "galek.json"
+  },
+  {
+    "name": "Spikehead",
+    "url": "spikehead.json"
+  },
+  {
+    "name": "Ironclad",
+    "url": "ironclad.json"
+  },
+  {
+    "name": "Goremask",
+    "url": "goremask.json"
+  },
+  {
+    "name": "Raider",
+    "url": "raider.json"
+  },
+  {
+    "name": "Totem",
+    "url": "totem.json"
+  },
+  {
+    "name": "Veteran",
+    "url": "veteran.json"
+  },
+  {
+    "name": "Huntress",
+    "url": "huntress.json"
+  },
+  {
+    "name": "Prince",
+    "url": "prince.json"
+  },
+  {
+    "name": "Mortu",
+    "url": "mortu.json"
+  },
+  {
+    "name": "Lord",
+    "url": "lord.json"
+  },
+  {
+    "name": "Alure",
+    "url": "alure.json"
+  },
+  {
+    "name": "Erinyes",
+    "url": "erinyes.json"
+  },
+  {
+    "name": "Souldrinker",
+    "url": "souldrinker.json"
+  },
+  {
+    "name": "Nazana",
+    "url": "nazana.json"
+  },
+  {
+    "name": "Hellgazer",
+    "url": "hellgazer.json"
+  },
+  {
+    "name": "Peydma",
+    "url": "peydma.json"
+  },
+  {
+    "name": "Diabolist",
+    "url": "diabolist.json"
+  },
+  {
+    "name": "Hound",
+    "url": "hound.json"
+  },
+  {
+    "name": "Hellfang",
+    "url": "hellfang.json"
+  },
+  {
+    "name": "Marquess",
+    "url": "marquess.json"
+  },
+  {
+    "name": "Ifrit",
+    "url": "ifrit.json"
+  },
+  {
+    "name": "Marquis",
+    "url": "marquis.json"
+  },
+  {
+    "name": "Fellhound",
+    "url": "fellhound.json"
+  },
+  {
+    "name": "Skartosis",
+    "url": "skartosis.json"
+  },
+  {
+    "name": "Bad",
+    "url": "bad.json"
+  },
+  {
+    "name": "Bloodgorged",
+    "url": "bloodgorged.json"
+  },
+  {
+    "name": "Ma'Shalled",
+    "url": "ma_shalled.json"
+  },
+  {
+    "name": "Nethril",
+    "url": "nethril.json"
+  },
+  {
+    "name": "Gorgorab",
+    "url": "gorgorab.json"
+  },
+  {
+    "name": "Seeker",
+    "url": "seeker.json"
+  },
+  {
+    "name": "Husk",
+    "url": "husk.json"
+  },
+  {
+    "name": "Karam",
+    "url": "karam.json"
+  },
+  {
+    "name": "Lich",
+    "url": "lich.json"
+  },
+  {
+    "name": "Hexia",
+    "url": "hexia.json"
+  },
+  {
+    "name": "Zelotah",
+    "url": "zelotah.json"
+  },
+  {
+    "name": "Banshee",
+    "url": "banshee.json"
+  },
+  {
+    "name": "Temptress",
+    "url": "temptress.json"
+  },
+  {
+    "name": "Sorceress",
+    "url": "sorceress.json"
+  },
+  {
+    "name": "Grinner",
+    "url": "grinner.json"
+  },
+  {
+    "name": "Wretch",
+    "url": "wretch.json"
+  },
+  {
+    "name": "Bone",
+    "url": "bone.json"
+  },
+  {
+    "name": "Arbalester",
+    "url": "arbalester.json"
+  },
+  {
+    "name": "Doomscreech",
+    "url": "doomscreech.json"
+  },
+  {
+    "name": "Hollow",
+    "url": "hollow.json"
+  },
+  {
+    "name": "Seducer",
+    "url": "seducer.json"
+  },
+  {
+    "name": "Rae",
+    "url": "rae.json"
+  },
+  {
+    "name": "Zavia",
+    "url": "zavia.json"
+  },
+  {
+    "name": "Astralith",
+    "url": "astralith.json"
+  },
+  {
+    "name": "Queen",
+    "url": "queen.json"
+  },
+  {
+    "name": "Ghostborn",
+    "url": "ghostborn.json"
+  },
+  {
+    "name": "Blind",
+    "url": "blind.json"
+  },
+  {
+    "name": "Spider",
+    "url": "spider.json"
+  },
+  {
+    "name": "Luria",
+    "url": "luria.json"
+  },
+  {
+    "name": "Crimson",
+    "url": "crimson.json"
+  },
+  {
+    "name": "Warden",
+    "url": "warden.json"
+  },
+  {
+    "name": "Delver",
+    "url": "delver.json"
+  },
+  {
+    "name": "Lua",
+    "url": "lua.json"
+  },
+  {
+    "name": "Psylar",
+    "url": "psylar.json"
+  },
+  {
+    "name": "Judge",
+    "url": "judge.json"
+  },
+  {
+    "name": "Kael",
+    "url": "kael.json"
+  },
+  {
+    "name": "Mystic",
+    "url": "mystic.json"
+  },
+  {
+    "name": "Spirithost",
+    "url": "spirithost.json"
+  },
+  {
+    "name": "Hexweaver",
+    "url": "hexweaver.json"
+  },
+  {
+    "name": "Wanderer",
+    "url": "wanderer.json"
+  },
+  {
+    "name": "Coldheart",
+    "url": "coldheart.json"
+  },
+  {
+    "name": "Paragon",
+    "url": "paragon.json"
+  },
+  {
+    "name": "Retainer",
+    "url": "retainer.json"
+  },
+  {
+    "name": "Bystophus",
+    "url": "bystophus.json"
+  },
+  {
+    "name": "Tomb",
+    "url": "tomb.json"
+  },
+  {
+    "name": "Soulless",
+    "url": "soulless.json"
+  },
+  {
+    "name": "Crypt",
+    "url": "crypt.json"
+  },
+  {
+    "name": "Sinesha",
+    "url": "sinesha.json"
+  },
+  {
+    "name": "Doompriest",
+    "url": "doompriest.json"
+  },
+  {
+    "name": "Deathless",
+    "url": "deathless.json"
+  },
+  {
+    "name": "Kytis",
+    "url": "kytis.json"
+  },
+  {
+    "name": "Faceless",
+    "url": "faceless.json"
+  },
+  {
+    "name": "Skullcrown",
+    "url": "skullcrown.json"
+  },
+  {
+    "name": "Executioner",
+    "url": "executioner.json"
+  },
+  {
+    "name": "Theurgist",
+    "url": "theurgist.json"
+  },
+  {
+    "name": "Magus",
+    "url": "magus.json"
+  },
+  {
+    "name": "Arcanist",
+    "url": "arcanist.json"
+  },
+  {
+    "name": "Gladiator",
+    "url": "gladiator.json"
+  },
+  {
+    "name": "Acolyte",
+    "url": "acolyte.json"
+  },
+  {
+    "name": "Guardian",
+    "url": "guardian.json"
+  },
+  {
+    "name": "Renegade",
+    "url": "renegade.json"
+  },
+  {
+    "name": "Daywalker",
+    "url": "daywalker.json"
+  }
+]

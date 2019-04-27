@@ -1,0 +1,24 @@
+{
+  "faction": "Orcs",
+  "name": "Angar",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "HP",
+  "rating": {
+    "overall": "",
+    "campaign": "",
+    "arena_offense": "",
+    "arena_defense": "",
+    "clan_boss_without_giant_slayer": "C",
+    "clan_boss_with_giant_slayer": "C",
+    "ice_guardian": "",
+    "dragon": "",
+    "spider": "",
+    "fire_knight": "",
+    "minotaur": "",
+    "force_dungeon": "",
+    "magic_dungeon": "",
+    "spirit_dungeon": "",
+    "void_dungeon": ""
+  }
+}

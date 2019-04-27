@@ -1,0 +1,24 @@
+{
+  "faction": "Lizardmen",
+  "name": "Jizoh",
+  "rarity": "Epic",
+  "element": "Spirit",
+  "type": "Def",
+  "rating": {
+    "overall": "B",
+    "campaign": "B",
+    "arena_offense": "B",
+    "arena_defense": "B",
+    "clan_boss_without_giant_slayer": "D",
+    "clan_boss_with_giant_slayer": "C",
+    "ice_guardian": "B",
+    "dragon": "B",
+    "spider": "C",
+    "fire_knight": "C",
+    "minotaur": "B",
+    "force_dungeon": "C",
+    "magic_dungeon": "C",
+    "spirit_dungeon": "C",
+    "void_dungeon": "B"
+  }
+}

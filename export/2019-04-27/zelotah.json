@@ -1,0 +1,24 @@
+{
+  "faction": "Undead Hordes",
+  "name": "Zelotah",
+  "rarity": "Epic",
+  "element": "Spirit",
+  "type": "Assist",
+  "rating": {
+    "overall": "A",
+    "campaign": "A",
+    "arena_offense": "A",
+    "arena_defense": "A",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "A",
+    "fire_knight": "A",
+    "minotaur": "A",
+    "force_dungeon": "A",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "A",
+    "void_dungeon": "A"
+  }
+}

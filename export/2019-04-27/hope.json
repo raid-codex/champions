@@ -1,0 +1,24 @@
+{
+  "faction": "Sacred Order",
+  "name": "Hope",
+  "rarity": "Epic",
+  "element": "Magic",
+  "type": "HP",
+  "rating": {
+    "overall": "A",
+    "campaign": "C",
+    "arena_offense": "S",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "C",
+    "clan_boss_with_giant_slayer": "C",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "A",
+    "minotaur": "A",
+    "force_dungeon": "B",
+    "magic_dungeon": "S",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}

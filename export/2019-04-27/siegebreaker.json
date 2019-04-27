@@ -1,0 +1,24 @@
+{
+  "faction": "Ogryn-Tribes",
+  "name": "Siegebreaker",
+  "rarity": "Rare",
+  "element": "Spirit",
+  "type": "Attack",
+  "rating": {
+    "overall": "B",
+    "campaign": "B",
+    "arena_offense": "A",
+    "arena_defense": "A",
+    "clan_boss_without_giant_slayer": "D",
+    "clan_boss_with_giant_slayer": "C",
+    "ice_guardian": "B",
+    "dragon": "B",
+    "spider": "B",
+    "fire_knight": "B",
+    "minotaur": "B",
+    "force_dungeon": "C",
+    "magic_dungeon": "C",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}

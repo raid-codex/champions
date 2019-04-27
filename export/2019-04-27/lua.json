@@ -1,0 +1,24 @@
+{
+  "faction": "Dark Elves",
+  "name": "Lua",
+  "rarity": "Epic",
+  "element": "Void",
+  "type": "Attack",
+  "rating": {
+    "overall": "S",
+    "campaign": "SS",
+    "arena_offense": "S",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "B",
+    "clan_boss_with_giant_slayer": "",
+    "ice_guardian": "S",
+    "dragon": "S",
+    "spider": "S",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "A",
+    "magic_dungeon": "S",
+    "spirit_dungeon": "A",
+    "void_dungeon": "A"
+  }
+}

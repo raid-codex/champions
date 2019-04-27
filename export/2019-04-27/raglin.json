@@ -1,0 +1,24 @@
+{
+  "faction": "Banner-Lords",
+  "name": "Raglin",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "Assist",
+  "rating": {
+    "overall": "A",
+    "campaign": "C",
+    "arena_offense": "A",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "A",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "A",
+    "minotaur": "A",
+    "force_dungeon": "A",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "A",
+    "void_dungeon": "S"
+  }
+}

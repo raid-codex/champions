@@ -1,0 +1,24 @@
+{
+  "faction": "Barbarians",
+  "name": "Warmaiden",
+  "rarity": "Rare",
+  "element": "Force",
+  "type": "Attack",
+  "rating": {
+    "overall": "A",
+    "campaign": "B",
+    "arena_offense": "A",
+    "arena_defense": "B",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "C",
+    "minotaur": "A",
+    "force_dungeon": "A",
+    "magic_dungeon": "C",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}

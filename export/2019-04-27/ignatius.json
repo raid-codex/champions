@@ -1,0 +1,24 @@
+{
+  "faction": "Ogryn-Tribes",
+  "name": "Ignatius",
+  "rarity": "Legendary",
+  "element": "Magic",
+  "type": "Def",
+  "rating": {
+    "overall": "A",
+    "campaign": "A",
+    "arena_offense": "S",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "A",
+    "fire_knight": "C",
+    "minotaur": "A",
+    "force_dungeon": "B",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "C",
+    "void_dungeon": "B"
+  }
+}

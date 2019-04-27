@@ -1,0 +1,24 @@
+{
+  "faction": "High Elves",
+  "name": "Belanor",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "Attack",
+  "rating": {
+    "overall": "S",
+    "campaign": "B",
+    "arena_offense": "S",
+    "arena_defense": "B",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "A",
+    "ice_guardian": "S",
+    "dragon": "S",
+    "spider": "A",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "S",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "A",
+    "void_dungeon": "A"
+  }
+}

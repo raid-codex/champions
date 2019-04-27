@@ -1,0 +1,24 @@
+{
+  "faction": "Barbarians",
+  "name": "Aina",
+  "rarity": "Epic",
+  "element": "Magic",
+  "type": "Attack",
+  "rating": {
+    "overall": "A",
+    "campaign": "C",
+    "arena_offense": "B",
+    "arena_defense": "C",
+    "clan_boss_without_giant_slayer": "B",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "C",
+    "fire_knight": "A",
+    "minotaur": "A",
+    "force_dungeon": "A",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "B",
+    "void_dungeon": "A"
+  }
+}

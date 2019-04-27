@@ -1,0 +1,24 @@
+{
+  "faction": "Barbarians",
+  "name": "Turvold",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "Attack",
+  "rating": {
+    "overall": "A",
+    "campaign": "S",
+    "arena_offense": "S",
+    "arena_defense": "A",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "A",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "B",
+    "minotaur": "A",
+    "force_dungeon": "B",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}

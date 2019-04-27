@@ -1,0 +1,24 @@
+{
+  "faction": "Dark Elves",
+  "name": "Spider",
+  "rarity": "Epic",
+  "element": "Force",
+  "type": "Assist",
+  "rating": {
+    "overall": "A",
+    "campaign": "B",
+    "arena_offense": "S",
+    "arena_defense": "A",
+    "clan_boss_without_giant_slayer": "A",
+    "clan_boss_with_giant_slayer": "",
+    "ice_guardian": "A",
+    "dragon": "A",
+    "spider": "B",
+    "fire_knight": "B",
+    "minotaur": "A",
+    "force_dungeon": "B",
+    "magic_dungeon": "S",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
+  }
+}
