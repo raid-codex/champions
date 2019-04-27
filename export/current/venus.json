@@ -1,0 +1,24 @@
+{
+  "faction": "Sacred Order",
+  "name": "Venus",
+  "rarity": "Legendary",
+  "element": "Void",
+  "type": "Assist",
+  "rating": {
+    "overall": "S",
+    "campaign": "A",
+    "arena_offense": "S",
+    "arena_defense": "A",
+    "clan_boss_without_giant_slayer": "SS",
+    "clan_boss_with_giant_slayer": "SS",
+    "ice_guardian": "S",
+    "dragon": "S",
+    "spider": "SS",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "S",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "A",
+    "void_dungeon": "A"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "faction": "Undead Hordes",
+  "name": "Bad-el-Kazar",
+  "rarity": "Legendary",
+  "element": "Force",
+  "type": "Assist",
+  "rating": {
+    "overall": "S",
+    "campaign": "S",
+    "arena_offense": "SS",
+    "arena_defense": "S",
+    "clan_boss_without_giant_slayer": "SS",
+    "clan_boss_with_giant_slayer": "",
+    "ice_guardian": "S",
+    "dragon": "S",
+    "spider": "SS",
+    "fire_knight": "A",
+    "minotaur": "S",
+    "force_dungeon": "A",
+    "magic_dungeon": "A",
+    "spirit_dungeon": "A",
+    "void_dungeon": "S"
+  }
+}
