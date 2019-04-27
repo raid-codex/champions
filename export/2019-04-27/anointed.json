@@ -20,5 +20,6 @@
     "magic_dungeon": "B",
     "spirit_dungeon": "A",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "anointed"
 }

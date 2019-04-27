@@ -20,5 +20,6 @@
     "magic_dungeon": "C",
     "spirit_dungeon": "A",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "temptress"
 }

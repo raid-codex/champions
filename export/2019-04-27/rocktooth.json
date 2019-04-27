@@ -20,5 +20,6 @@
     "magic_dungeon": "C",
     "spirit_dungeon": "S",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "rocktooth"
 }

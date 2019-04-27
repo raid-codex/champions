@@ -20,5 +20,6 @@
     "magic_dungeon": "B",
     "spirit_dungeon": "C",
     "void_dungeon": "C"
-  }
+  },
+  "slug": "muckstalker"
 }

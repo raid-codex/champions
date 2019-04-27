@@ -20,5 +20,6 @@
     "magic_dungeon": "S",
     "spirit_dungeon": "C",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "warcaster"
 }

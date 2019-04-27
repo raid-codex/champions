@@ -20,5 +20,6 @@
     "magic_dungeon": "A",
     "spirit_dungeon": "SS",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "frostbringer"
 }

@@ -20,5 +20,6 @@
     "magic_dungeon": "C",
     "spirit_dungeon": "D",
     "void_dungeon": "C"
-  }
+  },
+  "slug": "ifrit"
 }

@@ -20,5 +20,6 @@
     "magic_dungeon": "B",
     "spirit_dungeon": "S",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "ghostborn"
 }

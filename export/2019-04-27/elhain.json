@@ -20,5 +20,6 @@
     "magic_dungeon": "A",
     "spirit_dungeon": "B",
     "void_dungeon": "B"
-  }
+  },
+  "slug": "elhain"
 }
