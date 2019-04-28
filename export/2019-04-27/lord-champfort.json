@@ -24,14 +24,14 @@
   "slug": "lord-champfort",
   "characteristics": {
     "60": {
-      "hp": 0,
-      "attack": 0,
-      "defense": 0,
-      "speed": 0,
-      "critical_rate": 0,
-      "critical_damage": 0,
-      "resistance": 0,
-      "accuracy": 0
+      "hp": 22305,
+      "attack": 1079,
+      "defense": 1013,
+      "speed": 97,
+      "critical_rate": 0.15,
+      "critical_damage": 0.5,
+      "resistance": 40,
+      "accuracy": 20
     }
   },
   "auras": [],
