@@ -22,7 +22,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "lord-champfort"
+    "slug": "lord-champfort",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -47,7 +61,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "sethallia"
+    "slug": "sethallia",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -72,7 +100,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "black-knight"
+    "slug": "black-knight",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -97,7 +139,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "lugan-the-steadfast"
+    "slug": "lugan-the-steadfast",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -122,7 +178,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "septimus"
+    "slug": "septimus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -147,7 +217,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "richtoff-the-bold"
+    "slug": "richtoff-the-bold",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -172,7 +256,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "S"
     },
-    "slug": "raglin"
+    "slug": "raglin",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -197,7 +295,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "baron"
+    "slug": "baron",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -222,7 +334,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "hordin"
+    "slug": "hordin",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -247,7 +373,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "oathbound"
+    "slug": "oathbound",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -272,7 +412,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "knight-errant"
+    "slug": "knight-errant",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -297,7 +451,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "A"
     },
-    "slug": "rowan"
+    "slug": "rowan",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -322,7 +490,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "azure"
+    "slug": "azure",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -347,7 +529,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "warcaster"
+    "slug": "warcaster",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -372,7 +568,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "crossbowman"
+    "slug": "crossbowman",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -397,7 +607,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "valerie"
+    "slug": "valerie",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -422,7 +646,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "grandmaster"
+    "slug": "grandmaster",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -447,7 +685,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "preserver"
+    "slug": "preserver",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -472,7 +724,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "courtier"
+    "slug": "courtier",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -497,7 +763,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "cataphract"
+    "slug": "cataphract",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -522,7 +802,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "conquerer"
+    "slug": "conquerer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -547,7 +841,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "halberdier"
+    "slug": "halberdier",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Banner-Lords",
@@ -572,7 +880,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "chevalier"
+    "slug": "chevalier",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -597,7 +919,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "elenaril"
+    "slug": "elenaril",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -622,7 +958,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "shirimani"
+    "slug": "shirimani",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -647,7 +997,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "lyssandra"
+    "slug": "lyssandra",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -672,7 +1036,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "royal-huntsman"
+    "slug": "royal-huntsman",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -697,7 +1075,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "ithos"
+    "slug": "ithos",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -722,7 +1114,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "belanor"
+    "slug": "belanor",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -747,7 +1153,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "royal-guard"
+    "slug": "royal-guard",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -772,7 +1192,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "tayrel"
+    "slug": "tayrel",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -797,7 +1231,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "thenasil"
+    "slug": "thenasil",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -822,7 +1270,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "luthiea"
+    "slug": "luthiea",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -847,7 +1309,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "vergis"
+    "slug": "vergis",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -872,7 +1348,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "marksman"
+    "slug": "marksman",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -897,7 +1387,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "jinglehunter"
+    "slug": "jinglehunter",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -922,7 +1426,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "battlesage"
+    "slug": "battlesage",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -947,7 +1465,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "exemplar"
+    "slug": "exemplar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -972,7 +1504,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "apothecary"
+    "slug": "apothecary",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -997,7 +1543,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "avenger"
+    "slug": "avenger",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -1022,7 +1582,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "elhain"
+    "slug": "elhain",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -1047,7 +1621,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "heiress"
+    "slug": "heiress",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -1072,7 +1660,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "magister"
+    "slug": "magister",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "High Elves",
@@ -1097,7 +1699,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "hyria"
+    "slug": "hyria",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1122,7 +1738,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "roshcard-the-tower"
+    "slug": "roshcard-the-tower",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1147,7 +1777,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "errol"
+    "slug": "errol",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1172,7 +1816,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "abbess"
+    "slug": "abbess",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1197,7 +1855,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "martyr"
+    "slug": "martyr",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1222,7 +1894,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "cupidus"
+    "slug": "cupidus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1247,7 +1933,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "sir-nicholas"
+    "slug": "sir-nicholas",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1272,7 +1972,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "venus"
+    "slug": "venus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1297,7 +2011,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "canoness"
+    "slug": "canoness",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1322,7 +2050,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "adriel"
+    "slug": "adriel",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1347,7 +2089,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "hope"
+    "slug": "hope",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1372,7 +2128,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "frostbringer"
+    "slug": "frostbringer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1397,7 +2167,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "tallia"
+    "slug": "tallia",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1422,7 +2206,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "A"
     },
-    "slug": "juliana"
+    "slug": "juliana",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1447,7 +2245,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "aothar"
+    "slug": "aothar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1472,7 +2284,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "relickeeper"
+    "slug": "relickeeper",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1497,7 +2323,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "romero"
+    "slug": "romero",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1522,7 +2362,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "bushi"
+    "slug": "bushi",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1547,7 +2401,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "fenax"
+    "slug": "fenax",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1572,7 +2440,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "cardinal"
+    "slug": "cardinal",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1597,7 +2479,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "lightsworn"
+    "slug": "lightsworn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1622,7 +2518,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "athel"
+    "slug": "athel",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1647,7 +2557,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hospitaller"
+    "slug": "hospitaller",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1672,7 +2596,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "chaplain"
+    "slug": "chaplain",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1697,7 +2635,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "lamellar"
+    "slug": "lamellar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1722,7 +2674,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "templar"
+    "slug": "templar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1747,7 +2713,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "penitent"
+    "slug": "penitent",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1772,7 +2752,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "warpriest"
+    "slug": "warpriest",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1797,7 +2791,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "judicator"
+    "slug": "judicator",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1822,7 +2830,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "maiden"
+    "slug": "maiden",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1847,7 +2869,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "confessor"
+    "slug": "confessor",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1872,7 +2908,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "justiciar"
+    "slug": "justiciar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Sacred Order",
@@ -1897,7 +2947,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "harrier"
+    "slug": "harrier",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -1922,7 +2986,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "altan"
+    "slug": "altan",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -1947,7 +3025,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "valkyrie"
+    "slug": "valkyrie",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -1972,7 +3064,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "turvold"
+    "slug": "turvold",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -1997,7 +3103,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "aina"
+    "slug": "aina",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2022,7 +3142,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "jotun"
+    "slug": "jotun",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2047,7 +3181,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "atur"
+    "slug": "atur",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2072,7 +3220,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "kallia"
+    "slug": "kallia",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2097,7 +3259,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "woad-painted"
+    "slug": "woad-painted",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2122,7 +3298,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "marked"
+    "slug": "marked",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2147,7 +3337,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "elder"
+    "slug": "elder",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2172,7 +3376,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "sentinel"
+    "slug": "sentinel",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2197,7 +3415,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "warmaiden"
+    "slug": "warmaiden",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2222,7 +3454,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "slayer"
+    "slug": "slayer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2247,7 +3493,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "anointed"
+    "slug": "anointed",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2272,7 +3532,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "berserker"
+    "slug": "berserker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2297,7 +3571,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "bloodbraid"
+    "slug": "bloodbraid",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2322,7 +3610,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "skirmisher"
+    "slug": "skirmisher",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Barbarians",
@@ -2347,7 +3649,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "ox"
+    "slug": "ox",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2372,7 +3688,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "big-un"
+    "slug": "big-un",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2397,7 +3727,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "war-mother"
+    "slug": "war-mother",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2422,7 +3766,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "ignatius"
+    "slug": "ignatius",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2447,7 +3805,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "shamrock"
+    "slug": "shamrock",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2472,7 +3844,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "C"
     },
-    "slug": "gurgoh-the-augur"
+    "slug": "gurgoh-the-augur",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2497,7 +3883,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "grimskin"
+    "slug": "grimskin",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2522,7 +3922,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "skullcrusher"
+    "slug": "skullcrusher",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2547,7 +3961,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "shatterbones"
+    "slug": "shatterbones",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2572,7 +4000,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "galkut"
+    "slug": "galkut",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2597,7 +4039,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "maneater"
+    "slug": "maneater",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2622,7 +4078,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "rocktooth"
+    "slug": "rocktooth",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2647,7 +4117,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "pounder"
+    "slug": "pounder",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2672,7 +4156,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "magmablood"
+    "slug": "magmablood",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2697,7 +4195,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "furystoker"
+    "slug": "furystoker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2722,7 +4234,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "siegebreaker"
+    "slug": "siegebreaker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2747,7 +4273,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "flesheater"
+    "slug": "flesheater",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2772,7 +4312,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "stoneskin"
+    "slug": "stoneskin",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Ogryn-Tribes",
@@ -2797,7 +4351,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "bellower"
+    "slug": "bellower",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2822,7 +4390,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "dracomorph"
+    "slug": "dracomorph",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2847,7 +4429,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "fu-shan"
+    "slug": "fu-shan",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2872,7 +4468,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "rhazin-scarhide"
+    "slug": "rhazin-scarhide",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2897,7 +4507,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "jarang"
+    "slug": "jarang",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2922,7 +4546,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "drake"
+    "slug": "drake",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2947,7 +4585,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "jizoh"
+    "slug": "jizoh",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2972,7 +4624,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "broadmaw"
+    "slug": "broadmaw",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -2997,7 +4663,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "muckstalker"
+    "slug": "muckstalker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3022,7 +4702,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "skink"
+    "slug": "skink",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3047,7 +4741,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "gator"
+    "slug": "gator",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3072,7 +4780,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "slitherbrute"
+    "slug": "slitherbrute",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3097,7 +4819,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "bogwalker"
+    "slug": "bogwalker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3122,7 +4858,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "skullsworn"
+    "slug": "skullsworn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3147,7 +4897,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hurler"
+    "slug": "hurler",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3172,7 +4936,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "flinger"
+    "slug": "flinger",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3197,7 +4975,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "slasher"
+    "slug": "slasher",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Lizardmen",
@@ -3222,7 +5014,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "metalshaper"
+    "slug": "metalshaper",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3247,7 +5053,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "norog"
+    "slug": "norog",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3272,7 +5092,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "S"
     },
-    "slug": "longbeard"
+    "slug": "longbeard",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3297,7 +5131,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "warchief"
+    "slug": "warchief",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3322,7 +5170,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "taurus"
+    "slug": "taurus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3347,7 +5209,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "flesh-tearer"
+    "slug": "flesh-tearer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3372,7 +5248,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "ripper"
+    "slug": "ripper",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3397,7 +5287,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "reinbeast"
+    "slug": "reinbeast",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3422,7 +5326,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "steelskull"
+    "slug": "steelskull",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3447,7 +5365,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "basher"
+    "slug": "basher",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3472,7 +5404,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "graybeard"
+    "slug": "graybeard",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3497,7 +5443,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "bloodpainter"
+    "slug": "bloodpainter",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3522,7 +5482,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "gnarlhorn"
+    "slug": "gnarlhorn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3547,7 +5521,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "C"
     },
-    "slug": "channeler"
+    "slug": "channeler",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3572,7 +5560,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "grappler"
+    "slug": "grappler",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Skinwalker",
@@ -3597,7 +5599,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "bloodhorn"
+    "slug": "bloodhorn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3622,7 +5638,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "robar"
+    "slug": "robar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3647,7 +5677,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "S"
     },
-    "slug": "warlord"
+    "slug": "warlord",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3672,7 +5716,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "angar"
+    "slug": "angar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3697,7 +5755,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "torturehelm"
+    "slug": "torturehelm",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3722,7 +5794,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "zargala"
+    "slug": "zargala",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3747,7 +5833,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "bloodfeather"
+    "slug": "bloodfeather",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3772,7 +5872,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "bonekepper"
+    "slug": "bonekepper",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3797,7 +5911,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "shaman"
+    "slug": "shaman",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3822,7 +5950,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "terrorbeast"
+    "slug": "terrorbeast",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3847,7 +5989,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "S"
     },
-    "slug": "vrask"
+    "slug": "vrask",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3872,7 +6028,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "seer"
+    "slug": "seer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3897,7 +6067,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "deathchanter"
+    "slug": "deathchanter",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3922,7 +6106,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "chopper"
+    "slug": "chopper",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3947,7 +6145,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "galek"
+    "slug": "galek",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3972,7 +6184,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "spikehead"
+    "slug": "spikehead",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -3997,7 +6223,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "ironclad"
+    "slug": "ironclad",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -4022,7 +6262,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "goremask"
+    "slug": "goremask",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -4047,7 +6301,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "raider"
+    "slug": "raider",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -4072,7 +6340,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "totem"
+    "slug": "totem",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -4097,7 +6379,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "veteran"
+    "slug": "veteran",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Orcs",
@@ -4122,7 +6418,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "huntress"
+    "slug": "huntress",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4147,7 +6457,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "prince-kymar"
+    "slug": "prince-kymar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4172,7 +6496,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "A"
     },
-    "slug": "mortu-macaab"
+    "slug": "mortu-macaab",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4197,7 +6535,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "lord-shazar"
+    "slug": "lord-shazar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4222,7 +6574,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "alure"
+    "slug": "alure",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4247,7 +6613,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "erinyes"
+    "slug": "erinyes",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4272,7 +6652,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "souldrinker"
+    "slug": "souldrinker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4297,7 +6691,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "nazana"
+    "slug": "nazana",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4322,7 +6730,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "hellgazer"
+    "slug": "hellgazer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4347,7 +6769,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "peydma"
+    "slug": "peydma",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4372,7 +6808,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "diabolist"
+    "slug": "diabolist",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4397,7 +6847,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hound-spawn"
+    "slug": "hound-spawn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4422,7 +6886,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hellfang"
+    "slug": "hellfang",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4447,7 +6925,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "marquess"
+    "slug": "marquess",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4472,7 +6964,21 @@
       "spirit_dungeon": "D",
       "void_dungeon": "C"
     },
-    "slug": "ifrit"
+    "slug": "ifrit",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4497,7 +7003,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "marquis"
+    "slug": "marquis",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Demonspawn",
@@ -4522,7 +7042,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "fellhound"
+    "slug": "fellhound",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4547,7 +7081,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "skartosis"
+    "slug": "skartosis",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4572,7 +7120,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "S"
     },
-    "slug": "bad-el-kazar"
+    "slug": "bad-el-kazar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4597,7 +7159,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "bloodgorged"
+    "slug": "bloodgorged",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4622,7 +7198,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "ma-shalled"
+    "slug": "ma-shalled",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4647,7 +7237,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "nethril"
+    "slug": "nethril",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4672,7 +7276,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "gorgorab"
+    "slug": "gorgorab",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4697,7 +7315,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "seeker"
+    "slug": "seeker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4722,7 +7354,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "husk"
+    "slug": "husk",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4747,7 +7393,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "karam"
+    "slug": "karam",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4772,7 +7432,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "lich"
+    "slug": "lich",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4797,7 +7471,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hexia"
+    "slug": "hexia",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4822,7 +7510,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "zelotah"
+    "slug": "zelotah",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4847,7 +7549,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "banshee"
+    "slug": "banshee",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4872,7 +7588,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "temptress"
+    "slug": "temptress",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4897,7 +7627,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "sorceress"
+    "slug": "sorceress",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4922,7 +7666,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "grinner"
+    "slug": "grinner",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4947,7 +7705,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "wretch"
+    "slug": "wretch",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4972,7 +7744,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "bone-knight"
+    "slug": "bone-knight",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -4997,7 +7783,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "C"
     },
-    "slug": "arbalester"
+    "slug": "arbalester",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -5022,7 +7822,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "doomscreech"
+    "slug": "doomscreech",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -5047,7 +7861,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hollow"
+    "slug": "hollow",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Undead Hordes",
@@ -5072,7 +7900,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "seducer"
+    "slug": "seducer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5097,7 +7939,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "rae"
+    "slug": "rae",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5122,7 +7978,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "A"
     },
-    "slug": "zavia"
+    "slug": "zavia",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5147,7 +8017,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "astralith"
+    "slug": "astralith",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5172,7 +8056,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "queen-eva"
+    "slug": "queen-eva",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5197,7 +8095,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "ghostborn"
+    "slug": "ghostborn",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5222,7 +8134,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "S"
     },
-    "slug": "blind-seer"
+    "slug": "blind-seer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5247,7 +8173,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "spider"
+    "slug": "spider",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5272,7 +8212,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "luria"
+    "slug": "luria",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5297,7 +8251,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "crimson-helm"
+    "slug": "crimson-helm",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5322,7 +8290,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "warden"
+    "slug": "warden",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5347,7 +8329,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "A"
     },
-    "slug": "delver"
+    "slug": "delver",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5372,7 +8368,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "lua"
+    "slug": "lua",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5397,7 +8407,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "psylar"
+    "slug": "psylar",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5422,7 +8446,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "judge"
+    "slug": "judge",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5447,7 +8485,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "kael"
+    "slug": "kael",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5472,7 +8524,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "mystic-hand"
+    "slug": "mystic-hand",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5497,7 +8563,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "S"
     },
-    "slug": "spirithost"
+    "slug": "spirithost",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5522,7 +8602,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "hexweaver"
+    "slug": "hexweaver",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5547,7 +8641,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "wanderer"
+    "slug": "wanderer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5572,7 +8680,21 @@
       "spirit_dungeon": "SS",
       "void_dungeon": "B"
     },
-    "slug": "coldheart"
+    "slug": "coldheart",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5597,7 +8719,21 @@
       "spirit_dungeon": "S",
       "void_dungeon": "B"
     },
-    "slug": "paragon"
+    "slug": "paragon",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Dark Elves",
@@ -5622,7 +8758,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "retainer"
+    "slug": "retainer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5647,7 +8797,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "bystophus"
+    "slug": "bystophus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5672,7 +8836,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "tomb-lord"
+    "slug": "tomb-lord",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5697,7 +8875,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "soulless"
+    "slug": "soulless",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5722,7 +8914,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "crypt-witch"
+    "slug": "crypt-witch",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5747,7 +8953,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "sinesha"
+    "slug": "sinesha",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5772,7 +8992,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "A"
     },
-    "slug": "doompriest"
+    "slug": "doompriest",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5797,7 +9031,21 @@
       "spirit_dungeon": "",
       "void_dungeon": ""
     },
-    "slug": "deathless"
+    "slug": "deathless",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5822,7 +9070,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "kytis"
+    "slug": "kytis",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5847,7 +9109,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "faceless"
+    "slug": "faceless",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5872,7 +9148,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "skullcrown"
+    "slug": "skullcrown",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5897,7 +9187,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "executioner"
+    "slug": "executioner",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5922,7 +9226,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "theurgist"
+    "slug": "theurgist",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5947,7 +9265,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "magus"
+    "slug": "magus",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5972,7 +9304,21 @@
       "spirit_dungeon": "C",
       "void_dungeon": "A"
     },
-    "slug": "arcanist"
+    "slug": "arcanist",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -5997,7 +9343,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "A"
     },
-    "slug": "gladiator"
+    "slug": "gladiator",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -6022,7 +9382,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "acolyte"
+    "slug": "acolyte",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -6047,7 +9421,21 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "guardian"
+    "slug": "guardian",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -6072,7 +9460,21 @@
       "spirit_dungeon": "A",
       "void_dungeon": "B"
     },
-    "slug": "renegade"
+    "slug": "renegade",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   },
   {
     "faction": "Knight Revenant",
@@ -6097,6 +9499,20 @@
       "spirit_dungeon": "C",
       "void_dungeon": "B"
     },
-    "slug": "daywalker"
+    "slug": "daywalker",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": []
   }
 ]
