@@ -69,13 +69,13 @@
     "slug": "sethallia",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18000,
+        "attack": 1024,
+        "defense": 1354,
+        "speed": 108,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -114,13 +114,13 @@
     "slug": "black-knight",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 22470,
+        "attack": 914,
+        "defense": 1167,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 50,
         "accuracy": 0
       }
     },
@@ -159,13 +159,13 @@
     "slug": "lugan-the-steadfast",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20475,
+        "attack": 925,
+        "defense": 1013,
+        "speed": 103,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -204,13 +204,13 @@
     "slug": "septimus",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13710,
+        "attack": 1674,
+        "defense": 991,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -249,13 +249,13 @@
     "slug": "richtoff-the-bold",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18825,
+        "attack": 1398,
+        "defense": 925,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.43,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -294,13 +294,13 @@
     "slug": "raglin",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20310,
+        "attack": 1156,
+        "defense": 1068,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 50,
         "accuracy": 0
       }
     },
@@ -339,13 +339,13 @@
     "slug": "baron",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15030,
+        "attack": 1575,
+        "defense": 1002,
+        "speed": 90,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -384,13 +384,13 @@
     "slug": "hordin",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 1321,
+        "defense": 859,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -429,13 +429,13 @@
     "slug": "oathbound",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18330,
+        "attack": 782,
+        "defense": 1299,
+        "speed": 88,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -474,13 +474,13 @@
     "slug": "knight-errant",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18660,
+        "attack": 1387,
+        "defense": 672,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -519,13 +519,13 @@
     "slug": "rowan",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 1487,
+        "defense": 694,
+        "speed": 108,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -564,13 +564,13 @@
     "slug": "azure",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 19320,
+        "attack": 958,
+        "defense": 1057,
+        "speed": 87,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -609,13 +609,13 @@
     "slug": "warcaster",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20145,
+        "attack": 1013,
+        "defense": 947,
+        "speed": 106,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -654,13 +654,13 @@
     "slug": "crossbowman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13875,
+        "attack": 1189,
+        "defense": 936,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -699,13 +699,13 @@
     "slug": "valerie",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15855,
+        "attack": 969,
+        "defense": 1002,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -744,13 +744,13 @@
     "slug": "grandmaster",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16185,
+        "attack": 892,
+        "defense": 1057,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -789,13 +789,13 @@
     "slug": "preserver",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16350,
+        "attack": 771,
+        "defense": 1167,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -834,13 +834,13 @@
     "slug": "courtier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12720,
+        "attack": 1277,
+        "defense": 903,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -879,13 +879,13 @@
     "slug": "cataphract",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18330,
+        "attack": 991,
+        "defense": 815,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -924,13 +924,13 @@
     "slug": "conquerer",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12225,
+        "attack": 1421,
+        "defense": 793,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -969,13 +969,13 @@
     "slug": "halberdier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12060,
+        "attack": 1178,
+        "defense": 1046,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1014,13 +1014,13 @@
     "slug": "chevalier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16680,
+        "attack": 804,
+        "defense": 1112,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1059,13 +1059,13 @@
     "slug": "elenaril",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14535,
+        "attack": 1387,
+        "defense": 1222,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.43,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1104,13 +1104,13 @@
     "slug": "shirimani",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 19980,
+        "attack": 1167,
+        "defense": 1079,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -1149,13 +1149,13 @@
     "slug": "lyssandra",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 21480,
+        "attack": 969,
+        "defense": 1178,
+        "speed": 110,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1194,13 +1194,13 @@
     "slug": "royal-huntsman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16350,
+        "attack": 1553,
+        "defense": 936,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1239,14 +1239,14 @@
     "slug": "ithos",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 18825,
+        "attack": 1608,
+        "defense": 716,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 10
       }
     },
     "auras": [],
@@ -1284,14 +1284,14 @@
     "slug": "belanor",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 15195,
+        "attack": 1520,
+        "defense": 1046,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 10
       }
     },
     "auras": [],
@@ -1329,13 +1329,13 @@
     "slug": "royal-guard",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15030,
+        "attack": 1531,
+        "defense": 771,
+        "speed": 93,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1374,13 +1374,13 @@
     "slug": "tayrel",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16185,
+        "attack": 881,
+        "defense": 1343,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -1419,13 +1419,13 @@
     "slug": "thenasil",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15360,
+        "attack": 969,
+        "defense": 1035,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1464,14 +1464,14 @@
     "slug": "luthiea",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 14370,
+        "attack": 1277,
+        "defense": 1068,
+        "speed": 93,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 20
       }
     },
     "auras": [],
@@ -1509,13 +1509,13 @@
     "slug": "vergis",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16020,
+        "attack": 925,
+        "defense": 1310,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -1554,13 +1554,13 @@
     "slug": "marksman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14700,
+        "attack": 1432,
+        "defense": 892,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1599,13 +1599,13 @@
     "slug": "jinglehunter",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14700,
+        "attack": 1498,
+        "defense": 826,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1644,13 +1644,13 @@
     "slug": "battlesage",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18000,
+        "attack": 980,
+        "defense": 1123,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1689,13 +1689,13 @@
     "slug": "exemplar",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13545,
+        "attack": 1509,
+        "defense": 892,
+        "speed": 94,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1734,13 +1734,13 @@
     "slug": "apothecary",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 17175,
+        "attack": 881,
+        "defense": 1002,
+        "speed": 106,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1779,13 +1779,13 @@
     "slug": "avenger",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12225,
+        "attack": 1398,
+        "defense": 815,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1824,13 +1824,13 @@
     "slug": "elhain",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14370,
+        "attack": 1233,
+        "defense": 837,
+        "speed": 107,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1869,13 +1869,13 @@
     "slug": "heiress",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12390,
+        "attack": 1167,
+        "defense": 1035,
+        "speed": 94,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1914,13 +1914,13 @@
     "slug": "magister",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 782,
+        "defense": 848,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1959,13 +1959,13 @@
     "slug": "hyria",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12060,
+        "attack": 1476,
+        "defense": 749,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },

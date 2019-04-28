@@ -23,14 +23,14 @@
   "slug": "ithos",
   "characteristics": {
     "60": {
-      "hp": 0,
-      "attack": 0,
-      "defense": 0,
-      "speed": 0,
-      "critical_rate": 0,
-      "critical_damage": 0,
-      "resistance": 0,
-      "accuracy": 0
+      "hp": 18825,
+      "attack": 1608,
+      "defense": 716,
+      "speed": 99,
+      "critical_rate": 0.15,
+      "critical_damage": 0.63,
+      "resistance": 30,
+      "accuracy": 10
     }
   },
   "auras": [],
