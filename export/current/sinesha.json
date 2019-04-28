@@ -1,5 +1,4 @@
 {
-  "faction": "Knight Revenant",
   "name": "Sinesha",
   "rarity": "Epic",
   "element": "Force",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Knight Revenant",
+    "slug": "knight-revenant",
+    "website_link": "factions-knight-revenant"
+  },
+  "website_link": "champions-sinesha"
 }

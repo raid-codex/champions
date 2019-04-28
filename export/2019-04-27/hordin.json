@@ -1,5 +1,4 @@
 {
-  "faction": "Banner-Lords",
   "name": "Hordin",
   "rarity": "Epic",
   "element": "Magic",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Banner-Lords",
+    "slug": "banner-lords",
+    "website_link": "factions-banner-lords"
+  },
+  "website_link": "champions-hordin"
 }

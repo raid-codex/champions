@@ -1,5 +1,4 @@
 {
-  "faction": "Dark Elves",
   "name": "Coldheart",
   "rarity": "Rare",
   "element": "Void",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Dark Elves",
+    "slug": "dark-elves",
+    "website_link": "factions-dark-elves"
+  },
+  "website_link": "champions-coldheart"
 }

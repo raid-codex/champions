@@ -1,5 +1,4 @@
 {
-  "faction": "Barbarians",
   "name": "Woad-Painted",
   "rarity": "Epic",
   "element": "Spirit",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Barbarians",
+    "slug": "barbarians",
+    "website_link": "factions-barbarians"
+  },
+  "website_link": "champions-woad-painted"
 }

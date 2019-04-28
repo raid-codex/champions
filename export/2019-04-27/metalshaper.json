@@ -1,5 +1,4 @@
 {
-  "faction": "Lizardmen",
   "name": "Metalshaper",
   "rarity": "Rare",
   "element": "Spirit",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Lizardmen",
+    "slug": "lizardmen",
+    "website_link": "factions-lizardmen"
+  },
+  "website_link": "champions-metalshaper"
 }

@@ -1,6 +1,5 @@
 [
   {
-    "faction": "Banner-Lords",
     "name": "Lord Champfort",
     "rarity": "Legendary",
     "element": "Magic",
@@ -25,21 +24,26 @@
     "slug": "lord-champfort",
     "characteristics": {
       "60": {
-        "hp": 22305,
-        "attack": 1079,
-        "defense": 1013,
-        "speed": 97,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 40,
-        "accuracy": 20
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-lord-champfort"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Sethallia",
     "rarity": "Legendary",
     "element": "Magic",
@@ -75,10 +79,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-sethallia"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Black Knight",
     "rarity": "Legendary",
     "element": "Force",
@@ -114,10 +123,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-black-knight"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Lugan the Steadfast",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -153,10 +167,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-lugan-the-steadfast"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Septimus",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -192,10 +211,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-septimus"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Richtoff the Bold",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -231,10 +255,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-richtoff-the-bold"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Raglin",
     "rarity": "Legendary",
     "element": "Void",
@@ -270,10 +299,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-raglin"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Baron",
     "rarity": "Legendary",
     "element": "Void",
@@ -309,10 +343,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-baron"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Hordin",
     "rarity": "Epic",
     "element": "Magic",
@@ -348,10 +387,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-hordin"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Oathbound",
     "rarity": "Epic",
     "element": "Force",
@@ -387,10 +431,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-oathbound"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Knight Errant",
     "rarity": "Epic",
     "element": "Spirit",
@@ -426,10 +475,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-knight-errant"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Rowan",
     "rarity": "Epic",
     "element": "Void",
@@ -465,10 +519,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-rowan"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Azure",
     "rarity": "Epic",
     "element": "Void",
@@ -504,10 +563,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-azure"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Warcaster",
     "rarity": "Epic",
     "element": "Void",
@@ -543,10 +607,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-warcaster"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Crossbowman",
     "rarity": "Rare",
     "element": "Magic",
@@ -582,10 +651,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-crossbowman"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Valerie",
     "rarity": "Rare",
     "element": "Magic",
@@ -621,10 +695,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-valerie"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Grandmaster",
     "rarity": "Rare",
     "element": "Magic",
@@ -660,10 +739,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-grandmaster"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Preserver",
     "rarity": "Rare",
     "element": "Force",
@@ -699,10 +783,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-preserver"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Courtier",
     "rarity": "Rare",
     "element": "Force",
@@ -738,10 +827,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-courtier"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Cataphract",
     "rarity": "Rare",
     "element": "Spirit",
@@ -777,10 +871,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-cataphract"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Conquerer",
     "rarity": "Rare",
     "element": "Spirit",
@@ -816,10 +915,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-conquerer"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Halberdier",
     "rarity": "Rare",
     "element": "Spirit",
@@ -855,10 +959,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-halberdier"
   },
   {
-    "faction": "Banner-Lords",
     "name": "Chevalier",
     "rarity": "Rare",
     "element": "Void",
@@ -894,10 +1003,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Banner-Lords",
+      "slug": "banner-lords",
+      "website_link": "factions-banner-lords"
+    },
+    "website_link": "champions-chevalier"
   },
   {
-    "faction": "High Elves",
     "name": "Elenaril",
     "rarity": "Legendary",
     "element": "Magic",
@@ -933,10 +1047,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-elenaril"
   },
   {
-    "faction": "High Elves",
     "name": "Shirimani",
     "rarity": "Legendary",
     "element": "Force",
@@ -972,10 +1091,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-shirimani"
   },
   {
-    "faction": "High Elves",
     "name": "Lyssandra",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -1011,10 +1135,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-lyssandra"
   },
   {
-    "faction": "High Elves",
     "name": "Royal Huntsman",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -1050,10 +1179,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-royal-huntsman"
   },
   {
-    "faction": "High Elves",
     "name": "Ithos",
     "rarity": "Legendary",
     "element": "Void",
@@ -1089,10 +1223,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-ithos"
   },
   {
-    "faction": "High Elves",
     "name": "Belanor",
     "rarity": "Legendary",
     "element": "Void",
@@ -1128,10 +1267,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-belanor"
   },
   {
-    "faction": "High Elves",
     "name": "Royal Guard",
     "rarity": "Epic",
     "element": "Magic",
@@ -1167,10 +1311,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-royal-guard"
   },
   {
-    "faction": "High Elves",
     "name": "Tayrel",
     "rarity": "Epic",
     "element": "Magic",
@@ -1206,10 +1355,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-tayrel"
   },
   {
-    "faction": "High Elves",
     "name": "Thenasil",
     "rarity": "Epic",
     "element": "Force",
@@ -1245,10 +1399,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-thenasil"
   },
   {
-    "faction": "High Elves",
     "name": "Luthiea",
     "rarity": "Epic",
     "element": "Force",
@@ -1284,10 +1443,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-luthiea"
   },
   {
-    "faction": "High Elves",
     "name": "Vergis",
     "rarity": "Epic",
     "element": "Spirit",
@@ -1323,10 +1487,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-vergis"
   },
   {
-    "faction": "High Elves",
     "name": "Marksman",
     "rarity": "Epic",
     "element": "Spirit",
@@ -1362,10 +1531,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-marksman"
   },
   {
-    "faction": "High Elves",
     "name": "Jinglehunter",
     "rarity": "Epic",
     "element": "Spirit",
@@ -1401,10 +1575,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-jinglehunter"
   },
   {
-    "faction": "High Elves",
     "name": "Battlesage",
     "rarity": "Epic",
     "element": "Void",
@@ -1440,10 +1619,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-battlesage"
   },
   {
-    "faction": "High Elves",
     "name": "Exemplar",
     "rarity": "Epic",
     "element": "Void",
@@ -1479,10 +1663,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-exemplar"
   },
   {
-    "faction": "High Elves",
     "name": "Apothecary",
     "rarity": "Rare",
     "element": "Magic",
@@ -1518,10 +1707,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-apothecary"
   },
   {
-    "faction": "High Elves",
     "name": "Avenger",
     "rarity": "Rare",
     "element": "Magic",
@@ -1557,10 +1751,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-avenger"
   },
   {
-    "faction": "High Elves",
     "name": "Elhain",
     "rarity": "Rare",
     "element": "Magic",
@@ -1596,10 +1795,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-elhain"
   },
   {
-    "faction": "High Elves",
     "name": "Heiress",
     "rarity": "Rare",
     "element": "Force",
@@ -1635,10 +1839,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-heiress"
   },
   {
-    "faction": "High Elves",
     "name": "Magister",
     "rarity": "Rare",
     "element": "Force",
@@ -1674,10 +1883,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-magister"
   },
   {
-    "faction": "High Elves",
     "name": "Hyria",
     "rarity": "Rare",
     "element": "Spirit",
@@ -1713,10 +1927,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "factions-high-elves"
+    },
+    "website_link": "champions-hyria"
   },
   {
-    "faction": "Sacred Order",
     "name": "Roshcard the Tower",
     "rarity": "Legendary",
     "element": "Magic",
@@ -1752,10 +1971,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-roshcard-the-tower"
   },
   {
-    "faction": "Sacred Order",
     "name": "Errol",
     "rarity": "Legendary",
     "element": "Force",
@@ -1791,10 +2015,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-errol"
   },
   {
-    "faction": "Sacred Order",
     "name": "Abbess",
     "rarity": "Legendary",
     "element": "Force",
@@ -1830,10 +2059,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-abbess"
   },
   {
-    "faction": "Sacred Order",
     "name": "Martyr",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -1869,10 +2103,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-martyr"
   },
   {
-    "faction": "Sacred Order",
     "name": "Cupidus",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -1908,10 +2147,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-cupidus"
   },
   {
-    "faction": "Sacred Order",
     "name": "Sir Nicholas",
     "rarity": "Legendary",
     "element": "Void",
@@ -1947,10 +2191,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-sir-nicholas"
   },
   {
-    "faction": "Sacred Order",
     "name": "Venus",
     "rarity": "Legendary",
     "element": "Void",
@@ -1986,10 +2235,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-venus"
   },
   {
-    "faction": "Sacred Order",
     "name": "Canoness",
     "rarity": "Epic",
     "element": "Magic",
@@ -2025,10 +2279,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-canoness"
   },
   {
-    "faction": "Sacred Order",
     "name": "Adriel",
     "rarity": "Epic",
     "element": "Magic",
@@ -2064,10 +2323,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-adriel"
   },
   {
-    "faction": "Sacred Order",
     "name": "Hope",
     "rarity": "Epic",
     "element": "Magic",
@@ -2103,10 +2367,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-hope"
   },
   {
-    "faction": "Sacred Order",
     "name": "Frostbringer",
     "rarity": "Epic",
     "element": "Magic",
@@ -2142,10 +2411,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-frostbringer"
   },
   {
-    "faction": "Sacred Order",
     "name": "Tallia",
     "rarity": "Epic",
     "element": "Magic",
@@ -2181,10 +2455,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-tallia"
   },
   {
-    "faction": "Sacred Order",
     "name": "Juliana",
     "rarity": "Epic",
     "element": "Magic",
@@ -2220,10 +2499,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-juliana"
   },
   {
-    "faction": "Sacred Order",
     "name": "Aothar",
     "rarity": "Epic",
     "element": "Force",
@@ -2259,10 +2543,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-aothar"
   },
   {
-    "faction": "Sacred Order",
     "name": "Relickeeper",
     "rarity": "Epic",
     "element": "Force",
@@ -2298,10 +2587,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-relickeeper"
   },
   {
-    "faction": "Sacred Order",
     "name": "Romero",
     "rarity": "Epic",
     "element": "Force",
@@ -2337,10 +2631,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-romero"
   },
   {
-    "faction": "Sacred Order",
     "name": "Bushi",
     "rarity": "Epic",
     "element": "Spirit",
@@ -2376,10 +2675,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-bushi"
   },
   {
-    "faction": "Sacred Order",
     "name": "Fenax",
     "rarity": "Epic",
     "element": "Spirit",
@@ -2415,10 +2719,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-fenax"
   },
   {
-    "faction": "Sacred Order",
     "name": "Cardinal",
     "rarity": "Epic",
     "element": "Void",
@@ -2454,10 +2763,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-cardinal"
   },
   {
-    "faction": "Sacred Order",
     "name": "Lightsworn",
     "rarity": "Epic",
     "element": "Void",
@@ -2493,10 +2807,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-lightsworn"
   },
   {
-    "faction": "Sacred Order",
     "name": "Athel",
     "rarity": "Rare",
     "element": "Magic",
@@ -2532,10 +2851,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-athel"
   },
   {
-    "faction": "Sacred Order",
     "name": "Hospitaller",
     "rarity": "Rare",
     "element": "Magic",
@@ -2571,10 +2895,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-hospitaller"
   },
   {
-    "faction": "Sacred Order",
     "name": "Chaplain",
     "rarity": "Rare",
     "element": "Force",
@@ -2610,10 +2939,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-chaplain"
   },
   {
-    "faction": "Sacred Order",
     "name": "Lamellar",
     "rarity": "Rare",
     "element": "Force",
@@ -2649,10 +2983,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-lamellar"
   },
   {
-    "faction": "Sacred Order",
     "name": "Templar",
     "rarity": "Rare",
     "element": "Spirit",
@@ -2688,10 +3027,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-templar"
   },
   {
-    "faction": "Sacred Order",
     "name": "Penitent",
     "rarity": "Rare",
     "element": "Spirit",
@@ -2727,10 +3071,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-penitent"
   },
   {
-    "faction": "Sacred Order",
     "name": "Warpriest",
     "rarity": "Rare",
     "element": "Spirit",
@@ -2766,10 +3115,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-warpriest"
   },
   {
-    "faction": "Sacred Order",
     "name": "Judicator",
     "rarity": "Rare",
     "element": "Spirit",
@@ -2805,10 +3159,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-judicator"
   },
   {
-    "faction": "Sacred Order",
     "name": "Maiden",
     "rarity": "Rare",
     "element": "Spirit",
@@ -2844,10 +3203,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-maiden"
   },
   {
-    "faction": "Sacred Order",
     "name": "Confessor",
     "rarity": "Rare",
     "element": "Void",
@@ -2883,10 +3247,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-confessor"
   },
   {
-    "faction": "Sacred Order",
     "name": "Justiciar",
     "rarity": "Rare",
     "element": "Void",
@@ -2922,10 +3291,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-justiciar"
   },
   {
-    "faction": "Sacred Order",
     "name": "Harrier",
     "rarity": "Rare",
     "element": "Void",
@@ -2961,10 +3335,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "factions-sacred-order"
+    },
+    "website_link": "champions-harrier"
   },
   {
-    "faction": "Barbarians",
     "name": "Altan",
     "rarity": "Legendary",
     "element": "Magic",
@@ -3000,10 +3379,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-altan"
   },
   {
-    "faction": "Barbarians",
     "name": "Valkyrie",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -3039,10 +3423,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-valkyrie"
   },
   {
-    "faction": "Barbarians",
     "name": "Turvold",
     "rarity": "Legendary",
     "element": "Void",
@@ -3078,10 +3467,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-turvold"
   },
   {
-    "faction": "Barbarians",
     "name": "Aina",
     "rarity": "Epic",
     "element": "Magic",
@@ -3117,10 +3511,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-aina"
   },
   {
-    "faction": "Barbarians",
     "name": "Jotun",
     "rarity": "Epic",
     "element": "Magic",
@@ -3156,10 +3555,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-jotun"
   },
   {
-    "faction": "Barbarians",
     "name": "Atur",
     "rarity": "Epic",
     "element": "Magic",
@@ -3195,10 +3599,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-atur"
   },
   {
-    "faction": "Barbarians",
     "name": "Kallia",
     "rarity": "Epic",
     "element": "Force",
@@ -3234,10 +3643,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-kallia"
   },
   {
-    "faction": "Barbarians",
     "name": "Woad-Painted",
     "rarity": "Epic",
     "element": "Spirit",
@@ -3273,10 +3687,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-woad-painted"
   },
   {
-    "faction": "Barbarians",
     "name": "Marked",
     "rarity": "Rare",
     "element": "Magic",
@@ -3312,10 +3731,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-marked"
   },
   {
-    "faction": "Barbarians",
     "name": "Elder",
     "rarity": "Rare",
     "element": "Magic",
@@ -3351,10 +3775,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-elder"
   },
   {
-    "faction": "Barbarians",
     "name": "Sentinel",
     "rarity": "Rare",
     "element": "Force",
@@ -3390,10 +3819,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-sentinel"
   },
   {
-    "faction": "Barbarians",
     "name": "Warmaiden",
     "rarity": "Rare",
     "element": "Force",
@@ -3429,10 +3863,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-warmaiden"
   },
   {
-    "faction": "Barbarians",
     "name": "Slayer",
     "rarity": "Rare",
     "element": "Force",
@@ -3468,10 +3907,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-slayer"
   },
   {
-    "faction": "Barbarians",
     "name": "Anointed",
     "rarity": "Rare",
     "element": "Force",
@@ -3507,10 +3951,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-anointed"
   },
   {
-    "faction": "Barbarians",
     "name": "Berserker",
     "rarity": "Rare",
     "element": "Spirit",
@@ -3546,10 +3995,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-berserker"
   },
   {
-    "faction": "Barbarians",
     "name": "Bloodbraid",
     "rarity": "Rare",
     "element": "Spirit",
@@ -3585,10 +4039,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-bloodbraid"
   },
   {
-    "faction": "Barbarians",
     "name": "Skirmisher",
     "rarity": "Rare",
     "element": "Void",
@@ -3624,10 +4083,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-skirmisher"
   },
   {
-    "faction": "Barbarians",
     "name": "Ox",
     "rarity": "Rare",
     "element": "Void",
@@ -3663,10 +4127,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "factions-barbarians"
+    },
+    "website_link": "champions-ox"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Big'Un",
     "rarity": "Legendary",
     "element": "Magic",
@@ -3702,10 +4171,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-big-un"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "War Mother",
     "rarity": "Legendary",
     "element": "Magic",
@@ -3741,10 +4215,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-war-mother"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Ignatius",
     "rarity": "Legendary",
     "element": "Magic",
@@ -3780,10 +4259,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-ignatius"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Shamrock",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -3819,10 +4303,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-shamrock"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Gurgoh the Augur",
     "rarity": "Legendary",
     "element": "Void",
@@ -3858,10 +4347,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-gurgoh-the-augur"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Grimskin",
     "rarity": "Epic",
     "element": "Magic",
@@ -3897,10 +4391,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-grimskin"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Skullcrusher",
     "rarity": "Epic",
     "element": "Force",
@@ -3936,10 +4435,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-skullcrusher"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Shatterbones",
     "rarity": "Epic",
     "element": "Force",
@@ -3975,10 +4479,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-shatterbones"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Galkut",
     "rarity": "Epic",
     "element": "Spirit",
@@ -4014,10 +4523,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-galkut"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Maneater",
     "rarity": "Epic",
     "element": "Void",
@@ -4053,10 +4567,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-maneater"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Rocktooth",
     "rarity": "Rare",
     "element": "Magic",
@@ -4092,10 +4611,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-rocktooth"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Pounder",
     "rarity": "Rare",
     "element": "Magic",
@@ -4131,10 +4655,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-pounder"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Magmablood",
     "rarity": "Rare",
     "element": "Force",
@@ -4170,10 +4699,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-magmablood"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Furystoker",
     "rarity": "Rare",
     "element": "Spirit",
@@ -4209,10 +4743,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-furystoker"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Siegebreaker",
     "rarity": "Rare",
     "element": "Spirit",
@@ -4248,10 +4787,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-siegebreaker"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Flesheater",
     "rarity": "Rare",
     "element": "Spirit",
@@ -4287,10 +4831,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-flesheater"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Stoneskin",
     "rarity": "Rare",
     "element": "Void",
@@ -4326,10 +4875,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-stoneskin"
   },
   {
-    "faction": "Ogryn-Tribes",
     "name": "Bellower",
     "rarity": "Rare",
     "element": "Void",
@@ -4365,10 +4919,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Ogryn-Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "factions-ogryn-tribes"
+    },
+    "website_link": "champions-bellower"
   },
   {
-    "faction": "Lizardmen",
     "name": "Dracomorph",
     "rarity": "Legendary",
     "element": "Magic",
@@ -4404,10 +4963,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-dracomorph"
   },
   {
-    "faction": "Lizardmen",
     "name": "Fu-Shan",
     "rarity": "Legendary",
     "element": "Force",
@@ -4443,10 +5007,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-fu-shan"
   },
   {
-    "faction": "Lizardmen",
     "name": "Rhazin Scarhide",
     "rarity": "Legendary",
     "element": "Force",
@@ -4482,10 +5051,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-rhazin-scarhide"
   },
   {
-    "faction": "Lizardmen",
     "name": "Jarang",
     "rarity": "Epic",
     "element": "Magic",
@@ -4521,10 +5095,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-jarang"
   },
   {
-    "faction": "Lizardmen",
     "name": "Drake",
     "rarity": "Epic",
     "element": "Spirit",
@@ -4560,10 +5139,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-drake"
   },
   {
-    "faction": "Lizardmen",
     "name": "Jizoh",
     "rarity": "Epic",
     "element": "Spirit",
@@ -4599,10 +5183,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-jizoh"
   },
   {
-    "faction": "Lizardmen",
     "name": "Broadmaw",
     "rarity": "Epic",
     "element": "Void",
@@ -4638,10 +5227,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-broadmaw"
   },
   {
-    "faction": "Lizardmen",
     "name": "Muckstalker",
     "rarity": "Rare",
     "element": "Magic",
@@ -4677,10 +5271,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-muckstalker"
   },
   {
-    "faction": "Lizardmen",
     "name": "Skink",
     "rarity": "Rare",
     "element": "Magic",
@@ -4716,10 +5315,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-skink"
   },
   {
-    "faction": "Lizardmen",
     "name": "Gator",
     "rarity": "Rare",
     "element": "Magic",
@@ -4755,10 +5359,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-gator"
   },
   {
-    "faction": "Lizardmen",
     "name": "Slitherbrute",
     "rarity": "Rare",
     "element": "Magic",
@@ -4794,10 +5403,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-slitherbrute"
   },
   {
-    "faction": "Lizardmen",
     "name": "Bogwalker",
     "rarity": "Rare",
     "element": "Force",
@@ -4833,10 +5447,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-bogwalker"
   },
   {
-    "faction": "Lizardmen",
     "name": "Skullsworn",
     "rarity": "Rare",
     "element": "Force",
@@ -4872,10 +5491,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-skullsworn"
   },
   {
-    "faction": "Lizardmen",
     "name": "Hurler",
     "rarity": "Rare",
     "element": "Force",
@@ -4911,10 +5535,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-hurler"
   },
   {
-    "faction": "Lizardmen",
     "name": "Flinger",
     "rarity": "Rare",
     "element": "Spirit",
@@ -4950,10 +5579,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-flinger"
   },
   {
-    "faction": "Lizardmen",
     "name": "Slasher",
     "rarity": "Rare",
     "element": "Spirit",
@@ -4989,10 +5623,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-slasher"
   },
   {
-    "faction": "Lizardmen",
     "name": "Metalshaper",
     "rarity": "Rare",
     "element": "Spirit",
@@ -5028,10 +5667,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Lizardmen",
+      "slug": "lizardmen",
+      "website_link": "factions-lizardmen"
+    },
+    "website_link": "champions-metalshaper"
   },
   {
-    "faction": "Skinwalker",
     "name": "Norog",
     "rarity": "Legendary",
     "element": "Magic",
@@ -5067,10 +5711,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-norog"
   },
   {
-    "faction": "Skinwalker",
     "name": "Longbeard",
     "rarity": "Legendary",
     "element": "Magic",
@@ -5106,10 +5755,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-longbeard"
   },
   {
-    "faction": "Skinwalker",
     "name": "Warchief",
     "rarity": "Legendary",
     "element": "Force",
@@ -5145,10 +5799,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-warchief"
   },
   {
-    "faction": "Skinwalker",
     "name": "Taurus",
     "rarity": "Epic",
     "element": "Magic",
@@ -5184,10 +5843,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-taurus"
   },
   {
-    "faction": "Skinwalker",
     "name": "Flesh-Tearer",
     "rarity": "Epic",
     "element": "Magic",
@@ -5223,10 +5887,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-flesh-tearer"
   },
   {
-    "faction": "Skinwalker",
     "name": "Ripper",
     "rarity": "Epic",
     "element": "Force",
@@ -5262,10 +5931,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-ripper"
   },
   {
-    "faction": "Skinwalker",
     "name": "Reinbeast",
     "rarity": "Epic",
     "element": "Force",
@@ -5301,10 +5975,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-reinbeast"
   },
   {
-    "faction": "Skinwalker",
     "name": "Steelskull",
     "rarity": "Epic",
     "element": "Spirit",
@@ -5340,10 +6019,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-steelskull"
   },
   {
-    "faction": "Skinwalker",
     "name": "Basher",
     "rarity": "Epic",
     "element": "Void",
@@ -5379,10 +6063,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-basher"
   },
   {
-    "faction": "Skinwalker",
     "name": "Graybeard",
     "rarity": "Rare",
     "element": "Magic",
@@ -5418,10 +6107,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-graybeard"
   },
   {
-    "faction": "Skinwalker",
     "name": "Bloodpainter",
     "rarity": "Rare",
     "element": "Force",
@@ -5457,10 +6151,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-bloodpainter"
   },
   {
-    "faction": "Skinwalker",
     "name": "Gnarlhorn",
     "rarity": "Rare",
     "element": "Spirit",
@@ -5496,10 +6195,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-gnarlhorn"
   },
   {
-    "faction": "Skinwalker",
     "name": "Channeler",
     "rarity": "Rare",
     "element": "Spirit",
@@ -5535,10 +6239,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-channeler"
   },
   {
-    "faction": "Skinwalker",
     "name": "Grappler",
     "rarity": "Rare",
     "element": "Spirit",
@@ -5574,10 +6283,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-grappler"
   },
   {
-    "faction": "Skinwalker",
     "name": "Bloodhorn",
     "rarity": "Rare",
     "element": "Void",
@@ -5613,10 +6327,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "factions-skinwalker"
+    },
+    "website_link": "champions-bloodhorn"
   },
   {
-    "faction": "Orcs",
     "name": "Robar",
     "rarity": "Legendary",
     "element": "Force",
@@ -5652,10 +6371,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-robar"
   },
   {
-    "faction": "Orcs",
     "name": "Warlord",
     "rarity": "Legendary",
     "element": "Void",
@@ -5691,10 +6415,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-warlord"
   },
   {
-    "faction": "Orcs",
     "name": "Angar",
     "rarity": "Legendary",
     "element": "Void",
@@ -5730,10 +6459,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-angar"
   },
   {
-    "faction": "Orcs",
     "name": "Torturehelm",
     "rarity": "Epic",
     "element": "Force",
@@ -5769,10 +6503,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-torturehelm"
   },
   {
-    "faction": "Orcs",
     "name": "Zargala",
     "rarity": "Epic",
     "element": "Force",
@@ -5808,10 +6547,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-zargala"
   },
   {
-    "faction": "Orcs",
     "name": "Bloodfeather",
     "rarity": "Epic",
     "element": "Force",
@@ -5847,10 +6591,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-bloodfeather"
   },
   {
-    "faction": "Orcs",
     "name": "Bonekepper",
     "rarity": "Epic",
     "element": "Force",
@@ -5886,10 +6635,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-bonekepper"
   },
   {
-    "faction": "Orcs",
     "name": "Shaman",
     "rarity": "Epic",
     "element": "Force",
@@ -5925,10 +6679,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-shaman"
   },
   {
-    "faction": "Orcs",
     "name": "Terrorbeast",
     "rarity": "Epic",
     "element": "Spirit",
@@ -5964,10 +6723,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-terrorbeast"
   },
   {
-    "faction": "Orcs",
     "name": "Vrask",
     "rarity": "Epic",
     "element": "Spirit",
@@ -6003,10 +6767,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-vrask"
   },
   {
-    "faction": "Orcs",
     "name": "Seer",
     "rarity": "Epic",
     "element": "Void",
@@ -6042,10 +6811,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-seer"
   },
   {
-    "faction": "Orcs",
     "name": "Deathchanter",
     "rarity": "Rare",
     "element": "Magic",
@@ -6081,10 +6855,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-deathchanter"
   },
   {
-    "faction": "Orcs",
     "name": "Chopper",
     "rarity": "Rare",
     "element": "Magic",
@@ -6120,10 +6899,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-chopper"
   },
   {
-    "faction": "Orcs",
     "name": "Galek",
     "rarity": "Rare",
     "element": "Magic",
@@ -6159,10 +6943,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-galek"
   },
   {
-    "faction": "Orcs",
     "name": "Spikehead",
     "rarity": "Rare",
     "element": "Magic",
@@ -6198,10 +6987,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-spikehead"
   },
   {
-    "faction": "Orcs",
     "name": "Ironclad",
     "rarity": "Rare",
     "element": "Force",
@@ -6237,10 +7031,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-ironclad"
   },
   {
-    "faction": "Orcs",
     "name": "Goremask",
     "rarity": "Rare",
     "element": "Force",
@@ -6276,10 +7075,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-goremask"
   },
   {
-    "faction": "Orcs",
     "name": "Raider",
     "rarity": "Rare",
     "element": "Spirit",
@@ -6315,10 +7119,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-raider"
   },
   {
-    "faction": "Orcs",
     "name": "Totem",
     "rarity": "Rare",
     "element": "Spirit",
@@ -6354,10 +7163,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-totem"
   },
   {
-    "faction": "Orcs",
     "name": "Veteran",
     "rarity": "Rare",
     "element": "Void",
@@ -6393,10 +7207,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-veteran"
   },
   {
-    "faction": "Orcs",
     "name": "Huntress",
     "rarity": "Rare",
     "element": "Void",
@@ -6432,10 +7251,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Orcs",
+      "slug": "orcs",
+      "website_link": "factions-orcs"
+    },
+    "website_link": "champions-huntress"
   },
   {
-    "faction": "Demonspawn",
     "name": "Prince Kymar",
     "rarity": "Legendary",
     "element": "Magic",
@@ -6471,10 +7295,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-prince-kymar"
   },
   {
-    "faction": "Demonspawn",
     "name": "Mortu-Macaab",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -6510,10 +7339,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-mortu-macaab"
   },
   {
-    "faction": "Demonspawn",
     "name": "Lord Shazar",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -6549,10 +7383,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-lord-shazar"
   },
   {
-    "faction": "Demonspawn",
     "name": "Alure",
     "rarity": "Epic",
     "element": "Magic",
@@ -6588,10 +7427,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-alure"
   },
   {
-    "faction": "Demonspawn",
     "name": "Erinyes",
     "rarity": "Epic",
     "element": "Force",
@@ -6627,10 +7471,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-erinyes"
   },
   {
-    "faction": "Demonspawn",
     "name": "Souldrinker",
     "rarity": "Epic",
     "element": "Force",
@@ -6666,10 +7515,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-souldrinker"
   },
   {
-    "faction": "Demonspawn",
     "name": "Nazana",
     "rarity": "Epic",
     "element": "Force",
@@ -6705,10 +7559,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-nazana"
   },
   {
-    "faction": "Demonspawn",
     "name": "Hellgazer",
     "rarity": "Epic",
     "element": "Spirit",
@@ -6744,10 +7603,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-hellgazer"
   },
   {
-    "faction": "Demonspawn",
     "name": "Peydma",
     "rarity": "Epic",
     "element": "Void",
@@ -6783,10 +7647,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-peydma"
   },
   {
-    "faction": "Demonspawn",
     "name": "Diabolist",
     "rarity": "Rare",
     "element": "Magic",
@@ -6822,10 +7691,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-diabolist"
   },
   {
-    "faction": "Demonspawn",
     "name": "Hound Spawn",
     "rarity": "Rare",
     "element": "Force",
@@ -6861,10 +7735,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-hound-spawn"
   },
   {
-    "faction": "Demonspawn",
     "name": "Hellfang",
     "rarity": "Rare",
     "element": "Spirit",
@@ -6900,10 +7779,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-hellfang"
   },
   {
-    "faction": "Demonspawn",
     "name": "Marquess",
     "rarity": "Rare",
     "element": "Spirit",
@@ -6939,10 +7823,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-marquess"
   },
   {
-    "faction": "Demonspawn",
     "name": "Ifrit",
     "rarity": "Rare",
     "element": "Void",
@@ -6978,10 +7867,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-ifrit"
   },
   {
-    "faction": "Demonspawn",
     "name": "Marquis",
     "rarity": "Rare",
     "element": "Void",
@@ -7017,10 +7911,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-marquis"
   },
   {
-    "faction": "Demonspawn",
     "name": "Fellhound",
     "rarity": "Rare",
     "element": "Void",
@@ -7056,10 +7955,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "factions-demonspawn"
+    },
+    "website_link": "champions-fellhound"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Skartosis",
     "rarity": "Legendary",
     "element": "Force",
@@ -7095,10 +7999,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-skartosis"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Bad-el-Kazar",
     "rarity": "Legendary",
     "element": "Force",
@@ -7134,10 +8043,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-bad-el-kazar"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Bloodgorged",
     "rarity": "Legendary",
     "element": "Force",
@@ -7173,10 +8087,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-bloodgorged"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Ma'Shalled",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -7212,10 +8131,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-ma-shalled"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Nethril",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -7251,10 +8175,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-nethril"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Gorgorab",
     "rarity": "Epic",
     "element": "Magic",
@@ -7290,10 +8219,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-gorgorab"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Seeker",
     "rarity": "Epic",
     "element": "Magic",
@@ -7329,10 +8263,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-seeker"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Husk",
     "rarity": "Epic",
     "element": "Force",
@@ -7368,10 +8307,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-husk"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Karam",
     "rarity": "Epic",
     "element": "Force",
@@ -7407,10 +8351,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-karam"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Lich",
     "rarity": "Epic",
     "element": "Force",
@@ -7446,10 +8395,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-lich"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Hexia",
     "rarity": "Epic",
     "element": "Force",
@@ -7485,10 +8439,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-hexia"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Zelotah",
     "rarity": "Epic",
     "element": "Spirit",
@@ -7524,10 +8483,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-zelotah"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Banshee",
     "rarity": "Rare",
     "element": "Magic",
@@ -7563,10 +8527,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-banshee"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Temptress",
     "rarity": "Rare",
     "element": "Magic",
@@ -7602,10 +8571,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-temptress"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Sorceress",
     "rarity": "Rare",
     "element": "Force",
@@ -7641,10 +8615,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-sorceress"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Grinner",
     "rarity": "Rare",
     "element": "Force",
@@ -7680,10 +8659,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-grinner"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Wretch",
     "rarity": "Rare",
     "element": "Force",
@@ -7719,10 +8703,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-wretch"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Bone Knight",
     "rarity": "Rare",
     "element": "Spirit",
@@ -7758,10 +8747,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-bone-knight"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Arbalester",
     "rarity": "Rare",
     "element": "Void",
@@ -7797,10 +8791,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-arbalester"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Doomscreech",
     "rarity": "Rare",
     "element": "Void",
@@ -7836,10 +8835,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-doomscreech"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Hollow",
     "rarity": "Rare",
     "element": "Void",
@@ -7875,10 +8879,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-hollow"
   },
   {
-    "faction": "Undead Hordes",
     "name": "Seducer",
     "rarity": "Rare",
     "element": "Void",
@@ -7914,10 +8923,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Undead Hordes",
+      "slug": "undead-hordes",
+      "website_link": "factions-undead-hordes"
+    },
+    "website_link": "champions-seducer"
   },
   {
-    "faction": "Dark Elves",
     "name": "Rae",
     "rarity": "Legendary",
     "element": "Magic",
@@ -7953,10 +8967,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-rae"
   },
   {
-    "faction": "Dark Elves",
     "name": "Zavia",
     "rarity": "Legendary",
     "element": "Force",
@@ -7992,10 +9011,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-zavia"
   },
   {
-    "faction": "Dark Elves",
     "name": "Astralith",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -8031,10 +9055,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-astralith"
   },
   {
-    "faction": "Dark Elves",
     "name": "Queen Eva",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -8070,10 +9099,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-queen-eva"
   },
   {
-    "faction": "Dark Elves",
     "name": "Ghostborn",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -8109,10 +9143,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-ghostborn"
   },
   {
-    "faction": "Dark Elves",
     "name": "Blind Seer",
     "rarity": "Legendary",
     "element": "Void",
@@ -8148,10 +9187,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-blind-seer"
   },
   {
-    "faction": "Dark Elves",
     "name": "Spider",
     "rarity": "Epic",
     "element": "Force",
@@ -8187,10 +9231,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-spider"
   },
   {
-    "faction": "Dark Elves",
     "name": "Luria",
     "rarity": "Epic",
     "element": "Spirit",
@@ -8226,10 +9275,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-luria"
   },
   {
-    "faction": "Dark Elves",
     "name": "Crimson Helm",
     "rarity": "Epic",
     "element": "Spirit",
@@ -8265,10 +9319,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-crimson-helm"
   },
   {
-    "faction": "Dark Elves",
     "name": "Warden",
     "rarity": "Epic",
     "element": "Spirit",
@@ -8304,10 +9363,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-warden"
   },
   {
-    "faction": "Dark Elves",
     "name": "Delver",
     "rarity": "Epic",
     "element": "Spirit",
@@ -8343,10 +9407,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-delver"
   },
   {
-    "faction": "Dark Elves",
     "name": "Lua",
     "rarity": "Epic",
     "element": "Void",
@@ -8382,10 +9451,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-lua"
   },
   {
-    "faction": "Dark Elves",
     "name": "Psylar",
     "rarity": "Epic",
     "element": "Void",
@@ -8421,10 +9495,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-psylar"
   },
   {
-    "faction": "Dark Elves",
     "name": "Judge",
     "rarity": "Rare",
     "element": "Magic",
@@ -8460,10 +9539,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-judge"
   },
   {
-    "faction": "Dark Elves",
     "name": "Kael",
     "rarity": "Rare",
     "element": "Magic",
@@ -8499,10 +9583,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-kael"
   },
   {
-    "faction": "Dark Elves",
     "name": "Mystic Hand",
     "rarity": "Rare",
     "element": "Force",
@@ -8538,10 +9627,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-mystic-hand"
   },
   {
-    "faction": "Dark Elves",
     "name": "Spirithost",
     "rarity": "Rare",
     "element": "Spirit",
@@ -8577,10 +9671,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-spirithost"
   },
   {
-    "faction": "Dark Elves",
     "name": "Hexweaver",
     "rarity": "Rare",
     "element": "Spirit",
@@ -8616,10 +9715,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-hexweaver"
   },
   {
-    "faction": "Dark Elves",
     "name": "Wanderer",
     "rarity": "Rare",
     "element": "Spirit",
@@ -8655,10 +9759,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-wanderer"
   },
   {
-    "faction": "Dark Elves",
     "name": "Coldheart",
     "rarity": "Rare",
     "element": "Void",
@@ -8694,10 +9803,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-coldheart"
   },
   {
-    "faction": "Dark Elves",
     "name": "Paragon",
     "rarity": "Rare",
     "element": "Void",
@@ -8733,10 +9847,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-paragon"
   },
   {
-    "faction": "Dark Elves",
     "name": "Retainer",
     "rarity": "Rare",
     "element": "Void",
@@ -8772,10 +9891,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "factions-dark-elves"
+    },
+    "website_link": "champions-retainer"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Bystophus",
     "rarity": "Legendary",
     "element": "Force",
@@ -8811,10 +9935,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-bystophus"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Tomb Lord",
     "rarity": "Legendary",
     "element": "Spirit",
@@ -8850,10 +9979,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-tomb-lord"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Soulless",
     "rarity": "Legendary",
     "element": "Void",
@@ -8889,10 +10023,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-soulless"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Crypt Witch",
     "rarity": "Epic",
     "element": "Magic",
@@ -8928,10 +10067,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-crypt-witch"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Sinesha",
     "rarity": "Epic",
     "element": "Force",
@@ -8967,10 +10111,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-sinesha"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Doompriest",
     "rarity": "Epic",
     "element": "Force",
@@ -9006,10 +10155,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-doompriest"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Deathless",
     "rarity": "Epic",
     "element": "Spirit",
@@ -9045,10 +10199,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-deathless"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Kytis",
     "rarity": "Epic",
     "element": "Spirit",
@@ -9084,10 +10243,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-kytis"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Faceless",
     "rarity": "Epic",
     "element": "Void",
@@ -9123,10 +10287,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-faceless"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Skullcrown",
     "rarity": "Epic",
     "element": "Void",
@@ -9162,10 +10331,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-skullcrown"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Executioner",
     "rarity": "Rare",
     "element": "Magic",
@@ -9201,10 +10375,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-executioner"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Theurgist",
     "rarity": "Rare",
     "element": "Magic",
@@ -9240,10 +10419,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-theurgist"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Magus",
     "rarity": "Rare",
     "element": "Magic",
@@ -9279,10 +10463,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-magus"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Arcanist",
     "rarity": "Rare",
     "element": "Force",
@@ -9318,10 +10507,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-arcanist"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Gladiator",
     "rarity": "Rare",
     "element": "Force",
@@ -9357,10 +10551,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-gladiator"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Acolyte",
     "rarity": "Rare",
     "element": "Force",
@@ -9396,10 +10595,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-acolyte"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Guardian",
     "rarity": "Rare",
     "element": "Spirit",
@@ -9435,10 +10639,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-guardian"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Renegade",
     "rarity": "Rare",
     "element": "Void",
@@ -9474,10 +10683,15 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-renegade"
   },
   {
-    "faction": "Knight Revenant",
     "name": "Daywalker",
     "rarity": "Rare",
     "element": "Void",
@@ -9513,6 +10727,12 @@
       }
     },
     "auras": [],
-    "skills": []
+    "skills": [],
+    "faction": {
+      "name": "Knight Revenant",
+      "slug": "knight-revenant",
+      "website_link": "factions-knight-revenant"
+    },
+    "website_link": "champions-daywalker"
   }
 ]

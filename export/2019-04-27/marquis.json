@@ -1,5 +1,4 @@
 {
-  "faction": "Demonspawn",
   "name": "Marquis",
   "rarity": "Rare",
   "element": "Void",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Demonspawn",
+    "slug": "demonspawn",
+    "website_link": "factions-demonspawn"
+  },
+  "website_link": "champions-marquis"
 }

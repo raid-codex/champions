@@ -1,5 +1,4 @@
 {
-  "faction": "High Elves",
   "name": "Exemplar",
   "rarity": "Epic",
   "element": "Void",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "High Elves",
+    "slug": "high-elves",
+    "website_link": "factions-high-elves"
+  },
+  "website_link": "champions-exemplar"
 }

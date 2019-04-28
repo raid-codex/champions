@@ -1,5 +1,4 @@
 {
-  "faction": "Undead Hordes",
   "name": "Lich",
   "rarity": "Epic",
   "element": "Force",
@@ -35,5 +34,11 @@
     }
   },
   "auras": [],
-  "skills": []
+  "skills": [],
+  "faction": {
+    "name": "Undead Hordes",
+    "slug": "undead-hordes",
+    "website_link": "factions-undead-hordes"
+  },
+  "website_link": "champions-lich"
 }
