@@ -38,10 +38,10 @@
   "faction": {
     "name": "Undead Hordes",
     "slug": "undead-hordes",
-    "website_link": "factions/undead-hordes",
+    "website_link": "/factions/undead-hordes/",
     "image_slug": "image-faction-undead-hordes"
   },
   "faction_slug": "undead-hordes",
-  "website_link": "champions/wretch",
+  "website_link": "/champions/wretch/",
   "image_slug": "image-champion-wretch"
 }
