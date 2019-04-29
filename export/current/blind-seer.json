@@ -38,10 +38,10 @@
   "faction": {
     "name": "Dark Elves",
     "slug": "dark-elves",
-    "website_link": "factions/dark-elves",
+    "website_link": "/factions/dark-elves/",
     "image_slug": "image-faction-dark-elves"
   },
   "faction_slug": "dark-elves",
-  "website_link": "champions/blind-seer",
+  "website_link": "/champions/blind-seer/",
   "image_slug": "image-champion-blind-seer"
 }

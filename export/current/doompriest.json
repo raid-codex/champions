@@ -38,10 +38,10 @@
   "faction": {
     "name": "Knight Revenant",
     "slug": "knight-revenant",
-    "website_link": "factions/knight-revenant",
+    "website_link": "/factions/knight-revenant/",
     "image_slug": "image-faction-knight-revenant"
   },
   "faction_slug": "knight-revenant",
-  "website_link": "champions/doompriest",
+  "website_link": "/champions/doompriest/",
   "image_slug": "image-champion-doompriest"
 }

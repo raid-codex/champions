@@ -38,10 +38,10 @@
   "faction": {
     "name": "Orcs",
     "slug": "orcs",
-    "website_link": "factions/orcs",
+    "website_link": "/factions/orcs/",
     "image_slug": "image-faction-orcs"
   },
   "faction_slug": "orcs",
-  "website_link": "champions/huntress",
+  "website_link": "/champions/huntress/",
   "image_slug": "image-champion-huntress"
 }
