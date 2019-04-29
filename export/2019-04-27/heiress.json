@@ -38,10 +38,10 @@
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",
-    "website_link": "factions-high-elves",
+    "website_link": "factions/high-elves",
     "image_slug": "image-faction-high-elves"
   },
   "faction_slug": "high-elves",
-  "website_link": "champions-heiress",
+  "website_link": "champions/heiress",
   "image_slug": "image-champion-heiress"
 }

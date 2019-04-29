@@ -38,10 +38,10 @@
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",
-    "website_link": "factions-banner-lords",
+    "website_link": "factions/banner-lords",
     "image_slug": "image-faction-banner-lords"
   },
   "faction_slug": "banner-lords",
-  "website_link": "champions-halberdier",
+  "website_link": "champions/halberdier",
   "image_slug": "image-champion-halberdier"
 }

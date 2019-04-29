@@ -38,10 +38,10 @@
   "faction": {
     "name": "Lizardmen",
     "slug": "lizardmen",
-    "website_link": "factions-lizardmen",
+    "website_link": "factions/lizardmen",
     "image_slug": "image-faction-lizardmen"
   },
   "faction_slug": "lizardmen",
-  "website_link": "champions-skink",
+  "website_link": "champions/skink",
   "image_slug": "image-champion-skink"
 }

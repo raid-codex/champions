@@ -38,10 +38,10 @@
   "faction": {
     "name": "Dark Elves",
     "slug": "dark-elves",
-    "website_link": "factions-dark-elves",
+    "website_link": "factions/dark-elves",
     "image_slug": "image-faction-dark-elves"
   },
   "faction_slug": "dark-elves",
-  "website_link": "champions-retainer",
+  "website_link": "champions/retainer",
   "image_slug": "image-champion-retainer"
 }

@@ -38,10 +38,10 @@
   "faction": {
     "name": "Demonspawn",
     "slug": "demonspawn",
-    "website_link": "factions-demonspawn",
+    "website_link": "factions/demonspawn",
     "image_slug": "image-faction-demonspawn"
   },
   "faction_slug": "demonspawn",
-  "website_link": "champions-souldrinker",
+  "website_link": "champions/souldrinker",
   "image_slug": "image-champion-souldrinker"
 }

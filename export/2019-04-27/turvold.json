@@ -38,10 +38,10 @@
   "faction": {
     "name": "Barbarians",
     "slug": "barbarians",
-    "website_link": "factions-barbarians",
+    "website_link": "factions/barbarians",
     "image_slug": "image-faction-barbarians"
   },
   "faction_slug": "barbarians",
-  "website_link": "champions-turvold",
+  "website_link": "champions/turvold",
   "image_slug": "image-champion-turvold"
 }

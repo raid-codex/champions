@@ -38,10 +38,10 @@
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",
-    "website_link": "factions-sacred-order",
+    "website_link": "factions/sacred-order",
     "image_slug": "image-faction-sacred-order"
   },
   "faction_slug": "sacred-order",
-  "website_link": "champions-hospitaller",
+  "website_link": "champions/hospitaller",
   "image_slug": "image-champion-hospitaller"
 }

@@ -38,10 +38,10 @@
   "faction": {
     "name": "Knight Revenant",
     "slug": "knight-revenant",
-    "website_link": "factions-knight-revenant",
+    "website_link": "factions/knight-revenant",
     "image_slug": "image-faction-knight-revenant"
   },
   "faction_slug": "knight-revenant",
-  "website_link": "champions-tomb-lord",
+  "website_link": "champions/tomb-lord",
   "image_slug": "image-champion-tomb-lord"
 }
