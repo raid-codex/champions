@@ -38,8 +38,10 @@
   "faction": {
     "name": "Ogryn-Tribes",
     "slug": "ogryn-tribes",
-    "website_link": "factions-ogryn-tribes"
+    "website_link": "factions-ogryn-tribes",
+    "image_slug": "image-faction-ogryn-tribes"
   },
   "faction_slug": "ogryn-tribes",
-  "website_link": "champions-war-mother"
+  "website_link": "champions-war-mother",
+  "image_slug": "image-champion-war-mother"
 }

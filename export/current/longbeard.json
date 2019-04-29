@@ -38,8 +38,10 @@
   "faction": {
     "name": "Skinwalker",
     "slug": "skinwalker",
-    "website_link": "factions-skinwalker"
+    "website_link": "factions-skinwalker",
+    "image_slug": "image-faction-skinwalker"
   },
   "faction_slug": "skinwalker",
-  "website_link": "champions-longbeard"
+  "website_link": "champions-longbeard",
+  "image_slug": "image-champion-longbeard"
 }

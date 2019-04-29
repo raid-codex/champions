@@ -38,8 +38,10 @@
   "faction": {
     "name": "Orcs",
     "slug": "orcs",
-    "website_link": "factions-orcs"
+    "website_link": "factions-orcs",
+    "image_slug": "image-faction-orcs"
   },
   "faction_slug": "orcs",
-  "website_link": "champions-raider"
+  "website_link": "champions-raider",
+  "image_slug": "image-champion-raider"
 }

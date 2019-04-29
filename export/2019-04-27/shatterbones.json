@@ -38,8 +38,10 @@
   "faction": {
     "name": "Ogryn-Tribes",
     "slug": "ogryn-tribes",
-    "website_link": "factions-ogryn-tribes"
+    "website_link": "factions-ogryn-tribes",
+    "image_slug": "image-faction-ogryn-tribes"
   },
   "faction_slug": "ogryn-tribes",
-  "website_link": "champions-shatterbones"
+  "website_link": "champions-shatterbones",
+  "image_slug": "image-champion-shatterbones"
 }

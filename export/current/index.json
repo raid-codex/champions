@@ -39,10 +39,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-lord-champfort"
+    "website_link": "champions-lord-champfort",
+    "image_slug": "image-champion-lord-champfort"
   },
   {
     "name": "Sethallia",
@@ -69,13 +71,13 @@
     "slug": "sethallia",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18000,
+        "attack": 1024,
+        "defense": 1354,
+        "speed": 108,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -84,10 +86,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-sethallia"
+    "website_link": "champions-sethallia",
+    "image_slug": "image-champion-sethallia"
   },
   {
     "name": "Black Knight",
@@ -114,13 +118,13 @@
     "slug": "black-knight",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 22470,
+        "attack": 914,
+        "defense": 1167,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 50,
         "accuracy": 0
       }
     },
@@ -129,10 +133,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-black-knight"
+    "website_link": "champions-black-knight",
+    "image_slug": "image-champion-black-knight"
   },
   {
     "name": "Lugan the Steadfast",
@@ -159,13 +165,13 @@
     "slug": "lugan-the-steadfast",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20475,
+        "attack": 925,
+        "defense": 1013,
+        "speed": 103,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -174,10 +180,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-lugan-the-steadfast"
+    "website_link": "champions-lugan-the-steadfast",
+    "image_slug": "image-champion-lugan-the-steadfast"
   },
   {
     "name": "Septimus",
@@ -204,13 +212,13 @@
     "slug": "septimus",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13710,
+        "attack": 1674,
+        "defense": 991,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -219,10 +227,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-septimus"
+    "website_link": "champions-septimus",
+    "image_slug": "image-champion-septimus"
   },
   {
     "name": "Richtoff the Bold",
@@ -249,13 +259,13 @@
     "slug": "richtoff-the-bold",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18825,
+        "attack": 1398,
+        "defense": 925,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.43,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -264,10 +274,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-richtoff-the-bold"
+    "website_link": "champions-richtoff-the-bold",
+    "image_slug": "image-champion-richtoff-the-bold"
   },
   {
     "name": "Raglin",
@@ -294,13 +306,13 @@
     "slug": "raglin",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20310,
+        "attack": 1156,
+        "defense": 1068,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 50,
         "accuracy": 0
       }
     },
@@ -309,10 +321,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-raglin"
+    "website_link": "champions-raglin",
+    "image_slug": "image-champion-raglin"
   },
   {
     "name": "Baron",
@@ -339,13 +353,13 @@
     "slug": "baron",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15030,
+        "attack": 1575,
+        "defense": 1002,
+        "speed": 90,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -354,10 +368,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-baron"
+    "website_link": "champions-baron",
+    "image_slug": "image-champion-baron"
   },
   {
     "name": "Hordin",
@@ -384,13 +400,13 @@
     "slug": "hordin",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 1321,
+        "defense": 859,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -399,10 +415,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-hordin"
+    "website_link": "champions-hordin",
+    "image_slug": "image-champion-hordin"
   },
   {
     "name": "Oathbound",
@@ -429,13 +447,13 @@
     "slug": "oathbound",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18330,
+        "attack": 782,
+        "defense": 1299,
+        "speed": 88,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -444,10 +462,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-oathbound"
+    "website_link": "champions-oathbound",
+    "image_slug": "image-champion-oathbound"
   },
   {
     "name": "Knight Errant",
@@ -474,13 +494,13 @@
     "slug": "knight-errant",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18660,
+        "attack": 1387,
+        "defense": 672,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -489,10 +509,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-knight-errant"
+    "website_link": "champions-knight-errant",
+    "image_slug": "image-champion-knight-errant"
   },
   {
     "name": "Rowan",
@@ -519,13 +541,13 @@
     "slug": "rowan",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 1487,
+        "defense": 694,
+        "speed": 108,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -534,10 +556,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-rowan"
+    "website_link": "champions-rowan",
+    "image_slug": "image-champion-rowan"
   },
   {
     "name": "Azure",
@@ -564,13 +588,13 @@
     "slug": "azure",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 19320,
+        "attack": 958,
+        "defense": 1057,
+        "speed": 87,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -579,10 +603,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-azure"
+    "website_link": "champions-azure",
+    "image_slug": "image-champion-azure"
   },
   {
     "name": "Warcaster",
@@ -609,13 +635,13 @@
     "slug": "warcaster",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 20145,
+        "attack": 1013,
+        "defense": 947,
+        "speed": 106,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -624,10 +650,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-warcaster"
+    "website_link": "champions-warcaster",
+    "image_slug": "image-champion-warcaster"
   },
   {
     "name": "Crossbowman",
@@ -654,13 +682,13 @@
     "slug": "crossbowman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13875,
+        "attack": 1189,
+        "defense": 936,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -669,10 +697,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-crossbowman"
+    "website_link": "champions-crossbowman",
+    "image_slug": "image-champion-crossbowman"
   },
   {
     "name": "Valerie",
@@ -699,13 +729,13 @@
     "slug": "valerie",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15855,
+        "attack": 969,
+        "defense": 1002,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -714,10 +744,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-valerie"
+    "website_link": "champions-valerie",
+    "image_slug": "image-champion-valerie"
   },
   {
     "name": "Grandmaster",
@@ -744,13 +776,13 @@
     "slug": "grandmaster",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16185,
+        "attack": 892,
+        "defense": 1057,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -759,10 +791,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-grandmaster"
+    "website_link": "champions-grandmaster",
+    "image_slug": "image-champion-grandmaster"
   },
   {
     "name": "Preserver",
@@ -789,13 +823,13 @@
     "slug": "preserver",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16350,
+        "attack": 771,
+        "defense": 1167,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -804,10 +838,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-preserver"
+    "website_link": "champions-preserver",
+    "image_slug": "image-champion-preserver"
   },
   {
     "name": "Courtier",
@@ -834,13 +870,13 @@
     "slug": "courtier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12720,
+        "attack": 1277,
+        "defense": 903,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -849,10 +885,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-courtier"
+    "website_link": "champions-courtier",
+    "image_slug": "image-champion-courtier"
   },
   {
     "name": "Cataphract",
@@ -879,13 +917,13 @@
     "slug": "cataphract",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18330,
+        "attack": 991,
+        "defense": 815,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -894,10 +932,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-cataphract"
+    "website_link": "champions-cataphract",
+    "image_slug": "image-champion-cataphract"
   },
   {
     "name": "Conquerer",
@@ -924,13 +964,13 @@
     "slug": "conquerer",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12225,
+        "attack": 1421,
+        "defense": 793,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -939,10 +979,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-conquerer"
+    "website_link": "champions-conquerer",
+    "image_slug": "image-champion-conquerer"
   },
   {
     "name": "Halberdier",
@@ -969,13 +1011,13 @@
     "slug": "halberdier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12060,
+        "attack": 1178,
+        "defense": 1046,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -984,10 +1026,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-halberdier"
+    "website_link": "champions-halberdier",
+    "image_slug": "image-champion-halberdier"
   },
   {
     "name": "Chevalier",
@@ -1014,13 +1058,13 @@
     "slug": "chevalier",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16680,
+        "attack": 804,
+        "defense": 1112,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1029,10 +1073,12 @@
     "faction": {
       "name": "Banner-Lords",
       "slug": "banner-lords",
-      "website_link": "factions-banner-lords"
+      "website_link": "factions-banner-lords",
+      "image_slug": "image-faction-banner-lords"
     },
     "faction_slug": "banner-lords",
-    "website_link": "champions-chevalier"
+    "website_link": "champions-chevalier",
+    "image_slug": "image-champion-chevalier"
   },
   {
     "name": "Elenaril",
@@ -1059,13 +1105,13 @@
     "slug": "elenaril",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14535,
+        "attack": 1387,
+        "defense": 1222,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.43,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1074,10 +1120,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-elenaril"
+    "website_link": "champions-elenaril",
+    "image_slug": "image-champion-elenaril"
   },
   {
     "name": "Shirimani",
@@ -1104,13 +1152,13 @@
     "slug": "shirimani",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 19980,
+        "attack": 1167,
+        "defense": 1079,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
         "accuracy": 0
       }
     },
@@ -1119,10 +1167,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-shirimani"
+    "website_link": "champions-shirimani",
+    "image_slug": "image-champion-shirimani"
   },
   {
     "name": "Lyssandra",
@@ -1149,13 +1199,13 @@
     "slug": "lyssandra",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 21480,
+        "attack": 969,
+        "defense": 1178,
+        "speed": 110,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1164,10 +1214,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-lyssandra"
+    "website_link": "champions-lyssandra",
+    "image_slug": "image-champion-lyssandra"
   },
   {
     "name": "Royal Huntsman",
@@ -1194,13 +1246,13 @@
     "slug": "royal-huntsman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16350,
+        "attack": 1553,
+        "defense": 936,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1209,10 +1261,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-royal-huntsman"
+    "website_link": "champions-royal-huntsman",
+    "image_slug": "image-champion-royal-huntsman"
   },
   {
     "name": "Ithos",
@@ -1239,14 +1293,14 @@
     "slug": "ithos",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 18825,
+        "attack": 1608,
+        "defense": 716,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 10
       }
     },
     "auras": [],
@@ -1254,10 +1308,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-ithos"
+    "website_link": "champions-ithos",
+    "image_slug": "image-champion-ithos"
   },
   {
     "name": "Belanor",
@@ -1284,14 +1340,14 @@
     "slug": "belanor",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 15195,
+        "attack": 1520,
+        "defense": 1046,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 10
       }
     },
     "auras": [],
@@ -1299,10 +1355,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-belanor"
+    "website_link": "champions-belanor",
+    "image_slug": "image-champion-belanor"
   },
   {
     "name": "Royal Guard",
@@ -1329,13 +1387,13 @@
     "slug": "royal-guard",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15030,
+        "attack": 1531,
+        "defense": 771,
+        "speed": 93,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1344,10 +1402,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-royal-guard"
+    "website_link": "champions-royal-guard",
+    "image_slug": "image-champion-royal-guard"
   },
   {
     "name": "Tayrel",
@@ -1374,13 +1434,13 @@
     "slug": "tayrel",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16185,
+        "attack": 881,
+        "defense": 1343,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -1389,10 +1449,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-tayrel"
+    "website_link": "champions-tayrel",
+    "image_slug": "image-champion-tayrel"
   },
   {
     "name": "Thenasil",
@@ -1419,13 +1481,13 @@
     "slug": "thenasil",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 15360,
+        "attack": 969,
+        "defense": 1035,
+        "speed": 105,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1434,10 +1496,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-thenasil"
+    "website_link": "champions-thenasil",
+    "image_slug": "image-champion-thenasil"
   },
   {
     "name": "Luthiea",
@@ -1464,14 +1528,14 @@
     "slug": "luthiea",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 14370,
+        "attack": 1277,
+        "defense": 1068,
+        "speed": 93,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 20
       }
     },
     "auras": [],
@@ -1479,10 +1543,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-luthiea"
+    "website_link": "champions-luthiea",
+    "image_slug": "image-champion-luthiea"
   },
   {
     "name": "Vergis",
@@ -1509,13 +1575,13 @@
     "slug": "vergis",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16020,
+        "attack": 925,
+        "defense": 1310,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
         "accuracy": 0
       }
     },
@@ -1524,10 +1590,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-vergis"
+    "website_link": "champions-vergis",
+    "image_slug": "image-champion-vergis"
   },
   {
     "name": "Marksman",
@@ -1554,13 +1622,13 @@
     "slug": "marksman",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14700,
+        "attack": 1432,
+        "defense": 892,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1569,10 +1637,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-marksman"
+    "website_link": "champions-marksman",
+    "image_slug": "image-champion-marksman"
   },
   {
     "name": "Jinglehunter",
@@ -1599,13 +1669,13 @@
     "slug": "jinglehunter",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14700,
+        "attack": 1498,
+        "defense": 826,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1614,10 +1684,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-jinglehunter"
+    "website_link": "champions-jinglehunter",
+    "image_slug": "image-champion-jinglehunter"
   },
   {
     "name": "Battlesage",
@@ -1644,13 +1716,13 @@
     "slug": "battlesage",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 18000,
+        "attack": 980,
+        "defense": 1123,
+        "speed": 100,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1659,10 +1731,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-battlesage"
+    "website_link": "champions-battlesage",
+    "image_slug": "image-champion-battlesage"
   },
   {
     "name": "Exemplar",
@@ -1689,13 +1763,13 @@
     "slug": "exemplar",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13545,
+        "attack": 1509,
+        "defense": 892,
+        "speed": 94,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1704,10 +1778,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-exemplar"
+    "website_link": "champions-exemplar",
+    "image_slug": "image-champion-exemplar"
   },
   {
     "name": "Apothecary",
@@ -1734,13 +1810,13 @@
     "slug": "apothecary",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 17175,
+        "attack": 881,
+        "defense": 1002,
+        "speed": 106,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1749,10 +1825,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-apothecary"
+    "website_link": "champions-apothecary",
+    "image_slug": "image-champion-apothecary"
   },
   {
     "name": "Avenger",
@@ -1779,13 +1857,13 @@
     "slug": "avenger",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12225,
+        "attack": 1398,
+        "defense": 815,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1794,10 +1872,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-avenger"
+    "website_link": "champions-avenger",
+    "image_slug": "image-champion-avenger"
   },
   {
     "name": "Elhain",
@@ -1824,13 +1904,13 @@
     "slug": "elhain",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 14370,
+        "attack": 1233,
+        "defense": 837,
+        "speed": 107,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1839,10 +1919,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-elhain"
+    "website_link": "champions-elhain",
+    "image_slug": "image-champion-elhain"
   },
   {
     "name": "Heiress",
@@ -1869,13 +1951,13 @@
     "slug": "heiress",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12390,
+        "attack": 1167,
+        "defense": 1035,
+        "speed": 94,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1884,10 +1966,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-heiress"
+    "website_link": "champions-heiress",
+    "image_slug": "image-champion-heiress"
   },
   {
     "name": "Magister",
@@ -1914,13 +1998,13 @@
     "slug": "magister",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 16845,
+        "attack": 782,
+        "defense": 848,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1929,10 +2013,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-magister"
+    "website_link": "champions-magister",
+    "image_slug": "image-champion-magister"
   },
   {
     "name": "Hyria",
@@ -1959,13 +2045,13 @@
     "slug": "hyria",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 12060,
+        "attack": 1476,
+        "defense": 749,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -1974,10 +2060,12 @@
     "faction": {
       "name": "High Elves",
       "slug": "high-elves",
-      "website_link": "factions-high-elves"
+      "website_link": "factions-high-elves",
+      "image_slug": "image-faction-high-elves"
     },
     "faction_slug": "high-elves",
-    "website_link": "champions-hyria"
+    "website_link": "champions-hyria",
+    "image_slug": "image-champion-hyria"
   },
   {
     "name": "Roshcard the Tower",
@@ -2019,10 +2107,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-roshcard-the-tower"
+    "website_link": "champions-roshcard-the-tower",
+    "image_slug": "image-champion-roshcard-the-tower"
   },
   {
     "name": "Errol",
@@ -2064,10 +2154,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-errol"
+    "website_link": "champions-errol",
+    "image_slug": "image-champion-errol"
   },
   {
     "name": "Abbess",
@@ -2109,10 +2201,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-abbess"
+    "website_link": "champions-abbess",
+    "image_slug": "image-champion-abbess"
   },
   {
     "name": "Martyr",
@@ -2154,10 +2248,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-martyr"
+    "website_link": "champions-martyr",
+    "image_slug": "image-champion-martyr"
   },
   {
     "name": "Cupidus",
@@ -2199,10 +2295,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-cupidus"
+    "website_link": "champions-cupidus",
+    "image_slug": "image-champion-cupidus"
   },
   {
     "name": "Sir Nicholas",
@@ -2244,10 +2342,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-sir-nicholas"
+    "website_link": "champions-sir-nicholas",
+    "image_slug": "image-champion-sir-nicholas"
   },
   {
     "name": "Venus",
@@ -2289,10 +2389,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-venus"
+    "website_link": "champions-venus",
+    "image_slug": "image-champion-venus"
   },
   {
     "name": "Canoness",
@@ -2334,10 +2436,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-canoness"
+    "website_link": "champions-canoness",
+    "image_slug": "image-champion-canoness"
   },
   {
     "name": "Adriel",
@@ -2379,10 +2483,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-adriel"
+    "website_link": "champions-adriel",
+    "image_slug": "image-champion-adriel"
   },
   {
     "name": "Hope",
@@ -2424,10 +2530,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-hope"
+    "website_link": "champions-hope",
+    "image_slug": "image-champion-hope"
   },
   {
     "name": "Frostbringer",
@@ -2469,10 +2577,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-frostbringer"
+    "website_link": "champions-frostbringer",
+    "image_slug": "image-champion-frostbringer"
   },
   {
     "name": "Tallia",
@@ -2514,10 +2624,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-tallia"
+    "website_link": "champions-tallia",
+    "image_slug": "image-champion-tallia"
   },
   {
     "name": "Juliana",
@@ -2559,10 +2671,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-juliana"
+    "website_link": "champions-juliana",
+    "image_slug": "image-champion-juliana"
   },
   {
     "name": "Aothar",
@@ -2604,10 +2718,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-aothar"
+    "website_link": "champions-aothar",
+    "image_slug": "image-champion-aothar"
   },
   {
     "name": "Relickeeper",
@@ -2649,10 +2765,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-relickeeper"
+    "website_link": "champions-relickeeper",
+    "image_slug": "image-champion-relickeeper"
   },
   {
     "name": "Romero",
@@ -2694,10 +2812,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-romero"
+    "website_link": "champions-romero",
+    "image_slug": "image-champion-romero"
   },
   {
     "name": "Bushi",
@@ -2739,10 +2859,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-bushi"
+    "website_link": "champions-bushi",
+    "image_slug": "image-champion-bushi"
   },
   {
     "name": "Fenax",
@@ -2784,10 +2906,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-fenax"
+    "website_link": "champions-fenax",
+    "image_slug": "image-champion-fenax"
   },
   {
     "name": "Cardinal",
@@ -2829,10 +2953,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-cardinal"
+    "website_link": "champions-cardinal",
+    "image_slug": "image-champion-cardinal"
   },
   {
     "name": "Lightsworn",
@@ -2874,10 +3000,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-lightsworn"
+    "website_link": "champions-lightsworn",
+    "image_slug": "image-champion-lightsworn"
   },
   {
     "name": "Athel",
@@ -2919,10 +3047,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-athel"
+    "website_link": "champions-athel",
+    "image_slug": "image-champion-athel"
   },
   {
     "name": "Hospitaller",
@@ -2964,10 +3094,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-hospitaller"
+    "website_link": "champions-hospitaller",
+    "image_slug": "image-champion-hospitaller"
   },
   {
     "name": "Chaplain",
@@ -3009,10 +3141,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-chaplain"
+    "website_link": "champions-chaplain",
+    "image_slug": "image-champion-chaplain"
   },
   {
     "name": "Lamellar",
@@ -3054,10 +3188,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-lamellar"
+    "website_link": "champions-lamellar",
+    "image_slug": "image-champion-lamellar"
   },
   {
     "name": "Templar",
@@ -3099,10 +3235,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-templar"
+    "website_link": "champions-templar",
+    "image_slug": "image-champion-templar"
   },
   {
     "name": "Penitent",
@@ -3144,10 +3282,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-penitent"
+    "website_link": "champions-penitent",
+    "image_slug": "image-champion-penitent"
   },
   {
     "name": "Warpriest",
@@ -3189,10 +3329,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-warpriest"
+    "website_link": "champions-warpriest",
+    "image_slug": "image-champion-warpriest"
   },
   {
     "name": "Judicator",
@@ -3234,10 +3376,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-judicator"
+    "website_link": "champions-judicator",
+    "image_slug": "image-champion-judicator"
   },
   {
     "name": "Maiden",
@@ -3279,10 +3423,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-maiden"
+    "website_link": "champions-maiden",
+    "image_slug": "image-champion-maiden"
   },
   {
     "name": "Confessor",
@@ -3324,10 +3470,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-confessor"
+    "website_link": "champions-confessor",
+    "image_slug": "image-champion-confessor"
   },
   {
     "name": "Justiciar",
@@ -3369,10 +3517,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-justiciar"
+    "website_link": "champions-justiciar",
+    "image_slug": "image-champion-justiciar"
   },
   {
     "name": "Harrier",
@@ -3414,10 +3564,12 @@
     "faction": {
       "name": "Sacred Order",
       "slug": "sacred-order",
-      "website_link": "factions-sacred-order"
+      "website_link": "factions-sacred-order",
+      "image_slug": "image-faction-sacred-order"
     },
     "faction_slug": "sacred-order",
-    "website_link": "champions-harrier"
+    "website_link": "champions-harrier",
+    "image_slug": "image-champion-harrier"
   },
   {
     "name": "Altan",
@@ -3459,10 +3611,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-altan"
+    "website_link": "champions-altan",
+    "image_slug": "image-champion-altan"
   },
   {
     "name": "Valkyrie",
@@ -3504,10 +3658,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-valkyrie"
+    "website_link": "champions-valkyrie",
+    "image_slug": "image-champion-valkyrie"
   },
   {
     "name": "Turvold",
@@ -3549,10 +3705,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-turvold"
+    "website_link": "champions-turvold",
+    "image_slug": "image-champion-turvold"
   },
   {
     "name": "Aina",
@@ -3594,10 +3752,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-aina"
+    "website_link": "champions-aina",
+    "image_slug": "image-champion-aina"
   },
   {
     "name": "Jotun",
@@ -3639,10 +3799,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-jotun"
+    "website_link": "champions-jotun",
+    "image_slug": "image-champion-jotun"
   },
   {
     "name": "Atur",
@@ -3684,10 +3846,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-atur"
+    "website_link": "champions-atur",
+    "image_slug": "image-champion-atur"
   },
   {
     "name": "Kallia",
@@ -3729,10 +3893,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-kallia"
+    "website_link": "champions-kallia",
+    "image_slug": "image-champion-kallia"
   },
   {
     "name": "Woad-Painted",
@@ -3774,10 +3940,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-woad-painted"
+    "website_link": "champions-woad-painted",
+    "image_slug": "image-champion-woad-painted"
   },
   {
     "name": "Marked",
@@ -3819,10 +3987,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-marked"
+    "website_link": "champions-marked",
+    "image_slug": "image-champion-marked"
   },
   {
     "name": "Elder",
@@ -3864,10 +4034,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-elder"
+    "website_link": "champions-elder",
+    "image_slug": "image-champion-elder"
   },
   {
     "name": "Sentinel",
@@ -3909,10 +4081,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-sentinel"
+    "website_link": "champions-sentinel",
+    "image_slug": "image-champion-sentinel"
   },
   {
     "name": "Warmaiden",
@@ -3954,10 +4128,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-warmaiden"
+    "website_link": "champions-warmaiden",
+    "image_slug": "image-champion-warmaiden"
   },
   {
     "name": "Slayer",
@@ -3999,10 +4175,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-slayer"
+    "website_link": "champions-slayer",
+    "image_slug": "image-champion-slayer"
   },
   {
     "name": "Anointed",
@@ -4044,10 +4222,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-anointed"
+    "website_link": "champions-anointed",
+    "image_slug": "image-champion-anointed"
   },
   {
     "name": "Berserker",
@@ -4089,10 +4269,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-berserker"
+    "website_link": "champions-berserker",
+    "image_slug": "image-champion-berserker"
   },
   {
     "name": "Bloodbraid",
@@ -4134,10 +4316,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-bloodbraid"
+    "website_link": "champions-bloodbraid",
+    "image_slug": "image-champion-bloodbraid"
   },
   {
     "name": "Skirmisher",
@@ -4179,10 +4363,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-skirmisher"
+    "website_link": "champions-skirmisher",
+    "image_slug": "image-champion-skirmisher"
   },
   {
     "name": "Ox",
@@ -4224,10 +4410,12 @@
     "faction": {
       "name": "Barbarians",
       "slug": "barbarians",
-      "website_link": "factions-barbarians"
+      "website_link": "factions-barbarians",
+      "image_slug": "image-faction-barbarians"
     },
     "faction_slug": "barbarians",
-    "website_link": "champions-ox"
+    "website_link": "champions-ox",
+    "image_slug": "image-champion-ox"
   },
   {
     "name": "Big'Un",
@@ -4269,10 +4457,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-big-un"
+    "website_link": "champions-big-un",
+    "image_slug": "image-champion-big-un"
   },
   {
     "name": "War Mother",
@@ -4314,10 +4504,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-war-mother"
+    "website_link": "champions-war-mother",
+    "image_slug": "image-champion-war-mother"
   },
   {
     "name": "Ignatius",
@@ -4359,10 +4551,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-ignatius"
+    "website_link": "champions-ignatius",
+    "image_slug": "image-champion-ignatius"
   },
   {
     "name": "Shamrock",
@@ -4404,10 +4598,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-shamrock"
+    "website_link": "champions-shamrock",
+    "image_slug": "image-champion-shamrock"
   },
   {
     "name": "Gurgoh the Augur",
@@ -4449,10 +4645,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-gurgoh-the-augur"
+    "website_link": "champions-gurgoh-the-augur",
+    "image_slug": "image-champion-gurgoh-the-augur"
   },
   {
     "name": "Grimskin",
@@ -4494,10 +4692,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-grimskin"
+    "website_link": "champions-grimskin",
+    "image_slug": "image-champion-grimskin"
   },
   {
     "name": "Skullcrusher",
@@ -4539,10 +4739,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-skullcrusher"
+    "website_link": "champions-skullcrusher",
+    "image_slug": "image-champion-skullcrusher"
   },
   {
     "name": "Shatterbones",
@@ -4584,10 +4786,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-shatterbones"
+    "website_link": "champions-shatterbones",
+    "image_slug": "image-champion-shatterbones"
   },
   {
     "name": "Galkut",
@@ -4629,10 +4833,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-galkut"
+    "website_link": "champions-galkut",
+    "image_slug": "image-champion-galkut"
   },
   {
     "name": "Maneater",
@@ -4674,10 +4880,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-maneater"
+    "website_link": "champions-maneater",
+    "image_slug": "image-champion-maneater"
   },
   {
     "name": "Rocktooth",
@@ -4719,10 +4927,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-rocktooth"
+    "website_link": "champions-rocktooth",
+    "image_slug": "image-champion-rocktooth"
   },
   {
     "name": "Pounder",
@@ -4764,10 +4974,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-pounder"
+    "website_link": "champions-pounder",
+    "image_slug": "image-champion-pounder"
   },
   {
     "name": "Magmablood",
@@ -4809,10 +5021,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-magmablood"
+    "website_link": "champions-magmablood",
+    "image_slug": "image-champion-magmablood"
   },
   {
     "name": "Furystoker",
@@ -4854,10 +5068,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-furystoker"
+    "website_link": "champions-furystoker",
+    "image_slug": "image-champion-furystoker"
   },
   {
     "name": "Siegebreaker",
@@ -4899,10 +5115,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-siegebreaker"
+    "website_link": "champions-siegebreaker",
+    "image_slug": "image-champion-siegebreaker"
   },
   {
     "name": "Flesheater",
@@ -4944,10 +5162,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-flesheater"
+    "website_link": "champions-flesheater",
+    "image_slug": "image-champion-flesheater"
   },
   {
     "name": "Stoneskin",
@@ -4989,10 +5209,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-stoneskin"
+    "website_link": "champions-stoneskin",
+    "image_slug": "image-champion-stoneskin"
   },
   {
     "name": "Bellower",
@@ -5034,10 +5256,12 @@
     "faction": {
       "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
-      "website_link": "factions-ogryn-tribes"
+      "website_link": "factions-ogryn-tribes",
+      "image_slug": "image-faction-ogryn-tribes"
     },
     "faction_slug": "ogryn-tribes",
-    "website_link": "champions-bellower"
+    "website_link": "champions-bellower",
+    "image_slug": "image-champion-bellower"
   },
   {
     "name": "Dracomorph",
@@ -5079,10 +5303,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-dracomorph"
+    "website_link": "champions-dracomorph",
+    "image_slug": "image-champion-dracomorph"
   },
   {
     "name": "Fu-Shan",
@@ -5124,10 +5350,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-fu-shan"
+    "website_link": "champions-fu-shan",
+    "image_slug": "image-champion-fu-shan"
   },
   {
     "name": "Rhazin Scarhide",
@@ -5169,10 +5397,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-rhazin-scarhide"
+    "website_link": "champions-rhazin-scarhide",
+    "image_slug": "image-champion-rhazin-scarhide"
   },
   {
     "name": "Jarang",
@@ -5214,10 +5444,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-jarang"
+    "website_link": "champions-jarang",
+    "image_slug": "image-champion-jarang"
   },
   {
     "name": "Drake",
@@ -5259,10 +5491,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-drake"
+    "website_link": "champions-drake",
+    "image_slug": "image-champion-drake"
   },
   {
     "name": "Jizoh",
@@ -5304,10 +5538,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-jizoh"
+    "website_link": "champions-jizoh",
+    "image_slug": "image-champion-jizoh"
   },
   {
     "name": "Broadmaw",
@@ -5349,10 +5585,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-broadmaw"
+    "website_link": "champions-broadmaw",
+    "image_slug": "image-champion-broadmaw"
   },
   {
     "name": "Muckstalker",
@@ -5394,10 +5632,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-muckstalker"
+    "website_link": "champions-muckstalker",
+    "image_slug": "image-champion-muckstalker"
   },
   {
     "name": "Skink",
@@ -5439,10 +5679,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-skink"
+    "website_link": "champions-skink",
+    "image_slug": "image-champion-skink"
   },
   {
     "name": "Gator",
@@ -5484,10 +5726,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-gator"
+    "website_link": "champions-gator",
+    "image_slug": "image-champion-gator"
   },
   {
     "name": "Slitherbrute",
@@ -5529,10 +5773,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-slitherbrute"
+    "website_link": "champions-slitherbrute",
+    "image_slug": "image-champion-slitherbrute"
   },
   {
     "name": "Bogwalker",
@@ -5574,10 +5820,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-bogwalker"
+    "website_link": "champions-bogwalker",
+    "image_slug": "image-champion-bogwalker"
   },
   {
     "name": "Skullsworn",
@@ -5619,10 +5867,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-skullsworn"
+    "website_link": "champions-skullsworn",
+    "image_slug": "image-champion-skullsworn"
   },
   {
     "name": "Hurler",
@@ -5664,10 +5914,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-hurler"
+    "website_link": "champions-hurler",
+    "image_slug": "image-champion-hurler"
   },
   {
     "name": "Flinger",
@@ -5709,10 +5961,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-flinger"
+    "website_link": "champions-flinger",
+    "image_slug": "image-champion-flinger"
   },
   {
     "name": "Slasher",
@@ -5754,10 +6008,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-slasher"
+    "website_link": "champions-slasher",
+    "image_slug": "image-champion-slasher"
   },
   {
     "name": "Metalshaper",
@@ -5799,10 +6055,12 @@
     "faction": {
       "name": "Lizardmen",
       "slug": "lizardmen",
-      "website_link": "factions-lizardmen"
+      "website_link": "factions-lizardmen",
+      "image_slug": "image-faction-lizardmen"
     },
     "faction_slug": "lizardmen",
-    "website_link": "champions-metalshaper"
+    "website_link": "champions-metalshaper",
+    "image_slug": "image-champion-metalshaper"
   },
   {
     "name": "Norog",
@@ -5844,10 +6102,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-norog"
+    "website_link": "champions-norog",
+    "image_slug": "image-champion-norog"
   },
   {
     "name": "Longbeard",
@@ -5889,10 +6149,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-longbeard"
+    "website_link": "champions-longbeard",
+    "image_slug": "image-champion-longbeard"
   },
   {
     "name": "Warchief",
@@ -5934,10 +6196,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-warchief"
+    "website_link": "champions-warchief",
+    "image_slug": "image-champion-warchief"
   },
   {
     "name": "Taurus",
@@ -5979,10 +6243,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-taurus"
+    "website_link": "champions-taurus",
+    "image_slug": "image-champion-taurus"
   },
   {
     "name": "Flesh-Tearer",
@@ -6024,10 +6290,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-flesh-tearer"
+    "website_link": "champions-flesh-tearer",
+    "image_slug": "image-champion-flesh-tearer"
   },
   {
     "name": "Ripper",
@@ -6069,10 +6337,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-ripper"
+    "website_link": "champions-ripper",
+    "image_slug": "image-champion-ripper"
   },
   {
     "name": "Reinbeast",
@@ -6114,10 +6384,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-reinbeast"
+    "website_link": "champions-reinbeast",
+    "image_slug": "image-champion-reinbeast"
   },
   {
     "name": "Steelskull",
@@ -6159,10 +6431,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-steelskull"
+    "website_link": "champions-steelskull",
+    "image_slug": "image-champion-steelskull"
   },
   {
     "name": "Basher",
@@ -6204,10 +6478,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-basher"
+    "website_link": "champions-basher",
+    "image_slug": "image-champion-basher"
   },
   {
     "name": "Graybeard",
@@ -6249,10 +6525,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-graybeard"
+    "website_link": "champions-graybeard",
+    "image_slug": "image-champion-graybeard"
   },
   {
     "name": "Bloodpainter",
@@ -6294,10 +6572,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-bloodpainter"
+    "website_link": "champions-bloodpainter",
+    "image_slug": "image-champion-bloodpainter"
   },
   {
     "name": "Gnarlhorn",
@@ -6339,10 +6619,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-gnarlhorn"
+    "website_link": "champions-gnarlhorn",
+    "image_slug": "image-champion-gnarlhorn"
   },
   {
     "name": "Channeler",
@@ -6384,10 +6666,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-channeler"
+    "website_link": "champions-channeler",
+    "image_slug": "image-champion-channeler"
   },
   {
     "name": "Grappler",
@@ -6429,10 +6713,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-grappler"
+    "website_link": "champions-grappler",
+    "image_slug": "image-champion-grappler"
   },
   {
     "name": "Bloodhorn",
@@ -6474,10 +6760,12 @@
     "faction": {
       "name": "Skinwalker",
       "slug": "skinwalker",
-      "website_link": "factions-skinwalker"
+      "website_link": "factions-skinwalker",
+      "image_slug": "image-faction-skinwalker"
     },
     "faction_slug": "skinwalker",
-    "website_link": "champions-bloodhorn"
+    "website_link": "champions-bloodhorn",
+    "image_slug": "image-champion-bloodhorn"
   },
   {
     "name": "Robar",
@@ -6519,10 +6807,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-robar"
+    "website_link": "champions-robar",
+    "image_slug": "image-champion-robar"
   },
   {
     "name": "Warlord",
@@ -6564,10 +6854,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-warlord"
+    "website_link": "champions-warlord",
+    "image_slug": "image-champion-warlord"
   },
   {
     "name": "Angar",
@@ -6609,10 +6901,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-angar"
+    "website_link": "champions-angar",
+    "image_slug": "image-champion-angar"
   },
   {
     "name": "Torturehelm",
@@ -6654,10 +6948,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-torturehelm"
+    "website_link": "champions-torturehelm",
+    "image_slug": "image-champion-torturehelm"
   },
   {
     "name": "Zargala",
@@ -6699,10 +6995,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-zargala"
+    "website_link": "champions-zargala",
+    "image_slug": "image-champion-zargala"
   },
   {
     "name": "Bloodfeather",
@@ -6744,10 +7042,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-bloodfeather"
+    "website_link": "champions-bloodfeather",
+    "image_slug": "image-champion-bloodfeather"
   },
   {
     "name": "Bonekepper",
@@ -6789,10 +7089,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-bonekepper"
+    "website_link": "champions-bonekepper",
+    "image_slug": "image-champion-bonekepper"
   },
   {
     "name": "Shaman",
@@ -6834,10 +7136,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-shaman"
+    "website_link": "champions-shaman",
+    "image_slug": "image-champion-shaman"
   },
   {
     "name": "Terrorbeast",
@@ -6879,10 +7183,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-terrorbeast"
+    "website_link": "champions-terrorbeast",
+    "image_slug": "image-champion-terrorbeast"
   },
   {
     "name": "Vrask",
@@ -6924,10 +7230,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-vrask"
+    "website_link": "champions-vrask",
+    "image_slug": "image-champion-vrask"
   },
   {
     "name": "Seer",
@@ -6969,10 +7277,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-seer"
+    "website_link": "champions-seer",
+    "image_slug": "image-champion-seer"
   },
   {
     "name": "Deathchanter",
@@ -7014,10 +7324,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-deathchanter"
+    "website_link": "champions-deathchanter",
+    "image_slug": "image-champion-deathchanter"
   },
   {
     "name": "Chopper",
@@ -7059,10 +7371,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-chopper"
+    "website_link": "champions-chopper",
+    "image_slug": "image-champion-chopper"
   },
   {
     "name": "Galek",
@@ -7104,10 +7418,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-galek"
+    "website_link": "champions-galek",
+    "image_slug": "image-champion-galek"
   },
   {
     "name": "Spikehead",
@@ -7149,10 +7465,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-spikehead"
+    "website_link": "champions-spikehead",
+    "image_slug": "image-champion-spikehead"
   },
   {
     "name": "Ironclad",
@@ -7194,10 +7512,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-ironclad"
+    "website_link": "champions-ironclad",
+    "image_slug": "image-champion-ironclad"
   },
   {
     "name": "Goremask",
@@ -7239,10 +7559,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-goremask"
+    "website_link": "champions-goremask",
+    "image_slug": "image-champion-goremask"
   },
   {
     "name": "Raider",
@@ -7284,10 +7606,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-raider"
+    "website_link": "champions-raider",
+    "image_slug": "image-champion-raider"
   },
   {
     "name": "Totem",
@@ -7329,10 +7653,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-totem"
+    "website_link": "champions-totem",
+    "image_slug": "image-champion-totem"
   },
   {
     "name": "Veteran",
@@ -7374,10 +7700,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-veteran"
+    "website_link": "champions-veteran",
+    "image_slug": "image-champion-veteran"
   },
   {
     "name": "Huntress",
@@ -7419,10 +7747,12 @@
     "faction": {
       "name": "Orcs",
       "slug": "orcs",
-      "website_link": "factions-orcs"
+      "website_link": "factions-orcs",
+      "image_slug": "image-faction-orcs"
     },
     "faction_slug": "orcs",
-    "website_link": "champions-huntress"
+    "website_link": "champions-huntress",
+    "image_slug": "image-champion-huntress"
   },
   {
     "name": "Prince Kymar",
@@ -7464,10 +7794,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-prince-kymar"
+    "website_link": "champions-prince-kymar",
+    "image_slug": "image-champion-prince-kymar"
   },
   {
     "name": "Mortu-Macaab",
@@ -7509,10 +7841,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-mortu-macaab"
+    "website_link": "champions-mortu-macaab",
+    "image_slug": "image-champion-mortu-macaab"
   },
   {
     "name": "Lord Shazar",
@@ -7554,10 +7888,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-lord-shazar"
+    "website_link": "champions-lord-shazar",
+    "image_slug": "image-champion-lord-shazar"
   },
   {
     "name": "Alure",
@@ -7599,10 +7935,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-alure"
+    "website_link": "champions-alure",
+    "image_slug": "image-champion-alure"
   },
   {
     "name": "Erinyes",
@@ -7644,10 +7982,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-erinyes"
+    "website_link": "champions-erinyes",
+    "image_slug": "image-champion-erinyes"
   },
   {
     "name": "Souldrinker",
@@ -7689,10 +8029,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-souldrinker"
+    "website_link": "champions-souldrinker",
+    "image_slug": "image-champion-souldrinker"
   },
   {
     "name": "Nazana",
@@ -7734,10 +8076,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-nazana"
+    "website_link": "champions-nazana",
+    "image_slug": "image-champion-nazana"
   },
   {
     "name": "Hellgazer",
@@ -7779,10 +8123,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-hellgazer"
+    "website_link": "champions-hellgazer",
+    "image_slug": "image-champion-hellgazer"
   },
   {
     "name": "Peydma",
@@ -7824,10 +8170,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-peydma"
+    "website_link": "champions-peydma",
+    "image_slug": "image-champion-peydma"
   },
   {
     "name": "Diabolist",
@@ -7869,10 +8217,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-diabolist"
+    "website_link": "champions-diabolist",
+    "image_slug": "image-champion-diabolist"
   },
   {
     "name": "Hound Spawn",
@@ -7914,10 +8264,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-hound-spawn"
+    "website_link": "champions-hound-spawn",
+    "image_slug": "image-champion-hound-spawn"
   },
   {
     "name": "Hellfang",
@@ -7959,10 +8311,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-hellfang"
+    "website_link": "champions-hellfang",
+    "image_slug": "image-champion-hellfang"
   },
   {
     "name": "Marquess",
@@ -8004,10 +8358,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-marquess"
+    "website_link": "champions-marquess",
+    "image_slug": "image-champion-marquess"
   },
   {
     "name": "Ifrit",
@@ -8049,10 +8405,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-ifrit"
+    "website_link": "champions-ifrit",
+    "image_slug": "image-champion-ifrit"
   },
   {
     "name": "Marquis",
@@ -8094,10 +8452,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-marquis"
+    "website_link": "champions-marquis",
+    "image_slug": "image-champion-marquis"
   },
   {
     "name": "Fellhound",
@@ -8139,10 +8499,12 @@
     "faction": {
       "name": "Demonspawn",
       "slug": "demonspawn",
-      "website_link": "factions-demonspawn"
+      "website_link": "factions-demonspawn",
+      "image_slug": "image-faction-demonspawn"
     },
     "faction_slug": "demonspawn",
-    "website_link": "champions-fellhound"
+    "website_link": "champions-fellhound",
+    "image_slug": "image-champion-fellhound"
   },
   {
     "name": "Skartosis",
@@ -8184,10 +8546,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-skartosis"
+    "website_link": "champions-skartosis",
+    "image_slug": "image-champion-skartosis"
   },
   {
     "name": "Bad-el-Kazar",
@@ -8229,10 +8593,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-bad-el-kazar"
+    "website_link": "champions-bad-el-kazar",
+    "image_slug": "image-champion-bad-el-kazar"
   },
   {
     "name": "Bloodgorged",
@@ -8274,10 +8640,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-bloodgorged"
+    "website_link": "champions-bloodgorged",
+    "image_slug": "image-champion-bloodgorged"
   },
   {
     "name": "Ma'Shalled",
@@ -8319,10 +8687,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-ma-shalled"
+    "website_link": "champions-ma-shalled",
+    "image_slug": "image-champion-ma-shalled"
   },
   {
     "name": "Nethril",
@@ -8364,10 +8734,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-nethril"
+    "website_link": "champions-nethril",
+    "image_slug": "image-champion-nethril"
   },
   {
     "name": "Gorgorab",
@@ -8409,10 +8781,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-gorgorab"
+    "website_link": "champions-gorgorab",
+    "image_slug": "image-champion-gorgorab"
   },
   {
     "name": "Seeker",
@@ -8454,10 +8828,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-seeker"
+    "website_link": "champions-seeker",
+    "image_slug": "image-champion-seeker"
   },
   {
     "name": "Husk",
@@ -8499,10 +8875,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-husk"
+    "website_link": "champions-husk",
+    "image_slug": "image-champion-husk"
   },
   {
     "name": "Karam",
@@ -8544,10 +8922,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-karam"
+    "website_link": "champions-karam",
+    "image_slug": "image-champion-karam"
   },
   {
     "name": "Lich",
@@ -8589,10 +8969,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-lich"
+    "website_link": "champions-lich",
+    "image_slug": "image-champion-lich"
   },
   {
     "name": "Hexia",
@@ -8634,10 +9016,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-hexia"
+    "website_link": "champions-hexia",
+    "image_slug": "image-champion-hexia"
   },
   {
     "name": "Zelotah",
@@ -8679,10 +9063,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-zelotah"
+    "website_link": "champions-zelotah",
+    "image_slug": "image-champion-zelotah"
   },
   {
     "name": "Banshee",
@@ -8724,10 +9110,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-banshee"
+    "website_link": "champions-banshee",
+    "image_slug": "image-champion-banshee"
   },
   {
     "name": "Temptress",
@@ -8769,10 +9157,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-temptress"
+    "website_link": "champions-temptress",
+    "image_slug": "image-champion-temptress"
   },
   {
     "name": "Sorceress",
@@ -8814,10 +9204,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-sorceress"
+    "website_link": "champions-sorceress",
+    "image_slug": "image-champion-sorceress"
   },
   {
     "name": "Grinner",
@@ -8859,10 +9251,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-grinner"
+    "website_link": "champions-grinner",
+    "image_slug": "image-champion-grinner"
   },
   {
     "name": "Wretch",
@@ -8904,10 +9298,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-wretch"
+    "website_link": "champions-wretch",
+    "image_slug": "image-champion-wretch"
   },
   {
     "name": "Bone Knight",
@@ -8949,10 +9345,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-bone-knight"
+    "website_link": "champions-bone-knight",
+    "image_slug": "image-champion-bone-knight"
   },
   {
     "name": "Arbalester",
@@ -8994,10 +9392,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-arbalester"
+    "website_link": "champions-arbalester",
+    "image_slug": "image-champion-arbalester"
   },
   {
     "name": "Doomscreech",
@@ -9039,10 +9439,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-doomscreech"
+    "website_link": "champions-doomscreech",
+    "image_slug": "image-champion-doomscreech"
   },
   {
     "name": "Hollow",
@@ -9084,10 +9486,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-hollow"
+    "website_link": "champions-hollow",
+    "image_slug": "image-champion-hollow"
   },
   {
     "name": "Seducer",
@@ -9129,10 +9533,12 @@
     "faction": {
       "name": "Undead Hordes",
       "slug": "undead-hordes",
-      "website_link": "factions-undead-hordes"
+      "website_link": "factions-undead-hordes",
+      "image_slug": "image-faction-undead-hordes"
     },
     "faction_slug": "undead-hordes",
-    "website_link": "champions-seducer"
+    "website_link": "champions-seducer",
+    "image_slug": "image-champion-seducer"
   },
   {
     "name": "Rae",
@@ -9174,10 +9580,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-rae"
+    "website_link": "champions-rae",
+    "image_slug": "image-champion-rae"
   },
   {
     "name": "Zavia",
@@ -9219,10 +9627,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-zavia"
+    "website_link": "champions-zavia",
+    "image_slug": "image-champion-zavia"
   },
   {
     "name": "Astralith",
@@ -9264,10 +9674,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-astralith"
+    "website_link": "champions-astralith",
+    "image_slug": "image-champion-astralith"
   },
   {
     "name": "Queen Eva",
@@ -9309,10 +9721,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-queen-eva"
+    "website_link": "champions-queen-eva",
+    "image_slug": "image-champion-queen-eva"
   },
   {
     "name": "Ghostborn",
@@ -9354,10 +9768,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-ghostborn"
+    "website_link": "champions-ghostborn",
+    "image_slug": "image-champion-ghostborn"
   },
   {
     "name": "Blind Seer",
@@ -9399,10 +9815,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-blind-seer"
+    "website_link": "champions-blind-seer",
+    "image_slug": "image-champion-blind-seer"
   },
   {
     "name": "Spider",
@@ -9444,10 +9862,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-spider"
+    "website_link": "champions-spider",
+    "image_slug": "image-champion-spider"
   },
   {
     "name": "Luria",
@@ -9489,10 +9909,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-luria"
+    "website_link": "champions-luria",
+    "image_slug": "image-champion-luria"
   },
   {
     "name": "Crimson Helm",
@@ -9534,10 +9956,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-crimson-helm"
+    "website_link": "champions-crimson-helm",
+    "image_slug": "image-champion-crimson-helm"
   },
   {
     "name": "Warden",
@@ -9579,10 +10003,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-warden"
+    "website_link": "champions-warden",
+    "image_slug": "image-champion-warden"
   },
   {
     "name": "Delver",
@@ -9624,10 +10050,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-delver"
+    "website_link": "champions-delver",
+    "image_slug": "image-champion-delver"
   },
   {
     "name": "Lua",
@@ -9669,10 +10097,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-lua"
+    "website_link": "champions-lua",
+    "image_slug": "image-champion-lua"
   },
   {
     "name": "Psylar",
@@ -9714,10 +10144,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-psylar"
+    "website_link": "champions-psylar",
+    "image_slug": "image-champion-psylar"
   },
   {
     "name": "Judge",
@@ -9759,10 +10191,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-judge"
+    "website_link": "champions-judge",
+    "image_slug": "image-champion-judge"
   },
   {
     "name": "Kael",
@@ -9804,10 +10238,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-kael"
+    "website_link": "champions-kael",
+    "image_slug": "image-champion-kael"
   },
   {
     "name": "Mystic Hand",
@@ -9849,10 +10285,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-mystic-hand"
+    "website_link": "champions-mystic-hand",
+    "image_slug": "image-champion-mystic-hand"
   },
   {
     "name": "Spirithost",
@@ -9894,10 +10332,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-spirithost"
+    "website_link": "champions-spirithost",
+    "image_slug": "image-champion-spirithost"
   },
   {
     "name": "Hexweaver",
@@ -9939,10 +10379,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-hexweaver"
+    "website_link": "champions-hexweaver",
+    "image_slug": "image-champion-hexweaver"
   },
   {
     "name": "Wanderer",
@@ -9984,10 +10426,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-wanderer"
+    "website_link": "champions-wanderer",
+    "image_slug": "image-champion-wanderer"
   },
   {
     "name": "Coldheart",
@@ -10029,10 +10473,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-coldheart"
+    "website_link": "champions-coldheart",
+    "image_slug": "image-champion-coldheart"
   },
   {
     "name": "Paragon",
@@ -10074,10 +10520,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-paragon"
+    "website_link": "champions-paragon",
+    "image_slug": "image-champion-paragon"
   },
   {
     "name": "Retainer",
@@ -10119,10 +10567,12 @@
     "faction": {
       "name": "Dark Elves",
       "slug": "dark-elves",
-      "website_link": "factions-dark-elves"
+      "website_link": "factions-dark-elves",
+      "image_slug": "image-faction-dark-elves"
     },
     "faction_slug": "dark-elves",
-    "website_link": "champions-retainer"
+    "website_link": "champions-retainer",
+    "image_slug": "image-champion-retainer"
   },
   {
     "name": "Bystophus",
@@ -10164,10 +10614,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-bystophus"
+    "website_link": "champions-bystophus",
+    "image_slug": "image-champion-bystophus"
   },
   {
     "name": "Tomb Lord",
@@ -10209,10 +10661,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-tomb-lord"
+    "website_link": "champions-tomb-lord",
+    "image_slug": "image-champion-tomb-lord"
   },
   {
     "name": "Soulless",
@@ -10254,10 +10708,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-soulless"
+    "website_link": "champions-soulless",
+    "image_slug": "image-champion-soulless"
   },
   {
     "name": "Crypt Witch",
@@ -10299,10 +10755,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-crypt-witch"
+    "website_link": "champions-crypt-witch",
+    "image_slug": "image-champion-crypt-witch"
   },
   {
     "name": "Sinesha",
@@ -10344,10 +10802,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-sinesha"
+    "website_link": "champions-sinesha",
+    "image_slug": "image-champion-sinesha"
   },
   {
     "name": "Doompriest",
@@ -10389,10 +10849,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-doompriest"
+    "website_link": "champions-doompriest",
+    "image_slug": "image-champion-doompriest"
   },
   {
     "name": "Deathless",
@@ -10434,10 +10896,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-deathless"
+    "website_link": "champions-deathless",
+    "image_slug": "image-champion-deathless"
   },
   {
     "name": "Kytis",
@@ -10479,10 +10943,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-kytis"
+    "website_link": "champions-kytis",
+    "image_slug": "image-champion-kytis"
   },
   {
     "name": "Faceless",
@@ -10524,10 +10990,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-faceless"
+    "website_link": "champions-faceless",
+    "image_slug": "image-champion-faceless"
   },
   {
     "name": "Skullcrown",
@@ -10569,10 +11037,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-skullcrown"
+    "website_link": "champions-skullcrown",
+    "image_slug": "image-champion-skullcrown"
   },
   {
     "name": "Executioner",
@@ -10614,10 +11084,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-executioner"
+    "website_link": "champions-executioner",
+    "image_slug": "image-champion-executioner"
   },
   {
     "name": "Theurgist",
@@ -10659,10 +11131,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-theurgist"
+    "website_link": "champions-theurgist",
+    "image_slug": "image-champion-theurgist"
   },
   {
     "name": "Magus",
@@ -10704,10 +11178,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-magus"
+    "website_link": "champions-magus",
+    "image_slug": "image-champion-magus"
   },
   {
     "name": "Arcanist",
@@ -10749,10 +11225,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-arcanist"
+    "website_link": "champions-arcanist",
+    "image_slug": "image-champion-arcanist"
   },
   {
     "name": "Gladiator",
@@ -10794,10 +11272,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-gladiator"
+    "website_link": "champions-gladiator",
+    "image_slug": "image-champion-gladiator"
   },
   {
     "name": "Acolyte",
@@ -10839,10 +11319,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-acolyte"
+    "website_link": "champions-acolyte",
+    "image_slug": "image-champion-acolyte"
   },
   {
     "name": "Guardian",
@@ -10884,10 +11366,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-guardian"
+    "website_link": "champions-guardian",
+    "image_slug": "image-champion-guardian"
   },
   {
     "name": "Renegade",
@@ -10929,10 +11413,12 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-renegade"
+    "website_link": "champions-renegade",
+    "image_slug": "image-champion-renegade"
   },
   {
     "name": "Daywalker",
@@ -10974,9 +11460,11 @@
     "faction": {
       "name": "Knight Revenant",
       "slug": "knight-revenant",
-      "website_link": "factions-knight-revenant"
+      "website_link": "factions-knight-revenant",
+      "image_slug": "image-faction-knight-revenant"
     },
     "faction_slug": "knight-revenant",
-    "website_link": "champions-daywalker"
+    "website_link": "champions-daywalker",
+    "image_slug": "image-champion-daywalker"
   }
 ]
