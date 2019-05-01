@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/delver/",
-  "image_slug": "image-champion-delver"
+  "image_slug": "image-champion-delver",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Delver",
+      "delver"
+    ]
+  },
+  "default_description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage"
 }

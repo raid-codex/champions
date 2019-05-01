@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/bogwalker/",
-  "image_slug": "image-champion-bogwalker"
+  "image_slug": "image-champion-bogwalker",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bogwalker",
+      "bogwalker"
+    ]
+  },
+  "default_description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/siegebreaker/",
-  "image_slug": "image-champion-siegebreaker"
+  "image_slug": "image-champion-siegebreaker",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Siegebreaker",
+      "siegebreaker"
+    ]
+  },
+  "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage"
 }

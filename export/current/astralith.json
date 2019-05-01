@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/astralith/",
-  "image_slug": "image-champion-astralith"
+  "image_slug": "image-champion-astralith",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Astralith",
+      "astralith"
+    ]
+  },
+  "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage"
 }

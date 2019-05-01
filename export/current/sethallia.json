@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/sethallia/",
-  "image_slug": "image-champion-sethallia"
+  "image_slug": "image-champion-sethallia",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Sethallia",
+      "sethallia"
+    ]
+  },
+  "default_description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage"
 }

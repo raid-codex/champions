@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/bushi/",
-  "image_slug": "image-champion-bushi"
+  "image_slug": "image-champion-bushi",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bushi",
+      "bushi"
+    ]
+  },
+  "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage"
 }

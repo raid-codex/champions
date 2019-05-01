@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/lugan-the-steadfast/",
-  "image_slug": "image-champion-lugan-the-steadfast"
+  "image_slug": "image-champion-lugan-the-steadfast",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Lugan the Steadfast",
+      "lugan-the-steadfast"
+    ]
+  },
+  "default_description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage"
 }

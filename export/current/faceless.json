@@ -43,5 +43,20 @@
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/faceless/",
-  "image_slug": "image-champion-faceless"
+  "image_slug": "image-champion-faceless",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Faceless",
+      "faceless"
+    ]
+  },
+  "default_description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage"
 }

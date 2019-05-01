@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/woad-painted/",
-  "image_slug": "image-champion-woad-painted"
+  "image_slug": "image-champion-woad-painted",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Woad-Painted",
+      "woad-painted"
+    ]
+  },
+  "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage"
 }

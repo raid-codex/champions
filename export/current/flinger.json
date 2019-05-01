@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/flinger/",
-  "image_slug": "image-champion-flinger"
+  "image_slug": "image-champion-flinger",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Flinger",
+      "flinger"
+    ]
+  },
+  "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage"
 }

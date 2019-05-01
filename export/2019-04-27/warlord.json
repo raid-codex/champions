@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/warlord/",
-  "image_slug": "image-champion-warlord"
+  "image_slug": "image-champion-warlord",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Warlord is a legendary assist champion from the faction Orcs doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Warlord",
+      "warlord"
+    ]
+  },
+  "default_description": "Warlord is a legendary assist champion from the faction Orcs doing void damage"
 }

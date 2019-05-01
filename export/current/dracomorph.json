@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/dracomorph/",
-  "image_slug": "image-champion-dracomorph"
+  "image_slug": "image-champion-dracomorph",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Dracomorph",
+      "dracomorph"
+    ]
+  },
+  "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage"
 }

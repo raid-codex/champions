@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/juliana/",
-  "image_slug": "image-champion-juliana"
+  "image_slug": "image-champion-juliana",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Juliana",
+      "juliana"
+    ]
+  },
+  "default_description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage"
 }

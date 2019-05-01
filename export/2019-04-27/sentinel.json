@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/sentinel/",
-  "image_slug": "image-champion-sentinel"
+  "image_slug": "image-champion-sentinel",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Sentinel",
+      "sentinel"
+    ]
+  },
+  "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage"
 }

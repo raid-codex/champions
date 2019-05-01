@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/aothar/",
-  "image_slug": "image-champion-aothar"
+  "image_slug": "image-champion-aothar",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Aothar",
+      "aothar"
+    ]
+  },
+  "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage"
 }

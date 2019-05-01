@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/steelskull/",
-  "image_slug": "image-champion-steelskull"
+  "image_slug": "image-champion-steelskull",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Steelskull",
+      "steelskull"
+    ]
+  },
+  "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage"
 }

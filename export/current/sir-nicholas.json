@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/sir-nicholas/",
-  "image_slug": "image-champion-sir-nicholas"
+  "image_slug": "image-champion-sir-nicholas",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Sir Nicholas",
+      "sir-nicholas"
+    ]
+  },
+  "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage"
 }

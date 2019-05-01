@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/skink/",
-  "image_slug": "image-champion-skink"
+  "image_slug": "image-champion-skink",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Skink",
+      "skink"
+    ]
+  },
+  "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/big-un/",
-  "image_slug": "image-champion-big-un"
+  "image_slug": "image-champion-big-un",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Big'Un",
+      "big-un"
+    ]
+  },
+  "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
 }

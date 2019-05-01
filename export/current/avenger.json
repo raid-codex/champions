@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/avenger/",
-  "image_slug": "image-champion-avenger"
+  "image_slug": "image-champion-avenger",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Avenger is a rare attack champion from the faction High Elves doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Avenger",
+      "avenger"
+    ]
+  },
+  "default_description": "Avenger is a rare attack champion from the faction High Elves doing magic damage"
 }

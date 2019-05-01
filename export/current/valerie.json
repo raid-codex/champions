@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/valerie/",
-  "image_slug": "image-champion-valerie"
+  "image_slug": "image-champion-valerie",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Valerie",
+      "valerie"
+    ]
+  },
+  "default_description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage"
 }

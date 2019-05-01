@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/knight-errant/",
-  "image_slug": "image-champion-knight-errant"
+  "image_slug": "image-champion-knight-errant",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Knight Errant",
+      "knight-errant"
+    ]
+  },
+  "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage"
 }

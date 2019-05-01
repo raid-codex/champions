@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/galek/",
-  "image_slug": "image-champion-galek"
+  "image_slug": "image-champion-galek",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Galek is a rare attack champion from the faction Orcs doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Galek",
+      "galek"
+    ]
+  },
+  "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage"
 }

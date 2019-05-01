@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/jotun/",
-  "image_slug": "image-champion-jotun"
+  "image_slug": "image-champion-jotun",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Jotun",
+      "jotun"
+    ]
+  },
+  "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage"
 }

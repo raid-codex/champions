@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/flesh-tearer/",
-  "image_slug": "image-champion-flesh-tearer"
+  "image_slug": "image-champion-flesh-tearer",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Flesh-Tearer",
+      "flesh-tearer"
+    ]
+  },
+  "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage"
 }

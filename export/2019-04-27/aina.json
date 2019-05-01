@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/aina/",
-  "image_slug": "image-champion-aina"
+  "image_slug": "image-champion-aina",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Aina is a epic attack champion from the faction Barbarians doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Aina",
+      "aina"
+    ]
+  },
+  "default_description": "Aina is a epic attack champion from the faction Barbarians doing magic damage"
 }

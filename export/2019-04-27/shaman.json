@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/shaman/",
-  "image_slug": "image-champion-shaman"
+  "image_slug": "image-champion-shaman",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Shaman is a epic assist champion from the faction Orcs doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Shaman",
+      "shaman"
+    ]
+  },
+  "default_description": "Shaman is a epic assist champion from the faction Orcs doing force damage"
 }

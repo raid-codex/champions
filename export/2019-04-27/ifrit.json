@@ -43,5 +43,20 @@
   },
   "faction_slug": "demonspawn",
   "website_link": "/champions/ifrit/",
-  "image_slug": "image-champion-ifrit"
+  "image_slug": "image-champion-ifrit",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Ifrit",
+      "ifrit"
+    ]
+  },
+  "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage"
 }

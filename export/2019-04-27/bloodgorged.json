@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/bloodgorged/",
-  "image_slug": "image-champion-bloodgorged"
+  "image_slug": "image-champion-bloodgorged",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bloodgorged",
+      "bloodgorged"
+    ]
+  },
+  "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage"
 }

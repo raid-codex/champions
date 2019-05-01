@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/paragon/",
-  "image_slug": "image-champion-paragon"
+  "image_slug": "image-champion-paragon",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Paragon",
+      "paragon"
+    ]
+  },
+  "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage"
 }

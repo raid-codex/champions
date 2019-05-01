@@ -43,5 +43,20 @@
   },
   "faction_slug": "demonspawn",
   "website_link": "/champions/lord-shazar/",
-  "image_slug": "image-champion-lord-shazar"
+  "image_slug": "image-champion-lord-shazar",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Lord Shazar",
+      "lord-shazar"
+    ]
+  },
+  "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage"
 }

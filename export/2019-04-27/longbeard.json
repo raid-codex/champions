@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/longbeard/",
-  "image_slug": "image-champion-longbeard"
+  "image_slug": "image-champion-longbeard",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Longbeard",
+      "longbeard"
+    ]
+  },
+  "default_description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage"
 }

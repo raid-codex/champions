@@ -43,5 +43,20 @@
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/galkut/",
-  "image_slug": "image-champion-galkut"
+  "image_slug": "image-champion-galkut",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Galkut",
+      "galkut"
+    ]
+  },
+  "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage"
 }

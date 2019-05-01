@@ -43,5 +43,20 @@
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/kytis/",
-  "image_slug": "image-champion-kytis"
+  "image_slug": "image-champion-kytis",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Kytis",
+      "kytis"
+    ]
+  },
+  "default_description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage"
 }

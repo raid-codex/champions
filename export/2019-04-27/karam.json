@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/karam/",
-  "image_slug": "image-champion-karam"
+  "image_slug": "image-champion-karam",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Karam",
+      "karam"
+    ]
+  },
+  "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/templar/",
-  "image_slug": "image-champion-templar"
+  "image_slug": "image-champion-templar",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Templar",
+      "templar"
+    ]
+  },
+  "default_description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/atur/",
-  "image_slug": "image-champion-atur"
+  "image_slug": "image-champion-atur",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Atur is a epic hp champion from the faction Barbarians doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Atur",
+      "atur"
+    ]
+  },
+  "default_description": "Atur is a epic hp champion from the faction Barbarians doing magic damage"
 }

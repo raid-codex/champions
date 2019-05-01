@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/oathbound/",
-  "image_slug": "image-champion-oathbound"
+  "image_slug": "image-champion-oathbound",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Oathbound",
+      "oathbound"
+    ]
+  },
+  "default_description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/royal-huntsman/",
-  "image_slug": "image-champion-royal-huntsman"
+  "image_slug": "image-champion-royal-huntsman",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Royal Huntsman",
+      "royal-huntsman"
+    ]
+  },
+  "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage"
 }

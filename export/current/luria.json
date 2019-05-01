@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/luria/",
-  "image_slug": "image-champion-luria"
+  "image_slug": "image-champion-luria",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Luria",
+      "luria"
+    ]
+  },
+  "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage"
 }

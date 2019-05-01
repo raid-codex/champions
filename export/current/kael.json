@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/kael/",
-  "image_slug": "image-champion-kael"
+  "image_slug": "image-champion-kael",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Kael",
+      "kael"
+    ]
+  },
+  "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage"
 }

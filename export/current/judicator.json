@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/judicator/",
-  "image_slug": "image-champion-judicator"
+  "image_slug": "image-champion-judicator",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Judicator",
+      "judicator"
+    ]
+  },
+  "default_description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage"
 }

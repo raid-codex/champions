@@ -43,5 +43,20 @@
   },
   "faction_slug": "demonspawn",
   "website_link": "/champions/peydma/",
-  "image_slug": "image-champion-peydma"
+  "image_slug": "image-champion-peydma",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Peydma is a epic def champion from the faction Demonspawn doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Peydma",
+      "peydma"
+    ]
+  },
+  "default_description": "Peydma is a epic def champion from the faction Demonspawn doing void damage"
 }

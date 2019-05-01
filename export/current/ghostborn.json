@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/ghostborn/",
-  "image_slug": "image-champion-ghostborn"
+  "image_slug": "image-champion-ghostborn",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Ghostborn",
+      "ghostborn"
+    ]
+  },
+  "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage"
 }

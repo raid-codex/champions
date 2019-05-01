@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/spikehead/",
-  "image_slug": "image-champion-spikehead"
+  "image_slug": "image-champion-spikehead",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Spikehead",
+      "spikehead"
+    ]
+  },
+  "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage"
 }

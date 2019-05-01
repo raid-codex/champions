@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/marksman/",
-  "image_slug": "image-champion-marksman"
+  "image_slug": "image-champion-marksman",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Marksman",
+      "marksman"
+    ]
+  },
+  "default_description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage"
 }

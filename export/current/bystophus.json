@@ -43,5 +43,20 @@
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/bystophus/",
-  "image_slug": "image-champion-bystophus"
+  "image_slug": "image-champion-bystophus",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bystophus",
+      "bystophus"
+    ]
+  },
+  "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage"
 }

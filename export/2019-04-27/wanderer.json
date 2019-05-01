@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/wanderer/",
-  "image_slug": "image-champion-wanderer"
+  "image_slug": "image-champion-wanderer",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Wanderer",
+      "wanderer"
+    ]
+  },
+  "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage"
 }

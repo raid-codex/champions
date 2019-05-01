@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/husk/",
-  "image_slug": "image-champion-husk"
+  "image_slug": "image-champion-husk",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Husk",
+      "husk"
+    ]
+  },
+  "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage"
 }

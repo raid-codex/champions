@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/metalshaper/",
-  "image_slug": "image-champion-metalshaper"
+  "image_slug": "image-champion-metalshaper",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Metalshaper",
+      "metalshaper"
+    ]
+  },
+  "default_description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage"
 }

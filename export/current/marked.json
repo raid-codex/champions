@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/marked/",
-  "image_slug": "image-champion-marked"
+  "image_slug": "image-champion-marked",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Marked is a rare assist champion from the faction Barbarians doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Marked",
+      "marked"
+    ]
+  },
+  "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage"
 }

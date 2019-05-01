@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/gator/",
-  "image_slug": "image-champion-gator"
+  "image_slug": "image-champion-gator",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Gator",
+      "gator"
+    ]
+  },
+  "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "demonspawn",
   "website_link": "/champions/alure/",
-  "image_slug": "image-champion-alure"
+  "image_slug": "image-champion-alure",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Alure",
+      "alure"
+    ]
+  },
+  "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage"
 }

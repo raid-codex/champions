@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/tayrel/",
-  "image_slug": "image-champion-tayrel"
+  "image_slug": "image-champion-tayrel",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Tayrel",
+      "tayrel"
+    ]
+  },
+  "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage"
 }

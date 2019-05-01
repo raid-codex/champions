@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/bloodpainter/",
-  "image_slug": "image-champion-bloodpainter"
+  "image_slug": "image-champion-bloodpainter",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bloodpainter",
+      "bloodpainter"
+    ]
+  },
+  "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage"
 }

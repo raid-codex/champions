@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/magister/",
-  "image_slug": "image-champion-magister"
+  "image_slug": "image-champion-magister",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Magister is a rare assist champion from the faction High Elves doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Magister",
+      "magister"
+    ]
+  },
+  "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage"
 }

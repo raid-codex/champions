@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/bone-knight/",
-  "image_slug": "image-champion-bone-knight"
+  "image_slug": "image-champion-bone-knight",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bone Knight",
+      "bone-knight"
+    ]
+  },
+  "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage"
 }

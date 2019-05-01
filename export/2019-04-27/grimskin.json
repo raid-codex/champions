@@ -43,5 +43,20 @@
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/grimskin/",
-  "image_slug": "image-champion-grimskin"
+  "image_slug": "image-champion-grimskin",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Grimskin",
+      "grimskin"
+    ]
+  },
+  "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage"
 }

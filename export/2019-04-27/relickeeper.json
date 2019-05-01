@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/relickeeper/",
-  "image_slug": "image-champion-relickeeper"
+  "image_slug": "image-champion-relickeeper",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Relickeeper",
+      "relickeeper"
+    ]
+  },
+  "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage"
 }

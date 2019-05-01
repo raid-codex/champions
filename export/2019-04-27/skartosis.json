@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/skartosis/",
-  "image_slug": "image-champion-skartosis"
+  "image_slug": "image-champion-skartosis",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Skartosis",
+      "skartosis"
+    ]
+  },
+  "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage"
 }

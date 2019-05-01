@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/taurus/",
-  "image_slug": "image-champion-taurus"
+  "image_slug": "image-champion-taurus",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Taurus",
+      "taurus"
+    ]
+  },
+  "default_description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage"
 }

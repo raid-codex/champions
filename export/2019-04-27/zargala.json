@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/zargala/",
-  "image_slug": "image-champion-zargala"
+  "image_slug": "image-champion-zargala",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Zargala is a epic attack champion from the faction Orcs doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Zargala",
+      "zargala"
+    ]
+  },
+  "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage"
 }

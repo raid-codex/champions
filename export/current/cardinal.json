@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/cardinal/",
-  "image_slug": "image-champion-cardinal"
+  "image_slug": "image-champion-cardinal",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Cardinal",
+      "cardinal"
+    ]
+  },
+  "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage"
 }

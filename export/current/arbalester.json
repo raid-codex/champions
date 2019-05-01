@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/arbalester/",
-  "image_slug": "image-champion-arbalester"
+  "image_slug": "image-champion-arbalester",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Arbalester",
+      "arbalester"
+    ]
+  },
+  "default_description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage"
 }

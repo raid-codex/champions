@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/seducer/",
-  "image_slug": "image-champion-seducer"
+  "image_slug": "image-champion-seducer",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Seducer",
+      "seducer"
+    ]
+  },
+  "default_description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage"
 }

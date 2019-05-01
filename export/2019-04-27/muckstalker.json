@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/muckstalker/",
-  "image_slug": "image-champion-muckstalker"
+  "image_slug": "image-champion-muckstalker",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Muckstalker",
+      "muckstalker"
+    ]
+  },
+  "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage"
 }

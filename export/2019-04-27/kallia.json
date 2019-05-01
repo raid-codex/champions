@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/kallia/",
-  "image_slug": "image-champion-kallia"
+  "image_slug": "image-champion-kallia",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Kallia",
+      "kallia"
+    ]
+  },
+  "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage"
 }

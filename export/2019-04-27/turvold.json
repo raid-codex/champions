@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/turvold/",
-  "image_slug": "image-champion-turvold"
+  "image_slug": "image-champion-turvold",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Turvold",
+      "turvold"
+    ]
+  },
+  "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage"
 }

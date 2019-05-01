@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/halberdier/",
-  "image_slug": "image-champion-halberdier"
+  "image_slug": "image-champion-halberdier",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Halberdier",
+      "halberdier"
+    ]
+  },
+  "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage"
 }

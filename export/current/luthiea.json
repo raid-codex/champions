@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/luthiea/",
-  "image_slug": "image-champion-luthiea"
+  "image_slug": "image-champion-luthiea",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Luthiea is a epic attack champion from the faction High Elves doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Luthiea",
+      "luthiea"
+    ]
+  },
+  "default_description": "Luthiea is a epic attack champion from the faction High Elves doing force damage"
 }

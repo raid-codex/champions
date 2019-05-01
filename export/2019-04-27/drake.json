@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/drake/",
-  "image_slug": "image-champion-drake"
+  "image_slug": "image-champion-drake",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Drake",
+      "drake"
+    ]
+  },
+  "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage"
 }

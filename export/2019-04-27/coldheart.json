@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/coldheart/",
-  "image_slug": "image-champion-coldheart"
+  "image_slug": "image-champion-coldheart",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Coldheart",
+      "coldheart"
+    ]
+  },
+  "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage"
 }

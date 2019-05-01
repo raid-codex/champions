@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/ma-shalled/",
-  "image_slug": "image-champion-ma-shalled"
+  "image_slug": "image-champion-ma-shalled",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Ma'Shalled",
+      "ma-shalled"
+    ]
+  },
+  "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/altan/",
-  "image_slug": "image-champion-altan"
+  "image_slug": "image-champion-altan",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Altan is a legendary def champion from the faction Barbarians doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Altan",
+      "altan"
+    ]
+  },
+  "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage"
 }

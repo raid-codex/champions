@@ -43,5 +43,20 @@
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/theurgist/",
-  "image_slug": "image-champion-theurgist"
+  "image_slug": "image-champion-theurgist",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Theurgist",
+      "theurgist"
+    ]
+  },
+  "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage"
 }

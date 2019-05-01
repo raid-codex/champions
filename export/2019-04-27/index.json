@@ -44,7 +44,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/lugan-the-steadfast/",
-    "image_slug": "image-champion-lugan-the-steadfast"
+    "image_slug": "image-champion-lugan-the-steadfast",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lugan the Steadfast",
+        "lugan-the-steadfast"
+      ]
+    },
+    "default_description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Richtoff the Bold",
@@ -91,7 +106,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/richtoff-the-bold/",
-    "image_slug": "image-champion-richtoff-the-bold"
+    "image_slug": "image-champion-richtoff-the-bold",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Richtoff the Bold",
+        "richtoff-the-bold"
+      ]
+    },
+    "default_description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Baron",
@@ -138,7 +168,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/baron/",
-    "image_slug": "image-champion-baron"
+    "image_slug": "image-champion-baron",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Baron is a legendary attack champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Baron",
+        "baron"
+      ]
+    },
+    "default_description": "Baron is a legendary attack champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Black Knight",
@@ -185,7 +230,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/black-knight/",
-    "image_slug": "image-champion-black-knight"
+    "image_slug": "image-champion-black-knight",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Black Knight",
+        "black-knight"
+      ]
+    },
+    "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage"
   },
   {
     "name": "Lord Champfort",
@@ -232,7 +292,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/lord-champfort/",
-    "image_slug": "image-champion-lord-champfort"
+    "image_slug": "image-champion-lord-champfort",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lord Champfort",
+        "lord-champfort"
+      ]
+    },
+    "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Raglin",
@@ -279,7 +354,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/raglin/",
-    "image_slug": "image-champion-raglin"
+    "image_slug": "image-champion-raglin",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Raglin is a legendary assist champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Raglin",
+        "raglin"
+      ]
+    },
+    "default_description": "Raglin is a legendary assist champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Septimus",
@@ -326,7 +416,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/septimus/",
-    "image_slug": "image-champion-septimus"
+    "image_slug": "image-champion-septimus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Septimus is a legendary attack champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Septimus",
+        "septimus"
+      ]
+    },
+    "default_description": "Septimus is a legendary attack champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Sethallia",
@@ -373,7 +478,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/sethallia/",
-    "image_slug": "image-champion-sethallia"
+    "image_slug": "image-champion-sethallia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sethallia",
+        "sethallia"
+      ]
+    },
+    "default_description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Rowan",
@@ -420,7 +540,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/rowan/",
-    "image_slug": "image-champion-rowan"
+    "image_slug": "image-champion-rowan",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Rowan is a epic attack champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Rowan",
+        "rowan"
+      ]
+    },
+    "default_description": "Rowan is a epic attack champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Azure",
@@ -467,7 +602,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/azure/",
-    "image_slug": "image-champion-azure"
+    "image_slug": "image-champion-azure",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Azure is a epic hp champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Azure",
+        "azure"
+      ]
+    },
+    "default_description": "Azure is a epic hp champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Hordin",
@@ -514,7 +664,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/hordin/",
-    "image_slug": "image-champion-hordin"
+    "image_slug": "image-champion-hordin",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hordin",
+        "hordin"
+      ]
+    },
+    "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Knight Errant",
@@ -561,7 +726,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/knight-errant/",
-    "image_slug": "image-champion-knight-errant"
+    "image_slug": "image-champion-knight-errant",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Knight Errant",
+        "knight-errant"
+      ]
+    },
+    "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Oathbound",
@@ -608,7 +788,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/oathbound/",
-    "image_slug": "image-champion-oathbound"
+    "image_slug": "image-champion-oathbound",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Oathbound",
+        "oathbound"
+      ]
+    },
+    "default_description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage"
   },
   {
     "name": "Warcaster",
@@ -655,7 +850,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/warcaster/",
-    "image_slug": "image-champion-warcaster"
+    "image_slug": "image-champion-warcaster",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warcaster",
+        "warcaster"
+      ]
+    },
+    "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Cataphract",
@@ -702,7 +912,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/cataphract/",
-    "image_slug": "image-champion-cataphract"
+    "image_slug": "image-champion-cataphract",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Cataphract",
+        "cataphract"
+      ]
+    },
+    "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Chevalier",
@@ -749,7 +974,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/chevalier/",
-    "image_slug": "image-champion-chevalier"
+    "image_slug": "image-champion-chevalier",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Chevalier is a rare def champion from the faction Banner-Lords doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Chevalier",
+        "chevalier"
+      ]
+    },
+    "default_description": "Chevalier is a rare def champion from the faction Banner-Lords doing void damage"
   },
   {
     "name": "Conquerer",
@@ -796,7 +1036,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/conquerer/",
-    "image_slug": "image-champion-conquerer"
+    "image_slug": "image-champion-conquerer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Conquerer",
+        "conquerer"
+      ]
+    },
+    "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Courtier",
@@ -843,7 +1098,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/courtier/",
-    "image_slug": "image-champion-courtier"
+    "image_slug": "image-champion-courtier",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Courtier",
+        "courtier"
+      ]
+    },
+    "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage"
   },
   {
     "name": "Grandmaster",
@@ -890,7 +1160,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/grandmaster/",
-    "image_slug": "image-champion-grandmaster"
+    "image_slug": "image-champion-grandmaster",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Grandmaster",
+        "grandmaster"
+      ]
+    },
+    "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Halberdier",
@@ -937,7 +1222,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/halberdier/",
-    "image_slug": "image-champion-halberdier"
+    "image_slug": "image-champion-halberdier",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Halberdier",
+        "halberdier"
+      ]
+    },
+    "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage"
   },
   {
     "name": "Preserver",
@@ -984,7 +1284,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/preserver/",
-    "image_slug": "image-champion-preserver"
+    "image_slug": "image-champion-preserver",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Preserver",
+        "preserver"
+      ]
+    },
+    "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage"
   },
   {
     "name": "Valerie",
@@ -1031,7 +1346,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/valerie/",
-    "image_slug": "image-champion-valerie"
+    "image_slug": "image-champion-valerie",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Valerie",
+        "valerie"
+      ]
+    },
+    "default_description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Crossbowman",
@@ -1078,7 +1408,22 @@
     },
     "faction_slug": "banner-lords",
     "website_link": "/champions/crossbowman/",
-    "image_slug": "image-champion-crossbowman"
+    "image_slug": "image-champion-crossbowman",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Crossbowman",
+        "crossbowman"
+      ]
+    },
+    "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage"
   },
   {
     "name": "Turvold",
@@ -1125,7 +1470,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/turvold/",
-    "image_slug": "image-champion-turvold"
+    "image_slug": "image-champion-turvold",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Turvold",
+        "turvold"
+      ]
+    },
+    "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage"
   },
   {
     "name": "Valkyrie",
@@ -1172,7 +1532,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/valkyrie/",
-    "image_slug": "image-champion-valkyrie"
+    "image_slug": "image-champion-valkyrie",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Valkyrie",
+        "valkyrie"
+      ]
+    },
+    "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage"
   },
   {
     "name": "Altan",
@@ -1219,7 +1594,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/altan/",
-    "image_slug": "image-champion-altan"
+    "image_slug": "image-champion-altan",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Altan is a legendary def champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Altan",
+        "altan"
+      ]
+    },
+    "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Kallia",
@@ -1266,7 +1656,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/kallia/",
-    "image_slug": "image-champion-kallia"
+    "image_slug": "image-champion-kallia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Kallia",
+        "kallia"
+      ]
+    },
+    "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage"
   },
   {
     "name": "Aina",
@@ -1313,7 +1718,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/aina/",
-    "image_slug": "image-champion-aina"
+    "image_slug": "image-champion-aina",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Aina is a epic attack champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Aina",
+        "aina"
+      ]
+    },
+    "default_description": "Aina is a epic attack champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Jotun",
@@ -1360,7 +1780,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/jotun/",
-    "image_slug": "image-champion-jotun"
+    "image_slug": "image-champion-jotun",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Jotun",
+        "jotun"
+      ]
+    },
+    "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Woad-Painted",
@@ -1407,7 +1842,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/woad-painted/",
-    "image_slug": "image-champion-woad-painted"
+    "image_slug": "image-champion-woad-painted",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Woad-Painted",
+        "woad-painted"
+      ]
+    },
+    "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage"
   },
   {
     "name": "Atur",
@@ -1454,7 +1904,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/atur/",
-    "image_slug": "image-champion-atur"
+    "image_slug": "image-champion-atur",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Atur is a epic hp champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Atur",
+        "atur"
+      ]
+    },
+    "default_description": "Atur is a epic hp champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Anointed",
@@ -1501,7 +1966,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/anointed/",
-    "image_slug": "image-champion-anointed"
+    "image_slug": "image-champion-anointed",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Anointed is a rare assist champion from the faction Barbarians doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Anointed",
+        "anointed"
+      ]
+    },
+    "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage"
   },
   {
     "name": "Bloodbraid",
@@ -1548,7 +2028,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/bloodbraid/",
-    "image_slug": "image-champion-bloodbraid"
+    "image_slug": "image-champion-bloodbraid",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bloodbraid",
+        "bloodbraid"
+      ]
+    },
+    "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage"
   },
   {
     "name": "Marked",
@@ -1595,7 +2090,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/marked/",
-    "image_slug": "image-champion-marked"
+    "image_slug": "image-champion-marked",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Marked is a rare assist champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Marked",
+        "marked"
+      ]
+    },
+    "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Sentinel",
@@ -1642,7 +2152,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/sentinel/",
-    "image_slug": "image-champion-sentinel"
+    "image_slug": "image-champion-sentinel",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sentinel",
+        "sentinel"
+      ]
+    },
+    "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage"
   },
   {
     "name": "Skirmisher",
@@ -1689,7 +2214,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/skirmisher/",
-    "image_slug": "image-champion-skirmisher"
+    "image_slug": "image-champion-skirmisher",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skirmisher is a rare attack champion from the faction Barbarians doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skirmisher",
+        "skirmisher"
+      ]
+    },
+    "default_description": "Skirmisher is a rare attack champion from the faction Barbarians doing void damage"
   },
   {
     "name": "Slayer",
@@ -1736,7 +2276,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/slayer/",
-    "image_slug": "image-champion-slayer"
+    "image_slug": "image-champion-slayer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Slayer is a rare attack champion from the faction Barbarians doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Slayer",
+        "slayer"
+      ]
+    },
+    "default_description": "Slayer is a rare attack champion from the faction Barbarians doing force damage"
   },
   {
     "name": "Warmaiden",
@@ -1783,7 +2338,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/warmaiden/",
-    "image_slug": "image-champion-warmaiden"
+    "image_slug": "image-champion-warmaiden",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warmaiden is a rare attack champion from the faction Barbarians doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warmaiden",
+        "warmaiden"
+      ]
+    },
+    "default_description": "Warmaiden is a rare attack champion from the faction Barbarians doing force damage"
   },
   {
     "name": "Berserker",
@@ -1830,7 +2400,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/berserker/",
-    "image_slug": "image-champion-berserker"
+    "image_slug": "image-champion-berserker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Berserker",
+        "berserker"
+      ]
+    },
+    "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage"
   },
   {
     "name": "Ox",
@@ -1877,7 +2462,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/ox/",
-    "image_slug": "image-champion-ox"
+    "image_slug": "image-champion-ox",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ox is a rare attack champion from the faction Barbarians doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ox",
+        "ox"
+      ]
+    },
+    "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage"
   },
   {
     "name": "Elder",
@@ -1924,7 +2524,22 @@
     },
     "faction_slug": "barbarians",
     "website_link": "/champions/elder/",
-    "image_slug": "image-champion-elder"
+    "image_slug": "image-champion-elder",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Elder is a rare def champion from the faction Barbarians doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Elder",
+        "elder"
+      ]
+    },
+    "default_description": "Elder is a rare def champion from the faction Barbarians doing magic damage"
   },
   {
     "name": "Ghostborn",
@@ -1971,7 +2586,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/ghostborn/",
-    "image_slug": "image-champion-ghostborn"
+    "image_slug": "image-champion-ghostborn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ghostborn",
+        "ghostborn"
+      ]
+    },
+    "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Queen Eva",
@@ -2018,7 +2648,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/queen-eva/",
-    "image_slug": "image-champion-queen-eva"
+    "image_slug": "image-champion-queen-eva",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Queen Eva is a legendary attack champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Queen Eva",
+        "queen-eva"
+      ]
+    },
+    "default_description": "Queen Eva is a legendary attack champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Rae",
@@ -2065,7 +2710,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/rae/",
-    "image_slug": "image-champion-rae"
+    "image_slug": "image-champion-rae",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Rae is a legendary attack champion from the faction Dark Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Rae",
+        "rae"
+      ]
+    },
+    "default_description": "Rae is a legendary attack champion from the faction Dark Elves doing magic damage"
   },
   {
     "name": "Zavia",
@@ -2112,7 +2772,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/zavia/",
-    "image_slug": "image-champion-zavia"
+    "image_slug": "image-champion-zavia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Zavia is a legendary attack champion from the faction Dark Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Zavia",
+        "zavia"
+      ]
+    },
+    "default_description": "Zavia is a legendary attack champion from the faction Dark Elves doing force damage"
   },
   {
     "name": "Blind Seer",
@@ -2159,7 +2834,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/blind-seer/",
-    "image_slug": "image-champion-blind-seer"
+    "image_slug": "image-champion-blind-seer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Blind Seer",
+        "blind-seer"
+      ]
+    },
+    "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Astralith",
@@ -2206,7 +2896,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/astralith/",
-    "image_slug": "image-champion-astralith"
+    "image_slug": "image-champion-astralith",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Astralith",
+        "astralith"
+      ]
+    },
+    "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Lua",
@@ -2253,7 +2958,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/lua/",
-    "image_slug": "image-champion-lua"
+    "image_slug": "image-champion-lua",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lua is a epic attack champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lua",
+        "lua"
+      ]
+    },
+    "default_description": "Lua is a epic attack champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Luria",
@@ -2300,7 +3020,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/luria/",
-    "image_slug": "image-champion-luria"
+    "image_slug": "image-champion-luria",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Luria",
+        "luria"
+      ]
+    },
+    "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Psylar",
@@ -2347,7 +3082,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/psylar/",
-    "image_slug": "image-champion-psylar"
+    "image_slug": "image-champion-psylar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Psylar",
+        "psylar"
+      ]
+    },
+    "default_description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Crimson Helm",
@@ -2394,7 +3144,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/crimson-helm/",
-    "image_slug": "image-champion-crimson-helm"
+    "image_slug": "image-champion-crimson-helm",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Crimson Helm is a epic def champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Crimson Helm",
+        "crimson-helm"
+      ]
+    },
+    "default_description": "Crimson Helm is a epic def champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Delver",
@@ -2441,7 +3206,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/delver/",
-    "image_slug": "image-champion-delver"
+    "image_slug": "image-champion-delver",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Delver",
+        "delver"
+      ]
+    },
+    "default_description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Spider",
@@ -2488,7 +3268,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/spider/",
-    "image_slug": "image-champion-spider"
+    "image_slug": "image-champion-spider",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Spider is a epic assist champion from the faction Dark Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Spider",
+        "spider"
+      ]
+    },
+    "default_description": "Spider is a epic assist champion from the faction Dark Elves doing force damage"
   },
   {
     "name": "Warden",
@@ -2535,7 +3330,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/warden/",
-    "image_slug": "image-champion-warden"
+    "image_slug": "image-champion-warden",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warden is a epic def champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warden",
+        "warden"
+      ]
+    },
+    "default_description": "Warden is a epic def champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Coldheart",
@@ -2582,7 +3392,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/coldheart/",
-    "image_slug": "image-champion-coldheart"
+    "image_slug": "image-champion-coldheart",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Coldheart",
+        "coldheart"
+      ]
+    },
+    "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Kael",
@@ -2629,7 +3454,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/kael/",
-    "image_slug": "image-champion-kael"
+    "image_slug": "image-champion-kael",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Kael",
+        "kael"
+      ]
+    },
+    "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage"
   },
   {
     "name": "Paragon",
@@ -2676,7 +3516,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/paragon/",
-    "image_slug": "image-champion-paragon"
+    "image_slug": "image-champion-paragon",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Paragon",
+        "paragon"
+      ]
+    },
+    "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Spirithost",
@@ -2723,7 +3578,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/spirithost/",
-    "image_slug": "image-champion-spirithost"
+    "image_slug": "image-champion-spirithost",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Spirithost is a rare assist champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Spirithost",
+        "spirithost"
+      ]
+    },
+    "default_description": "Spirithost is a rare assist champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Hexweaver",
@@ -2770,7 +3640,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/hexweaver/",
-    "image_slug": "image-champion-hexweaver"
+    "image_slug": "image-champion-hexweaver",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hexweaver",
+        "hexweaver"
+      ]
+    },
+    "default_description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Judge",
@@ -2817,7 +3702,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/judge/",
-    "image_slug": "image-champion-judge"
+    "image_slug": "image-champion-judge",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Judge",
+        "judge"
+      ]
+    },
+    "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage"
   },
   {
     "name": "Mystic Hand",
@@ -2864,7 +3764,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/mystic-hand/",
-    "image_slug": "image-champion-mystic-hand"
+    "image_slug": "image-champion-mystic-hand",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Mystic Hand is a rare assist champion from the faction Dark Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Mystic Hand",
+        "mystic-hand"
+      ]
+    },
+    "default_description": "Mystic Hand is a rare assist champion from the faction Dark Elves doing force damage"
   },
   {
     "name": "Retainer",
@@ -2911,7 +3826,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/retainer/",
-    "image_slug": "image-champion-retainer"
+    "image_slug": "image-champion-retainer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Retainer is a rare def champion from the faction Dark Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Retainer",
+        "retainer"
+      ]
+    },
+    "default_description": "Retainer is a rare def champion from the faction Dark Elves doing void damage"
   },
   {
     "name": "Wanderer",
@@ -2958,7 +3888,22 @@
     },
     "faction_slug": "dark-elves",
     "website_link": "/champions/wanderer/",
-    "image_slug": "image-champion-wanderer"
+    "image_slug": "image-champion-wanderer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Wanderer",
+        "wanderer"
+      ]
+    },
+    "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage"
   },
   {
     "name": "Mortu-Macaab",
@@ -3005,7 +3950,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/mortu-macaab/",
-    "image_slug": "image-champion-mortu-macaab"
+    "image_slug": "image-champion-mortu-macaab",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Mortu-Macaab",
+        "mortu-macaab"
+      ]
+    },
+    "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage"
   },
   {
     "name": "Prince Kymar",
@@ -3052,7 +4012,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/prince-kymar/",
-    "image_slug": "image-champion-prince-kymar"
+    "image_slug": "image-champion-prince-kymar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Prince Kymar",
+        "prince-kymar"
+      ]
+    },
+    "default_description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage"
   },
   {
     "name": "Lord Shazar",
@@ -3099,7 +4074,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/lord-shazar/",
-    "image_slug": "image-champion-lord-shazar"
+    "image_slug": "image-champion-lord-shazar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lord Shazar",
+        "lord-shazar"
+      ]
+    },
+    "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage"
   },
   {
     "name": "Alure",
@@ -3146,7 +4136,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/alure/",
-    "image_slug": "image-champion-alure"
+    "image_slug": "image-champion-alure",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Alure",
+        "alure"
+      ]
+    },
+    "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage"
   },
   {
     "name": "Nazana",
@@ -3193,7 +4198,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/nazana/",
-    "image_slug": "image-champion-nazana"
+    "image_slug": "image-champion-nazana",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Nazana is a epic hp champion from the faction Demonspawn doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Nazana",
+        "nazana"
+      ]
+    },
+    "default_description": "Nazana is a epic hp champion from the faction Demonspawn doing force damage"
   },
   {
     "name": "Erinyes",
@@ -3240,7 +4260,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/erinyes/",
-    "image_slug": "image-champion-erinyes"
+    "image_slug": "image-champion-erinyes",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Erinyes",
+        "erinyes"
+      ]
+    },
+    "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage"
   },
   {
     "name": "Hellgazer",
@@ -3287,7 +4322,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/hellgazer/",
-    "image_slug": "image-champion-hellgazer"
+    "image_slug": "image-champion-hellgazer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hellgazer",
+        "hellgazer"
+      ]
+    },
+    "default_description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage"
   },
   {
     "name": "Peydma",
@@ -3334,7 +4384,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/peydma/",
-    "image_slug": "image-champion-peydma"
+    "image_slug": "image-champion-peydma",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Peydma is a epic def champion from the faction Demonspawn doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Peydma",
+        "peydma"
+      ]
+    },
+    "default_description": "Peydma is a epic def champion from the faction Demonspawn doing void damage"
   },
   {
     "name": "Souldrinker",
@@ -3381,7 +4446,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/souldrinker/",
-    "image_slug": "image-champion-souldrinker"
+    "image_slug": "image-champion-souldrinker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Souldrinker",
+        "souldrinker"
+      ]
+    },
+    "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage"
   },
   {
     "name": "Diabolist",
@@ -3428,7 +4508,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/diabolist/",
-    "image_slug": "image-champion-diabolist"
+    "image_slug": "image-champion-diabolist",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Diabolist",
+        "diabolist"
+      ]
+    },
+    "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage"
   },
   {
     "name": "Fellhound",
@@ -3475,7 +4570,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/fellhound/",
-    "image_slug": "image-champion-fellhound"
+    "image_slug": "image-champion-fellhound",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Fellhound",
+        "fellhound"
+      ]
+    },
+    "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage"
   },
   {
     "name": "Hellfang",
@@ -3522,7 +4632,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/hellfang/",
-    "image_slug": "image-champion-hellfang"
+    "image_slug": "image-champion-hellfang",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hellfang is a rare attack champion from the faction Demonspawn doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hellfang",
+        "hellfang"
+      ]
+    },
+    "default_description": "Hellfang is a rare attack champion from the faction Demonspawn doing spirit damage"
   },
   {
     "name": "Hound Spawn",
@@ -3569,7 +4694,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/hound-spawn/",
-    "image_slug": "image-champion-hound-spawn"
+    "image_slug": "image-champion-hound-spawn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hound Spawn",
+        "hound-spawn"
+      ]
+    },
+    "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage"
   },
   {
     "name": "Marquess",
@@ -3616,7 +4756,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/marquess/",
-    "image_slug": "image-champion-marquess"
+    "image_slug": "image-champion-marquess",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Marquess",
+        "marquess"
+      ]
+    },
+    "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage"
   },
   {
     "name": "Marquis",
@@ -3663,7 +4818,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/marquis/",
-    "image_slug": "image-champion-marquis"
+    "image_slug": "image-champion-marquis",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Marquis is a rare def champion from the faction Demonspawn doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Marquis",
+        "marquis"
+      ]
+    },
+    "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage"
   },
   {
     "name": "Ifrit",
@@ -3710,7 +4880,22 @@
     },
     "faction_slug": "demonspawn",
     "website_link": "/champions/ifrit/",
-    "image_slug": "image-champion-ifrit"
+    "image_slug": "image-champion-ifrit",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ifrit",
+        "ifrit"
+      ]
+    },
+    "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage"
   },
   {
     "name": "Belanor",
@@ -3757,7 +4942,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/belanor/",
-    "image_slug": "image-champion-belanor"
+    "image_slug": "image-champion-belanor",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Belanor is a legendary attack champion from the faction High Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Belanor",
+        "belanor"
+      ]
+    },
+    "default_description": "Belanor is a legendary attack champion from the faction High Elves doing void damage"
   },
   {
     "name": "Ithos",
@@ -3804,7 +5004,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/ithos/",
-    "image_slug": "image-champion-ithos"
+    "image_slug": "image-champion-ithos",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ithos is a legendary attack champion from the faction High Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ithos",
+        "ithos"
+      ]
+    },
+    "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage"
   },
   {
     "name": "Royal Huntsman",
@@ -3851,7 +5066,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/royal-huntsman/",
-    "image_slug": "image-champion-royal-huntsman"
+    "image_slug": "image-champion-royal-huntsman",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Royal Huntsman",
+        "royal-huntsman"
+      ]
+    },
+    "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Elenaril",
@@ -3898,7 +5128,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/elenaril/",
-    "image_slug": "image-champion-elenaril"
+    "image_slug": "image-champion-elenaril",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Elenaril",
+        "elenaril"
+      ]
+    },
+    "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Lyssandra",
@@ -3945,7 +5190,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/lyssandra/",
-    "image_slug": "image-champion-lyssandra"
+    "image_slug": "image-champion-lyssandra",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lyssandra",
+        "lyssandra"
+      ]
+    },
+    "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Shirimani",
@@ -3992,7 +5252,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/shirimani/",
-    "image_slug": "image-champion-shirimani"
+    "image_slug": "image-champion-shirimani",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Shirimani is a legendary assist champion from the faction High Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Shirimani",
+        "shirimani"
+      ]
+    },
+    "default_description": "Shirimani is a legendary assist champion from the faction High Elves doing force damage"
   },
   {
     "name": "Royal Guard",
@@ -4039,7 +5314,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/royal-guard/",
-    "image_slug": "image-champion-royal-guard"
+    "image_slug": "image-champion-royal-guard",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Royal Guard is a epic attack champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Royal Guard",
+        "royal-guard"
+      ]
+    },
+    "default_description": "Royal Guard is a epic attack champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Thenasil",
@@ -4086,7 +5376,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/thenasil/",
-    "image_slug": "image-champion-thenasil"
+    "image_slug": "image-champion-thenasil",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Thenasil is a epic assist champion from the faction High Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Thenasil",
+        "thenasil"
+      ]
+    },
+    "default_description": "Thenasil is a epic assist champion from the faction High Elves doing force damage"
   },
   {
     "name": "Battlesage",
@@ -4133,7 +5438,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/battlesage/",
-    "image_slug": "image-champion-battlesage"
+    "image_slug": "image-champion-battlesage",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Battlesage is a epic assist champion from the faction High Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Battlesage",
+        "battlesage"
+      ]
+    },
+    "default_description": "Battlesage is a epic assist champion from the faction High Elves doing void damage"
   },
   {
     "name": "Exemplar",
@@ -4180,7 +5500,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/exemplar/",
-    "image_slug": "image-champion-exemplar"
+    "image_slug": "image-champion-exemplar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Exemplar is a epic attack champion from the faction High Elves doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Exemplar",
+        "exemplar"
+      ]
+    },
+    "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage"
   },
   {
     "name": "Jinglehunter",
@@ -4227,7 +5562,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/jinglehunter/",
-    "image_slug": "image-champion-jinglehunter"
+    "image_slug": "image-champion-jinglehunter",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Jinglehunter",
+        "jinglehunter"
+      ]
+    },
+    "default_description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Luthiea",
@@ -4274,7 +5624,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/luthiea/",
-    "image_slug": "image-champion-luthiea"
+    "image_slug": "image-champion-luthiea",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Luthiea is a epic attack champion from the faction High Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Luthiea",
+        "luthiea"
+      ]
+    },
+    "default_description": "Luthiea is a epic attack champion from the faction High Elves doing force damage"
   },
   {
     "name": "Marksman",
@@ -4321,7 +5686,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/marksman/",
-    "image_slug": "image-champion-marksman"
+    "image_slug": "image-champion-marksman",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Marksman",
+        "marksman"
+      ]
+    },
+    "default_description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Tayrel",
@@ -4368,7 +5748,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/tayrel/",
-    "image_slug": "image-champion-tayrel"
+    "image_slug": "image-champion-tayrel",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Tayrel",
+        "tayrel"
+      ]
+    },
+    "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Vergis",
@@ -4415,7 +5810,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/vergis/",
-    "image_slug": "image-champion-vergis"
+    "image_slug": "image-champion-vergis",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Vergis is a epic def champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Vergis",
+        "vergis"
+      ]
+    },
+    "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Apothecary",
@@ -4462,7 +5872,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/apothecary/",
-    "image_slug": "image-champion-apothecary"
+    "image_slug": "image-champion-apothecary",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Apothecary is a rare assist champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Apothecary",
+        "apothecary"
+      ]
+    },
+    "default_description": "Apothecary is a rare assist champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Elhain",
@@ -4509,7 +5934,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/elhain/",
-    "image_slug": "image-champion-elhain"
+    "image_slug": "image-champion-elhain",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Elhain is a rare attack champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Elhain",
+        "elhain"
+      ]
+    },
+    "default_description": "Elhain is a rare attack champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Heiress",
@@ -4556,7 +5996,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/heiress/",
-    "image_slug": "image-champion-heiress"
+    "image_slug": "image-champion-heiress",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Heiress is a rare attack champion from the faction High Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Heiress",
+        "heiress"
+      ]
+    },
+    "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage"
   },
   {
     "name": "Hyria",
@@ -4603,7 +6058,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/hyria/",
-    "image_slug": "image-champion-hyria"
+    "image_slug": "image-champion-hyria",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hyria",
+        "hyria"
+      ]
+    },
+    "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage"
   },
   {
     "name": "Avenger",
@@ -4650,7 +6120,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/avenger/",
-    "image_slug": "image-champion-avenger"
+    "image_slug": "image-champion-avenger",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Avenger is a rare attack champion from the faction High Elves doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Avenger",
+        "avenger"
+      ]
+    },
+    "default_description": "Avenger is a rare attack champion from the faction High Elves doing magic damage"
   },
   {
     "name": "Magister",
@@ -4697,7 +6182,22 @@
     },
     "faction_slug": "high-elves",
     "website_link": "/champions/magister/",
-    "image_slug": "image-champion-magister"
+    "image_slug": "image-champion-magister",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Magister is a rare assist champion from the faction High Elves doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Magister",
+        "magister"
+      ]
+    },
+    "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage"
   },
   {
     "name": "Bystophus",
@@ -4744,7 +6244,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/bystophus/",
-    "image_slug": "image-champion-bystophus"
+    "image_slug": "image-champion-bystophus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bystophus",
+        "bystophus"
+      ]
+    },
+    "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Soulless",
@@ -4791,7 +6306,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/soulless/",
-    "image_slug": "image-champion-soulless"
+    "image_slug": "image-champion-soulless",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Soulless is a legendary def champion from the faction Knight Revenant doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Soulless",
+        "soulless"
+      ]
+    },
+    "default_description": "Soulless is a legendary def champion from the faction Knight Revenant doing void damage"
   },
   {
     "name": "Tomb Lord",
@@ -4838,7 +6368,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/tomb-lord/",
-    "image_slug": "image-champion-tomb-lord"
+    "image_slug": "image-champion-tomb-lord",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Tomb Lord is a legendary assist champion from the faction Knight Revenant doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Tomb Lord",
+        "tomb-lord"
+      ]
+    },
+    "default_description": "Tomb Lord is a legendary assist champion from the faction Knight Revenant doing spirit damage"
   },
   {
     "name": "Doompriest",
@@ -4885,7 +6430,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/doompriest/",
-    "image_slug": "image-champion-doompriest"
+    "image_slug": "image-champion-doompriest",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Doompriest is a epic assist champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Doompriest",
+        "doompriest"
+      ]
+    },
+    "default_description": "Doompriest is a epic assist champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Skullcrown",
@@ -4932,7 +6492,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/skullcrown/",
-    "image_slug": "image-champion-skullcrown"
+    "image_slug": "image-champion-skullcrown",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skullcrown",
+        "skullcrown"
+      ]
+    },
+    "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage"
   },
   {
     "name": "Crypt Witch",
@@ -4979,7 +6554,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/crypt-witch/",
-    "image_slug": "image-champion-crypt-witch"
+    "image_slug": "image-champion-crypt-witch",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Crypt Witch",
+        "crypt-witch"
+      ]
+    },
+    "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage"
   },
   {
     "name": "Sinesha",
@@ -5026,7 +6616,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/sinesha/",
-    "image_slug": "image-champion-sinesha"
+    "image_slug": "image-champion-sinesha",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sinesha",
+        "sinesha"
+      ]
+    },
+    "default_description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Faceless",
@@ -5073,7 +6678,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/faceless/",
-    "image_slug": "image-champion-faceless"
+    "image_slug": "image-champion-faceless",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Faceless",
+        "faceless"
+      ]
+    },
+    "default_description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage"
   },
   {
     "name": "Kytis",
@@ -5120,7 +6740,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/kytis/",
-    "image_slug": "image-champion-kytis"
+    "image_slug": "image-champion-kytis",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Kytis",
+        "kytis"
+      ]
+    },
+    "default_description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage"
   },
   {
     "name": "Deathless",
@@ -5167,7 +6802,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/deathless/",
-    "image_slug": "image-champion-deathless"
+    "image_slug": "image-champion-deathless",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Deathless",
+        "deathless"
+      ]
+    },
+    "default_description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage"
   },
   {
     "name": "Arcanist",
@@ -5214,7 +6864,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/arcanist/",
-    "image_slug": "image-champion-arcanist"
+    "image_slug": "image-champion-arcanist",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Arcanist",
+        "arcanist"
+      ]
+    },
+    "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Executioner",
@@ -5261,7 +6926,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/executioner/",
-    "image_slug": "image-champion-executioner"
+    "image_slug": "image-champion-executioner",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Executioner is a rare def champion from the faction Knight Revenant doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Executioner",
+        "executioner"
+      ]
+    },
+    "default_description": "Executioner is a rare def champion from the faction Knight Revenant doing magic damage"
   },
   {
     "name": "Acolyte",
@@ -5308,7 +6988,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/acolyte/",
-    "image_slug": "image-champion-acolyte"
+    "image_slug": "image-champion-acolyte",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Acolyte is a rare assist champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Acolyte",
+        "acolyte"
+      ]
+    },
+    "default_description": "Acolyte is a rare assist champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Daywalker",
@@ -5355,7 +7050,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/daywalker/",
-    "image_slug": "image-champion-daywalker"
+    "image_slug": "image-champion-daywalker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Daywalker",
+        "daywalker"
+      ]
+    },
+    "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage"
   },
   {
     "name": "Gladiator",
@@ -5402,7 +7112,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/gladiator/",
-    "image_slug": "image-champion-gladiator"
+    "image_slug": "image-champion-gladiator",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Gladiator",
+        "gladiator"
+      ]
+    },
+    "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage"
   },
   {
     "name": "Guardian",
@@ -5449,7 +7174,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/guardian/",
-    "image_slug": "image-champion-guardian"
+    "image_slug": "image-champion-guardian",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Guardian",
+        "guardian"
+      ]
+    },
+    "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage"
   },
   {
     "name": "Magus",
@@ -5496,7 +7236,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/magus/",
-    "image_slug": "image-champion-magus"
+    "image_slug": "image-champion-magus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Magus is a rare attack champion from the faction Knight Revenant doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Magus",
+        "magus"
+      ]
+    },
+    "default_description": "Magus is a rare attack champion from the faction Knight Revenant doing magic damage"
   },
   {
     "name": "Renegade",
@@ -5543,7 +7298,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/renegade/",
-    "image_slug": "image-champion-renegade"
+    "image_slug": "image-champion-renegade",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Renegade",
+        "renegade"
+      ]
+    },
+    "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage"
   },
   {
     "name": "Theurgist",
@@ -5590,7 +7360,22 @@
     },
     "faction_slug": "knight-revenant",
     "website_link": "/champions/theurgist/",
-    "image_slug": "image-champion-theurgist"
+    "image_slug": "image-champion-theurgist",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Theurgist",
+        "theurgist"
+      ]
+    },
+    "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage"
   },
   {
     "name": "Fu-Shan",
@@ -5637,7 +7422,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/fu-shan/",
-    "image_slug": "image-champion-fu-shan"
+    "image_slug": "image-champion-fu-shan",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Fu-Shan",
+        "fu-shan"
+      ]
+    },
+    "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage"
   },
   {
     "name": "Rhazin Scarhide",
@@ -5684,7 +7484,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/rhazin-scarhide/",
-    "image_slug": "image-champion-rhazin-scarhide"
+    "image_slug": "image-champion-rhazin-scarhide",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Rhazin Scarhide",
+        "rhazin-scarhide"
+      ]
+    },
+    "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage"
   },
   {
     "name": "Dracomorph",
@@ -5731,7 +7546,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/dracomorph/",
-    "image_slug": "image-champion-dracomorph"
+    "image_slug": "image-champion-dracomorph",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Dracomorph",
+        "dracomorph"
+      ]
+    },
+    "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Jarang",
@@ -5778,7 +7608,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/jarang/",
-    "image_slug": "image-champion-jarang"
+    "image_slug": "image-champion-jarang",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Jarang",
+        "jarang"
+      ]
+    },
+    "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Broadmaw",
@@ -5825,7 +7670,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/broadmaw/",
-    "image_slug": "image-champion-broadmaw"
+    "image_slug": "image-champion-broadmaw",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Broadmaw",
+        "broadmaw"
+      ]
+    },
+    "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage"
   },
   {
     "name": "Drake",
@@ -5872,7 +7732,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/drake/",
-    "image_slug": "image-champion-drake"
+    "image_slug": "image-champion-drake",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Drake",
+        "drake"
+      ]
+    },
+    "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage"
   },
   {
     "name": "Jizoh",
@@ -5919,7 +7794,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/jizoh/",
-    "image_slug": "image-champion-jizoh"
+    "image_slug": "image-champion-jizoh",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Jizoh",
+        "jizoh"
+      ]
+    },
+    "default_description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage"
   },
   {
     "name": "Skink",
@@ -5966,7 +7856,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/skink/",
-    "image_slug": "image-champion-skink"
+    "image_slug": "image-champion-skink",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skink",
+        "skink"
+      ]
+    },
+    "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Bogwalker",
@@ -6013,7 +7918,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/bogwalker/",
-    "image_slug": "image-champion-bogwalker"
+    "image_slug": "image-champion-bogwalker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bogwalker",
+        "bogwalker"
+      ]
+    },
+    "default_description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage"
   },
   {
     "name": "Flinger",
@@ -6060,7 +7980,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/flinger/",
-    "image_slug": "image-champion-flinger"
+    "image_slug": "image-champion-flinger",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Flinger",
+        "flinger"
+      ]
+    },
+    "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage"
   },
   {
     "name": "Gator",
@@ -6107,7 +8042,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/gator/",
-    "image_slug": "image-champion-gator"
+    "image_slug": "image-champion-gator",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Gator",
+        "gator"
+      ]
+    },
+    "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Hurler",
@@ -6154,7 +8104,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/hurler/",
-    "image_slug": "image-champion-hurler"
+    "image_slug": "image-champion-hurler",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hurler",
+        "hurler"
+      ]
+    },
+    "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage"
   },
   {
     "name": "Metalshaper",
@@ -6201,7 +8166,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/metalshaper/",
-    "image_slug": "image-champion-metalshaper"
+    "image_slug": "image-champion-metalshaper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Metalshaper",
+        "metalshaper"
+      ]
+    },
+    "default_description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage"
   },
   {
     "name": "Skullsworn",
@@ -6248,7 +8228,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/skullsworn/",
-    "image_slug": "image-champion-skullsworn"
+    "image_slug": "image-champion-skullsworn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skullsworn",
+        "skullsworn"
+      ]
+    },
+    "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage"
   },
   {
     "name": "Slasher",
@@ -6295,7 +8290,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/slasher/",
-    "image_slug": "image-champion-slasher"
+    "image_slug": "image-champion-slasher",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Slasher is a rare attack champion from the faction Lizardmen doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Slasher",
+        "slasher"
+      ]
+    },
+    "default_description": "Slasher is a rare attack champion from the faction Lizardmen doing spirit damage"
   },
   {
     "name": "Slitherbrute",
@@ -6342,7 +8352,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/slitherbrute/",
-    "image_slug": "image-champion-slitherbrute"
+    "image_slug": "image-champion-slitherbrute",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Slitherbrute",
+        "slitherbrute"
+      ]
+    },
+    "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Muckstalker",
@@ -6389,7 +8414,22 @@
     },
     "faction_slug": "lizardmen",
     "website_link": "/champions/muckstalker/",
-    "image_slug": "image-champion-muckstalker"
+    "image_slug": "image-champion-muckstalker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Muckstalker",
+        "muckstalker"
+      ]
+    },
+    "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage"
   },
   {
     "name": "Big'Un",
@@ -6436,7 +8476,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/big-un/",
-    "image_slug": "image-champion-big-un"
+    "image_slug": "image-champion-big-un",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Big'Un",
+        "big-un"
+      ]
+    },
+    "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Ignatius",
@@ -6483,7 +8538,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/ignatius/",
-    "image_slug": "image-champion-ignatius"
+    "image_slug": "image-champion-ignatius",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ignatius",
+        "ignatius"
+      ]
+    },
+    "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Shamrock",
@@ -6530,7 +8600,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/shamrock/",
-    "image_slug": "image-champion-shamrock"
+    "image_slug": "image-champion-shamrock",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Shamrock is a legendary assist champion from the faction Ogryn-Tribes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Shamrock",
+        "shamrock"
+      ]
+    },
+    "default_description": "Shamrock is a legendary assist champion from the faction Ogryn-Tribes doing spirit damage"
   },
   {
     "name": "War Mother",
@@ -6577,7 +8662,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/war-mother/",
-    "image_slug": "image-champion-war-mother"
+    "image_slug": "image-champion-war-mother",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "War Mother",
+        "war-mother"
+      ]
+    },
+    "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Gurgoh the Augur",
@@ -6624,7 +8724,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/gurgoh-the-augur/",
-    "image_slug": "image-champion-gurgoh-the-augur"
+    "image_slug": "image-champion-gurgoh-the-augur",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Gurgoh the Augur",
+        "gurgoh-the-augur"
+      ]
+    },
+    "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage"
   },
   {
     "name": "Maneater",
@@ -6671,7 +8786,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/maneater/",
-    "image_slug": "image-champion-maneater"
+    "image_slug": "image-champion-maneater",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Maneater is a epic attack champion from the faction Ogryn-Tribes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Maneater",
+        "maneater"
+      ]
+    },
+    "default_description": "Maneater is a epic attack champion from the faction Ogryn-Tribes doing void damage"
   },
   {
     "name": "Shatterbones",
@@ -6718,7 +8848,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/shatterbones/",
-    "image_slug": "image-champion-shatterbones"
+    "image_slug": "image-champion-shatterbones",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Shatterbones",
+        "shatterbones"
+      ]
+    },
+    "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage"
   },
   {
     "name": "Skullcrusher",
@@ -6765,7 +8910,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/skullcrusher/",
-    "image_slug": "image-champion-skullcrusher"
+    "image_slug": "image-champion-skullcrusher",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skullcrusher",
+        "skullcrusher"
+      ]
+    },
+    "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage"
   },
   {
     "name": "Galkut",
@@ -6812,7 +8972,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/galkut/",
-    "image_slug": "image-champion-galkut"
+    "image_slug": "image-champion-galkut",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Galkut",
+        "galkut"
+      ]
+    },
+    "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage"
   },
   {
     "name": "Grimskin",
@@ -6859,7 +9034,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/grimskin/",
-    "image_slug": "image-champion-grimskin"
+    "image_slug": "image-champion-grimskin",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Grimskin",
+        "grimskin"
+      ]
+    },
+    "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Bellower",
@@ -6906,7 +9096,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/bellower/",
-    "image_slug": "image-champion-bellower"
+    "image_slug": "image-champion-bellower",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bellower",
+        "bellower"
+      ]
+    },
+    "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage"
   },
   {
     "name": "Rocktooth",
@@ -6953,7 +9158,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/rocktooth/",
-    "image_slug": "image-champion-rocktooth"
+    "image_slug": "image-champion-rocktooth",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Rocktooth",
+        "rocktooth"
+      ]
+    },
+    "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Flesheater",
@@ -7000,7 +9220,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/flesheater/",
-    "image_slug": "image-champion-flesheater"
+    "image_slug": "image-champion-flesheater",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Flesheater is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Flesheater",
+        "flesheater"
+      ]
+    },
+    "default_description": "Flesheater is a rare assist champion from the faction Ogryn-Tribes doing spirit damage"
   },
   {
     "name": "Furystoker",
@@ -7047,7 +9282,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/furystoker/",
-    "image_slug": "image-champion-furystoker"
+    "image_slug": "image-champion-furystoker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Furystoker is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Furystoker",
+        "furystoker"
+      ]
+    },
+    "default_description": "Furystoker is a rare assist champion from the faction Ogryn-Tribes doing spirit damage"
   },
   {
     "name": "Magmablood",
@@ -7094,7 +9344,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/magmablood/",
-    "image_slug": "image-champion-magmablood"
+    "image_slug": "image-champion-magmablood",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Magmablood",
+        "magmablood"
+      ]
+    },
+    "default_description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage"
   },
   {
     "name": "Siegebreaker",
@@ -7141,7 +9406,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/siegebreaker/",
-    "image_slug": "image-champion-siegebreaker"
+    "image_slug": "image-champion-siegebreaker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Siegebreaker",
+        "siegebreaker"
+      ]
+    },
+    "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage"
   },
   {
     "name": "Pounder",
@@ -7188,7 +9468,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/pounder/",
-    "image_slug": "image-champion-pounder"
+    "image_slug": "image-champion-pounder",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Pounder is a rare def champion from the faction Ogryn-Tribes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Pounder",
+        "pounder"
+      ]
+    },
+    "default_description": "Pounder is a rare def champion from the faction Ogryn-Tribes doing magic damage"
   },
   {
     "name": "Stoneskin",
@@ -7235,7 +9530,22 @@
     },
     "faction_slug": "ogryn-tribes",
     "website_link": "/champions/stoneskin/",
-    "image_slug": "image-champion-stoneskin"
+    "image_slug": "image-champion-stoneskin",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Stoneskin is a rare hp champion from the faction Ogryn-Tribes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Stoneskin",
+        "stoneskin"
+      ]
+    },
+    "default_description": "Stoneskin is a rare hp champion from the faction Ogryn-Tribes doing void damage"
   },
   {
     "name": "Warlord",
@@ -7282,7 +9592,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/warlord/",
-    "image_slug": "image-champion-warlord"
+    "image_slug": "image-champion-warlord",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warlord is a legendary assist champion from the faction Orcs doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warlord",
+        "warlord"
+      ]
+    },
+    "default_description": "Warlord is a legendary assist champion from the faction Orcs doing void damage"
   },
   {
     "name": "Robar",
@@ -7329,7 +9654,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/robar/",
-    "image_slug": "image-champion-robar"
+    "image_slug": "image-champion-robar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Robar is a legendary attack champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Robar",
+        "robar"
+      ]
+    },
+    "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage"
   },
   {
     "name": "Angar",
@@ -7376,7 +9716,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/angar/",
-    "image_slug": "image-champion-angar"
+    "image_slug": "image-champion-angar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Angar is a legendary hp champion from the faction Orcs doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Angar",
+        "angar"
+      ]
+    },
+    "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage"
   },
   {
     "name": "Vrask",
@@ -7423,7 +9778,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/vrask/",
-    "image_slug": "image-champion-vrask"
+    "image_slug": "image-champion-vrask",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Vrask is a epic hp champion from the faction Orcs doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Vrask",
+        "vrask"
+      ]
+    },
+    "default_description": "Vrask is a epic hp champion from the faction Orcs doing spirit damage"
   },
   {
     "name": "Seer",
@@ -7470,7 +9840,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/seer/",
-    "image_slug": "image-champion-seer"
+    "image_slug": "image-champion-seer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Seer is a epic assist champion from the faction Orcs doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Seer",
+        "seer"
+      ]
+    },
+    "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage"
   },
   {
     "name": "Bloodfeather",
@@ -7517,7 +9902,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/bloodfeather/",
-    "image_slug": "image-champion-bloodfeather"
+    "image_slug": "image-champion-bloodfeather",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bloodfeather",
+        "bloodfeather"
+      ]
+    },
+    "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage"
   },
   {
     "name": "Bonekepper",
@@ -7564,7 +9964,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/bonekepper/",
-    "image_slug": "image-champion-bonekepper"
+    "image_slug": "image-champion-bonekepper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bonekepper is a epic attack champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bonekepper",
+        "bonekepper"
+      ]
+    },
+    "default_description": "Bonekepper is a epic attack champion from the faction Orcs doing force damage"
   },
   {
     "name": "Shaman",
@@ -7611,7 +10026,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/shaman/",
-    "image_slug": "image-champion-shaman"
+    "image_slug": "image-champion-shaman",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Shaman is a epic assist champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Shaman",
+        "shaman"
+      ]
+    },
+    "default_description": "Shaman is a epic assist champion from the faction Orcs doing force damage"
   },
   {
     "name": "Terrorbeast",
@@ -7658,7 +10088,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/terrorbeast/",
-    "image_slug": "image-champion-terrorbeast"
+    "image_slug": "image-champion-terrorbeast",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Terrorbeast",
+        "terrorbeast"
+      ]
+    },
+    "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage"
   },
   {
     "name": "Torturehelm",
@@ -7705,7 +10150,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/torturehelm/",
-    "image_slug": "image-champion-torturehelm"
+    "image_slug": "image-champion-torturehelm",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Torturehelm is a epic hp champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Torturehelm",
+        "torturehelm"
+      ]
+    },
+    "default_description": "Torturehelm is a epic hp champion from the faction Orcs doing force damage"
   },
   {
     "name": "Zargala",
@@ -7752,7 +10212,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/zargala/",
-    "image_slug": "image-champion-zargala"
+    "image_slug": "image-champion-zargala",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Zargala is a epic attack champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Zargala",
+        "zargala"
+      ]
+    },
+    "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage"
   },
   {
     "name": "Deathchanter",
@@ -7799,7 +10274,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/deathchanter/",
-    "image_slug": "image-champion-deathchanter"
+    "image_slug": "image-champion-deathchanter",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Deathchanter",
+        "deathchanter"
+      ]
+    },
+    "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage"
   },
   {
     "name": "Galek",
@@ -7846,7 +10336,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/galek/",
-    "image_slug": "image-champion-galek"
+    "image_slug": "image-champion-galek",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Galek is a rare attack champion from the faction Orcs doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Galek",
+        "galek"
+      ]
+    },
+    "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage"
   },
   {
     "name": "Chopper",
@@ -7893,7 +10398,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/chopper/",
-    "image_slug": "image-champion-chopper"
+    "image_slug": "image-champion-chopper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Chopper is a rare attack champion from the faction Orcs doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Chopper",
+        "chopper"
+      ]
+    },
+    "default_description": "Chopper is a rare attack champion from the faction Orcs doing magic damage"
   },
   {
     "name": "Goremask",
@@ -7940,7 +10460,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/goremask/",
-    "image_slug": "image-champion-goremask"
+    "image_slug": "image-champion-goremask",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Goremask is a rare attack champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Goremask",
+        "goremask"
+      ]
+    },
+    "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage"
   },
   {
     "name": "Huntress",
@@ -7987,7 +10522,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/huntress/",
-    "image_slug": "image-champion-huntress"
+    "image_slug": "image-champion-huntress",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Huntress is a rare attack champion from the faction Orcs doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Huntress",
+        "huntress"
+      ]
+    },
+    "default_description": "Huntress is a rare attack champion from the faction Orcs doing void damage"
   },
   {
     "name": "Ironclad",
@@ -8034,7 +10584,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/ironclad/",
-    "image_slug": "image-champion-ironclad"
+    "image_slug": "image-champion-ironclad",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ironclad is a rare hp champion from the faction Orcs doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ironclad",
+        "ironclad"
+      ]
+    },
+    "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage"
   },
   {
     "name": "Raider",
@@ -8081,7 +10646,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/raider/",
-    "image_slug": "image-champion-raider"
+    "image_slug": "image-champion-raider",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Raider is a rare attack champion from the faction Orcs doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Raider",
+        "raider"
+      ]
+    },
+    "default_description": "Raider is a rare attack champion from the faction Orcs doing spirit damage"
   },
   {
     "name": "Spikehead",
@@ -8128,7 +10708,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/spikehead/",
-    "image_slug": "image-champion-spikehead"
+    "image_slug": "image-champion-spikehead",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Spikehead",
+        "spikehead"
+      ]
+    },
+    "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage"
   },
   {
     "name": "Totem",
@@ -8175,7 +10770,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/totem/",
-    "image_slug": "image-champion-totem"
+    "image_slug": "image-champion-totem",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Totem is a rare assist champion from the faction Orcs doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Totem",
+        "totem"
+      ]
+    },
+    "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage"
   },
   {
     "name": "Veteran",
@@ -8222,7 +10832,22 @@
     },
     "faction_slug": "orcs",
     "website_link": "/champions/veteran/",
-    "image_slug": "image-champion-veteran"
+    "image_slug": "image-champion-veteran",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Veteran is a rare def champion from the faction Orcs doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Veteran",
+        "veteran"
+      ]
+    },
+    "default_description": "Veteran is a rare def champion from the faction Orcs doing void damage"
   },
   {
     "name": "Abbess",
@@ -8269,7 +10894,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/abbess/",
-    "image_slug": "image-champion-abbess"
+    "image_slug": "image-champion-abbess",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Abbess",
+        "abbess"
+      ]
+    },
+    "default_description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Cupidus",
@@ -8316,7 +10956,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/cupidus/",
-    "image_slug": "image-champion-cupidus"
+    "image_slug": "image-champion-cupidus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Cupidus",
+        "cupidus"
+      ]
+    },
+    "default_description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Martyr",
@@ -8363,7 +11018,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/martyr/",
-    "image_slug": "image-champion-martyr"
+    "image_slug": "image-champion-martyr",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Martyr",
+        "martyr"
+      ]
+    },
+    "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Sir Nicholas",
@@ -8410,7 +11080,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/sir-nicholas/",
-    "image_slug": "image-champion-sir-nicholas"
+    "image_slug": "image-champion-sir-nicholas",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sir Nicholas",
+        "sir-nicholas"
+      ]
+    },
+    "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Venus",
@@ -8457,7 +11142,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/venus/",
-    "image_slug": "image-champion-venus"
+    "image_slug": "image-champion-venus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Venus is a legendary assist champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Venus",
+        "venus"
+      ]
+    },
+    "default_description": "Venus is a legendary assist champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Errol",
@@ -8504,7 +11204,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/errol/",
-    "image_slug": "image-champion-errol"
+    "image_slug": "image-champion-errol",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Errol",
+        "errol"
+      ]
+    },
+    "default_description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Roshcard the Tower",
@@ -8551,7 +11266,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/roshcard-the-tower/",
-    "image_slug": "image-champion-roshcard-the-tower"
+    "image_slug": "image-champion-roshcard-the-tower",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Roshcard the Tower",
+        "roshcard-the-tower"
+      ]
+    },
+    "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Frostbringer",
@@ -8598,7 +11328,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/frostbringer/",
-    "image_slug": "image-champion-frostbringer"
+    "image_slug": "image-champion-frostbringer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Frostbringer",
+        "frostbringer"
+      ]
+    },
+    "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Juliana",
@@ -8645,7 +11390,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/juliana/",
-    "image_slug": "image-champion-juliana"
+    "image_slug": "image-champion-juliana",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Juliana",
+        "juliana"
+      ]
+    },
+    "default_description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Tallia",
@@ -8692,7 +11452,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/tallia/",
-    "image_slug": "image-champion-tallia"
+    "image_slug": "image-champion-tallia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Tallia",
+        "tallia"
+      ]
+    },
+    "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Adriel",
@@ -8739,7 +11514,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/adriel/",
-    "image_slug": "image-champion-adriel"
+    "image_slug": "image-champion-adriel",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Adriel",
+        "adriel"
+      ]
+    },
+    "default_description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Aothar",
@@ -8786,7 +11576,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/aothar/",
-    "image_slug": "image-champion-aothar"
+    "image_slug": "image-champion-aothar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Aothar",
+        "aothar"
+      ]
+    },
+    "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Fenax",
@@ -8833,7 +11638,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/fenax/",
-    "image_slug": "image-champion-fenax"
+    "image_slug": "image-champion-fenax",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Fenax is a epic attack champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Fenax",
+        "fenax"
+      ]
+    },
+    "default_description": "Fenax is a epic attack champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Hope",
@@ -8880,7 +11700,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/hope/",
-    "image_slug": "image-champion-hope"
+    "image_slug": "image-champion-hope",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hope",
+        "hope"
+      ]
+    },
+    "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Lightsworn",
@@ -8927,7 +11762,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/lightsworn/",
-    "image_slug": "image-champion-lightsworn"
+    "image_slug": "image-champion-lightsworn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lightsworn",
+        "lightsworn"
+      ]
+    },
+    "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Relickeeper",
@@ -8974,7 +11824,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/relickeeper/",
-    "image_slug": "image-champion-relickeeper"
+    "image_slug": "image-champion-relickeeper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Relickeeper",
+        "relickeeper"
+      ]
+    },
+    "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Romero",
@@ -9021,7 +11886,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/romero/",
-    "image_slug": "image-champion-romero"
+    "image_slug": "image-champion-romero",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Romero is a epic def champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Romero",
+        "romero"
+      ]
+    },
+    "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Bushi",
@@ -9068,7 +11948,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/bushi/",
-    "image_slug": "image-champion-bushi"
+    "image_slug": "image-champion-bushi",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bushi",
+        "bushi"
+      ]
+    },
+    "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Canoness",
@@ -9115,7 +12010,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/canoness/",
-    "image_slug": "image-champion-canoness"
+    "image_slug": "image-champion-canoness",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Canoness",
+        "canoness"
+      ]
+    },
+    "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Cardinal",
@@ -9162,7 +12072,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/cardinal/",
-    "image_slug": "image-champion-cardinal"
+    "image_slug": "image-champion-cardinal",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Cardinal",
+        "cardinal"
+      ]
+    },
+    "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Athel",
@@ -9209,7 +12134,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/athel/",
-    "image_slug": "image-champion-athel"
+    "image_slug": "image-champion-athel",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Athel",
+        "athel"
+      ]
+    },
+    "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Chaplain",
@@ -9256,7 +12196,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/chaplain/",
-    "image_slug": "image-champion-chaplain"
+    "image_slug": "image-champion-chaplain",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Chaplain",
+        "chaplain"
+      ]
+    },
+    "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Confessor",
@@ -9303,7 +12258,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/confessor/",
-    "image_slug": "image-champion-confessor"
+    "image_slug": "image-champion-confessor",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Confessor",
+        "confessor"
+      ]
+    },
+    "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Harrier",
@@ -9350,7 +12320,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/harrier/",
-    "image_slug": "image-champion-harrier"
+    "image_slug": "image-champion-harrier",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Harrier is a rare attack champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Harrier",
+        "harrier"
+      ]
+    },
+    "default_description": "Harrier is a rare attack champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Hospitaller",
@@ -9397,7 +12382,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/hospitaller/",
-    "image_slug": "image-champion-hospitaller"
+    "image_slug": "image-champion-hospitaller",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hospitaller",
+        "hospitaller"
+      ]
+    },
+    "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage"
   },
   {
     "name": "Judicator",
@@ -9444,7 +12444,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/judicator/",
-    "image_slug": "image-champion-judicator"
+    "image_slug": "image-champion-judicator",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Judicator",
+        "judicator"
+      ]
+    },
+    "default_description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Justiciar",
@@ -9491,7 +12506,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/justiciar/",
-    "image_slug": "image-champion-justiciar"
+    "image_slug": "image-champion-justiciar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Justiciar",
+        "justiciar"
+      ]
+    },
+    "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage"
   },
   {
     "name": "Lamellar",
@@ -9538,7 +12568,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/lamellar/",
-    "image_slug": "image-champion-lamellar"
+    "image_slug": "image-champion-lamellar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lamellar",
+        "lamellar"
+      ]
+    },
+    "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage"
   },
   {
     "name": "Maiden",
@@ -9585,7 +12630,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/maiden/",
-    "image_slug": "image-champion-maiden"
+    "image_slug": "image-champion-maiden",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Maiden is a rare attack champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Maiden",
+        "maiden"
+      ]
+    },
+    "default_description": "Maiden is a rare attack champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Penitent",
@@ -9632,7 +12692,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/penitent/",
-    "image_slug": "image-champion-penitent"
+    "image_slug": "image-champion-penitent",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Penitent",
+        "penitent"
+      ]
+    },
+    "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Templar",
@@ -9679,7 +12754,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/templar/",
-    "image_slug": "image-champion-templar"
+    "image_slug": "image-champion-templar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Templar",
+        "templar"
+      ]
+    },
+    "default_description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Warpriest",
@@ -9726,7 +12816,22 @@
     },
     "faction_slug": "sacred-order",
     "website_link": "/champions/warpriest/",
-    "image_slug": "image-champion-warpriest"
+    "image_slug": "image-champion-warpriest",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warpriest",
+        "warpriest"
+      ]
+    },
+    "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage"
   },
   {
     "name": "Longbeard",
@@ -9773,7 +12878,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/longbeard/",
-    "image_slug": "image-champion-longbeard"
+    "image_slug": "image-champion-longbeard",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Longbeard",
+        "longbeard"
+      ]
+    },
+    "default_description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage"
   },
   {
     "name": "Norog",
@@ -9820,7 +12940,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/norog/",
-    "image_slug": "image-champion-norog"
+    "image_slug": "image-champion-norog",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Norog",
+        "norog"
+      ]
+    },
+    "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage"
   },
   {
     "name": "Warchief",
@@ -9867,7 +13002,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/warchief/",
-    "image_slug": "image-champion-warchief"
+    "image_slug": "image-champion-warchief",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Warchief",
+        "warchief"
+      ]
+    },
+    "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage"
   },
   {
     "name": "Basher",
@@ -9914,7 +13064,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/basher/",
-    "image_slug": "image-champion-basher"
+    "image_slug": "image-champion-basher",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Basher is a epic attack champion from the faction Skinwalker doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Basher",
+        "basher"
+      ]
+    },
+    "default_description": "Basher is a epic attack champion from the faction Skinwalker doing void damage"
   },
   {
     "name": "Reinbeast",
@@ -9961,7 +13126,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/reinbeast/",
-    "image_slug": "image-champion-reinbeast"
+    "image_slug": "image-champion-reinbeast",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Reinbeast",
+        "reinbeast"
+      ]
+    },
+    "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage"
   },
   {
     "name": "Steelskull",
@@ -10008,7 +13188,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/steelskull/",
-    "image_slug": "image-champion-steelskull"
+    "image_slug": "image-champion-steelskull",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Steelskull",
+        "steelskull"
+      ]
+    },
+    "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage"
   },
   {
     "name": "Flesh-Tearer",
@@ -10055,7 +13250,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/flesh-tearer/",
-    "image_slug": "image-champion-flesh-tearer"
+    "image_slug": "image-champion-flesh-tearer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Flesh-Tearer",
+        "flesh-tearer"
+      ]
+    },
+    "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage"
   },
   {
     "name": "Ripper",
@@ -10102,7 +13312,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/ripper/",
-    "image_slug": "image-champion-ripper"
+    "image_slug": "image-champion-ripper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ripper",
+        "ripper"
+      ]
+    },
+    "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage"
   },
   {
     "name": "Taurus",
@@ -10149,7 +13374,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/taurus/",
-    "image_slug": "image-champion-taurus"
+    "image_slug": "image-champion-taurus",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Taurus",
+        "taurus"
+      ]
+    },
+    "default_description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage"
   },
   {
     "name": "Bloodpainter",
@@ -10196,7 +13436,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/bloodpainter/",
-    "image_slug": "image-champion-bloodpainter"
+    "image_slug": "image-champion-bloodpainter",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bloodpainter",
+        "bloodpainter"
+      ]
+    },
+    "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage"
   },
   {
     "name": "Channeler",
@@ -10243,7 +13498,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/channeler/",
-    "image_slug": "image-champion-channeler"
+    "image_slug": "image-champion-channeler",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Channeler",
+        "channeler"
+      ]
+    },
+    "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage"
   },
   {
     "name": "Grappler",
@@ -10290,7 +13560,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/grappler/",
-    "image_slug": "image-champion-grappler"
+    "image_slug": "image-champion-grappler",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Grappler is a rare def champion from the faction Skinwalker doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Grappler",
+        "grappler"
+      ]
+    },
+    "default_description": "Grappler is a rare def champion from the faction Skinwalker doing spirit damage"
   },
   {
     "name": "Graybeard",
@@ -10337,7 +13622,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/graybeard/",
-    "image_slug": "image-champion-graybeard"
+    "image_slug": "image-champion-graybeard",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Graybeard is a rare def champion from the faction Skinwalker doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Graybeard",
+        "graybeard"
+      ]
+    },
+    "default_description": "Graybeard is a rare def champion from the faction Skinwalker doing magic damage"
   },
   {
     "name": "Bloodhorn",
@@ -10384,7 +13684,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/bloodhorn/",
-    "image_slug": "image-champion-bloodhorn"
+    "image_slug": "image-champion-bloodhorn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bloodhorn",
+        "bloodhorn"
+      ]
+    },
+    "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage"
   },
   {
     "name": "Gnarlhorn",
@@ -10431,7 +13746,22 @@
     },
     "faction_slug": "skinwalker",
     "website_link": "/champions/gnarlhorn/",
-    "image_slug": "image-champion-gnarlhorn"
+    "image_slug": "image-champion-gnarlhorn",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Gnarlhorn",
+        "gnarlhorn"
+      ]
+    },
+    "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage"
   },
   {
     "name": "Bad-el-Kazar",
@@ -10478,7 +13808,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/bad-el-kazar/",
-    "image_slug": "image-champion-bad-el-kazar"
+    "image_slug": "image-champion-bad-el-kazar",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bad-el-Kazar",
+        "bad-el-kazar"
+      ]
+    },
+    "default_description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Bloodgorged",
@@ -10525,7 +13870,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/bloodgorged/",
-    "image_slug": "image-champion-bloodgorged"
+    "image_slug": "image-champion-bloodgorged",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bloodgorged",
+        "bloodgorged"
+      ]
+    },
+    "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Nethril",
@@ -10572,7 +13932,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/nethril/",
-    "image_slug": "image-champion-nethril"
+    "image_slug": "image-champion-nethril",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Nethril",
+        "nethril"
+      ]
+    },
+    "default_description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage"
   },
   {
     "name": "Ma'Shalled",
@@ -10619,7 +13994,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/ma-shalled/",
-    "image_slug": "image-champion-ma-shalled"
+    "image_slug": "image-champion-ma-shalled",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Ma'Shalled",
+        "ma-shalled"
+      ]
+    },
+    "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage"
   },
   {
     "name": "Skartosis",
@@ -10666,7 +14056,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/skartosis/",
-    "image_slug": "image-champion-skartosis"
+    "image_slug": "image-champion-skartosis",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Skartosis",
+        "skartosis"
+      ]
+    },
+    "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Gorgorab",
@@ -10713,7 +14118,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/gorgorab/",
-    "image_slug": "image-champion-gorgorab"
+    "image_slug": "image-champion-gorgorab",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Gorgorab is a epic assist champion from the faction Undead Hordes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Gorgorab",
+        "gorgorab"
+      ]
+    },
+    "default_description": "Gorgorab is a epic assist champion from the faction Undead Hordes doing magic damage"
   },
   {
     "name": "Husk",
@@ -10760,7 +14180,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/husk/",
-    "image_slug": "image-champion-husk"
+    "image_slug": "image-champion-husk",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Husk",
+        "husk"
+      ]
+    },
+    "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Seeker",
@@ -10807,7 +14242,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/seeker/",
-    "image_slug": "image-champion-seeker"
+    "image_slug": "image-champion-seeker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Seeker",
+        "seeker"
+      ]
+    },
+    "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage"
   },
   {
     "name": "Zelotah",
@@ -10854,7 +14304,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/zelotah/",
-    "image_slug": "image-champion-zelotah"
+    "image_slug": "image-champion-zelotah",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Zelotah",
+        "zelotah"
+      ]
+    },
+    "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage"
   },
   {
     "name": "Hexia",
@@ -10901,7 +14366,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/hexia/",
-    "image_slug": "image-champion-hexia"
+    "image_slug": "image-champion-hexia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hexia is a epic attack champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hexia",
+        "hexia"
+      ]
+    },
+    "default_description": "Hexia is a epic attack champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Karam",
@@ -10948,7 +14428,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/karam/",
-    "image_slug": "image-champion-karam"
+    "image_slug": "image-champion-karam",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Karam",
+        "karam"
+      ]
+    },
+    "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Lich",
@@ -10995,7 +14490,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/lich/",
-    "image_slug": "image-champion-lich"
+    "image_slug": "image-champion-lich",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Lich is a epic def champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Lich",
+        "lich"
+      ]
+    },
+    "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Banshee",
@@ -11042,7 +14552,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/banshee/",
-    "image_slug": "image-champion-banshee"
+    "image_slug": "image-champion-banshee",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Banshee",
+        "banshee"
+      ]
+    },
+    "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage"
   },
   {
     "name": "Bone Knight",
@@ -11089,7 +14614,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/bone-knight/",
-    "image_slug": "image-champion-bone-knight"
+    "image_slug": "image-champion-bone-knight",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Bone Knight",
+        "bone-knight"
+      ]
+    },
+    "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage"
   },
   {
     "name": "Sorceress",
@@ -11136,7 +14676,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/sorceress/",
-    "image_slug": "image-champion-sorceress"
+    "image_slug": "image-champion-sorceress",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sorceress",
+        "sorceress"
+      ]
+    },
+    "default_description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Temptress",
@@ -11183,7 +14738,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/temptress/",
-    "image_slug": "image-champion-temptress"
+    "image_slug": "image-champion-temptress",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Temptress is a rare attack champion from the faction Undead Hordes doing magic damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Temptress",
+        "temptress"
+      ]
+    },
+    "default_description": "Temptress is a rare attack champion from the faction Undead Hordes doing magic damage"
   },
   {
     "name": "Doomscreech",
@@ -11230,7 +14800,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/doomscreech/",
-    "image_slug": "image-champion-doomscreech"
+    "image_slug": "image-champion-doomscreech",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Doomscreech is a rare hp champion from the faction Undead Hordes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Doomscreech",
+        "doomscreech"
+      ]
+    },
+    "default_description": "Doomscreech is a rare hp champion from the faction Undead Hordes doing void damage"
   },
   {
     "name": "Grinner",
@@ -11277,7 +14862,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/grinner/",
-    "image_slug": "image-champion-grinner"
+    "image_slug": "image-champion-grinner",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Grinner",
+        "grinner"
+      ]
+    },
+    "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Hollow",
@@ -11324,7 +14924,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/hollow/",
-    "image_slug": "image-champion-hollow"
+    "image_slug": "image-champion-hollow",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hollow",
+        "hollow"
+      ]
+    },
+    "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage"
   },
   {
     "name": "Seducer",
@@ -11371,7 +14986,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/seducer/",
-    "image_slug": "image-champion-seducer"
+    "image_slug": "image-champion-seducer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Seducer",
+        "seducer"
+      ]
+    },
+    "default_description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage"
   },
   {
     "name": "Wretch",
@@ -11418,7 +15048,22 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/wretch/",
-    "image_slug": "image-champion-wretch"
+    "image_slug": "image-champion-wretch",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Wretch",
+        "wretch"
+      ]
+    },
+    "default_description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage"
   },
   {
     "name": "Arbalester",
@@ -11465,6 +15110,21 @@
     },
     "faction_slug": "undead-hordes",
     "website_link": "/champions/arbalester/",
-    "image_slug": "image-champion-arbalester"
+    "image_slug": "image-champion-arbalester",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Arbalester",
+        "arbalester"
+      ]
+    },
+    "default_description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage"
   }
 ]

@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/ithos/",
-  "image_slug": "image-champion-ithos"
+  "image_slug": "image-champion-ithos",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Ithos is a legendary attack champion from the faction High Elves doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Ithos",
+      "ithos"
+    ]
+  },
+  "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage"
 }

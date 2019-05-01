@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/berserker/",
-  "image_slug": "image-champion-berserker"
+  "image_slug": "image-champion-berserker",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Berserker",
+      "berserker"
+    ]
+  },
+  "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage"
 }

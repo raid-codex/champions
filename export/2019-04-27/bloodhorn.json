@@ -43,5 +43,20 @@
   },
   "faction_slug": "skinwalker",
   "website_link": "/champions/bloodhorn/",
-  "image_slug": "image-champion-bloodhorn"
+  "image_slug": "image-champion-bloodhorn",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bloodhorn",
+      "bloodhorn"
+    ]
+  },
+  "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage"
 }

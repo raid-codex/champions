@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/broadmaw/",
-  "image_slug": "image-champion-broadmaw"
+  "image_slug": "image-champion-broadmaw",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Broadmaw",
+      "broadmaw"
+    ]
+  },
+  "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage"
 }

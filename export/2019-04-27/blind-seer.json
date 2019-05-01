@@ -43,5 +43,20 @@
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/blind-seer/",
-  "image_slug": "image-champion-blind-seer"
+  "image_slug": "image-champion-blind-seer",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Blind Seer",
+      "blind-seer"
+    ]
+  },
+  "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage"
 }

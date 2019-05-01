@@ -43,5 +43,20 @@
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/jarang/",
-  "image_slug": "image-champion-jarang"
+  "image_slug": "image-champion-jarang",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Jarang",
+      "jarang"
+    ]
+  },
+  "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage"
 }

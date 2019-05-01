@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/black-knight/",
-  "image_slug": "image-champion-black-knight"
+  "image_slug": "image-champion-black-knight",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Black Knight",
+      "black-knight"
+    ]
+  },
+  "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage"
 }

@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/vergis/",
-  "image_slug": "image-champion-vergis"
+  "image_slug": "image-champion-vergis",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Vergis is a epic def champion from the faction High Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Vergis",
+      "vergis"
+    ]
+  },
+  "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage"
 }

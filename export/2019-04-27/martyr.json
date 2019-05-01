@@ -43,5 +43,20 @@
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/martyr/",
-  "image_slug": "image-champion-martyr"
+  "image_slug": "image-champion-martyr",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Martyr",
+      "martyr"
+    ]
+  },
+  "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage"
 }

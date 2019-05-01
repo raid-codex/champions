@@ -43,5 +43,20 @@
   },
   "faction_slug": "demonspawn",
   "website_link": "/champions/prince-kymar/",
-  "image_slug": "image-champion-prince-kymar"
+  "image_slug": "image-champion-prince-kymar",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Prince Kymar",
+      "prince-kymar"
+    ]
+  },
+  "default_description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage"
 }

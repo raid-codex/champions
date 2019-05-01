@@ -43,5 +43,20 @@
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/bloodbraid/",
-  "image_slug": "image-champion-bloodbraid"
+  "image_slug": "image-champion-bloodbraid",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Bloodbraid",
+      "bloodbraid"
+    ]
+  },
+  "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage"
 }

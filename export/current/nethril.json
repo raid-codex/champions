@@ -43,5 +43,20 @@
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/nethril/",
-  "image_slug": "image-champion-nethril"
+  "image_slug": "image-champion-nethril",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Nethril",
+      "nethril"
+    ]
+  },
+  "default_description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage"
 }

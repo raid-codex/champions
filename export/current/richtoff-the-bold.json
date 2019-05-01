@@ -43,5 +43,20 @@
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/richtoff-the-bold/",
-  "image_slug": "image-champion-richtoff-the-bold"
+  "image_slug": "image-champion-richtoff-the-bold",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Richtoff the Bold",
+      "richtoff-the-bold"
+    ]
+  },
+  "default_description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage"
 }

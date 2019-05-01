@@ -43,5 +43,20 @@
   },
   "faction_slug": "high-elves",
   "website_link": "/champions/jinglehunter/",
-  "image_slug": "image-champion-jinglehunter"
+  "image_slug": "image-champion-jinglehunter",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Jinglehunter",
+      "jinglehunter"
+    ]
+  },
+  "default_description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage"
 }

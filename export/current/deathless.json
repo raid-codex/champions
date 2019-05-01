@@ -43,5 +43,20 @@
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/deathless/",
-  "image_slug": "image-champion-deathless"
+  "image_slug": "image-champion-deathless",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Deathless",
+      "deathless"
+    ]
+  },
+  "default_description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage"
 }

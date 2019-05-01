@@ -43,5 +43,20 @@
   },
   "faction_slug": "orcs",
   "website_link": "/champions/seer/",
-  "image_slug": "image-champion-seer"
+  "image_slug": "image-champion-seer",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Seer is a epic assist champion from the faction Orcs doing void damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Seer",
+      "seer"
+    ]
+  },
+  "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage"
 }

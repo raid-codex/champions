@@ -43,5 +43,20 @@
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/magmablood/",
-  "image_slug": "image-champion-magmablood"
+  "image_slug": "image-champion-magmablood",
+  "seo": {
+    "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+    "description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage",
+    "keywords": [
+      "raid",
+      "shadow",
+      "legends",
+      "champions",
+      "tier",
+      "list",
+      "Magmablood",
+      "magmablood"
+    ]
+  },
+  "default_description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage"
 }
