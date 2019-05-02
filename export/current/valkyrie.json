@@ -39,7 +39,21 @@
     "name": "Barbarians",
     "slug": "barbarians",
     "website_link": "/factions/barbarians/",
-    "image_slug": "image-faction-barbarians"
+    "image_slug": "image-faction-barbarians",
+    "number_of_champions": 0,
+    "default_description": "Barbarians is a faction from RAID Shadow Legends composed of 0 champions",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Barbarians is a faction from RAID Shadow Legends composed of 0 champions. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "factions",
+        "Barbarians",
+        "barbarians"
+      ]
+    }
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/valkyrie/",
