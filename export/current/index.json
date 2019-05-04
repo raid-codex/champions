@@ -20268,16 +20268,16 @@
           "legends",
           "factions",
           "Skinwalker",
-          "skinwalkers"
+          "skinwalker"
         ]
       }
     },
-    "faction_slug": "skinwalkers",
+    "faction_slug": "skinwalker",
     "website_link": "/champions/satyr/",
     "image_slug": "image-champion-satyr",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Satyr is a uncommon hp champion from the faction Skinwalkers. Find out more on this Raid Shadow Legends codex.",
+      "description": "Satyr is a uncommon hp champion from the faction Skinwalker. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20289,7 +20289,7 @@
         "satyr"
       ]
     },
-    "default_description": "Satyr is a uncommon hp champion from the faction Skinwalkers"
+    "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker"
   },
   {
     "name": "Windtalker",
@@ -20348,12 +20348,12 @@
         ]
       }
     },
-    "faction_slug": "skinwalkers",
+    "faction_slug": "skinwalker",
     "website_link": "/champions/windtalker/",
     "image_slug": "image-champion-windtalker",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Windtalker is a uncommon support champion from the faction Skinwalkers. Find out more on this Raid Shadow Legends codex.",
+      "description": "Windtalker is a uncommon support champion from the faction Skinwalker. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20365,7 +20365,7 @@
         "windtalker"
       ]
     },
-    "default_description": "Windtalker is a uncommon support champion from the faction Skinwalkers"
+    "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker"
   },
   {
     "name": "Armiger",
