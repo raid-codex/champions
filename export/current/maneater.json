@@ -2,7 +2,7 @@
   "name": "Maneater",
   "rarity": "Epic",
   "element": "Void",
-  "type": "Attack",
+  "type": "HP",
   "rating": {
     "overall": "A",
     "campaign": "C",
@@ -23,13 +23,13 @@
   "slug": "maneater",
   "characteristics": {
     "60": {
-      "hp": 15360,
-      "attack": 1432,
-      "defense": 848,
+      "hp": 20310,
+      "attack": 837,
+      "defense": 1112,
       "speed": 98,
       "critical_rate": 0.15,
-      "critical_damage": 0.6,
-      "resistance": 30,
+      "critical_damage": 0.5,
+      "resistance": 45,
       "accuracy": 0
     }
   },
