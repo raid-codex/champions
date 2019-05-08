@@ -72,5 +72,6 @@
       "woad-painted"
     ]
   },
-  "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage"
+  "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",
+  "recommended_builds": []
 }

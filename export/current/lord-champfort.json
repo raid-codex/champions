@@ -72,5 +72,6 @@
       "lord-champfort"
     ]
   },
-  "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage"
+  "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage",
+  "recommended_builds": []
 }

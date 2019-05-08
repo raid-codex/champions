@@ -72,5 +72,6 @@
       "renegade"
     ]
   },
-  "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage"
+  "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage",
+  "recommended_builds": []
 }

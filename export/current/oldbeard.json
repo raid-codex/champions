@@ -2,7 +2,7 @@
   "name": "Oldbeard",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "oldbeard"
     ]
   },
-  "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes"
+  "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes",
+  "recommended_builds": []
 }

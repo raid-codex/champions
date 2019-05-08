@@ -72,5 +72,6 @@
       "daywalker"
     ]
   },
-  "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage"
+  "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage",
+  "recommended_builds": []
 }

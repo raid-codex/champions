@@ -72,5 +72,6 @@
       "valkyrie"
     ]
   },
-  "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage"
+  "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage",
+  "recommended_builds": []
 }

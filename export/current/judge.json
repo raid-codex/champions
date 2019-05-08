@@ -72,5 +72,6 @@
       "judge"
     ]
   },
-  "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage"
+  "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage",
+  "recommended_builds": []
 }

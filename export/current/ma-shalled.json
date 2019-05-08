@@ -72,5 +72,6 @@
       "ma-shalled"
     ]
   },
-  "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage"
+  "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+  "recommended_builds": []
 }

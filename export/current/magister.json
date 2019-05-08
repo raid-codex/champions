@@ -72,5 +72,6 @@
       "magister"
     ]
   },
-  "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage"
+  "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage",
+  "recommended_builds": []
 }

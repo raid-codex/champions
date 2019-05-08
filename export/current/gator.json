@@ -72,5 +72,6 @@
       "gator"
     ]
   },
-  "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage"
+  "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage",
+  "recommended_builds": []
 }

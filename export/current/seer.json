@@ -72,5 +72,6 @@
       "seer"
     ]
   },
-  "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage"
+  "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage",
+  "recommended_builds": []
 }

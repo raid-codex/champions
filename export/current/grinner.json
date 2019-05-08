@@ -72,5 +72,6 @@
       "grinner"
     ]
   },
-  "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage"
+  "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage",
+  "recommended_builds": []
 }

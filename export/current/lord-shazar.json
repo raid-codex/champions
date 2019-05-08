@@ -72,5 +72,6 @@
       "lord-shazar"
     ]
   },
-  "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage"
+  "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
+  "recommended_builds": []
 }

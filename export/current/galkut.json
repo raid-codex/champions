@@ -72,5 +72,6 @@
       "galkut"
     ]
   },
-  "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage"
+  "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",
+  "recommended_builds": []
 }

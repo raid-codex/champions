@@ -72,5 +72,6 @@
       "guardian"
     ]
   },
-  "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage"
+  "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage",
+  "recommended_builds": []
 }

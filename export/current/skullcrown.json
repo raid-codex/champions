@@ -72,5 +72,6 @@
       "skullcrown"
     ]
   },
-  "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage"
+  "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage",
+  "recommended_builds": []
 }

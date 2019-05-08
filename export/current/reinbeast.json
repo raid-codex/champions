@@ -72,5 +72,6 @@
       "reinbeast"
     ]
   },
-  "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage"
+  "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage",
+  "recommended_builds": []
 }

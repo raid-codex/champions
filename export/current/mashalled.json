@@ -72,5 +72,6 @@
       "mashalled"
     ]
   },
-  "default_description": "MaShalled is a legendary attack champion from the faction Undead Hordes"
+  "default_description": "MaShalled is a legendary attack champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

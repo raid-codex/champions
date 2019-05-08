@@ -72,5 +72,6 @@
       "erinyes"
     ]
   },
-  "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage"
+  "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage",
+  "recommended_builds": []
 }

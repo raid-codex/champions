@@ -72,5 +72,6 @@
       "fu-shan"
     ]
   },
-  "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage"
+  "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage",
+  "recommended_builds": []
 }

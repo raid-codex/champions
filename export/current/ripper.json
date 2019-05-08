@@ -72,5 +72,6 @@
       "ripper"
     ]
   },
-  "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage"
+  "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage",
+  "recommended_builds": []
 }

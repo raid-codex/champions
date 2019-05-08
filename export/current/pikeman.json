@@ -2,7 +2,7 @@
   "name": "Pikeman",
   "rarity": "Common",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "pikeman"
     ]
   },
-  "default_description": "Pikeman is a common defense champion from the faction Banner Lords"
+  "default_description": "Pikeman is a common defense champion from the faction Banner Lords",
+  "recommended_builds": []
 }

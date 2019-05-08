@@ -72,5 +72,6 @@
       "skink"
     ]
   },
-  "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage"
+  "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",
+  "recommended_builds": []
 }

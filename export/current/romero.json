@@ -72,5 +72,6 @@
       "romero"
     ]
   },
-  "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage"
+  "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage",
+  "recommended_builds": []
 }

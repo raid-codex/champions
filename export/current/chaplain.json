@@ -72,5 +72,6 @@
       "chaplain"
     ]
   },
-  "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage"
+  "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage",
+  "recommended_builds": []
 }

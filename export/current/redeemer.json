@@ -72,5 +72,6 @@
       "redeemer"
     ]
   },
-  "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves"
+  "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves",
+  "recommended_builds": []
 }

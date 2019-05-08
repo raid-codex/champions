@@ -73,7 +73,8 @@
         "lugan-the-steadfast"
       ]
     },
-    "default_description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Richtoff the Bold",
@@ -149,7 +150,8 @@
         "richtoff-the-bold"
       ]
     },
-    "default_description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Baron",
@@ -225,7 +227,8 @@
         "baron"
       ]
     },
-    "default_description": "Baron is a legendary attack champion from the faction Banner-Lords doing void damage"
+    "default_description": "Baron is a legendary attack champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Black Knight",
@@ -301,7 +304,8 @@
         "black-knight"
       ]
     },
-    "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage"
+    "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Lord Champfort",
@@ -377,7 +381,8 @@
         "lord-champfort"
       ]
     },
-    "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Raglin",
@@ -453,7 +458,8 @@
         "raglin"
       ]
     },
-    "default_description": "Raglin is a legendary assist champion from the faction Banner-Lords doing void damage"
+    "default_description": "Raglin is a legendary assist champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Septimus",
@@ -529,7 +535,8 @@
         "septimus"
       ]
     },
-    "default_description": "Septimus is a legendary attack champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Septimus is a legendary attack champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Sethallia",
@@ -605,7 +612,8 @@
         "sethallia"
       ]
     },
-    "default_description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Rowan",
@@ -681,7 +689,8 @@
         "rowan"
       ]
     },
-    "default_description": "Rowan is a epic attack champion from the faction Banner-Lords doing void damage"
+    "default_description": "Rowan is a epic attack champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Azure",
@@ -757,7 +766,8 @@
         "azure"
       ]
     },
-    "default_description": "Azure is a epic hp champion from the faction Banner-Lords doing void damage"
+    "default_description": "Azure is a epic hp champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Hordin",
@@ -833,7 +843,8 @@
         "hordin"
       ]
     },
-    "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Knight Errant",
@@ -909,7 +920,8 @@
         "knight-errant"
       ]
     },
-    "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Oathbound",
@@ -985,7 +997,8 @@
         "oathbound"
       ]
     },
-    "default_description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage"
+    "default_description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Warcaster",
@@ -1061,7 +1074,8 @@
         "warcaster"
       ]
     },
-    "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage"
+    "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Cataphract",
@@ -1137,7 +1151,8 @@
         "cataphract"
       ]
     },
-    "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Chevalier",
@@ -1213,7 +1228,8 @@
         "chevalier"
       ]
     },
-    "default_description": "Chevalier is a rare def champion from the faction Banner-Lords doing void damage"
+    "default_description": "Chevalier is a rare def champion from the faction Banner-Lords doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Conquerer",
@@ -1289,7 +1305,8 @@
         "conquerer"
       ]
     },
-    "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Courtier",
@@ -1365,7 +1382,8 @@
         "courtier"
       ]
     },
-    "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage"
+    "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Grandmaster",
@@ -1441,7 +1459,8 @@
         "grandmaster"
       ]
     },
-    "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Halberdier",
@@ -1517,7 +1536,8 @@
         "halberdier"
       ]
     },
-    "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage"
+    "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Preserver",
@@ -1593,7 +1613,8 @@
         "preserver"
       ]
     },
-    "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage"
+    "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Valerie",
@@ -1669,7 +1690,8 @@
         "valerie"
       ]
     },
-    "default_description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Crossbowman",
@@ -1745,7 +1767,8 @@
         "crossbowman"
       ]
     },
-    "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage"
+    "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Archer",
@@ -1821,13 +1844,14 @@
         "archer"
       ]
     },
-    "default_description": "Archer is a uncommon attack champion from the faction Banner Lords"
+    "default_description": "Archer is a uncommon attack champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Commander",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -1897,7 +1921,8 @@
         "commander"
       ]
     },
-    "default_description": "Commander is a uncommon support champion from the faction Banner Lords"
+    "default_description": "Commander is a uncommon support champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Duelist",
@@ -1973,7 +1998,8 @@
         "duelist"
       ]
     },
-    "default_description": "Duelist is a uncommon attack champion from the faction Banner Lords"
+    "default_description": "Duelist is a uncommon attack champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Fireblade",
@@ -2049,13 +2075,14 @@
         "fireblade"
       ]
     },
-    "default_description": "Fireblade is a uncommon attack champion from the faction Banner Lords"
+    "default_description": "Fireblade is a uncommon attack champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Squire",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -2125,7 +2152,8 @@
         "squire"
       ]
     },
-    "default_description": "Squire is a uncommon defense champion from the faction Banner Lords"
+    "default_description": "Squire is a uncommon defense champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Stalwart",
@@ -2201,7 +2229,8 @@
         "stalwart"
       ]
     },
-    "default_description": "Stalwart is a uncommon hp champion from the faction Banner Lords"
+    "default_description": "Stalwart is a uncommon hp champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Axeman",
@@ -2277,7 +2306,8 @@
         "axeman"
       ]
     },
-    "default_description": "Axeman is a common hp champion from the faction Banner Lords"
+    "default_description": "Axeman is a common hp champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Bandit",
@@ -2353,13 +2383,14 @@
         "bandit"
       ]
     },
-    "default_description": "Bandit is a common attack champion from the faction Banner Lords"
+    "default_description": "Bandit is a common attack champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Pikeman",
     "rarity": "Common",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -2429,7 +2460,8 @@
         "pikeman"
       ]
     },
-    "default_description": "Pikeman is a common defense champion from the faction Banner Lords"
+    "default_description": "Pikeman is a common defense champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Swordsman",
@@ -2505,7 +2537,8 @@
         "swordsman"
       ]
     },
-    "default_description": "Swordsman is a common attack champion from the faction Banner Lords"
+    "default_description": "Swordsman is a common attack champion from the faction Banner Lords",
+    "recommended_builds": []
   },
   {
     "name": "Turvold",
@@ -2581,7 +2614,8 @@
         "turvold"
       ]
     },
-    "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage"
+    "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Valkyrie",
@@ -2657,7 +2691,8 @@
         "valkyrie"
       ]
     },
-    "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage"
+    "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Altan",
@@ -2733,7 +2768,8 @@
         "altan"
       ]
     },
-    "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage"
+    "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Kallia",
@@ -2809,7 +2845,8 @@
         "kallia"
       ]
     },
-    "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage"
+    "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Aina",
@@ -2885,7 +2922,8 @@
         "aina"
       ]
     },
-    "default_description": "Aina is a epic attack champion from the faction Barbarians doing magic damage"
+    "default_description": "Aina is a epic attack champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Jotun",
@@ -2961,7 +2999,8 @@
         "jotun"
       ]
     },
-    "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage"
+    "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Woad-Painted",
@@ -3037,7 +3076,8 @@
         "woad-painted"
       ]
     },
-    "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage"
+    "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Atur",
@@ -3113,7 +3153,8 @@
         "atur"
       ]
     },
-    "default_description": "Atur is a epic hp champion from the faction Barbarians doing magic damage"
+    "default_description": "Atur is a epic hp champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Anointed",
@@ -3189,7 +3230,8 @@
         "anointed"
       ]
     },
-    "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage"
+    "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Bloodbraid",
@@ -3265,7 +3307,8 @@
         "bloodbraid"
       ]
     },
-    "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage"
+    "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Marked",
@@ -3341,7 +3384,8 @@
         "marked"
       ]
     },
-    "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage"
+    "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Sentinel",
@@ -3417,7 +3461,8 @@
         "sentinel"
       ]
     },
-    "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage"
+    "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Skirmisher",
@@ -3493,7 +3538,8 @@
         "skirmisher"
       ]
     },
-    "default_description": "Skirmisher is a rare attack champion from the faction Barbarians doing void damage"
+    "default_description": "Skirmisher is a rare attack champion from the faction Barbarians doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Slayer",
@@ -3569,7 +3615,8 @@
         "slayer"
       ]
     },
-    "default_description": "Slayer is a rare attack champion from the faction Barbarians doing force damage"
+    "default_description": "Slayer is a rare attack champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Warmaiden",
@@ -3645,7 +3692,8 @@
         "warmaiden"
       ]
     },
-    "default_description": "Warmaiden is a rare attack champion from the faction Barbarians doing force damage"
+    "default_description": "Warmaiden is a rare attack champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Berserker",
@@ -3721,7 +3769,8 @@
         "berserker"
       ]
     },
-    "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage"
+    "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Ox",
@@ -3797,7 +3846,8 @@
         "ox"
       ]
     },
-    "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage"
+    "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Elder",
@@ -3873,13 +3923,14 @@
         "elder"
       ]
     },
-    "default_description": "Elder is a rare def champion from the faction Barbarians doing magic damage"
+    "default_description": "Elder is a rare def champion from the faction Barbarians doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Crusher",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -3949,7 +4000,8 @@
         "crusher"
       ]
     },
-    "default_description": "Crusher is a uncommon defense champion from the faction Barbarians"
+    "default_description": "Crusher is a uncommon defense champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Dervish",
@@ -4025,7 +4077,8 @@
         "dervish"
       ]
     },
-    "default_description": "Dervish is a uncommon attack champion from the faction Barbarians"
+    "default_description": "Dervish is a uncommon attack champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Outlander",
@@ -4101,7 +4154,8 @@
         "outlander"
       ]
     },
-    "default_description": "Outlander is a uncommon attack champion from the faction Barbarians"
+    "default_description": "Outlander is a uncommon attack champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Outrider",
@@ -4177,7 +4231,8 @@
         "outrider"
       ]
     },
-    "default_description": "Outrider is a uncommon attack champion from the faction Barbarians"
+    "default_description": "Outrider is a uncommon attack champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Pit Fighter",
@@ -4253,7 +4308,8 @@
         "pit-fighter"
       ]
     },
-    "default_description": "Pit Fighter is a uncommon hp champion from the faction Barbarians"
+    "default_description": "Pit Fighter is a uncommon hp champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Ritualist",
@@ -4329,13 +4385,14 @@
         "ritualist"
       ]
     },
-    "default_description": "Ritualist is a uncommon attack champion from the faction Barbarians"
+    "default_description": "Ritualist is a uncommon attack champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Shieldguard",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -4405,13 +4462,14 @@
         "shieldguard"
       ]
     },
-    "default_description": "Shieldguard is a uncommon defense champion from the faction Barbarians"
+    "default_description": "Shieldguard is a uncommon defense champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Spiritwalker",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -4481,7 +4539,8 @@
         "spiritwalker"
       ]
     },
-    "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians"
+    "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians",
+    "recommended_builds": []
   },
   {
     "name": "Ghostborn",
@@ -4557,7 +4616,8 @@
         "ghostborn"
       ]
     },
-    "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Queen Eva",
@@ -4633,7 +4693,8 @@
         "queen-eva"
       ]
     },
-    "default_description": "Queen Eva is a legendary attack champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Queen Eva is a legendary attack champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Rae",
@@ -4709,7 +4770,8 @@
         "rae"
       ]
     },
-    "default_description": "Rae is a legendary attack champion from the faction Dark Elves doing magic damage"
+    "default_description": "Rae is a legendary attack champion from the faction Dark Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Zavia",
@@ -4785,7 +4847,8 @@
         "zavia"
       ]
     },
-    "default_description": "Zavia is a legendary attack champion from the faction Dark Elves doing force damage"
+    "default_description": "Zavia is a legendary attack champion from the faction Dark Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Blind Seer",
@@ -4861,7 +4924,8 @@
         "blind-seer"
       ]
     },
-    "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage"
+    "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Astralith",
@@ -4937,7 +5001,8 @@
         "astralith"
       ]
     },
-    "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Lua",
@@ -5013,7 +5078,8 @@
         "lua"
       ]
     },
-    "default_description": "Lua is a epic attack champion from the faction Dark Elves doing void damage"
+    "default_description": "Lua is a epic attack champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Luria",
@@ -5089,7 +5155,8 @@
         "luria"
       ]
     },
-    "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Psylar",
@@ -5165,7 +5232,8 @@
         "psylar"
       ]
     },
-    "default_description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage"
+    "default_description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Crimson Helm",
@@ -5241,7 +5309,8 @@
         "crimson-helm"
       ]
     },
-    "default_description": "Crimson Helm is a epic def champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Crimson Helm is a epic def champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Delver",
@@ -5317,7 +5386,8 @@
         "delver"
       ]
     },
-    "default_description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Spider",
@@ -5393,7 +5463,8 @@
         "spider"
       ]
     },
-    "default_description": "Spider is a epic assist champion from the faction Dark Elves doing force damage"
+    "default_description": "Spider is a epic assist champion from the faction Dark Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Warden",
@@ -5469,7 +5540,8 @@
         "warden"
       ]
     },
-    "default_description": "Warden is a epic def champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Warden is a epic def champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Coldheart",
@@ -5545,7 +5617,8 @@
         "coldheart"
       ]
     },
-    "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage"
+    "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Kael",
@@ -5621,7 +5694,8 @@
         "kael"
       ]
     },
-    "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage"
+    "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Paragon",
@@ -5697,7 +5771,8 @@
         "paragon"
       ]
     },
-    "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage"
+    "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Spirithost",
@@ -5773,7 +5848,8 @@
         "spirithost"
       ]
     },
-    "default_description": "Spirithost is a rare assist champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Spirithost is a rare assist champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Hexweaver",
@@ -5849,7 +5925,8 @@
         "hexweaver"
       ]
     },
-    "default_description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Judge",
@@ -5925,7 +6002,8 @@
         "judge"
       ]
     },
-    "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage"
+    "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Mystic Hand",
@@ -6001,7 +6079,8 @@
         "mystic-hand"
       ]
     },
-    "default_description": "Mystic Hand is a rare assist champion from the faction Dark Elves doing force damage"
+    "default_description": "Mystic Hand is a rare assist champion from the faction Dark Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Retainer",
@@ -6077,7 +6156,8 @@
         "retainer"
       ]
     },
-    "default_description": "Retainer is a rare def champion from the faction Dark Elves doing void damage"
+    "default_description": "Retainer is a rare def champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Wanderer",
@@ -6153,7 +6233,8 @@
         "wanderer"
       ]
     },
-    "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage"
+    "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Heartpiercer",
@@ -6229,7 +6310,8 @@
         "heartpiercer"
       ]
     },
-    "default_description": "Heartpiercer is a uncommon attack champion from the faction Dark Elves"
+    "default_description": "Heartpiercer is a uncommon attack champion from the faction Dark Elves",
+    "recommended_builds": []
   },
   {
     "name": "Redeemer",
@@ -6305,7 +6387,8 @@
         "redeemer"
       ]
     },
-    "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves"
+    "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves",
+    "recommended_builds": []
   },
   {
     "name": "Sniper",
@@ -6381,7 +6464,8 @@
         "sniper"
       ]
     },
-    "default_description": "Sniper is a uncommon attack champion from the faction Dark Elves"
+    "default_description": "Sniper is a uncommon attack champion from the faction Dark Elves",
+    "recommended_builds": []
   },
   {
     "name": "Magekiller",
@@ -6457,7 +6541,8 @@
         "magekiller"
       ]
     },
-    "default_description": "Magekiller is a common attack champion from the faction Dark Elves"
+    "default_description": "Magekiller is a common attack champion from the faction Dark Elves",
+    "recommended_builds": []
   },
   {
     "name": "Ranger",
@@ -6533,7 +6618,8 @@
         "ranger"
       ]
     },
-    "default_description": "Ranger is a common attack champion from the faction Dark Elves"
+    "default_description": "Ranger is a common attack champion from the faction Dark Elves",
+    "recommended_builds": []
   },
   {
     "name": "Mortu-Macaab",
@@ -6609,7 +6695,8 @@
         "mortu-macaab"
       ]
     },
-    "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage"
+    "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Prince Kymar",
@@ -6685,7 +6772,8 @@
         "prince-kymar"
       ]
     },
-    "default_description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage"
+    "default_description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Lord Shazar",
@@ -6761,7 +6849,8 @@
         "lord-shazar"
       ]
     },
-    "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage"
+    "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Alure",
@@ -6837,7 +6926,8 @@
         "alure"
       ]
     },
-    "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage"
+    "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Nazana",
@@ -6913,7 +7003,8 @@
         "nazana"
       ]
     },
-    "default_description": "Nazana is a epic hp champion from the faction Demonspawn doing force damage"
+    "default_description": "Nazana is a epic hp champion from the faction Demonspawn doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Erinyes",
@@ -6989,7 +7080,8 @@
         "erinyes"
       ]
     },
-    "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage"
+    "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Hellgazer",
@@ -7065,7 +7157,8 @@
         "hellgazer"
       ]
     },
-    "default_description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage"
+    "default_description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Peydma",
@@ -7141,7 +7234,8 @@
         "peydma"
       ]
     },
-    "default_description": "Peydma is a epic def champion from the faction Demonspawn doing void damage"
+    "default_description": "Peydma is a epic def champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Souldrinker",
@@ -7217,7 +7311,8 @@
         "souldrinker"
       ]
     },
-    "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage"
+    "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Diabolist",
@@ -7293,7 +7388,8 @@
         "diabolist"
       ]
     },
-    "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage"
+    "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Fellhound",
@@ -7369,7 +7465,8 @@
         "fellhound"
       ]
     },
-    "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage"
+    "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Hellfang",
@@ -7445,7 +7542,8 @@
         "hellfang"
       ]
     },
-    "default_description": "Hellfang is a rare attack champion from the faction Demonspawn doing spirit damage"
+    "default_description": "Hellfang is a rare attack champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Hound Spawn",
@@ -7521,7 +7619,8 @@
         "hound-spawn"
       ]
     },
-    "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage"
+    "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Marquess",
@@ -7597,7 +7696,8 @@
         "marquess"
       ]
     },
-    "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage"
+    "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Marquis",
@@ -7673,7 +7773,8 @@
         "marquis"
       ]
     },
-    "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage"
+    "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Ifrit",
@@ -7749,7 +7850,8 @@
         "ifrit"
       ]
     },
-    "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage"
+    "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Incubus",
@@ -7825,7 +7927,8 @@
         "incubus"
       ]
     },
-    "default_description": "Incubus is a uncommon attack champion from the faction Demonspawn"
+    "default_description": "Incubus is a uncommon attack champion from the faction Demonspawn",
+    "recommended_builds": []
   },
   {
     "name": "Lemure",
@@ -7901,13 +8004,14 @@
         "lemure"
       ]
     },
-    "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn"
+    "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn",
+    "recommended_builds": []
   },
   {
     "name": "Pitspawn",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -7977,7 +8081,8 @@
         "pitspawn"
       ]
     },
-    "default_description": "Pitspawn is a uncommon defense champion from the faction Demonspawn"
+    "default_description": "Pitspawn is a uncommon defense champion from the faction Demonspawn",
+    "recommended_builds": []
   },
   {
     "name": "Belanor",
@@ -8053,7 +8158,8 @@
         "belanor"
       ]
     },
-    "default_description": "Belanor is a legendary attack champion from the faction High Elves doing void damage"
+    "default_description": "Belanor is a legendary attack champion from the faction High Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Ithos",
@@ -8129,7 +8235,8 @@
         "ithos"
       ]
     },
-    "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage"
+    "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Royal Huntsman",
@@ -8205,7 +8312,8 @@
         "royal-huntsman"
       ]
     },
-    "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage"
+    "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Elenaril",
@@ -8281,7 +8389,8 @@
         "elenaril"
       ]
     },
-    "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage"
+    "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Lyssandra",
@@ -8357,7 +8466,8 @@
         "lyssandra"
       ]
     },
-    "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage"
+    "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Shirimani",
@@ -8433,7 +8543,8 @@
         "shirimani"
       ]
     },
-    "default_description": "Shirimani is a legendary assist champion from the faction High Elves doing force damage"
+    "default_description": "Shirimani is a legendary assist champion from the faction High Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Arbiter",
@@ -8509,7 +8620,8 @@
         "arbiter"
       ]
     },
-    "default_description": "Arbiter is a legendary support champion from the faction High Elves doing void damage"
+    "default_description": "Arbiter is a legendary assist champion from the faction High Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Royal Guard",
@@ -8585,7 +8697,8 @@
         "royal-guard"
       ]
     },
-    "default_description": "Royal Guard is a epic attack champion from the faction High Elves doing magic damage"
+    "default_description": "Royal Guard is a epic attack champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Thenasil",
@@ -8661,7 +8774,8 @@
         "thenasil"
       ]
     },
-    "default_description": "Thenasil is a epic assist champion from the faction High Elves doing force damage"
+    "default_description": "Thenasil is a epic assist champion from the faction High Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Battlesage",
@@ -8737,7 +8851,8 @@
         "battlesage"
       ]
     },
-    "default_description": "Battlesage is a epic assist champion from the faction High Elves doing void damage"
+    "default_description": "Battlesage is a epic assist champion from the faction High Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Exemplar",
@@ -8813,7 +8928,8 @@
         "exemplar"
       ]
     },
-    "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage"
+    "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Jinglehunter",
@@ -8889,7 +9005,8 @@
         "jinglehunter"
       ]
     },
-    "default_description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage"
+    "default_description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Luthiea",
@@ -8965,7 +9082,8 @@
         "luthiea"
       ]
     },
-    "default_description": "Luthiea is a epic attack champion from the faction High Elves doing force damage"
+    "default_description": "Luthiea is a epic attack champion from the faction High Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Marksman",
@@ -9041,7 +9159,8 @@
         "marksman"
       ]
     },
-    "default_description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage"
+    "default_description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Tayrel",
@@ -9117,7 +9236,8 @@
         "tayrel"
       ]
     },
-    "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage"
+    "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Vergis",
@@ -9193,7 +9313,8 @@
         "vergis"
       ]
     },
-    "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage"
+    "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Apothecary",
@@ -9269,7 +9390,8 @@
         "apothecary"
       ]
     },
-    "default_description": "Apothecary is a rare assist champion from the faction High Elves doing magic damage"
+    "default_description": "Apothecary is a rare assist champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Elhain",
@@ -9345,7 +9467,8 @@
         "elhain"
       ]
     },
-    "default_description": "Elhain is a rare attack champion from the faction High Elves doing magic damage"
+    "default_description": "Elhain is a rare attack champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Heiress",
@@ -9421,7 +9544,8 @@
         "heiress"
       ]
     },
-    "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage"
+    "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Hyria",
@@ -9497,7 +9621,8 @@
         "hyria"
       ]
     },
-    "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage"
+    "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Avenger",
@@ -9573,7 +9698,8 @@
         "avenger"
       ]
     },
-    "default_description": "Avenger is a rare attack champion from the faction High Elves doing magic damage"
+    "default_description": "Avenger is a rare attack champion from the faction High Elves doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Magister",
@@ -9649,7 +9775,8 @@
         "magister"
       ]
     },
-    "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage"
+    "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Elfguard",
@@ -9725,7 +9852,8 @@
         "elfguard"
       ]
     },
-    "default_description": "Elfguard is a uncommon attack champion from the faction High Elves"
+    "default_description": "Elfguard is a uncommon attack champion from the faction High Elves",
+    "recommended_builds": []
   },
   {
     "name": "Jaeger",
@@ -9801,7 +9929,8 @@
         "jaeger"
       ]
     },
-    "default_description": "Jaeger is a uncommon attack champion from the faction High Elves"
+    "default_description": "Jaeger is a uncommon attack champion from the faction High Elves",
+    "recommended_builds": []
   },
   {
     "name": "Bystophus",
@@ -9877,7 +10006,8 @@
         "bystophus"
       ]
     },
-    "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage"
+    "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Soulless",
@@ -9953,7 +10083,8 @@
         "soulless"
       ]
     },
-    "default_description": "Soulless is a legendary def champion from the faction Knight Revenant doing void damage"
+    "default_description": "Soulless is a legendary def champion from the faction Knight Revenant doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Tomb Lord",
@@ -10029,7 +10160,8 @@
         "tomb-lord"
       ]
     },
-    "default_description": "Tomb Lord is a legendary assist champion from the faction Knight Revenant doing spirit damage"
+    "default_description": "Tomb Lord is a legendary assist champion from the faction Knight Revenant doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Doompriest",
@@ -10105,7 +10237,8 @@
         "doompriest"
       ]
     },
-    "default_description": "Doompriest is a epic assist champion from the faction Knight Revenant doing force damage"
+    "default_description": "Doompriest is a epic assist champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Skullcrown",
@@ -10181,7 +10314,8 @@
         "skullcrown"
       ]
     },
-    "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage"
+    "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Crypt Witch",
@@ -10257,7 +10391,8 @@
         "crypt-witch"
       ]
     },
-    "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage"
+    "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Sinesha",
@@ -10333,7 +10468,8 @@
         "sinesha"
       ]
     },
-    "default_description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage"
+    "default_description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Faceless",
@@ -10409,7 +10545,8 @@
         "faceless"
       ]
     },
-    "default_description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage"
+    "default_description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Kytis",
@@ -10485,7 +10622,8 @@
         "kytis"
       ]
     },
-    "default_description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage"
+    "default_description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Deathless",
@@ -10561,7 +10699,8 @@
         "deathless"
       ]
     },
-    "default_description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage"
+    "default_description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Arcanist",
@@ -10637,7 +10776,8 @@
         "arcanist"
       ]
     },
-    "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage"
+    "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Executioner",
@@ -10713,7 +10853,8 @@
         "executioner"
       ]
     },
-    "default_description": "Executioner is a rare def champion from the faction Knight Revenant doing magic damage"
+    "default_description": "Executioner is a rare def champion from the faction Knight Revenant doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Acolyte",
@@ -10789,7 +10930,8 @@
         "acolyte"
       ]
     },
-    "default_description": "Acolyte is a rare assist champion from the faction Knight Revenant doing force damage"
+    "default_description": "Acolyte is a rare assist champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Daywalker",
@@ -10865,7 +11007,8 @@
         "daywalker"
       ]
     },
-    "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage"
+    "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Gladiator",
@@ -10941,7 +11084,8 @@
         "gladiator"
       ]
     },
-    "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage"
+    "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Guardian",
@@ -11017,7 +11161,8 @@
         "guardian"
       ]
     },
-    "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage"
+    "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Magus",
@@ -11093,7 +11238,8 @@
         "magus"
       ]
     },
-    "default_description": "Magus is a rare attack champion from the faction Knight Revenant doing magic damage"
+    "default_description": "Magus is a rare attack champion from the faction Knight Revenant doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Renegade",
@@ -11169,7 +11315,8 @@
         "renegade"
       ]
     },
-    "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage"
+    "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Theurgist",
@@ -11245,7 +11392,8 @@
         "theurgist"
       ]
     },
-    "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage"
+    "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Admonitor",
@@ -11321,7 +11469,8 @@
         "admonitor"
       ]
     },
-    "default_description": "Admonitor is a uncommon hp champion from the faction Knight Revenant"
+    "default_description": "Admonitor is a uncommon hp champion from the faction Knight Revenant",
+    "recommended_builds": []
   },
   {
     "name": "Cultist",
@@ -11397,13 +11546,14 @@
         "cultist"
       ]
     },
-    "default_description": "Cultist is a uncommon attack champion from the faction Knight Revenant"
+    "default_description": "Cultist is a uncommon attack champion from the faction Knight Revenant",
+    "recommended_builds": []
   },
   {
     "name": "Herald",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -11473,7 +11623,8 @@
         "herald"
       ]
     },
-    "default_description": "Herald is a uncommon support champion from the faction Knight Revenant"
+    "default_description": "Herald is a uncommon support champion from the faction Knight Revenant",
+    "recommended_builds": []
   },
   {
     "name": "Fu-Shan",
@@ -11549,7 +11700,8 @@
         "fu-shan"
       ]
     },
-    "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage"
+    "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Rhazin Scarhide",
@@ -11625,7 +11777,8 @@
         "rhazin-scarhide"
       ]
     },
-    "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage"
+    "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Dracomorph",
@@ -11701,7 +11854,8 @@
         "dracomorph"
       ]
     },
-    "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage"
+    "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Jarang",
@@ -11777,7 +11931,8 @@
         "jarang"
       ]
     },
-    "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage"
+    "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Broadmaw",
@@ -11853,7 +12008,8 @@
         "broadmaw"
       ]
     },
-    "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage"
+    "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Drake",
@@ -11929,7 +12085,8 @@
         "drake"
       ]
     },
-    "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage"
+    "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Jizoh",
@@ -12005,7 +12162,8 @@
         "jizoh"
       ]
     },
-    "default_description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage"
+    "default_description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Skink",
@@ -12081,7 +12239,8 @@
         "skink"
       ]
     },
-    "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage"
+    "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Bogwalker",
@@ -12157,7 +12316,8 @@
         "bogwalker"
       ]
     },
-    "default_description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage"
+    "default_description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Flinger",
@@ -12233,7 +12393,8 @@
         "flinger"
       ]
     },
-    "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage"
+    "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Gator",
@@ -12309,7 +12470,8 @@
         "gator"
       ]
     },
-    "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage"
+    "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Hurler",
@@ -12385,7 +12547,8 @@
         "hurler"
       ]
     },
-    "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage"
+    "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Metalshaper",
@@ -12461,7 +12624,8 @@
         "metalshaper"
       ]
     },
-    "default_description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage"
+    "default_description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Skullsworn",
@@ -12537,7 +12701,8 @@
         "skullsworn"
       ]
     },
-    "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage"
+    "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Slasher",
@@ -12613,7 +12778,8 @@
         "slasher"
       ]
     },
-    "default_description": "Slasher is a rare attack champion from the faction Lizardmen doing spirit damage"
+    "default_description": "Slasher is a rare attack champion from the faction Lizardmen doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Slitherbrute",
@@ -12689,7 +12855,8 @@
         "slitherbrute"
       ]
     },
-    "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage"
+    "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Muckstalker",
@@ -12765,13 +12932,14 @@
         "muckstalker"
       ]
     },
-    "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage"
+    "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Hardscale",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -12841,7 +13009,8 @@
         "hardscale"
       ]
     },
-    "default_description": "Hardscale is a uncommon defense champion from the faction Lizardmen"
+    "default_description": "Hardscale is a uncommon defense champion from the faction Lizardmen",
+    "recommended_builds": []
   },
   {
     "name": "Saurus",
@@ -12917,7 +13086,8 @@
         "saurus"
       ]
     },
-    "default_description": "Saurus is a uncommon attack champion from the faction Lizardmen"
+    "default_description": "Saurus is a uncommon attack champion from the faction Lizardmen",
+    "recommended_builds": []
   },
   {
     "name": "Skinner",
@@ -12993,7 +13163,8 @@
         "skinner"
       ]
     },
-    "default_description": "Skinner is a uncommon attack champion from the faction Lizardmen"
+    "default_description": "Skinner is a uncommon attack champion from the faction Lizardmen",
+    "recommended_builds": []
   },
   {
     "name": "Stalker",
@@ -13069,13 +13240,14 @@
         "stalker"
       ]
     },
-    "default_description": "Stalker is a uncommon hp champion from the faction Lizardmen"
+    "default_description": "Stalker is a uncommon hp champion from the faction Lizardmen",
+    "recommended_builds": []
   },
   {
     "name": "Troglodyte",
     "rarity": "Common",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -13145,7 +13317,8 @@
         "troglodyte"
       ]
     },
-    "default_description": "Troglodyte is a common defense champion from the faction Lizardmen"
+    "default_description": "Troglodyte is a common defense champion from the faction Lizardmen",
+    "recommended_builds": []
   },
   {
     "name": "Big'Un",
@@ -13172,14 +13345,14 @@
     "slug": "big-un",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
-        "accuracy": 0
+        "hp": 17505,
+        "attack": 1575,
+        "defense": 837,
+        "speed": 104,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 10
       }
     },
     "auras": [],
@@ -13221,7 +13394,8 @@
         "big-un"
       ]
     },
-    "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Ignatius",
@@ -13297,7 +13471,8 @@
         "ignatius"
       ]
     },
-    "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Shamrock",
@@ -13373,7 +13548,8 @@
         "shamrock"
       ]
     },
-    "default_description": "Shamrock is a legendary assist champion from the faction Ogryn-Tribes doing spirit damage"
+    "default_description": "Shamrock is a legendary assist champion from the faction Ogryn-Tribes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "War Mother",
@@ -13449,7 +13625,8 @@
         "war-mother"
       ]
     },
-    "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Gurgoh the Augur",
@@ -13525,83 +13702,8 @@
         "gurgoh-the-augur"
       ]
     },
-    "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage"
-  },
-  {
-    "name": "BigUn",
-    "rarity": "Legendary",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "bigun",
-    "characteristics": {
-      "60": {
-        "hp": 17505,
-        "attack": 1575,
-        "defense": 837,
-        "speed": 104,
-        "critical_rate": 0.15,
-        "critical_damage": 0.63,
-        "resistance": 30,
-        "accuracy": 10
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "Ogryn Tribes",
-      "slug": "ogryn-tribes",
-      "website_link": "/factions/ogryn-tribes/",
-      "image_slug": "image-faction-ogryn-tribes",
-      "number_of_champions": 0,
-      "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "Ogryn Tribes",
-          "ogryn-tribes"
-        ]
-      }
-    },
-    "faction_slug": "ogryn-tribes",
-    "website_link": "/champions/bigun/",
-    "image_slug": "image-champion-bigun",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "BigUn is a legendary attack champion from the faction Ogryn Tribes. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "BigUn",
-        "bigun"
-      ]
-    },
-    "default_description": "BigUn is a legendary attack champion from the faction Ogryn Tribes"
+    "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Maneater",
@@ -13677,7 +13779,8 @@
         "maneater"
       ]
     },
-    "default_description": "Maneater is a epic attack champion from the faction Ogryn-Tribes doing void damage"
+    "default_description": "Maneater is a epic hp champion from the faction Ogryn-Tribes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Shatterbones",
@@ -13753,7 +13856,8 @@
         "shatterbones"
       ]
     },
-    "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage"
+    "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Skullcrusher",
@@ -13829,7 +13933,8 @@
         "skullcrusher"
       ]
     },
-    "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage"
+    "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Galkut",
@@ -13905,7 +14010,8 @@
         "galkut"
       ]
     },
-    "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage"
+    "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Grimskin",
@@ -13981,7 +14087,8 @@
         "grimskin"
       ]
     },
-    "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Bellower",
@@ -14057,7 +14164,8 @@
         "bellower"
       ]
     },
-    "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage"
+    "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Rocktooth",
@@ -14133,7 +14241,8 @@
         "rocktooth"
       ]
     },
-    "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Flesheater",
@@ -14209,7 +14318,8 @@
         "flesheater"
       ]
     },
-    "default_description": "Flesheater is a rare assist champion from the faction Ogryn-Tribes doing spirit damage"
+    "default_description": "Flesheater is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Furystoker",
@@ -14285,7 +14395,8 @@
         "furystoker"
       ]
     },
-    "default_description": "Furystoker is a rare assist champion from the faction Ogryn-Tribes doing spirit damage"
+    "default_description": "Furystoker is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Magmablood",
@@ -14361,7 +14472,8 @@
         "magmablood"
       ]
     },
-    "default_description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage"
+    "default_description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Siegebreaker",
@@ -14437,7 +14549,8 @@
         "siegebreaker"
       ]
     },
-    "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage"
+    "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Pounder",
@@ -14513,7 +14626,8 @@
         "pounder"
       ]
     },
-    "default_description": "Pounder is a rare def champion from the faction Ogryn-Tribes doing magic damage"
+    "default_description": "Pounder is a rare def champion from the faction Ogryn-Tribes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Stoneskin",
@@ -14589,7 +14703,8 @@
         "stoneskin"
       ]
     },
-    "default_description": "Stoneskin is a rare hp champion from the faction Ogryn-Tribes doing void damage"
+    "default_description": "Stoneskin is a rare hp champion from the faction Ogryn-Tribes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Brute",
@@ -14665,13 +14780,14 @@
         "brute"
       ]
     },
-    "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes"
+    "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes",
+    "recommended_builds": []
   },
   {
     "name": "Frostskin",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -14741,13 +14857,14 @@
         "frostskin"
       ]
     },
-    "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes"
+    "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes",
+    "recommended_builds": []
   },
   {
     "name": "Oldbeard",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -14817,7 +14934,8 @@
         "oldbeard"
       ]
     },
-    "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes"
+    "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes",
+    "recommended_builds": []
   },
   {
     "name": "Warlord",
@@ -14893,7 +15011,8 @@
         "warlord"
       ]
     },
-    "default_description": "Warlord is a legendary assist champion from the faction Orcs doing void damage"
+    "default_description": "Warlord is a legendary assist champion from the faction Orcs doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Robar",
@@ -14969,7 +15088,8 @@
         "robar"
       ]
     },
-    "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage"
+    "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Angar",
@@ -15045,7 +15165,8 @@
         "angar"
       ]
     },
-    "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage"
+    "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Vrask",
@@ -15121,7 +15242,8 @@
         "vrask"
       ]
     },
-    "default_description": "Vrask is a epic hp champion from the faction Orcs doing spirit damage"
+    "default_description": "Vrask is a epic hp champion from the faction Orcs doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Seer",
@@ -15197,7 +15319,8 @@
         "seer"
       ]
     },
-    "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage"
+    "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Bloodfeather",
@@ -15273,10 +15396,11 @@
         "bloodfeather"
       ]
     },
-    "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage"
+    "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
-    "name": "Bonekepper",
+    "name": "Bonekeeper",
     "rarity": "Epic",
     "element": "Force",
     "type": "Attack",
@@ -15297,16 +15421,16 @@
       "spirit_dungeon": "B",
       "void_dungeon": "B"
     },
-    "slug": "bonekepper",
+    "slug": "bonekeeper",
     "characteristics": {
       "60": {
-        "hp": 0,
-        "attack": 0,
-        "defense": 0,
-        "speed": 0,
-        "critical_rate": 0,
-        "critical_damage": 0,
-        "resistance": 0,
+        "hp": 13545,
+        "attack": 1531,
+        "defense": 870,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
         "accuracy": 0
       }
     },
@@ -15333,11 +15457,11 @@
       }
     },
     "faction_slug": "orcs",
-    "website_link": "/champions/bonekepper/",
-    "image_slug": "image-champion-bonekepper",
+    "website_link": "/champions/bonekeeper/",
+    "image_slug": "image-champion-bonekeeper",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Bonekepper is a epic attack champion from the faction Orcs doing force damage. Find out more on this Raid Shadow Legends codex.",
+      "description": "Bonekeeper is a epic attack champion from the faction Orcs doing force damage. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -15345,11 +15469,12 @@
         "champions",
         "tier",
         "list",
-        "Bonekepper",
-        "bonekepper"
+        "Bonekeeper",
+        "bonekeeper"
       ]
     },
-    "default_description": "Bonekepper is a epic attack champion from the faction Orcs doing force damage"
+    "default_description": "Bonekeeper is a epic attack champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Shaman",
@@ -15425,7 +15550,8 @@
         "shaman"
       ]
     },
-    "default_description": "Shaman is a epic assist champion from the faction Orcs doing force damage"
+    "default_description": "Shaman is a epic assist champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Terrorbeast",
@@ -15501,7 +15627,8 @@
         "terrorbeast"
       ]
     },
-    "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage"
+    "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Torturehelm",
@@ -15577,7 +15704,8 @@
         "torturehelm"
       ]
     },
-    "default_description": "Torturehelm is a epic hp champion from the faction Orcs doing force damage"
+    "default_description": "Torturehelm is a epic hp champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Zargala",
@@ -15653,83 +15781,8 @@
         "zargala"
       ]
     },
-    "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage"
-  },
-  {
-    "name": "Bonekeeper",
-    "rarity": "Epic",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "bonekeeper",
-    "characteristics": {
-      "60": {
-        "hp": 13545,
-        "attack": 1531,
-        "defense": 870,
-        "speed": 98,
-        "critical_rate": 0.15,
-        "critical_damage": 0.6,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "Orcs",
-      "slug": "orcs",
-      "website_link": "/factions/orcs/",
-      "image_slug": "image-faction-orcs",
-      "number_of_champions": 0,
-      "default_description": "Orcs is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "Orcs is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "Orcs",
-          "orcs"
-        ]
-      }
-    },
-    "faction_slug": "orcs",
-    "website_link": "/champions/bonekeeper/",
-    "image_slug": "image-champion-bonekeeper",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Bonekeeper is a epic attack champion from the faction Orcs. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Bonekeeper",
-        "bonekeeper"
-      ]
-    },
-    "default_description": "Bonekeeper is a epic attack champion from the faction Orcs"
+    "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Deathchanter",
@@ -15805,7 +15858,8 @@
         "deathchanter"
       ]
     },
-    "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage"
+    "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Galek",
@@ -15881,7 +15935,8 @@
         "galek"
       ]
     },
-    "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage"
+    "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Chopper",
@@ -15957,7 +16012,8 @@
         "chopper"
       ]
     },
-    "default_description": "Chopper is a rare attack champion from the faction Orcs doing magic damage"
+    "default_description": "Chopper is a rare attack champion from the faction Orcs doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Goremask",
@@ -16033,7 +16089,8 @@
         "goremask"
       ]
     },
-    "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage"
+    "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Huntress",
@@ -16109,7 +16166,8 @@
         "huntress"
       ]
     },
-    "default_description": "Huntress is a rare attack champion from the faction Orcs doing void damage"
+    "default_description": "Huntress is a rare attack champion from the faction Orcs doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Ironclad",
@@ -16185,7 +16243,8 @@
         "ironclad"
       ]
     },
-    "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage"
+    "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Raider",
@@ -16261,7 +16320,8 @@
         "raider"
       ]
     },
-    "default_description": "Raider is a rare attack champion from the faction Orcs doing spirit damage"
+    "default_description": "Raider is a rare attack champion from the faction Orcs doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Spikehead",
@@ -16337,7 +16397,8 @@
         "spikehead"
       ]
     },
-    "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage"
+    "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Totem",
@@ -16413,7 +16474,8 @@
         "totem"
       ]
     },
-    "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage"
+    "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Veteran",
@@ -16489,7 +16551,8 @@
         "veteran"
       ]
     },
-    "default_description": "Veteran is a rare def champion from the faction Orcs doing void damage"
+    "default_description": "Veteran is a rare def champion from the faction Orcs doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Throatcutter",
@@ -16565,7 +16628,8 @@
         "throatcutter"
       ]
     },
-    "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs"
+    "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs",
+    "recommended_builds": []
   },
   {
     "name": "Warchanter",
@@ -16641,13 +16705,14 @@
         "warchanter"
       ]
     },
-    "default_description": "Warchanter is a uncommon hp champion from the faction Orcs"
+    "default_description": "Warchanter is a uncommon hp champion from the faction Orcs",
+    "recommended_builds": []
   },
   {
     "name": "Warboy",
     "rarity": "Common",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -16717,7 +16782,8 @@
         "warboy"
       ]
     },
-    "default_description": "Warboy is a common defense champion from the faction Orcs"
+    "default_description": "Warboy is a common defense champion from the faction Orcs",
+    "recommended_builds": []
   },
   {
     "name": "Abbess",
@@ -16793,7 +16859,8 @@
         "abbess"
       ]
     },
-    "default_description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage"
+    "default_description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Cupidus",
@@ -16869,7 +16936,8 @@
         "cupidus"
       ]
     },
-    "default_description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Martyr",
@@ -16945,7 +17013,8 @@
         "martyr"
       ]
     },
-    "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Sir Nicholas",
@@ -17021,7 +17090,8 @@
         "sir-nicholas"
       ]
     },
-    "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage"
+    "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Venus",
@@ -17097,7 +17167,8 @@
         "venus"
       ]
     },
-    "default_description": "Venus is a legendary assist champion from the faction Sacred Order doing void damage"
+    "default_description": "Venus is a legendary assist champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Errol",
@@ -17173,7 +17244,8 @@
         "errol"
       ]
     },
-    "default_description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage"
+    "default_description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Roshcard the Tower",
@@ -17249,7 +17321,8 @@
         "roshcard-the-tower"
       ]
     },
-    "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage"
+    "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Frostbringer",
@@ -17325,7 +17398,8 @@
         "frostbringer"
       ]
     },
-    "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage"
+    "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Juliana",
@@ -17401,7 +17475,8 @@
         "juliana"
       ]
     },
-    "default_description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage"
+    "default_description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Tallia",
@@ -17477,7 +17552,8 @@
         "tallia"
       ]
     },
-    "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage"
+    "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Adriel",
@@ -17553,7 +17629,8 @@
         "adriel"
       ]
     },
-    "default_description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage"
+    "default_description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Aothar",
@@ -17629,7 +17706,8 @@
         "aothar"
       ]
     },
-    "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage"
+    "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Fenax",
@@ -17705,7 +17783,8 @@
         "fenax"
       ]
     },
-    "default_description": "Fenax is a epic attack champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Fenax is a epic attack champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Hope",
@@ -17781,7 +17860,8 @@
         "hope"
       ]
     },
-    "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage"
+    "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Lightsworn",
@@ -17857,7 +17937,8 @@
         "lightsworn"
       ]
     },
-    "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage"
+    "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Relickeeper",
@@ -17933,7 +18014,8 @@
         "relickeeper"
       ]
     },
-    "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage"
+    "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Romero",
@@ -18009,7 +18091,8 @@
         "romero"
       ]
     },
-    "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage"
+    "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Bushi",
@@ -18085,7 +18168,8 @@
         "bushi"
       ]
     },
-    "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Canoness",
@@ -18161,7 +18245,8 @@
         "canoness"
       ]
     },
-    "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage"
+    "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Cardinal",
@@ -18237,7 +18322,8 @@
         "cardinal"
       ]
     },
-    "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage"
+    "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Athel",
@@ -18313,7 +18399,8 @@
         "athel"
       ]
     },
-    "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage"
+    "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Chaplain",
@@ -18389,7 +18476,8 @@
         "chaplain"
       ]
     },
-    "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage"
+    "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Confessor",
@@ -18465,7 +18553,8 @@
         "confessor"
       ]
     },
-    "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage"
+    "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Harrier",
@@ -18541,7 +18630,8 @@
         "harrier"
       ]
     },
-    "default_description": "Harrier is a rare attack champion from the faction Sacred Order doing void damage"
+    "default_description": "Harrier is a rare attack champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Hospitaller",
@@ -18617,7 +18707,8 @@
         "hospitaller"
       ]
     },
-    "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage"
+    "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Judicator",
@@ -18693,7 +18784,8 @@
         "judicator"
       ]
     },
-    "default_description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Justiciar",
@@ -18769,7 +18861,8 @@
         "justiciar"
       ]
     },
-    "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage"
+    "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Lamellar",
@@ -18845,7 +18938,8 @@
         "lamellar"
       ]
     },
-    "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage"
+    "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Maiden",
@@ -18921,7 +19015,8 @@
         "maiden"
       ]
     },
-    "default_description": "Maiden is a rare attack champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Maiden is a rare attack champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Penitent",
@@ -18997,7 +19092,8 @@
         "penitent"
       ]
     },
-    "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Templar",
@@ -19073,7 +19169,8 @@
         "templar"
       ]
     },
-    "default_description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Warpriest",
@@ -19149,7 +19246,8 @@
         "warpriest"
       ]
     },
-    "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage"
+    "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Longbeard",
@@ -19225,7 +19323,8 @@
         "longbeard"
       ]
     },
-    "default_description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage"
+    "default_description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Norog",
@@ -19301,7 +19400,8 @@
         "norog"
       ]
     },
-    "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage"
+    "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Warchief",
@@ -19377,7 +19477,8 @@
         "warchief"
       ]
     },
-    "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage"
+    "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Basher",
@@ -19453,7 +19554,8 @@
         "basher"
       ]
     },
-    "default_description": "Basher is a epic attack champion from the faction Skinwalker doing void damage"
+    "default_description": "Basher is a epic attack champion from the faction Skinwalker doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Reinbeast",
@@ -19529,7 +19631,8 @@
         "reinbeast"
       ]
     },
-    "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage"
+    "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Steelskull",
@@ -19605,7 +19708,8 @@
         "steelskull"
       ]
     },
-    "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage"
+    "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Flesh-Tearer",
@@ -19681,7 +19785,8 @@
         "flesh-tearer"
       ]
     },
-    "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage"
+    "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Ripper",
@@ -19757,7 +19862,8 @@
         "ripper"
       ]
     },
-    "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage"
+    "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Taurus",
@@ -19833,7 +19939,8 @@
         "taurus"
       ]
     },
-    "default_description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage"
+    "default_description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Bloodpainter",
@@ -19909,7 +20016,8 @@
         "bloodpainter"
       ]
     },
-    "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage"
+    "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Channeler",
@@ -19985,7 +20093,8 @@
         "channeler"
       ]
     },
-    "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage"
+    "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Grappler",
@@ -20061,7 +20170,8 @@
         "grappler"
       ]
     },
-    "default_description": "Grappler is a rare def champion from the faction Skinwalker doing spirit damage"
+    "default_description": "Grappler is a rare def champion from the faction Skinwalker doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Graybeard",
@@ -20137,7 +20247,8 @@
         "graybeard"
       ]
     },
-    "default_description": "Graybeard is a rare def champion from the faction Skinwalker doing magic damage"
+    "default_description": "Graybeard is a rare def champion from the faction Skinwalker doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Bloodhorn",
@@ -20213,7 +20324,8 @@
         "bloodhorn"
       ]
     },
-    "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage"
+    "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Gnarlhorn",
@@ -20289,7 +20401,8 @@
         "gnarlhorn"
       ]
     },
-    "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage"
+    "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Satyr",
@@ -20365,13 +20478,14 @@
         "satyr"
       ]
     },
-    "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker"
+    "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker",
+    "recommended_builds": []
   },
   {
     "name": "Windtalker",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -20441,13 +20555,14 @@
         "windtalker"
       ]
     },
-    "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker"
+    "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
+    "recommended_builds": []
   },
   {
     "name": "Armiger",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -20517,7 +20632,8 @@
         "armiger"
       ]
     },
-    "default_description": "Armiger is a uncommon defense champion from the faction The Sacred Order"
+    "default_description": "Armiger is a uncommon defense champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Battle Sister",
@@ -20593,7 +20709,8 @@
         "battle-sister"
       ]
     },
-    "default_description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Crusader",
@@ -20669,13 +20786,14 @@
         "crusader"
       ]
     },
-    "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Intercessor",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -20745,7 +20863,8 @@
         "intercessor"
       ]
     },
-    "default_description": "Intercessor is a uncommon support champion from the faction The Sacred Order"
+    "default_description": "Intercessor is a uncommon support champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Militia",
@@ -20821,7 +20940,8 @@
         "militia"
       ]
     },
-    "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Outlaw Monk",
@@ -20897,13 +21017,14 @@
         "outlaw-monk"
       ]
     },
-    "default_description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Pilgrim",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -20973,7 +21094,8 @@
         "pilgrim"
       ]
     },
-    "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order"
+    "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Sergeant",
@@ -21049,7 +21171,8 @@
         "sergeant"
       ]
     },
-    "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Sharpshooter",
@@ -21125,7 +21248,8 @@
         "sharpshooter"
       ]
     },
-    "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Vigilante",
@@ -21201,13 +21325,14 @@
         "vigilante"
       ]
     },
-    "default_description": "Vigilante is a uncommon hp champion from the faction The Sacred Order"
+    "default_description": "Vigilante is a uncommon hp champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Knecht",
     "rarity": "Common",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -21277,7 +21402,8 @@
         "knecht"
       ]
     },
-    "default_description": "Knecht is a common defense champion from the faction The Sacred Order"
+    "default_description": "Knecht is a common defense champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Novitiate",
@@ -21353,7 +21479,8 @@
         "novitiate"
       ]
     },
-    "default_description": "Novitiate is a common attack champion from the faction The Sacred Order"
+    "default_description": "Novitiate is a common attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Preacher",
@@ -21429,7 +21556,8 @@
         "preacher"
       ]
     },
-    "default_description": "Preacher is a common hp champion from the faction The Sacred Order"
+    "default_description": "Preacher is a common hp champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Sister Militant",
@@ -21505,7 +21633,8 @@
         "sister-militant"
       ]
     },
-    "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order"
+    "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Yeoman",
@@ -21581,7 +21710,8 @@
         "yeoman"
       ]
     },
-    "default_description": "Yeoman is a common attack champion from the faction The Sacred Order"
+    "default_description": "Yeoman is a common attack champion from the faction The Sacred Order",
+    "recommended_builds": []
   },
   {
     "name": "Bad-el-Kazar",
@@ -21657,7 +21787,8 @@
         "bad-el-kazar"
       ]
     },
-    "default_description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage"
+    "default_description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Bloodgorged",
@@ -21733,7 +21864,8 @@
         "bloodgorged"
       ]
     },
-    "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage"
+    "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Nethril",
@@ -21809,7 +21941,8 @@
         "nethril"
       ]
     },
-    "default_description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage"
+    "default_description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Ma'Shalled",
@@ -21885,7 +22018,8 @@
         "ma-shalled"
       ]
     },
-    "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage"
+    "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "MaShalled",
@@ -21961,13 +22095,14 @@
         "mashalled"
       ]
     },
-    "default_description": "MaShalled is a legendary attack champion from the faction Undead Hordes"
+    "default_description": "MaShalled is a legendary attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Skartorsis",
     "rarity": "Legendary",
     "element": "",
-    "type": "Support",
+    "type": "Assist",
     "rating": {
       "overall": "",
       "campaign": "",
@@ -22037,7 +22172,8 @@
         "skartorsis"
       ]
     },
-    "default_description": "Skartorsis is a legendary support champion from the faction Undead Hordes"
+    "default_description": "Skartorsis is a legendary support champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Skartosis",
@@ -22113,7 +22249,8 @@
         "skartosis"
       ]
     },
-    "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage"
+    "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Gorgorab",
@@ -22189,7 +22326,8 @@
         "gorgorab"
       ]
     },
-    "default_description": "Gorgorab is a epic assist champion from the faction Undead Hordes doing magic damage"
+    "default_description": "Gorgorab is a epic assist champion from the faction Undead Hordes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Husk",
@@ -22265,7 +22403,8 @@
         "husk"
       ]
     },
-    "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage"
+    "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Seeker",
@@ -22341,7 +22480,8 @@
         "seeker"
       ]
     },
-    "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage"
+    "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Zelotah",
@@ -22417,7 +22557,8 @@
         "zelotah"
       ]
     },
-    "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage"
+    "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Hexia",
@@ -22493,7 +22634,8 @@
         "hexia"
       ]
     },
-    "default_description": "Hexia is a epic attack champion from the faction Undead Hordes doing force damage"
+    "default_description": "Hexia is a epic attack champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Karam",
@@ -22569,7 +22711,8 @@
         "karam"
       ]
     },
-    "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage"
+    "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Lich",
@@ -22645,7 +22788,8 @@
         "lich"
       ]
     },
-    "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage"
+    "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Banshee",
@@ -22721,7 +22865,8 @@
         "banshee"
       ]
     },
-    "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage"
+    "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Bone Knight",
@@ -22797,7 +22942,8 @@
         "bone-knight"
       ]
     },
-    "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage"
+    "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage",
+    "recommended_builds": []
   },
   {
     "name": "Sorceress",
@@ -22873,7 +23019,8 @@
         "sorceress"
       ]
     },
-    "default_description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage"
+    "default_description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Temptress",
@@ -22949,7 +23096,8 @@
         "temptress"
       ]
     },
-    "default_description": "Temptress is a rare attack champion from the faction Undead Hordes doing magic damage"
+    "default_description": "Temptress is a rare attack champion from the faction Undead Hordes doing magic damage",
+    "recommended_builds": []
   },
   {
     "name": "Doomscreech",
@@ -23025,7 +23173,8 @@
         "doomscreech"
       ]
     },
-    "default_description": "Doomscreech is a rare hp champion from the faction Undead Hordes doing void damage"
+    "default_description": "Doomscreech is a rare hp champion from the faction Undead Hordes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Grinner",
@@ -23101,7 +23250,8 @@
         "grinner"
       ]
     },
-    "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage"
+    "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Hollow",
@@ -23177,7 +23327,8 @@
         "hollow"
       ]
     },
-    "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage"
+    "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Seducer",
@@ -23253,7 +23404,8 @@
         "seducer"
       ]
     },
-    "default_description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage"
+    "default_description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Wretch",
@@ -23329,7 +23481,8 @@
         "wretch"
       ]
     },
-    "default_description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage"
+    "default_description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage",
+    "recommended_builds": []
   },
   {
     "name": "Arbalester",
@@ -23405,7 +23558,8 @@
         "arbalester"
       ]
     },
-    "default_description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage"
+    "default_description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage",
+    "recommended_builds": []
   },
   {
     "name": "Death Knight",
@@ -23481,7 +23635,8 @@
         "death-knight"
       ]
     },
-    "default_description": "Death Knight is a rare attack champion from the faction Undead Hordes"
+    "default_description": "Death Knight is a rare attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Dhampir",
@@ -23557,13 +23712,14 @@
         "dhampir"
       ]
     },
-    "default_description": "Dhampir is a uncommon attack champion from the faction Undead Hordes"
+    "default_description": "Dhampir is a uncommon attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Skellag",
     "rarity": "Uncommon",
     "element": "",
-    "type": "Defense",
+    "type": "Def",
     "rating": {
       "overall": "D",
       "campaign": "",
@@ -23633,7 +23789,8 @@
         "skellag"
       ]
     },
-    "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes"
+    "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Skullsquire",
@@ -23709,7 +23866,8 @@
         "skullsquire"
       ]
     },
-    "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes"
+    "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Vulpine",
@@ -23785,7 +23943,8 @@
         "vulpine"
       ]
     },
-    "default_description": "Vulpine is a uncommon attack champion from the faction Undead Hordes"
+    "default_description": "Vulpine is a uncommon attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Death Hound",
@@ -23861,7 +24020,8 @@
         "death-hound"
       ]
     },
-    "default_description": "Death Hound is a common attack champion from the faction Undead Hordes"
+    "default_description": "Death Hound is a common attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Deathknight",
@@ -23937,7 +24097,8 @@
         "deathknight"
       ]
     },
-    "default_description": "Deathknight is a common hp champion from the faction Undead Hordes"
+    "default_description": "Deathknight is a common hp champion from the faction Undead Hordes",
+    "recommended_builds": []
   },
   {
     "name": "Hellhound",
@@ -24013,6 +24174,7 @@
         "hellhound"
       ]
     },
-    "default_description": "Hellhound is a common attack champion from the faction Undead Hordes"
+    "default_description": "Hellhound is a common attack champion from the faction Undead Hordes",
+    "recommended_builds": []
   }
 ]

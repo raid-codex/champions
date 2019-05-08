@@ -72,5 +72,6 @@
       "paragon"
     ]
   },
-  "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage"
+  "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
+  "recommended_builds": []
 }

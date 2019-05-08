@@ -72,5 +72,6 @@
       "brute"
     ]
   },
-  "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes"
+  "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes",
+  "recommended_builds": []
 }

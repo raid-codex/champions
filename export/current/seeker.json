@@ -72,5 +72,6 @@
       "seeker"
     ]
   },
-  "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage"
+  "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage",
+  "recommended_builds": []
 }

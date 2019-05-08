@@ -2,7 +2,7 @@
   "name": "Frostskin",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "frostskin"
     ]
   },
-  "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes"
+  "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes",
+  "recommended_builds": []
 }

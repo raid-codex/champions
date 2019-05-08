@@ -72,5 +72,6 @@
       "martyr"
     ]
   },
-  "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage"
+  "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage",
+  "recommended_builds": []
 }

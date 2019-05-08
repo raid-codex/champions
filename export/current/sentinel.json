@@ -72,5 +72,6 @@
       "sentinel"
     ]
   },
-  "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage"
+  "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage",
+  "recommended_builds": []
 }

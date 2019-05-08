@@ -72,5 +72,6 @@
       "gladiator"
     ]
   },
-  "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage"
+  "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage",
+  "recommended_builds": []
 }

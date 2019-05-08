@@ -2,7 +2,7 @@
   "name": "Skellag",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "skellag"
     ]
   },
-  "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes"
+  "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

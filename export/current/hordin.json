@@ -72,5 +72,6 @@
       "hordin"
     ]
   },
-  "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage"
+  "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage",
+  "recommended_builds": []
 }

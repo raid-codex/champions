@@ -72,5 +72,6 @@
       "ifrit"
     ]
   },
-  "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage"
+  "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "roshcard-the-tower"
     ]
   },
-  "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage"
+  "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

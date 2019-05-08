@@ -72,5 +72,6 @@
       "lyssandra"
     ]
   },
-  "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage"
+  "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage",
+  "recommended_builds": []
 }

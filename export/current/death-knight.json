@@ -72,5 +72,6 @@
       "death-knight"
     ]
   },
-  "default_description": "Death Knight is a rare attack champion from the faction Undead Hordes"
+  "default_description": "Death Knight is a rare attack champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

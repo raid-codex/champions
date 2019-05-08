@@ -72,5 +72,6 @@
       "justiciar"
     ]
   },
-  "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage"
+  "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage",
+  "recommended_builds": []
 }

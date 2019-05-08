@@ -72,5 +72,6 @@
       "zelotah"
     ]
   },
-  "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage"
+  "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage",
+  "recommended_builds": []
 }

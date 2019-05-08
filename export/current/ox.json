@@ -72,5 +72,6 @@
       "ox"
     ]
   },
-  "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage"
+  "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage",
+  "recommended_builds": []
 }

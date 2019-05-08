@@ -72,5 +72,6 @@
       "warchanter"
     ]
   },
-  "default_description": "Warchanter is a uncommon hp champion from the faction Orcs"
+  "default_description": "Warchanter is a uncommon hp champion from the faction Orcs",
+  "recommended_builds": []
 }

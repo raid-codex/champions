@@ -72,5 +72,6 @@
       "lich"
     ]
   },
-  "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage"
+  "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage",
+  "recommended_builds": []
 }

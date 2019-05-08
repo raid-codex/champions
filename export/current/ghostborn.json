@@ -72,5 +72,6 @@
       "ghostborn"
     ]
   },
-  "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage"
+  "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage",
+  "recommended_builds": []
 }

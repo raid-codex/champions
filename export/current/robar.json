@@ -72,5 +72,6 @@
       "robar"
     ]
   },
-  "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage"
+  "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

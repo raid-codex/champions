@@ -72,5 +72,6 @@
       "death-hound"
     ]
   },
-  "default_description": "Death Hound is a common attack champion from the faction Undead Hordes"
+  "default_description": "Death Hound is a common attack champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

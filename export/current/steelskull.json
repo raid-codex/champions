@@ -72,5 +72,6 @@
       "steelskull"
     ]
   },
-  "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage"
+  "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",
+  "recommended_builds": []
 }

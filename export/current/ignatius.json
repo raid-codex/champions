@@ -72,5 +72,6 @@
       "ignatius"
     ]
   },
-  "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage"
+  "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage",
+  "recommended_builds": []
 }

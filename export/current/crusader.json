@@ -72,5 +72,6 @@
       "crusader"
     ]
   },
-  "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order"
+  "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

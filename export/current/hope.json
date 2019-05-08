@@ -72,5 +72,6 @@
       "hope"
     ]
   },
-  "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage"
+  "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

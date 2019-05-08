@@ -72,5 +72,6 @@
       "marquis"
     ]
   },
-  "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage"
+  "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage",
+  "recommended_builds": []
 }

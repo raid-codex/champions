@@ -72,5 +72,6 @@
       "ithos"
     ]
   },
-  "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage"
+  "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "tallia"
     ]
   },
-  "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage"
+  "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

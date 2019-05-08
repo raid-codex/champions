@@ -72,5 +72,6 @@
       "lemure"
     ]
   },
-  "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn"
+  "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "novitiate"
     ]
   },
-  "default_description": "Novitiate is a common attack champion from the faction The Sacred Order"
+  "default_description": "Novitiate is a common attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

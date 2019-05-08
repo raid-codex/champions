@@ -72,5 +72,6 @@
       "crossbowman"
     ]
   },
-  "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage"
+  "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage",
+  "recommended_builds": []
 }

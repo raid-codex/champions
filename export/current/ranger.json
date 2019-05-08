@@ -72,5 +72,6 @@
       "ranger"
     ]
   },
-  "default_description": "Ranger is a common attack champion from the faction Dark Elves"
+  "default_description": "Ranger is a common attack champion from the faction Dark Elves",
+  "recommended_builds": []
 }

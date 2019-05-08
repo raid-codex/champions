@@ -72,5 +72,6 @@
       "siegebreaker"
     ]
   },
-  "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage"
+  "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "skullcrusher"
     ]
   },
-  "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage"
+  "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage",
+  "recommended_builds": []
 }

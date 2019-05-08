@@ -72,5 +72,6 @@
       "totem"
     ]
   },
-  "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage"
+  "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage",
+  "recommended_builds": []
 }

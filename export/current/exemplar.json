@@ -72,5 +72,6 @@
       "exemplar"
     ]
   },
-  "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage"
+  "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "tayrel"
     ]
   },
-  "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage"
+  "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
+  "recommended_builds": []
 }

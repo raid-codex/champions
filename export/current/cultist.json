@@ -72,5 +72,6 @@
       "cultist"
     ]
   },
-  "default_description": "Cultist is a uncommon attack champion from the faction Knight Revenant"
+  "default_description": "Cultist is a uncommon attack champion from the faction Knight Revenant",
+  "recommended_builds": []
 }

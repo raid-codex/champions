@@ -72,5 +72,6 @@
       "bushi"
     ]
   },
-  "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage"
+  "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage",
+  "recommended_builds": []
 }

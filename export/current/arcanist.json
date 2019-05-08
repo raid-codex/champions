@@ -72,5 +72,6 @@
       "arcanist"
     ]
   },
-  "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage"
+  "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage",
+  "recommended_builds": []
 }

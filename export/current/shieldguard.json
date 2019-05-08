@@ -2,7 +2,7 @@
   "name": "Shieldguard",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "shieldguard"
     ]
   },
-  "default_description": "Shieldguard is a uncommon defense champion from the faction Barbarians"
+  "default_description": "Shieldguard is a uncommon defense champion from the faction Barbarians",
+  "recommended_builds": []
 }

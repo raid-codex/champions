@@ -72,5 +72,6 @@
       "penitent"
     ]
   },
-  "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage"
+  "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage",
+  "recommended_builds": []
 }

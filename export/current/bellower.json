@@ -72,5 +72,6 @@
       "bellower"
     ]
   },
-  "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage"
+  "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage",
+  "recommended_builds": []
 }

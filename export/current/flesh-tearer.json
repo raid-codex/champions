@@ -72,5 +72,6 @@
       "flesh-tearer"
     ]
   },
-  "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage"
+  "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage",
+  "recommended_builds": []
 }

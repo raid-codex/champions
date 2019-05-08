@@ -72,5 +72,6 @@
       "terrorbeast"
     ]
   },
-  "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage"
+  "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage",
+  "recommended_builds": []
 }

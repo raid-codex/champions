@@ -72,5 +72,6 @@
       "hurler"
     ]
   },
-  "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage"
+  "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage",
+  "recommended_builds": []
 }

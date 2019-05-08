@@ -72,5 +72,6 @@
       "sniper"
     ]
   },
-  "default_description": "Sniper is a uncommon attack champion from the faction Dark Elves"
+  "default_description": "Sniper is a uncommon attack champion from the faction Dark Elves",
+  "recommended_builds": []
 }

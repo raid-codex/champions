@@ -72,5 +72,6 @@
       "heiress"
     ]
   },
-  "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage"
+  "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage",
+  "recommended_builds": []
 }
