@@ -72,5 +72,6 @@
       "anointed"
     ]
   },
-  "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage"
+  "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage",
+  "recommended_builds": []
 }

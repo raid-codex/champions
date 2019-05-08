@@ -72,5 +72,6 @@
       "magekiller"
     ]
   },
-  "default_description": "Magekiller is a common attack champion from the faction Dark Elves"
+  "default_description": "Magekiller is a common attack champion from the faction Dark Elves",
+  "recommended_builds": []
 }

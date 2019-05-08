@@ -72,5 +72,6 @@
       "theurgist"
     ]
   },
-  "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage"
+  "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage",
+  "recommended_builds": []
 }

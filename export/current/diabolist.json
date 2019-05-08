@@ -72,5 +72,6 @@
       "diabolist"
     ]
   },
-  "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage"
+  "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage",
+  "recommended_builds": []
 }

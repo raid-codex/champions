@@ -72,5 +72,6 @@
       "warpriest"
     ]
   },
-  "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage"
+  "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage",
+  "recommended_builds": []
 }

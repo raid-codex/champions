@@ -72,5 +72,6 @@
       "hospitaller"
     ]
   },
-  "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage"
+  "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "jotun"
     ]
   },
-  "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage"
+  "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage",
+  "recommended_builds": []
 }

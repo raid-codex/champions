@@ -72,5 +72,6 @@
       "sharpshooter"
     ]
   },
-  "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order"
+  "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

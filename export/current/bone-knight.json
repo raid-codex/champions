@@ -72,5 +72,6 @@
       "bone-knight"
     ]
   },
-  "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage"
+  "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage",
+  "recommended_builds": []
 }

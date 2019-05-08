@@ -72,5 +72,6 @@
       "gnarlhorn"
     ]
   },
-  "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage"
+  "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage",
+  "recommended_builds": []
 }

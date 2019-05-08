@@ -72,5 +72,6 @@
       "preacher"
     ]
   },
-  "default_description": "Preacher is a common hp champion from the faction The Sacred Order"
+  "default_description": "Preacher is a common hp champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

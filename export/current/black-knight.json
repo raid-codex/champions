@@ -72,5 +72,6 @@
       "black-knight"
     ]
   },
-  "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage"
+  "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage",
+  "recommended_builds": []
 }

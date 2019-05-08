@@ -72,5 +72,6 @@
       "maneater"
     ]
   },
-  "default_description": "Maneater is a epic attack champion from the faction Ogryn-Tribes doing void damage"
+  "default_description": "Maneater is a epic hp champion from the faction Ogryn-Tribes doing void damage",
+  "recommended_builds": []
 }

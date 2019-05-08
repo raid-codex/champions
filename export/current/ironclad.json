@@ -72,5 +72,6 @@
       "ironclad"
     ]
   },
-  "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage"
+  "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

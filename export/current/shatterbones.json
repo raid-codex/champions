@@ -72,5 +72,6 @@
       "shatterbones"
     ]
   },
-  "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage"
+  "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage",
+  "recommended_builds": []
 }

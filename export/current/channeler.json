@@ -72,5 +72,6 @@
       "channeler"
     ]
   },
-  "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage"
+  "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage",
+  "recommended_builds": []
 }

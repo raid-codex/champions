@@ -2,7 +2,7 @@
   "name": "Skartorsis",
   "rarity": "Legendary",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "",
     "campaign": "",
@@ -72,5 +72,6 @@
       "skartorsis"
     ]
   },
-  "default_description": "Skartorsis is a legendary support champion from the faction Undead Hordes"
+  "default_description": "Skartorsis is a legendary support champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

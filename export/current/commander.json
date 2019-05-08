@@ -2,7 +2,7 @@
   "name": "Commander",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "commander"
     ]
   },
-  "default_description": "Commander is a uncommon support champion from the faction Banner Lords"
+  "default_description": "Commander is a uncommon support champion from the faction Banner Lords",
+  "recommended_builds": []
 }

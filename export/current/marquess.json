@@ -72,5 +72,6 @@
       "marquess"
     ]
   },
-  "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage"
+  "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage",
+  "recommended_builds": []
 }

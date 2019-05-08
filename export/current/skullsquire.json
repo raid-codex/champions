@@ -72,5 +72,6 @@
       "skullsquire"
     ]
   },
-  "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes"
+  "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes",
+  "recommended_builds": []
 }

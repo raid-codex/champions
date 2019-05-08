@@ -72,5 +72,6 @@
       "bloodhorn"
     ]
   },
-  "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage"
+  "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",
+  "recommended_builds": []
 }

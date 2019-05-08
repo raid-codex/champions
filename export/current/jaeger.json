@@ -72,5 +72,6 @@
       "jaeger"
     ]
   },
-  "default_description": "Jaeger is a uncommon attack champion from the faction High Elves"
+  "default_description": "Jaeger is a uncommon attack champion from the faction High Elves",
+  "recommended_builds": []
 }

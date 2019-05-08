@@ -72,5 +72,6 @@
       "husk"
     ]
   },
-  "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage"
+  "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",
+  "recommended_builds": []
 }

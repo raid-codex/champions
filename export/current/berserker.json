@@ -72,5 +72,6 @@
       "berserker"
     ]
   },
-  "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage"
+  "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage",
+  "recommended_builds": []
 }

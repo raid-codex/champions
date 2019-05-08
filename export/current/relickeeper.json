@@ -72,5 +72,6 @@
       "relickeeper"
     ]
   },
-  "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage"
+  "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",
+  "recommended_builds": []
 }

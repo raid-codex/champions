@@ -72,5 +72,6 @@
       "admonitor"
     ]
   },
-  "default_description": "Admonitor is a uncommon hp champion from the faction Knight Revenant"
+  "default_description": "Admonitor is a uncommon hp champion from the faction Knight Revenant",
+  "recommended_builds": []
 }

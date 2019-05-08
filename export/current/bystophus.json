@@ -72,5 +72,6 @@
       "bystophus"
     ]
   },
-  "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage"
+  "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",
+  "recommended_builds": []
 }

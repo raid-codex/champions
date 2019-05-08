@@ -72,5 +72,6 @@
       "militia"
     ]
   },
-  "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order"
+  "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "turvold"
     ]
   },
-  "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage"
+  "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage",
+  "recommended_builds": []
 }

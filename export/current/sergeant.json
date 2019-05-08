@@ -72,5 +72,6 @@
       "sergeant"
     ]
   },
-  "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order"
+  "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

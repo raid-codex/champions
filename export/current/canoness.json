@@ -72,5 +72,6 @@
       "canoness"
     ]
   },
-  "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage"
+  "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

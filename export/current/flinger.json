@@ -72,5 +72,6 @@
       "flinger"
     ]
   },
-  "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage"
+  "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage",
+  "recommended_builds": []
 }

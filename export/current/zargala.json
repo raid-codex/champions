@@ -72,5 +72,6 @@
       "zargala"
     ]
   },
-  "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage"
+  "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

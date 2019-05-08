@@ -72,5 +72,6 @@
       "conquerer"
     ]
   },
-  "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage"
+  "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage",
+  "recommended_builds": []
 }

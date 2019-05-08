@@ -72,5 +72,6 @@
       "preserver"
     ]
   },
-  "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage"
+  "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage",
+  "recommended_builds": []
 }

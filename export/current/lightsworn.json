@@ -72,5 +72,6 @@
       "lightsworn"
     ]
   },
-  "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage"
+  "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage",
+  "recommended_builds": []
 }

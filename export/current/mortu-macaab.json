@@ -72,5 +72,6 @@
       "mortu-macaab"
     ]
   },
-  "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage"
+  "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage",
+  "recommended_builds": []
 }

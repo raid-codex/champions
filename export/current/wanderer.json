@@ -72,5 +72,6 @@
       "wanderer"
     ]
   },
-  "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage"
+  "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage",
+  "recommended_builds": []
 }

@@ -2,7 +2,7 @@
   "name": "Pilgrim",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "pilgrim"
     ]
   },
-  "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order"
+  "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

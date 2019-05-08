@@ -72,5 +72,6 @@
       "blind-seer"
     ]
   },
-  "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage"
+  "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage",
+  "recommended_builds": []
 }

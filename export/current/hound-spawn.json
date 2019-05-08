@@ -72,5 +72,6 @@
       "hound-spawn"
     ]
   },
-  "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage"
+  "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage",
+  "recommended_builds": []
 }

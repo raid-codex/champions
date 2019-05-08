@@ -72,5 +72,6 @@
       "frostbringer"
     ]
   },
-  "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage"
+  "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

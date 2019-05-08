@@ -2,7 +2,7 @@
   "name": "Pitspawn",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "pitspawn"
     ]
   },
-  "default_description": "Pitspawn is a uncommon defense champion from the faction Demonspawn"
+  "default_description": "Pitspawn is a uncommon defense champion from the faction Demonspawn",
+  "recommended_builds": []
 }

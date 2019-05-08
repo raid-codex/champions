@@ -72,5 +72,6 @@
       "kallia"
     ]
   },
-  "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage"
+  "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",
+  "recommended_builds": []
 }

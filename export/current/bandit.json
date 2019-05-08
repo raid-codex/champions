@@ -72,5 +72,6 @@
       "bandit"
     ]
   },
-  "default_description": "Bandit is a common attack champion from the faction Banner Lords"
+  "default_description": "Bandit is a common attack champion from the faction Banner Lords",
+  "recommended_builds": []
 }

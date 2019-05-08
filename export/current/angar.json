@@ -72,5 +72,6 @@
       "angar"
     ]
   },
-  "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage"
+  "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage",
+  "recommended_builds": []
 }

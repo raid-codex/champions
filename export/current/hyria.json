@@ -72,5 +72,6 @@
       "hyria"
     ]
   },
-  "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage"
+  "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage",
+  "recommended_builds": []
 }

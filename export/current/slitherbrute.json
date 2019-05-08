@@ -72,5 +72,6 @@
       "slitherbrute"
     ]
   },
-  "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage"
+  "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage",
+  "recommended_builds": []
 }

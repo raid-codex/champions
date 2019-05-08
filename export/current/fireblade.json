@@ -72,5 +72,6 @@
       "fireblade"
     ]
   },
-  "default_description": "Fireblade is a uncommon attack champion from the faction Banner Lords"
+  "default_description": "Fireblade is a uncommon attack champion from the faction Banner Lords",
+  "recommended_builds": []
 }

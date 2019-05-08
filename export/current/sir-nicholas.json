@@ -72,5 +72,6 @@
       "sir-nicholas"
     ]
   },
-  "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage"
+  "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage",
+  "recommended_builds": []
 }

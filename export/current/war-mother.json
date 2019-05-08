@@ -72,5 +72,6 @@
       "war-mother"
     ]
   },
-  "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage"
+  "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
+  "recommended_builds": []
 }

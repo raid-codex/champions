@@ -72,5 +72,6 @@
       "lamellar"
     ]
   },
-  "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage"
+  "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage",
+  "recommended_builds": []
 }

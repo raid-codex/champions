@@ -72,5 +72,6 @@
       "fellhound"
     ]
   },
-  "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage"
+  "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "courtier"
     ]
   },
-  "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage"
+  "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage",
+  "recommended_builds": []
 }

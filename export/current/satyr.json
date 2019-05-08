@@ -72,5 +72,6 @@
       "satyr"
     ]
   },
-  "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker"
+  "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker",
+  "recommended_builds": []
 }

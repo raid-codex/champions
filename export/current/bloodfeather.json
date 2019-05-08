@@ -72,5 +72,6 @@
       "bloodfeather"
     ]
   },
-  "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage"
+  "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

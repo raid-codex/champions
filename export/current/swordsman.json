@@ -72,5 +72,6 @@
       "swordsman"
     ]
   },
-  "default_description": "Swordsman is a common attack champion from the faction Banner Lords"
+  "default_description": "Swordsman is a common attack champion from the faction Banner Lords",
+  "recommended_builds": []
 }

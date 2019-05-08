@@ -72,5 +72,6 @@
       "rhazin-scarhide"
     ]
   },
-  "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage"
+  "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage",
+  "recommended_builds": []
 }

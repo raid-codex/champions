@@ -72,5 +72,6 @@
       "drake"
     ]
   },
-  "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage"
+  "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage",
+  "recommended_builds": []
 }

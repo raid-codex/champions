@@ -72,5 +72,6 @@
       "hollow"
     ]
   },
-  "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage"
+  "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage",
+  "recommended_builds": []
 }

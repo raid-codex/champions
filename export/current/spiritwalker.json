@@ -2,7 +2,7 @@
   "name": "Spiritwalker",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "spiritwalker"
     ]
   },
-  "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians"
+  "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians",
+  "recommended_builds": []
 }

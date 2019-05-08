@@ -72,5 +72,6 @@
       "elenaril"
     ]
   },
-  "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage"
+  "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "norog"
     ]
   },
-  "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage"
+  "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage",
+  "recommended_builds": []
 }

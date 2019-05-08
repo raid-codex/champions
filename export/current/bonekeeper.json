@@ -1,24 +1,24 @@
 {
   "name": "Bonekeeper",
   "rarity": "Epic",
-  "element": "",
+  "element": "Force",
   "type": "Attack",
   "rating": {
-    "overall": "",
-    "campaign": "",
-    "arena_offense": "",
-    "arena_defense": "",
-    "clan_boss_without_giant_slayer": "",
-    "clan_boss_with_giant_slayer": "",
-    "ice_guardian": "",
-    "dragon": "",
-    "spider": "",
-    "fire_knight": "",
-    "minotaur": "",
-    "force_dungeon": "",
-    "magic_dungeon": "",
-    "spirit_dungeon": "",
-    "void_dungeon": ""
+    "overall": "B",
+    "campaign": "C",
+    "arena_offense": "A",
+    "arena_defense": "C",
+    "clan_boss_without_giant_slayer": "C",
+    "clan_boss_with_giant_slayer": "B",
+    "ice_guardian": "B",
+    "dragon": "A",
+    "spider": "D",
+    "fire_knight": "C",
+    "minotaur": "A",
+    "force_dungeon": "S",
+    "magic_dungeon": "B",
+    "spirit_dungeon": "B",
+    "void_dungeon": "B"
   },
   "slug": "bonekeeper",
   "characteristics": {
@@ -60,7 +60,7 @@
   "image_slug": "image-champion-bonekeeper",
   "seo": {
     "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-    "description": "Bonekeeper is a epic attack champion from the faction Orcs. Find out more on this Raid Shadow Legends codex.",
+    "description": "Bonekeeper is a epic attack champion from the faction Orcs doing force damage. Find out more on this Raid Shadow Legends codex.",
     "keywords": [
       "raid",
       "shadow",
@@ -72,5 +72,6 @@
       "bonekeeper"
     ]
   },
-  "default_description": "Bonekeeper is a epic attack champion from the faction Orcs"
+  "default_description": "Bonekeeper is a epic attack champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

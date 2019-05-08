@@ -72,5 +72,6 @@
       "confessor"
     ]
   },
-  "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage"
+  "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage",
+  "recommended_builds": []
 }

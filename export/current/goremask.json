@@ -72,5 +72,6 @@
       "goremask"
     ]
   },
-  "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage"
+  "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage",
+  "recommended_builds": []
 }

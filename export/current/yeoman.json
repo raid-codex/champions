@@ -72,5 +72,6 @@
       "yeoman"
     ]
   },
-  "default_description": "Yeoman is a common attack champion from the faction The Sacred Order"
+  "default_description": "Yeoman is a common attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

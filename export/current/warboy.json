@@ -2,7 +2,7 @@
   "name": "Warboy",
   "rarity": "Common",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "warboy"
     ]
   },
-  "default_description": "Warboy is a common defense champion from the faction Orcs"
+  "default_description": "Warboy is a common defense champion from the faction Orcs",
+  "recommended_builds": []
 }

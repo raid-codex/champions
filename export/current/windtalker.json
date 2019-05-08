@@ -2,7 +2,7 @@
   "name": "Windtalker",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Support",
+  "type": "Assist",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "windtalker"
     ]
   },
-  "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker"
+  "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
+  "recommended_builds": []
 }

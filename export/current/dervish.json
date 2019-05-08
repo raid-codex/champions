@@ -72,5 +72,6 @@
       "dervish"
     ]
   },
-  "default_description": "Dervish is a uncommon attack champion from the faction Barbarians"
+  "default_description": "Dervish is a uncommon attack champion from the faction Barbarians",
+  "recommended_builds": []
 }

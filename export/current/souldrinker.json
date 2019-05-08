@@ -72,5 +72,6 @@
       "souldrinker"
     ]
   },
-  "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage"
+  "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "rocktooth"
     ]
   },
-  "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage"
+  "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "halberdier"
     ]
   },
-  "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage"
+  "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage",
+  "recommended_builds": []
 }

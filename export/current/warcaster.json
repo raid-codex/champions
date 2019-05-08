@@ -72,5 +72,6 @@
       "warcaster"
     ]
   },
-  "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage"
+  "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage",
+  "recommended_builds": []
 }

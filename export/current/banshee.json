@@ -72,5 +72,6 @@
       "banshee"
     ]
   },
-  "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage"
+  "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage",
+  "recommended_builds": []
 }

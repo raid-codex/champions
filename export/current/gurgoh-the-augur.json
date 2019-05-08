@@ -72,5 +72,6 @@
       "gurgoh-the-augur"
     ]
   },
-  "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage"
+  "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage",
+  "recommended_builds": []
 }

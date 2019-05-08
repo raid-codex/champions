@@ -72,5 +72,6 @@
       "athel"
     ]
   },
-  "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage"
+  "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage",
+  "recommended_builds": []
 }

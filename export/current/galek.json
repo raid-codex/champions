@@ -72,5 +72,6 @@
       "galek"
     ]
   },
-  "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage"
+  "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage",
+  "recommended_builds": []
 }

@@ -72,5 +72,6 @@
       "warchief"
     ]
   },
-  "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage"
+  "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",
+  "recommended_builds": []
 }

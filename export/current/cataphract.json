@@ -72,5 +72,6 @@
       "cataphract"
     ]
   },
-  "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage"
+  "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage",
+  "recommended_builds": []
 }

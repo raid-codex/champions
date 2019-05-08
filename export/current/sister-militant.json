@@ -72,5 +72,6 @@
       "sister-militant"
     ]
   },
-  "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order"
+  "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order",
+  "recommended_builds": []
 }

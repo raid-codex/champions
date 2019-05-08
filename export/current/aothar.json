@@ -72,5 +72,6 @@
       "aothar"
     ]
   },
-  "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage"
+  "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage",
+  "recommended_builds": []
 }

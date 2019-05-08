@@ -2,7 +2,7 @@
   "name": "Squire",
   "rarity": "Uncommon",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "squire"
     ]
   },
-  "default_description": "Squire is a uncommon defense champion from the faction Banner Lords"
+  "default_description": "Squire is a uncommon defense champion from the faction Banner Lords",
+  "recommended_builds": []
 }

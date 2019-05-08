@@ -72,5 +72,6 @@
       "grandmaster"
     ]
   },
-  "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage"
+  "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage",
+  "recommended_builds": []
 }

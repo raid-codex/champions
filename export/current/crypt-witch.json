@@ -72,5 +72,6 @@
       "crypt-witch"
     ]
   },
-  "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage"
+  "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage",
+  "recommended_builds": []
 }

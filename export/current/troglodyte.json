@@ -2,7 +2,7 @@
   "name": "Troglodyte",
   "rarity": "Common",
   "element": "",
-  "type": "Defense",
+  "type": "Def",
   "rating": {
     "overall": "D",
     "campaign": "",
@@ -72,5 +72,6 @@
       "troglodyte"
     ]
   },
-  "default_description": "Troglodyte is a common defense champion from the faction Lizardmen"
+  "default_description": "Troglodyte is a common defense champion from the faction Lizardmen",
+  "recommended_builds": []
 }

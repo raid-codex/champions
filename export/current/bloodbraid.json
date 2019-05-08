@@ -72,5 +72,6 @@
       "bloodbraid"
     ]
   },
-  "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage"
+  "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage",
+  "recommended_builds": []
 }
