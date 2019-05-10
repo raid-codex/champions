@@ -1,0 +1,77 @@
+{
+    "name": "Drexthar Bloodtwin",
+    "rarity": "Legendary",
+    "element": "Force",
+    "type": "HP",
+    "rating": {
+        "overall": "",
+        "campaign": "",
+        "arena_offense": "",
+        "arena_defense": "",
+        "clan_boss_without_giant_slayer": "",
+        "clan_boss_with_giant_slayer": "",
+        "ice_guardian": "",
+        "dragon": "",
+        "spider": "",
+        "fire_knight": "",
+        "minotaur": "",
+        "force_dungeon": "",
+        "magic_dungeon": "",
+        "spirit_dungeon": "",
+        "void_dungeon": ""
+    },
+    "slug": "drexthar-bloodtwin",
+    "characteristics": {
+        "60": {
+            "hp": 18990,
+            "attack": 914,
+            "defense": 1398,
+            "speed": 97,
+            "critical_rate": 0.15,
+            "critical_damage": 0.5,
+            "resistance": 50,
+            "accuracy": 10
+        }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+        "name": "Demonspawn",
+        "slug": "demonspawn",
+        "website_link": "/factions/demonspawn/",
+        "image_slug": "image-faction-demonspawn",
+        "number_of_champions": 0,
+        "default_description": "Demonspawn is a faction from RAID Shadow Legends",
+        "seo": {
+            "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+            "description": "Demonspawn is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+            "keywords": [
+                "raid",
+                "shadow",
+                "legends",
+                "factions",
+                "Demonspawn",
+                "demonspawn"
+            ]
+        }
+    },
+    "faction_slug": "demonspawn",
+    "website_link": "/champions/drexthar-bloodtwin/",
+    "image_slug": "image-champion-drexthar-bloodtwin",
+    "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Drexthar Bloodtwin is a legendary hp champion from the faction Demonspawn doing force damage. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+            "raid",
+            "shadow",
+            "legends",
+            "champions",
+            "tier",
+            "list",
+            "Drexthar Bloodtwin",
+            "drexthar-bloodtwin"
+        ]
+    },
+    "default_description": "Drexthar Bloodtwin is a legendary hp champion from the faction Demonspawn doing force damage",
+    "recommended_builds": []
+}

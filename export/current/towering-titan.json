@@ -1,0 +1,77 @@
+{
+    "name": "Towering Titan",
+    "rarity": "Epic",
+    "element": "Void",
+    "type": "HP",
+    "rating": {
+        "overall": "",
+        "campaign": "",
+        "arena_offense": "",
+        "arena_defense": "",
+        "clan_boss_without_giant_slayer": "",
+        "clan_boss_with_giant_slayer": "",
+        "ice_guardian": "",
+        "dragon": "",
+        "spider": "",
+        "fire_knight": "",
+        "minotaur": "",
+        "force_dungeon": "",
+        "magic_dungeon": "",
+        "spirit_dungeon": "",
+        "void_dungeon": ""
+    },
+    "slug": "towering-titan",
+    "characteristics": {
+        "60": {
+            "hp": 23790,
+            "attack": 760,
+            "defense": 958,
+            "speed": 98,
+            "critical_rate": 0.15,
+            "critical_damage": 0.5,
+            "resistance": 45,
+            "accuracy": 0
+        }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+        "name": "Ogryn Tribes",
+        "slug": "ogryn-tribes",
+        "website_link": "/factions/ogryn-tribes/",
+        "image_slug": "image-faction-ogryn-tribes",
+        "number_of_champions": 0,
+        "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
+        "seo": {
+            "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+            "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+            "keywords": [
+                "raid",
+                "shadow",
+                "legends",
+                "factions",
+                "Ogryn Tribes",
+                "ogryn-tribes"
+            ]
+        }
+    },
+    "faction_slug": "ogryn-tribes",
+    "website_link": "/champions/towering-titan/",
+    "image_slug": "image-champion-towering-titan",
+    "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Towering Titan is a epic hp champion from the faction Ogryn Tribes doing void damage. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+            "raid",
+            "shadow",
+            "legends",
+            "champions",
+            "tier",
+            "list",
+            "Towering Titan",
+            "towering-titan"
+        ]
+    },
+    "default_description": "Towering Titan is a epic hp champion from the faction Ogryn Tribes doing void damage",
+    "recommended_builds": []
+}
