@@ -1,0 +1,77 @@
+{
+    "name": "Foli",
+    "rarity": "Legendary",
+    "element": "Magic",
+    "type": "Attack",
+    "rating": {
+        "overall": "",
+        "campaign": "",
+        "arena_offense": "",
+        "arena_defense": "",
+        "clan_boss_without_giant_slayer": "",
+        "clan_boss_with_giant_slayer": "",
+        "ice_guardian": "",
+        "dragon": "",
+        "spider": "",
+        "fire_knight": "",
+        "minotaur": "",
+        "force_dungeon": "",
+        "magic_dungeon": "",
+        "spirit_dungeon": "",
+        "void_dungeon": ""
+    },
+    "slug": "foli",
+    "characteristics": {
+        "60": {
+            "hp": 15030,
+            "attack": 1476,
+            "defense": 1101,
+            "speed": 99,
+            "critical_rate": 0.15,
+            "critical_damage": 0.63,
+            "resistance": 30,
+            "accuracy": 0
+        }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+        "name": "Dark Elves",
+        "slug": "dark-elves",
+        "website_link": "/factions/dark-elves/",
+        "image_slug": "image-faction-dark-elves",
+        "number_of_champions": 0,
+        "default_description": "Dark Elves is a faction from RAID Shadow Legends",
+        "seo": {
+            "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+            "description": "Dark Elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+            "keywords": [
+                "raid",
+                "shadow",
+                "legends",
+                "factions",
+                "Dark Elves",
+                "dark-elves"
+            ]
+        }
+    },
+    "faction_slug": "dark-elves",
+    "website_link": "/champions/foli/",
+    "image_slug": "image-champion-foli",
+    "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Foli is a legendary attack champion from the faction Dark Elves doing magic damage. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+            "raid",
+            "shadow",
+            "legends",
+            "champions",
+            "tier",
+            "list",
+            "Foli",
+            "foli"
+        ]
+    },
+    "default_description": "Foli is a legendary attack champion from the faction Dark Elves doing magic damage",
+    "recommended_builds": []
+}

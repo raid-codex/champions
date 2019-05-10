@@ -3157,6 +3157,83 @@
     "recommended_builds": []
   },
   {
+    "name": "Alika",
+    "rarity": "Epic",
+    "element": "Force",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "alika",
+    "characteristics": {
+      "60": {
+        "hp": 15855,
+        "attack": 1354,
+        "defense": 892,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Barbarians",
+      "slug": "barbarians",
+      "website_link": "/factions/barbarians/",
+      "image_slug": "image-faction-barbarians",
+      "number_of_champions": 0,
+      "default_description": "Barbarians is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Barbarians is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Barbarians",
+          "barbarians"
+        ]
+      }
+    },
+    "faction_slug": "barbarians",
+    "website_link": "/champions/alika/",
+    "image_slug": "image-champion-alika",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Alika is a epic attack champion from the faction Barbarians doing force damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Alika",
+        "alika"
+      ]
+    },
+    "default_description": "Alika is a epic attack champion from the faction Barbarians doing force damage",
+    "recommended_builds": []
+  },
+  {
     "name": "Anointed",
     "rarity": "Rare",
     "element": "Force",
@@ -5005,6 +5082,83 @@
     "recommended_builds": []
   },
   {
+    "name": "Foli",
+    "rarity": "Legendary",
+    "element": "Magic",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "foli",
+    "characteristics": {
+      "60": {
+        "hp": 15030,
+        "attack": 1476,
+        "defense": 1101,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.63,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "/factions/dark-elves/",
+      "image_slug": "image-faction-dark-elves",
+      "number_of_champions": 0,
+      "default_description": "Dark Elves is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Dark Elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Dark Elves",
+          "dark-elves"
+        ]
+      }
+    },
+    "faction_slug": "dark-elves",
+    "website_link": "/champions/foli/",
+    "image_slug": "image-champion-foli",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Foli is a legendary attack champion from the faction Dark Elves doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Foli",
+        "foli"
+      ]
+    },
+    "default_description": "Foli is a legendary attack champion from the faction Dark Elves doing magic damage",
+    "recommended_builds": []
+  },
+  {
     "name": "Lua",
     "rarity": "Epic",
     "element": "Void",
@@ -6237,6 +6391,160 @@
     "recommended_builds": []
   },
   {
+    "name": "Eviscerator",
+    "rarity": "Rare",
+    "element": "Void",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "eviscerator",
+    "characteristics": {
+      "60": {
+        "hp": 12060,
+        "attack": 1409,
+        "defense": 815,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Dark Elves",
+      "slug": "dark-elves",
+      "website_link": "/factions/dark-elves/",
+      "image_slug": "image-faction-dark-elves",
+      "number_of_champions": 0,
+      "default_description": "Dark Elves is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Dark Elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Dark Elves",
+          "dark-elves"
+        ]
+      }
+    },
+    "faction_slug": "dark-elves",
+    "website_link": "/champions/eviscerator/",
+    "image_slug": "image-champion-eviscerator",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Eviscerator is a rare attack champion from the faction Dark Elves doing void damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Eviscerator",
+        "eviscerator"
+      ]
+    },
+    "default_description": "Eviscerator is a rare attack champion from the faction Dark Elves doing void damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Pain Keeper",
+    "rarity": "Rare",
+    "element": "Void",
+    "type": "HP",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "pain-keeper",
+    "characteristics": {
+      "60": {
+        "hp": 19320,
+        "attack": 969,
+        "defense": 771,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "dark-elves",
+      "slug": "dark-elves",
+      "website_link": "/factions/dark-elves/",
+      "image_slug": "image-faction-dark-elves",
+      "number_of_champions": 0,
+      "default_description": "dark-elves is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "dark-elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "dark-elves",
+          "dark-elves"
+        ]
+      }
+    },
+    "faction_slug": "dark-elves",
+    "website_link": "/champions/pain-keeper/",
+    "image_slug": "image-champion-pain-keeper",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Pain Keeper is a rare hp champion from the faction dark-elves doing void damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Pain Keeper",
+        "pain-keeper"
+      ]
+    },
+    "default_description": "Pain Keeper is a rare hp champion from the faction dark-elves doing void damage",
+    "recommended_builds": []
+  },
+  {
     "name": "Heartpiercer",
     "rarity": "Uncommon",
     "element": "",
@@ -6850,6 +7158,83 @@
       ]
     },
     "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Drexthar Bloodtwin",
+    "rarity": "Legendary",
+    "element": "Force",
+    "type": "HP",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "drexthar-bloodtwin",
+    "characteristics": {
+      "60": {
+        "hp": 18990,
+        "attack": 914,
+        "defense": 1398,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 50,
+        "accuracy": 10
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "/factions/demonspawn/",
+      "image_slug": "image-faction-demonspawn",
+      "number_of_champions": 0,
+      "default_description": "Demonspawn is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Demonspawn is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Demonspawn",
+          "demonspawn"
+        ]
+      }
+    },
+    "faction_slug": "demonspawn",
+    "website_link": "/champions/drexthar-bloodtwin/",
+    "image_slug": "image-champion-drexthar-bloodtwin",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Drexthar Bloodtwin is a legendary hp champion from the faction Demonspawn doing force damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Drexthar Bloodtwin",
+        "drexthar-bloodtwin"
+      ]
+    },
+    "default_description": "Drexthar Bloodtwin is a legendary hp champion from the faction Demonspawn doing force damage",
     "recommended_builds": []
   },
   {
@@ -7851,6 +8236,160 @@
       ]
     },
     "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Malbranche",
+    "rarity": "Rare",
+    "element": "Void",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "malbranche",
+    "characteristics": {
+      "60": {
+        "hp": 14865,
+        "attack": 1321,
+        "defense": 716,
+        "speed": 111,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Demonspawn",
+      "slug": "demonspawn",
+      "website_link": "/factions/demonspawn/",
+      "image_slug": "image-faction-demonspawn",
+      "number_of_champions": 0,
+      "default_description": "Demonspawn is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Demonspawn is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Demonspawn",
+          "demonspawn"
+        ]
+      }
+    },
+    "faction_slug": "demonspawn",
+    "website_link": "/champions/malbranche/",
+    "image_slug": "image-champion-malbranche",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Malbranche is a rare attack champion from the faction Demonspawn doing void damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Malbranche",
+        "malbranche"
+      ]
+    },
+    "default_description": "Malbranche is a rare attack champion from the faction Demonspawn doing void damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Tormentor",
+    "rarity": "Rare",
+    "element": "Magic",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "tormentor",
+    "characteristics": {
+      "60": {
+        "hp": 13875,
+        "attack": 1156,
+        "defense": 947,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "demonspawn",
+      "slug": "demonspawn",
+      "website_link": "/factions/demonspawn/",
+      "image_slug": "image-faction-demonspawn",
+      "number_of_champions": 0,
+      "default_description": "demonspawn is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "demonspawn is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "demonspawn",
+          "demonspawn"
+        ]
+      }
+    },
+    "faction_slug": "demonspawn",
+    "website_link": "/champions/tormentor/",
+    "image_slug": "image-champion-tormentor",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Tormentor is a rare attack champion from the faction demonspawn doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Tormentor",
+        "tormentor"
+      ]
+    },
+    "default_description": "Tormentor is a rare attack champion from the faction demonspawn doing magic damage",
     "recommended_builds": []
   },
   {
@@ -9776,6 +10315,83 @@
       ]
     },
     "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Aristocrat",
+    "rarity": "Uncommon",
+    "element": "Magic",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "aristocrat",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "high-elves",
+      "slug": "high-elves",
+      "website_link": "/factions/high-elves/",
+      "image_slug": "image-faction-high-elves",
+      "number_of_champions": 0,
+      "default_description": "high-elves is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "high-elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "high-elves",
+          "high-elves"
+        ]
+      }
+    },
+    "faction_slug": "high-elves",
+    "website_link": "/champions/aristocrat/",
+    "image_slug": "image-champion-aristocrat",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Aristocrat is a uncommon attack champion from the faction high-elves doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Aristocrat",
+        "aristocrat"
+      ]
+    },
+    "default_description": "Aristocrat is a uncommon attack champion from the faction high-elves doing magic damage",
     "recommended_builds": []
   },
   {
@@ -14091,6 +14707,160 @@
     "recommended_builds": []
   },
   {
+    "name": "Cagebreaker",
+    "rarity": "Epic",
+    "element": "Spirit",
+    "type": "Attack",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "cagebreaker",
+    "characteristics": {
+      "60": {
+        "hp": 16020,
+        "attack": 1409,
+        "defense": 826,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.6,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Ogryn Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "/factions/ogryn-tribes/",
+      "image_slug": "image-faction-ogryn-tribes",
+      "number_of_champions": 0,
+      "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Ogryn Tribes",
+          "ogryn-tribes"
+        ]
+      }
+    },
+    "faction_slug": "ogryn-tribes",
+    "website_link": "/champions/cagebreaker/",
+    "image_slug": "image-champion-cagebreaker",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Cagebreaker is a epic attack champion from the faction Ogryn Tribes doing spirit damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Cagebreaker",
+        "cagebreaker"
+      ]
+    },
+    "default_description": "Cagebreaker is a epic attack champion from the faction Ogryn Tribes doing spirit damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Towering Titan",
+    "rarity": "Epic",
+    "element": "Void",
+    "type": "HP",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "towering-titan",
+    "characteristics": {
+      "60": {
+        "hp": 23790,
+        "attack": 760,
+        "defense": 958,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Ogryn Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "/factions/ogryn-tribes/",
+      "image_slug": "image-faction-ogryn-tribes",
+      "number_of_champions": 0,
+      "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Ogryn Tribes",
+          "ogryn-tribes"
+        ]
+      }
+    },
+    "faction_slug": "ogryn-tribes",
+    "website_link": "/champions/towering-titan/",
+    "image_slug": "image-champion-towering-titan",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Towering Titan is a epic hp champion from the faction Ogryn Tribes doing void damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Towering Titan",
+        "towering-titan"
+      ]
+    },
+    "default_description": "Towering Titan is a epic hp champion from the faction Ogryn Tribes doing void damage",
+    "recommended_builds": []
+  },
+  {
     "name": "Bellower",
     "rarity": "Rare",
     "element": "Void",
@@ -14707,6 +15477,83 @@
     "recommended_builds": []
   },
   {
+    "name": "Fortress Goon",
+    "rarity": "Rare",
+    "element": "Magic",
+    "type": "Def",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "fortress-goon",
+    "characteristics": {
+      "60": {
+        "hp": 15525,
+        "attack": 859,
+        "defense": 1134,
+        "speed": 90,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 40,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Ogryn Tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "/factions/ogryn-tribes/",
+      "image_slug": "image-faction-ogryn-tribes",
+      "number_of_champions": 0,
+      "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Ogryn Tribes",
+          "ogryn-tribes"
+        ]
+      }
+    },
+    "faction_slug": "ogryn-tribes",
+    "website_link": "/champions/fortress-goon/",
+    "image_slug": "image-champion-fortress-goon",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Fortress Goon is a rare def champion from the faction Ogryn Tribes doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Fortress Goon",
+        "fortress-goon"
+      ]
+    },
+    "default_description": "Fortress Goon is a rare def champion from the faction Ogryn Tribes doing magic damage",
+    "recommended_builds": []
+  },
+  {
     "name": "Brute",
     "rarity": "Uncommon",
     "element": "",
@@ -14858,6 +15705,83 @@
       ]
     },
     "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes",
+    "recommended_builds": []
+  },
+  {
+    "name": "Hungerer",
+    "rarity": "Uncommon",
+    "element": "Force",
+    "type": "HP",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "hungerer",
+    "characteristics": {
+      "60": {
+        "hp": 0,
+        "attack": 0,
+        "defense": 0,
+        "speed": 0,
+        "critical_rate": 0,
+        "critical_damage": 0,
+        "resistance": 0,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "ogryn-tribes",
+      "slug": "ogryn-tribes",
+      "website_link": "/factions/ogryn-tribes/",
+      "image_slug": "image-faction-ogryn-tribes",
+      "number_of_champions": 0,
+      "default_description": "ogryn-tribes is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "ogryn-tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "ogryn-tribes",
+          "ogryn-tribes"
+        ]
+      }
+    },
+    "faction_slug": "ogryn-tribes",
+    "website_link": "/champions/hungerer/",
+    "image_slug": "image-champion-hungerer",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hungerer is a uncommon hp champion from the faction ogryn-tribes doing force damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hungerer",
+        "hungerer"
+      ]
+    },
+    "default_description": "Hungerer is a uncommon hp champion from the faction ogryn-tribes doing force damage",
     "recommended_builds": []
   },
   {
@@ -20556,6 +21480,83 @@
       ]
     },
     "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
+    "recommended_builds": []
+  },
+  {
+    "name": "Hakkorhn Smashlord",
+    "rarity": "Legendary",
+    "element": "Magic",
+    "type": "HP",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "hakkorhn-smashlord",
+    "characteristics": {
+      "60": {
+        "hp": 23790,
+        "attack": 848,
+        "defense": 1145,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 50,
+        "accuracy": 10
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Skinwalkers",
+      "slug": "skinwalkers",
+      "website_link": "/factions/skinwalkers/",
+      "image_slug": "image-faction-skinwalkers",
+      "number_of_champions": 0,
+      "default_description": "Skinwalkers is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Skinwalkers is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Skinwalkers",
+          "skinwalkers"
+        ]
+      }
+    },
+    "faction_slug": "skinwalkers",
+    "website_link": "/champions/hakkorhn-smashlord/",
+    "image_slug": "image-champion-hakkorhn-smashlord",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hakkorhn Smashlord",
+        "hakkorhn-smashlord"
+      ]
+    },
+    "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage",
     "recommended_builds": []
   },
   {
