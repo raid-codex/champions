@@ -36,31 +36,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-        "name": "Skinwalkers",
-        "slug": "skinwalkers",
-        "website_link": "/factions/skinwalkers/",
-        "image_slug": "image-faction-skinwalkers",
+        "name": "Skinwalker",
+        "slug": "skinwalker",
+        "website_link": "/factions/skinwalker/",
+        "image_slug": "image-faction-skinwalker",
         "number_of_champions": 0,
-        "default_description": "Skinwalkers is a faction from RAID Shadow Legends",
+        "default_description": "Skinwalker is a faction from RAID Shadow Legends",
         "seo": {
             "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-            "description": "Skinwalkers is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+            "description": "Skinwalker is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
             "keywords": [
                 "raid",
                 "shadow",
                 "legends",
                 "factions",
-                "Skinwalkers",
-                "skinwalkers"
+                "Skinwalker",
+                "skinwalker"
             ]
         }
     },
-    "faction_slug": "skinwalkers",
+    "faction_slug": "skinwalker",
     "website_link": "/champions/hakkorhn-smashlord/",
     "image_slug": "image-champion-hakkorhn-smashlord",
     "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage. Find out more on this Raid Shadow Legends codex.",
+        "description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalker doing magic damage. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
             "raid",
             "shadow",
@@ -72,6 +72,6 @@
             "hakkorhn-smashlord"
         ]
     },
-    "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage",
+    "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalker doing magic damage",
     "recommended_builds": []
 }
