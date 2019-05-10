@@ -20174,6 +20174,1161 @@
     "recommended_builds": []
   },
   {
+    "name": "Armiger",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Def",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "armiger",
+    "characteristics": {
+      "60": {
+        "hp": 15195,
+        "attack": 793,
+        "defense": 947,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/armiger/",
+    "image_slug": "image-champion-armiger",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Armiger is a uncommon defense champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Armiger",
+        "armiger"
+      ]
+    },
+    "default_description": "Armiger is a uncommon defense champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Battle Sister",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "battle-sister",
+    "characteristics": {
+      "60": {
+        "hp": 14205,
+        "attack": 1090,
+        "defense": 716,
+        "speed": 101,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/battle-sister/",
+    "image_slug": "image-champion-battle-sister",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Battle Sister is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Battle Sister",
+        "battle-sister"
+      ]
+    },
+    "default_description": "Battle Sister is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Crusader",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "crusader",
+    "characteristics": {
+      "60": {
+        "hp": 12390,
+        "attack": 1123,
+        "defense": 804,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.57,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/crusader/",
+    "image_slug": "image-champion-crusader",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Crusader is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Crusader",
+        "crusader"
+      ]
+    },
+    "default_description": "Crusader is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Intercessor",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Assist",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "intercessor",
+    "characteristics": {
+      "60": {
+        "hp": 13380,
+        "attack": 947,
+        "defense": 914,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/intercessor/",
+    "image_slug": "image-champion-intercessor",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Intercessor is a uncommon support champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Intercessor",
+        "intercessor"
+      ]
+    },
+    "default_description": "Intercessor is a uncommon support champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Militia",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "militia",
+    "characteristics": {
+      "60": {
+        "hp": 13215,
+        "attack": 1178,
+        "defense": 694,
+        "speed": 102,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/militia/",
+    "image_slug": "image-champion-militia",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Militia is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Militia",
+        "militia"
+      ]
+    },
+    "default_description": "Militia is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Outlaw Monk",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "outlaw-monk",
+    "characteristics": {
+      "60": {
+        "hp": 12225,
+        "attack": 1244,
+        "defense": 694,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/outlaw-monk/",
+    "image_slug": "image-champion-outlaw-monk",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Outlaw Monk is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Outlaw Monk",
+        "outlaw-monk"
+      ]
+    },
+    "default_description": "Outlaw Monk is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Pilgrim",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Assist",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "pilgrim",
+    "characteristics": {
+      "60": {
+        "hp": 14865,
+        "attack": 793,
+        "defense": 947,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/pilgrim/",
+    "image_slug": "image-champion-pilgrim",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Pilgrim is a uncommon support champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Pilgrim",
+        "pilgrim"
+      ]
+    },
+    "default_description": "Pilgrim is a uncommon support champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Sergeant",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "sergeant",
+    "characteristics": {
+      "60": {
+        "hp": 12555,
+        "attack": 1112,
+        "defense": 804,
+        "speed": 92,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/sergeant/",
+    "image_slug": "image-champion-sergeant",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sergeant is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sergeant",
+        "sergeant"
+      ]
+    },
+    "default_description": "Sergeant is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Sharpshooter",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "sharpshooter",
+    "characteristics": {
+      "60": {
+        "hp": 10575,
+        "attack": 1255,
+        "defense": 793,
+        "speed": 93,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/sharpshooter/",
+    "image_slug": "image-champion-sharpshooter",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sharpshooter is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sharpshooter",
+        "sharpshooter"
+      ]
+    },
+    "default_description": "Sharpshooter is a uncommon attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Vigilante",
+    "rarity": "Uncommon",
+    "element": "",
+    "type": "HP",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "vigilante",
+    "characteristics": {
+      "60": {
+        "hp": 17505,
+        "attack": 760,
+        "defense": 826,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/vigilante/",
+    "image_slug": "image-champion-vigilante",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Vigilante is a uncommon hp champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Vigilante",
+        "vigilante"
+      ]
+    },
+    "default_description": "Vigilante is a uncommon hp champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Knecht",
+    "rarity": "Common",
+    "element": "",
+    "type": "Def",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "knecht",
+    "characteristics": {
+      "60": {
+        "hp": 12225,
+        "attack": 650,
+        "defense": 738,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/knecht/",
+    "image_slug": "image-champion-knecht",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Knecht is a common defense champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Knecht",
+        "knecht"
+      ]
+    },
+    "default_description": "Knecht is a common defense champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Novitiate",
+    "rarity": "Common",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "novitiate",
+    "characteristics": {
+      "60": {
+        "hp": 10245,
+        "attack": 892,
+        "defense": 628,
+        "speed": 83,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/novitiate/",
+    "image_slug": "image-champion-novitiate",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Novitiate is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Novitiate",
+        "novitiate"
+      ]
+    },
+    "default_description": "Novitiate is a common attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Preacher",
+    "rarity": "Common",
+    "element": "",
+    "type": "HP",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "preacher",
+    "characteristics": {
+      "60": {
+        "hp": 10080,
+        "attack": 837,
+        "defense": 694,
+        "speed": 96,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/preacher/",
+    "image_slug": "image-champion-preacher",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Preacher is a common hp champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Preacher",
+        "preacher"
+      ]
+    },
+    "default_description": "Preacher is a common hp champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Sister Militant",
+    "rarity": "Common",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "sister-militant",
+    "characteristics": {
+      "60": {
+        "hp": 10410,
+        "attack": 870,
+        "defense": 639,
+        "speed": 98,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/sister-militant/",
+    "image_slug": "image-champion-sister-militant",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Sister Militant is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Sister Militant",
+        "sister-militant"
+      ]
+    },
+    "default_description": "Sister Militant is a common attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
+    "name": "Yeoman",
+    "rarity": "Common",
+    "element": "",
+    "type": "Attack",
+    "rating": {
+      "overall": "D",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "yeoman",
+    "characteristics": {
+      "60": {
+        "hp": 9090,
+        "attack": 903,
+        "defense": 694,
+        "speed": 97,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 30,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
+      "number_of_champions": 0,
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Sacred Order",
+          "sacred-order"
+        ]
+      }
+    },
+    "faction_slug": "sacred-order",
+    "website_link": "/champions/yeoman/",
+    "image_slug": "image-champion-yeoman",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Yeoman is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Yeoman",
+        "yeoman"
+      ]
+    },
+    "default_description": "Yeoman is a common attack champion from the faction Sacred Order",
+    "recommended_builds": []
+  },
+  {
     "name": "Longbeard",
     "rarity": "Legendary",
     "element": "Magic",
@@ -20402,6 +21557,83 @@
       ]
     },
     "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",
+    "recommended_builds": []
+  },
+  {
+    "name": "Hakkorhn Smashlord",
+    "rarity": "Legendary",
+    "element": "Magic",
+    "type": "HP",
+    "rating": {
+      "overall": "",
+      "campaign": "",
+      "arena_offense": "",
+      "arena_defense": "",
+      "clan_boss_without_giant_slayer": "",
+      "clan_boss_with_giant_slayer": "",
+      "ice_guardian": "",
+      "dragon": "",
+      "spider": "",
+      "fire_knight": "",
+      "minotaur": "",
+      "force_dungeon": "",
+      "magic_dungeon": "",
+      "spirit_dungeon": "",
+      "void_dungeon": ""
+    },
+    "slug": "hakkorhn-smashlord",
+    "characteristics": {
+      "60": {
+        "hp": 23790,
+        "attack": 848,
+        "defense": 1145,
+        "speed": 99,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 50,
+        "accuracy": 10
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "Skinwalker",
+      "slug": "skinwalker",
+      "website_link": "/factions/skinwalker/",
+      "image_slug": "image-faction-skinwalker",
+      "number_of_champions": 0,
+      "default_description": "Skinwalker is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "Skinwalker is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "Skinwalker",
+          "skinwalker"
+        ]
+      }
+    },
+    "faction_slug": "skinwalker",
+    "website_link": "/champions/hakkorhn-smashlord/",
+    "image_slug": "image-champion-hakkorhn-smashlord",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalker doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Hakkorhn Smashlord",
+        "hakkorhn-smashlord"
+      ]
+    },
+    "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalker doing magic damage",
     "recommended_builds": []
   },
   {
@@ -21480,1238 +22712,6 @@
       ]
     },
     "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
-    "recommended_builds": []
-  },
-  {
-    "name": "Hakkorhn Smashlord",
-    "rarity": "Legendary",
-    "element": "Magic",
-    "type": "HP",
-    "rating": {
-      "overall": "",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "hakkorhn-smashlord",
-    "characteristics": {
-      "60": {
-        "hp": 23790,
-        "attack": 848,
-        "defense": 1145,
-        "speed": 99,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 50,
-        "accuracy": 10
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "Skinwalkers",
-      "slug": "skinwalkers",
-      "website_link": "/factions/skinwalkers/",
-      "image_slug": "image-faction-skinwalkers",
-      "number_of_champions": 0,
-      "default_description": "Skinwalkers is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "Skinwalkers is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "Skinwalkers",
-          "skinwalkers"
-        ]
-      }
-    },
-    "faction_slug": "skinwalkers",
-    "website_link": "/champions/hakkorhn-smashlord/",
-    "image_slug": "image-champion-hakkorhn-smashlord",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Hakkorhn Smashlord",
-        "hakkorhn-smashlord"
-      ]
-    },
-    "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalkers doing magic damage",
-    "recommended_builds": []
-  },
-  {
-    "name": "Armiger",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Def",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "armiger",
-    "characteristics": {
-      "60": {
-        "hp": 15195,
-        "attack": 793,
-        "defense": 947,
-        "speed": 92,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/armiger/",
-    "image_slug": "image-champion-armiger",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Armiger is a uncommon defense champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Armiger",
-        "armiger"
-      ]
-    },
-    "default_description": "Armiger is a uncommon defense champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Battle Sister",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "battle-sister",
-    "characteristics": {
-      "60": {
-        "hp": 14205,
-        "attack": 1090,
-        "defense": 716,
-        "speed": 101,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/battle-sister/",
-    "image_slug": "image-champion-battle-sister",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Battle Sister",
-        "battle-sister"
-      ]
-    },
-    "default_description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Crusader",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "crusader",
-    "characteristics": {
-      "60": {
-        "hp": 12390,
-        "attack": 1123,
-        "defense": 804,
-        "speed": 92,
-        "critical_rate": 0.15,
-        "critical_damage": 0.57,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/crusader/",
-    "image_slug": "image-champion-crusader",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Crusader is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Crusader",
-        "crusader"
-      ]
-    },
-    "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Intercessor",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Assist",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "intercessor",
-    "characteristics": {
-      "60": {
-        "hp": 13380,
-        "attack": 947,
-        "defense": 914,
-        "speed": 102,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/intercessor/",
-    "image_slug": "image-champion-intercessor",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Intercessor is a uncommon support champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Intercessor",
-        "intercessor"
-      ]
-    },
-    "default_description": "Intercessor is a uncommon support champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Militia",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "militia",
-    "characteristics": {
-      "60": {
-        "hp": 13215,
-        "attack": 1178,
-        "defense": 694,
-        "speed": 102,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/militia/",
-    "image_slug": "image-champion-militia",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Militia is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Militia",
-        "militia"
-      ]
-    },
-    "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Outlaw Monk",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "outlaw-monk",
-    "characteristics": {
-      "60": {
-        "hp": 12225,
-        "attack": 1244,
-        "defense": 694,
-        "speed": 96,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/outlaw-monk/",
-    "image_slug": "image-champion-outlaw-monk",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Outlaw Monk",
-        "outlaw-monk"
-      ]
-    },
-    "default_description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Pilgrim",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Assist",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "pilgrim",
-    "characteristics": {
-      "60": {
-        "hp": 14865,
-        "attack": 793,
-        "defense": 947,
-        "speed": 98,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/pilgrim/",
-    "image_slug": "image-champion-pilgrim",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Pilgrim is a uncommon support champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Pilgrim",
-        "pilgrim"
-      ]
-    },
-    "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Sergeant",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "sergeant",
-    "characteristics": {
-      "60": {
-        "hp": 12555,
-        "attack": 1112,
-        "defense": 804,
-        "speed": 92,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/sergeant/",
-    "image_slug": "image-champion-sergeant",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sergeant is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Sergeant",
-        "sergeant"
-      ]
-    },
-    "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Sharpshooter",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "sharpshooter",
-    "characteristics": {
-      "60": {
-        "hp": 10575,
-        "attack": 1255,
-        "defense": 793,
-        "speed": 93,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/sharpshooter/",
-    "image_slug": "image-champion-sharpshooter",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Sharpshooter",
-        "sharpshooter"
-      ]
-    },
-    "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Vigilante",
-    "rarity": "Uncommon",
-    "element": "",
-    "type": "HP",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "vigilante",
-    "characteristics": {
-      "60": {
-        "hp": 17505,
-        "attack": 760,
-        "defense": 826,
-        "speed": 98,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/vigilante/",
-    "image_slug": "image-champion-vigilante",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Vigilante is a uncommon hp champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Vigilante",
-        "vigilante"
-      ]
-    },
-    "default_description": "Vigilante is a uncommon hp champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Knecht",
-    "rarity": "Common",
-    "element": "",
-    "type": "Def",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "knecht",
-    "characteristics": {
-      "60": {
-        "hp": 12225,
-        "attack": 650,
-        "defense": 738,
-        "speed": 98,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/knecht/",
-    "image_slug": "image-champion-knecht",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Knecht is a common defense champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Knecht",
-        "knecht"
-      ]
-    },
-    "default_description": "Knecht is a common defense champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Novitiate",
-    "rarity": "Common",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "novitiate",
-    "characteristics": {
-      "60": {
-        "hp": 10245,
-        "attack": 892,
-        "defense": 628,
-        "speed": 83,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/novitiate/",
-    "image_slug": "image-champion-novitiate",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Novitiate is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Novitiate",
-        "novitiate"
-      ]
-    },
-    "default_description": "Novitiate is a common attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Preacher",
-    "rarity": "Common",
-    "element": "",
-    "type": "HP",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "preacher",
-    "characteristics": {
-      "60": {
-        "hp": 10080,
-        "attack": 837,
-        "defense": 694,
-        "speed": 96,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/preacher/",
-    "image_slug": "image-champion-preacher",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Preacher is a common hp champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Preacher",
-        "preacher"
-      ]
-    },
-    "default_description": "Preacher is a common hp champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Sister Militant",
-    "rarity": "Common",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "sister-militant",
-    "characteristics": {
-      "60": {
-        "hp": 10410,
-        "attack": 870,
-        "defense": 639,
-        "speed": 98,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/sister-militant/",
-    "image_slug": "image-champion-sister-militant",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sister Militant is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Sister Militant",
-        "sister-militant"
-      ]
-    },
-    "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order",
-    "recommended_builds": []
-  },
-  {
-    "name": "Yeoman",
-    "rarity": "Common",
-    "element": "",
-    "type": "Attack",
-    "rating": {
-      "overall": "D",
-      "campaign": "",
-      "arena_offense": "",
-      "arena_defense": "",
-      "clan_boss_without_giant_slayer": "",
-      "clan_boss_with_giant_slayer": "",
-      "ice_guardian": "",
-      "dragon": "",
-      "spider": "",
-      "fire_knight": "",
-      "minotaur": "",
-      "force_dungeon": "",
-      "magic_dungeon": "",
-      "spirit_dungeon": "",
-      "void_dungeon": ""
-    },
-    "slug": "yeoman",
-    "characteristics": {
-      "60": {
-        "hp": 9090,
-        "attack": 903,
-        "defense": 694,
-        "speed": 97,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 30,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
-      "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "The Sacred Order",
-          "the-sacred-order"
-        ]
-      }
-    },
-    "faction_slug": "the-sacred-order",
-    "website_link": "/champions/yeoman/",
-    "image_slug": "image-champion-yeoman",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Yeoman is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Yeoman",
-        "yeoman"
-      ]
-    },
-    "default_description": "Yeoman is a common attack champion from the faction The Sacred Order",
     "recommended_builds": []
   },
   {

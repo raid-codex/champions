@@ -36,31 +36,31 @@
   "auras": [],
   "skills": [],
   "faction": {
-    "name": "The Sacred Order",
-    "slug": "the-sacred-order",
-    "website_link": "/factions/the-sacred-order/",
-    "image_slug": "image-faction-the-sacred-order",
+    "name": "Sacred Order",
+    "slug": "sacred-order",
+    "website_link": "/factions/sacred-order/",
+    "image_slug": "image-faction-sacred-order",
     "number_of_champions": 0,
-    "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+    "default_description": "Sacred Order is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+      "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
         "legends",
         "factions",
-        "The Sacred Order",
-        "the-sacred-order"
+        "Sacred Order",
+        "sacred-order"
       ]
     }
   },
-  "faction_slug": "the-sacred-order",
+  "faction_slug": "sacred-order",
   "website_link": "/champions/intercessor/",
   "image_slug": "image-champion-intercessor",
   "seo": {
     "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-    "description": "Intercessor is a uncommon support champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+    "description": "Intercessor is a uncommon support champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
     "keywords": [
       "raid",
       "shadow",
@@ -72,6 +72,6 @@
       "intercessor"
     ]
   },
-  "default_description": "Intercessor is a uncommon support champion from the faction The Sacred Order",
+  "default_description": "Intercessor is a uncommon support champion from the faction Sacred Order",
   "recommended_builds": []
 }

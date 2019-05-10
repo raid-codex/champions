@@ -20405,31 +20405,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/armiger/",
     "image_slug": "image-champion-armiger",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Armiger is a uncommon defense champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Armiger is a uncommon defense champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20441,7 +20441,7 @@
         "armiger"
       ]
     },
-    "default_description": "Armiger is a uncommon defense champion from the faction The Sacred Order"
+    "default_description": "Armiger is a uncommon defense champion from the faction Sacred Order"
   },
   {
     "name": "Battle Sister",
@@ -20481,31 +20481,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/battle-sister/",
     "image_slug": "image-champion-battle-sister",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Battle Sister is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20517,7 +20517,7 @@
         "battle-sister"
       ]
     },
-    "default_description": "Battle Sister is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Battle Sister is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Crusader",
@@ -20557,31 +20557,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/crusader/",
     "image_slug": "image-champion-crusader",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Crusader is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Crusader is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20593,7 +20593,7 @@
         "crusader"
       ]
     },
-    "default_description": "Crusader is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Crusader is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Intercessor",
@@ -20633,31 +20633,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/intercessor/",
     "image_slug": "image-champion-intercessor",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Intercessor is a uncommon support champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Intercessor is a uncommon support champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20669,7 +20669,7 @@
         "intercessor"
       ]
     },
-    "default_description": "Intercessor is a uncommon support champion from the faction The Sacred Order"
+    "default_description": "Intercessor is a uncommon support champion from the faction Sacred Order"
   },
   {
     "name": "Militia",
@@ -20709,31 +20709,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/militia/",
     "image_slug": "image-champion-militia",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Militia is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Militia is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20745,7 +20745,7 @@
         "militia"
       ]
     },
-    "default_description": "Militia is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Militia is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Outlaw Monk",
@@ -20785,31 +20785,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/outlaw-monk/",
     "image_slug": "image-champion-outlaw-monk",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Outlaw Monk is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20821,7 +20821,7 @@
         "outlaw-monk"
       ]
     },
-    "default_description": "Outlaw Monk is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Outlaw Monk is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Pilgrim",
@@ -20861,31 +20861,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/pilgrim/",
     "image_slug": "image-champion-pilgrim",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Pilgrim is a uncommon support champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Pilgrim is a uncommon support champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20897,7 +20897,7 @@
         "pilgrim"
       ]
     },
-    "default_description": "Pilgrim is a uncommon support champion from the faction The Sacred Order"
+    "default_description": "Pilgrim is a uncommon support champion from the faction Sacred Order"
   },
   {
     "name": "Sergeant",
@@ -20937,31 +20937,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/sergeant/",
     "image_slug": "image-champion-sergeant",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sergeant is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Sergeant is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -20973,7 +20973,7 @@
         "sergeant"
       ]
     },
-    "default_description": "Sergeant is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Sergeant is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Sharpshooter",
@@ -21013,31 +21013,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/sharpshooter/",
     "image_slug": "image-champion-sharpshooter",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Sharpshooter is a uncommon attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21049,7 +21049,7 @@
         "sharpshooter"
       ]
     },
-    "default_description": "Sharpshooter is a uncommon attack champion from the faction The Sacred Order"
+    "default_description": "Sharpshooter is a uncommon attack champion from the faction Sacred Order"
   },
   {
     "name": "Vigilante",
@@ -21089,31 +21089,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/vigilante/",
     "image_slug": "image-champion-vigilante",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Vigilante is a uncommon hp champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Vigilante is a uncommon hp champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21125,7 +21125,7 @@
         "vigilante"
       ]
     },
-    "default_description": "Vigilante is a uncommon hp champion from the faction The Sacred Order"
+    "default_description": "Vigilante is a uncommon hp champion from the faction Sacred Order"
   },
   {
     "name": "Knecht",
@@ -21165,31 +21165,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/knecht/",
     "image_slug": "image-champion-knecht",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Knecht is a common defense champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Knecht is a common defense champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21201,7 +21201,7 @@
         "knecht"
       ]
     },
-    "default_description": "Knecht is a common defense champion from the faction The Sacred Order"
+    "default_description": "Knecht is a common defense champion from the faction Sacred Order"
   },
   {
     "name": "Novitiate",
@@ -21241,31 +21241,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/novitiate/",
     "image_slug": "image-champion-novitiate",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Novitiate is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Novitiate is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21277,7 +21277,7 @@
         "novitiate"
       ]
     },
-    "default_description": "Novitiate is a common attack champion from the faction The Sacred Order"
+    "default_description": "Novitiate is a common attack champion from the faction Sacred Order"
   },
   {
     "name": "Preacher",
@@ -21317,31 +21317,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/preacher/",
     "image_slug": "image-champion-preacher",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Preacher is a common hp champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Preacher is a common hp champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21353,7 +21353,7 @@
         "preacher"
       ]
     },
-    "default_description": "Preacher is a common hp champion from the faction The Sacred Order"
+    "default_description": "Preacher is a common hp champion from the faction Sacred Order"
   },
   {
     "name": "Sister Militant",
@@ -21393,31 +21393,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/sister-militant/",
     "image_slug": "image-champion-sister-militant",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Sister Militant is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Sister Militant is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21429,7 +21429,7 @@
         "sister-militant"
       ]
     },
-    "default_description": "Sister Militant is a common attack champion from the faction The Sacred Order"
+    "default_description": "Sister Militant is a common attack champion from the faction Sacred Order"
   },
   {
     "name": "Yeoman",
@@ -21469,31 +21469,31 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "The Sacred Order",
-      "slug": "the-sacred-order",
-      "website_link": "/factions/the-sacred-order/",
-      "image_slug": "image-faction-the-sacred-order",
+      "name": "Sacred Order",
+      "slug": "sacred-order",
+      "website_link": "/factions/sacred-order/",
+      "image_slug": "image-faction-sacred-order",
       "number_of_champions": 0,
-      "default_description": "The Sacred Order is a faction from RAID Shadow Legends",
+      "default_description": "Sacred Order is a faction from RAID Shadow Legends",
       "seo": {
         "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "The Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "description": "Sacred Order is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
         "keywords": [
           "raid",
           "shadow",
           "legends",
           "factions",
-          "The Sacred Order",
-          "the-sacred-order"
+          "Sacred Order",
+          "sacred-order"
         ]
       }
     },
-    "faction_slug": "the-sacred-order",
+    "faction_slug": "sacred-order",
     "website_link": "/champions/yeoman/",
     "image_slug": "image-champion-yeoman",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Yeoman is a common attack champion from the faction The Sacred Order. Find out more on this Raid Shadow Legends codex.",
+      "description": "Yeoman is a common attack champion from the faction Sacred Order. Find out more on this Raid Shadow Legends codex.",
       "keywords": [
         "raid",
         "shadow",
@@ -21505,7 +21505,7 @@
         "yeoman"
       ]
     },
-    "default_description": "Yeoman is a common attack champion from the faction The Sacred Order"
+    "default_description": "Yeoman is a common attack champion from the faction Sacred Order"
   },
   {
     "name": "Bad-el-Kazar",
