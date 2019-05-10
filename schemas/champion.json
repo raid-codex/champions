@@ -42,12 +42,97 @@
         },
         "aura": {
             "type": "object",
-            "required": [],
-            "properties": {}
+            "required": [
+                "description",
+                "characteristics"
+            ],
+            "properties": {
+                "description": {
+                    "type": "string"
+                },
+                "characteristics": {
+                    "$ref": "#/definitions/skill_characteristic"
+                }
+            }
+        },
+        "skill_characteristic": {
+            "type": "object",
+            "required": [
+                "type",
+                "characteristics",
+                "application_type",
+                "target"
+            ],
+            "properties": {
+                "type": {
+                    "type": "string",
+                    "enum": [
+                        "increase",
+                        "decrease"
+                    ]
+                },
+                "application_type": {
+                    "type": "string",
+                    "enum": [
+                        "chance",
+                        "always"
+                    ]
+                },
+                "target": {
+                    "type": "string",
+                    "enum": [
+                        "self",
+                        "target",
+                        "ally",
+                        "enemy",
+                        "all_enemis",
+                        "party"
+                    ]
+                },
+                "characteristics": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/kill_characteristic_detail"
+                    }
+                }
+            }
+        },
+        "skill_characteristic_detail": {
+            "type": "object",
+            "required": [
+                "name",
+                "value"
+            ],
+            "properties": {
+                "name": {
+                    "$ref": "#/definitions/characteristic"
+                }
+            }
+        },
+        "characteristic": {
+            "type": "string",
+            "enum": [
+                "ATK",
+                "DEF",
+                "CRIT",
+                "CRIT DMG",
+                "SPD",
+                "ACC",
+                "HP"
+            ]
         },
         "skill": {
             "type": "object",
-            "required": [],
+            "required": [
+                "slug",
+                "image_slug",
+                "name",
+                "description",
+                "target",
+                "number_of_target",
+                "effects",
+                "upgrades"
+            ],
             "properties": {}
         },
         "seo": {
