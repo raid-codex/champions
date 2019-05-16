@@ -285,6 +285,10 @@
             "items": {
                 "$ref": "#/definitions/build"
             }
+        },
+        "lore": {
+            "type": "string",
+            "pattern": "^<p>.+<\/p>$"
         }
     }
 }
