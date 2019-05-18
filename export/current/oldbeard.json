@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": "<p>Oldbeards can live for hundreds of years, something that has given them their name. But while their bodies continue to grow even in extreme old age, their intellect stops developing early on in their adolescence. Though what they lack in wits, they readily make up for in sheer toughness.</p>"
 }
