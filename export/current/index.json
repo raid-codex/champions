@@ -1831,7 +1831,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -1909,7 +1909,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -1987,7 +1987,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2065,7 +2065,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2143,7 +2143,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2221,7 +2221,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2299,7 +2299,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2377,7 +2377,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2455,7 +2455,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -2533,7 +2533,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Banner Lords",
+      "name": "Banner-Lords",
       "slug": "banner-lords",
       "website_link": "/factions/banner-lords/",
       "image_slug": "image-faction-banner-lords",
@@ -6589,7 +6589,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "dark-elves",
+      "name": "Dark Elves",
       "slug": "dark-elves",
       "website_link": "/factions/dark-elves/",
       "image_slug": "image-faction-dark-elves",
@@ -8461,7 +8461,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "demonspawn",
+      "name": "Demonspawn",
       "slug": "demonspawn",
       "website_link": "/factions/demonspawn/",
       "image_slug": "image-faction-demonspawn",
@@ -10489,7 +10489,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "high-elves",
+      "name": "High Elves",
       "slug": "high-elves",
       "website_link": "/factions/high-elves/",
       "image_slug": "image-faction-high-elves",
@@ -14935,7 +14935,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -15013,7 +15013,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -15715,7 +15715,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -15793,7 +15793,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -15871,7 +15871,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -15949,7 +15949,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "ogryn-tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
@@ -16027,7 +16027,7 @@
     "auras": [],
     "skills": [],
     "faction": {
-      "name": "Ogryn Tribes",
+      "name": "Ogryn-Tribes",
       "slug": "ogryn-tribes",
       "website_link": "/factions/ogryn-tribes/",
       "image_slug": "image-faction-ogryn-tribes",
