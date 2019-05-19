@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

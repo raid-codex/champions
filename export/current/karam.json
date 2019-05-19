@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

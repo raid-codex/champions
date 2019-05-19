@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

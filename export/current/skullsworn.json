@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

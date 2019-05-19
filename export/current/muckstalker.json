@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

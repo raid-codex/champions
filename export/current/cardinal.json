@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }
