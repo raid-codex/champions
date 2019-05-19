@@ -74,7 +74,8 @@
       ]
     },
     "default_description": "Lugan the Steadfast is a legendary hp champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Richtoff the Bold",
@@ -151,7 +152,8 @@
       ]
     },
     "default_description": "Richtoff the Bold is a legendary attack champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Few would dare argue that the Captain of King Tayba’s personal Guard, Richtoff, known as the “Bold”, earned his title. Born to the family of a stone broke minor noble, Richtoff’s prospects in life were not much better than those of a commoner. But Lumaya herself must have smiled upon him. Rather than being sent as a page to a noble of similar worth (or rather lack thereof) or to his own father, Richtoff’s fate took a different turn. The Grand Tourney in Kaerok Castle gathered nobles from all across the kingdom, no matter how inconsequential they may be. And where most young nobles were content to just watch and dream of the day they could take part themselves, Richtoff attempted to sneak past the guards onto the archery range.</p><p>The King, amused by such a brazen act, stopped his men from dragging Richtoff away and allowed the boy to participate. Many laughed and openly mocked the upstart, yet as soon as Richtoff’s first arrow struck true the murmurs and jeering ceased. He could not match the true masters at that age, of course, but had shown himself to be talented enough to earn his place at Kaerok’s court. There he was given the tools and teachers to hone his skill.</p><p>Upon reaching adulthood Richtoff was already known as one of the best sharpshooters the Kingdom had to offer. He is said to have slain trolls and undead with but a single shot from hundreds of paces away, and none could match the speed with which he reloaded his crossbow to batter the enemy with a hail of quarrels. Now an anointed Knight, Richtoff has recently risen through the ranks to lead the King’s own Guard. And Kaerok’s enemies can be certain, never again shall the King be threatened while his loyal servants keep vigil.</p>"
   },
   {
     "name": "Baron",
@@ -228,7 +230,8 @@
       ]
     },
     "default_description": "Baron is a legendary attack champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Black Knight",
@@ -305,7 +308,8 @@
       ]
     },
     "default_description": "Black Knight is a legendary hp champion from the faction Banner-Lords doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Lord Champfort",
@@ -382,7 +386,8 @@
       ]
     },
     "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Raglin",
@@ -459,7 +464,8 @@
       ]
     },
     "default_description": "Raglin is a legendary assist champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Septimus",
@@ -536,7 +542,8 @@
       ]
     },
     "default_description": "Septimus is a legendary attack champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sethallia",
@@ -613,7 +620,8 @@
       ]
     },
     "default_description": "Sethallia is a legendary assist champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Lady Sethallia hails from the coast of the Land of Rebirth, South of the Castle of Kaerok itself. Her ancestral fief grants control of much of the province, making Sethallia a well-known face at court as well as one of King Tayba’s important vassals. Fiery-tempered and charismatic, she has earned as many enemies among the King’s bannermen as she did friends.</p><p>Her brash nature is well known even among Sethallia’s own people, although it seems her soldiers have grown to adore and respect it. A widely-quoted story tells of her bravery when a small force of Kaerok knights fell into an orc ambush. Seeing a hulking orс chief fell a dozen of her men in that battle, Sethallia cut her way through to the beast and mocked him brazenly. The orc, who is said to have dwarfed even the tallest of King Tayba’s knights, abandoned the wounded soldiers in favour of trampling the foolish noble into the dirt. Yet for all his savagery he could not match Sethallia’s skill. Finally provoked into making a mistake, the orc chief soon found his throat pierced by a spear, and his kin broke and fled the field upon witnessing their leader’s defeat. Needless to say, Lady Sethallia’s reputation as a warrior and her popularity in the King’s army blossomed after that feat.</p><p>For all her recklessness, Sethallia is a capable leader that can both guide her fury to set enemy ranks ablaze with magic or direct her allies to sap away their strength in a relentless assault. But where enemies face naught but fire and wrath, Sethallia’s care has been known to miraculously heal even the most grievous of wounds.</p>"
   },
   {
     "name": "Rowan",
@@ -690,7 +698,8 @@
       ]
     },
     "default_description": "Rowan is a epic attack champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Azure",
@@ -767,7 +776,8 @@
       ]
     },
     "default_description": "Azure is a epic hp champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hordin",
@@ -844,7 +854,8 @@
       ]
     },
     "default_description": "Hordin is a epic attack champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Knight Errant",
@@ -921,7 +932,8 @@
       ]
     },
     "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Oathbound",
@@ -998,7 +1010,8 @@
       ]
     },
     "default_description": "Oathbound is a epic def champion from the faction Banner-Lords doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warcaster",
@@ -1075,7 +1088,8 @@
       ]
     },
     "default_description": "Warcaster is a epic assist champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Claiming his place amongst the most seasoned and battle-hardened warriors in Kaerok, the Warcaster is renowned throughout the ranks of the Banner Lords for his might. Recruited as a child from humble barbarian origins somewhere in the Deadlands, he was knighted at the age of 15, and later chosen to join His Majesty King Tayba’s Royal Guard due to his fierce loyalty. Knowing his unshakeable faith in his cause and King, those who stand against the Warcaster expect little mercy once his mace is raised...</p>"
   },
   {
     "name": "Cataphract",
@@ -1152,7 +1166,8 @@
       ]
     },
     "default_description": "Cataphract is a rare hp champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Chevalier",
@@ -1229,7 +1244,8 @@
       ]
     },
     "default_description": "Chevalier is a rare def champion from the faction Banner-Lords doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Chevaliers hail from the Northern coast of Kaerok, the name itself derived from a local title given to Knights. Mostly minor nobles, these warriors form the elite corps of the King’s army. Encased in heavy armour, armed with a shield and a variety of weapons, they can batter their way through all but the toughest opposition.</p><p>The Chevalier’s allies can be certain, that on his honour he shall protect them and strike back against those who defy the will of the Arbiter. Such is his dedication, that not even enchanted armour can save the enemy from his axe. And his knowledge of tactics allows allies to follow him into the fray in a defensive formation, less exposed to enemy strikes.</p>"
   },
   {
     "name": "Conquerer",
@@ -1306,7 +1322,8 @@
       ]
     },
     "default_description": "Conquerer is a rare attack champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Courtier",
@@ -1383,7 +1400,8 @@
       ]
     },
     "default_description": "Courtier is a rare attack champion from the faction Banner-Lords doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Grandmaster",
@@ -1460,7 +1478,8 @@
       ]
     },
     "default_description": "Grandmaster is a rare hp champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Halberdier",
@@ -1537,7 +1556,8 @@
       ]
     },
     "default_description": "Halberdier is a rare attack champion from the faction Banner-Lords doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Preserver",
@@ -1614,7 +1634,8 @@
       ]
     },
     "default_description": "Preserver is a rare def champion from the faction Banner-Lords doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Valerie",
@@ -1691,7 +1712,8 @@
       ]
     },
     "default_description": "Valerie is a rare assist champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Crossbowman",
@@ -1768,7 +1790,8 @@
       ]
     },
     "default_description": "Crossbowman is a rare attack champion from the faction Banner-Lords doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Archer",
@@ -1845,7 +1868,8 @@
       ]
     },
     "default_description": "Archer is a uncommon attack champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Commander",
@@ -1922,7 +1946,8 @@
       ]
     },
     "default_description": "Commander is a uncommon support champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Duelist",
@@ -1999,7 +2024,8 @@
       ]
     },
     "default_description": "Duelist is a uncommon attack champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Fireblade",
@@ -2076,7 +2102,8 @@
       ]
     },
     "default_description": "Fireblade is a uncommon attack champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Squire",
@@ -2153,7 +2180,8 @@
       ]
     },
     "default_description": "Squire is a uncommon defense champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Stalwart",
@@ -2230,7 +2258,8 @@
       ]
     },
     "default_description": "Stalwart is a uncommon hp champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Axeman",
@@ -2307,7 +2336,8 @@
       ]
     },
     "default_description": "Axeman is a common hp champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bandit",
@@ -2384,7 +2414,8 @@
       ]
     },
     "default_description": "Bandit is a common attack champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Pikeman",
@@ -2461,7 +2492,8 @@
       ]
     },
     "default_description": "Pikeman is a common defense champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Swordsman",
@@ -2538,7 +2570,8 @@
       ]
     },
     "default_description": "Swordsman is a common attack champion from the faction Banner Lords",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Turvold",
@@ -2615,7 +2648,8 @@
       ]
     },
     "default_description": "Turvold is a legendary attack champion from the faction Barbarians doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Valkyrie",
@@ -2692,7 +2726,8 @@
       ]
     },
     "default_description": "Valkyrie is a legendary def champion from the faction Barbarians doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Altan",
@@ -2769,7 +2804,8 @@
       ]
     },
     "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Once a warrior of near legendary prowess among his people, Altan enjoyed a life of adventure and debauchery. Like many other Barbarians, he served as a mercenary, battled rival warriors for glory and bragging rights. Even as he grew older, Altan’s prideful nature did not abate.</p><p>And though his strength began to wane, he still craved the same renown and the elation of battle. When accused of becoming old and weak, he did not just give the offenders a good thrashing but also vowed to face the dread dragon Hellrazor alone. Without a word, he gathered his arms and departed for the Beast’s mountain.</p><p>It is unknown what transpired in the Dragon’s lair, for Altan refuses to speak of it. Some say the Arbiter herself intervened and saved him from certain death. Whatever the case may have been, it was clear that Altan did not prevail - yet he did not perish either. When he emerged, the old Barbarian warrior appeared fused with dragonflame that will burn within him forever. He swore fealty to the Arbiter and her fight against the growing Shadow and served her chosen warriors ever since.</p>"
   },
   {
     "name": "Kallia",
@@ -2846,7 +2882,8 @@
       ]
     },
     "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Even those that live the lives full of hardship and primal strife among the Barbarian tribes are not immune to love. Atur, one of the mightiest warriors of his tribe, has always been a vain and arrogant man. He had every right to be proud, of course, for none could face him in a battle of equals and walk away victorious. None, until he met Kallia, whose prowess and ability to fly into relentless fury are as immense as her beauty.</p><p>Neither of them truly remembers what sparked the conflict between them, both will, of course, blame their other half. Regardless of the truth of the matter, an argument went out of control, and a battle of words, in which even Atur himself admits he took a thorough thrashing, turned to fisticuffs. Here, their passion for a fight was evenly matched and soon turned to passion for each other.</p><p>Though Barbarians are not exactly sophisticated, if not outright crude, by the standards of Kaerok or Aravia, Atur’s and Kallia’s relationship still blossomed into something sweet and loving… in its own way. It is certainly as strong as the mountains that surround their home, and as wild as the sandstorms that sweep the Deadlands.</p>"
   },
   {
     "name": "Aina",
@@ -2923,7 +2960,8 @@
       ]
     },
     "default_description": "Aina is a epic attack champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Jotun",
@@ -3000,7 +3038,8 @@
       ]
     },
     "default_description": "Jotun is a epic hp champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Jotuns are a race of strong and proud warriors that hail from the frozen North of Teleria. Larger and stronger than a typical human or elf, they are easily distinguishable by the horns that crown their heads. Though they have a long-standing tradition of martial prowess, the once mighty Jotuns have been in decline for centuries. Most tribes have been forced to leave their homeland and band together with other exiles, adding their strength to Barbarian groups or mercenary bands.</p><p>Though they all share an affinity with powers from beyond the material realm, some Jotuns can manifest these powers and add them to their already impressive arsenal. This Champion, in particular, has been marked by primordial fire - or so he believes - which marks him by the bright red colour of his hair, and the ability to summon flames that engulf the blade of his sword.</p>"
   },
   {
     "name": "Woad-Painted",
@@ -3077,7 +3116,8 @@
       ]
     },
     "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Atur",
@@ -3154,7 +3194,8 @@
       ]
     },
     "default_description": "Atur is a epic hp champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Even those that live the lives full of hardship and primal strife among the Barbarian tribes are not immune to love. Atur, one of the mightiest warriors of his tribe, has always been a vain and arrogant man. He had every right to be proud, of course, for none could face him in a battle of equals and walk away victorious. None, until he met Kallia, whose prowess and ability to fly into relentless fury are as immense as her beauty.</p><p>Neither of them truly remembers what sparked the conflict between them, both will, of course, blame their other half. Regardless of the truth of the matter, an argument went out of control, and a battle of words, in which even Atur himself admits he took a thorough thrashing, turned to fisticuffs. Here, their passion for a fight was evenly matched and soon turned to passion for each other.</p><p>Though Barbarians are not exactly sophisticated, if not outright crude, by the standards of Kaerok or Aravia, Atur’s and Kallia’s relationship still blossomed into something sweet and loving… in its own way. It is certainly as strong as the mountains that surround their home, and as wild as the sandstorms that sweep the Deadlands.</p>"
   },
   {
     "name": "Alika",
@@ -3231,7 +3272,8 @@
       ]
     },
     "default_description": "Alika is a epic attack champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Personifying the tactics of many nomadic Barbarian tribes, Alika comes from the ranks of Ambushers - a somewhat basic, but very apt name - are an elite cadre of warriors that specialize in hit-and-run tactics both on horseback and on foot. These usually come from the ranks of tribal nobility, or warriors that have been granted the trust of the chieftain for their deed on the battlefield. Granted with some of the best armour the nomads can create - both sturdy and richly adorned to display status - and state-of-the-art bows, they can make any invasion into a hellish experience.</p><p>Alika is a master archer, capable of identifying priority targets at a moment's notice and taking advantage of even the smallest weaknesses her hawk-like eyes spot. The only thing that can match her skill with the bow is her fierce loyalty to her blood kin, Sikara, for whom she will face the direst of foes and survive against all odds.</p>"
   },
   {
     "name": "Anointed",
@@ -3308,7 +3350,8 @@
       ]
     },
     "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bloodbraid",
@@ -3385,7 +3428,8 @@
       ]
     },
     "default_description": "Bloodbraid is a rare hp champion from the faction Barbarians doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Marked",
@@ -3462,7 +3506,8 @@
       ]
     },
     "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sentinel",
@@ -3539,7 +3584,8 @@
       ]
     },
     "default_description": "Sentinel is a rare hp champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skirmisher",
@@ -3616,7 +3662,8 @@
       ]
     },
     "default_description": "Skirmisher is a rare attack champion from the faction Barbarians doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Barbarian tribes are renowned for their ability to adapt to harsh conditions, be it their inhospitable land, or unfavourable odds on the battlefield. Sometimes, the sheer rage and fury that they are associated with are not enough, and cunning tactics must be applied. Thus the use of skirmishers, armed with bows or javelins, is not uncommon. These warriors appear out of nowhere, strike at any vulnerability they can find, and disappear like ghosts.</p><p>This Champion in particular has honed her talent to take advantage of an opportunity. She knows that denying an enemy’s advantage is crucial to ensuring victory. And so she will employ any means necessary to bereave the foe of enchantments and slow them down to let her allies seize the initiative.</p>"
   },
   {
     "name": "Slayer",
@@ -3693,7 +3740,8 @@
       ]
     },
     "default_description": "Slayer is a rare attack champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warmaiden",
@@ -3770,7 +3818,8 @@
       ]
     },
     "default_description": "Warmaiden is a rare attack champion from the faction Barbarians doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Berserker",
@@ -3847,7 +3896,8 @@
       ]
     },
     "default_description": "Berserker is a rare attack champion from the faction Barbarians doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ox",
@@ -3924,7 +3974,8 @@
       ]
     },
     "default_description": "Ox is a rare attack champion from the faction Barbarians doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Nicknamed ‘Ox’ for his bullheaded nature, this Barbarian embodies many of the traits associated with his people. Strong, fearless, rather superstitious and stubborn. He is, nonetheless, a capable warrior that will fight with far more flexibility than his brutish looks would make one believe.</p><p>Though fond of overwhelming his foes with relentless attacks, Ox knows when and where to strike to keep the enemy firmly on the defensive and unable to strike back with their full arsenal of deadly skills.</p>"
   },
   {
     "name": "Elder",
@@ -4001,7 +4052,8 @@
       ]
     },
     "default_description": "Elder is a rare def champion from the faction Barbarians doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Crusher",
@@ -4078,7 +4130,8 @@
       ]
     },
     "default_description": "Crusher is a uncommon defense champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Hailing from the deep vine forests of the Southmost Realms, she comes from a tribe of master trackers who viciously defend their territory from trespassers with carefully placed traps and deft spear thrusts. Those caught violating the borders of their domain are ritually crippled during the Ordeal of Stone - a practice of much amusement to her Barbarian brothers and sisters in the North. After her first time demonstrating the punishment after a battle, the name “Crusher” has since stuck...</p>"
   },
   {
     "name": "Dervish",
@@ -4155,7 +4208,8 @@
       ]
     },
     "default_description": "Dervish is a uncommon attack champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Outlander",
@@ -4232,7 +4286,8 @@
       ]
     },
     "default_description": "Outlander is a uncommon attack champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Outrider",
@@ -4309,7 +4364,8 @@
       ]
     },
     "default_description": "Outrider is a uncommon attack champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Pit Fighter",
@@ -4386,7 +4442,8 @@
       ]
     },
     "default_description": "Pit Fighter is a uncommon hp champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ritualist",
@@ -4463,7 +4520,8 @@
       ]
     },
     "default_description": "Ritualist is a uncommon attack champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Shieldguard",
@@ -4540,7 +4598,8 @@
       ]
     },
     "default_description": "Shieldguard is a uncommon defense champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Spiritwalker",
@@ -4617,7 +4676,8 @@
       ]
     },
     "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ghostborn",
@@ -4694,7 +4754,8 @@
       ]
     },
     "default_description": "Ghostborn is a legendary assist champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Queen Eva",
@@ -4771,7 +4832,8 @@
       ]
     },
     "default_description": "Queen Eva is a legendary attack champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Rae",
@@ -4848,7 +4910,8 @@
       ]
     },
     "default_description": "Rae is a legendary attack champion from the faction Dark Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Zavia",
@@ -4925,7 +4988,8 @@
       ]
     },
     "default_description": "Zavia is a legendary attack champion from the faction Dark Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Hatred is a powerful thing, one that is, perhaps, as hard as death to overcome. Yet even here love finds a way, the story of Belanor and Zavia. Cruel fate had them fight on different sides of one of the many conflicts between the High Elves of Aravia and the exiles known as Dark Elves. Still, even though the bloody fog of war, through hate, and through fury, these two souls were united.</p><p>As stragglers of a battle between the warring Elven factions, they were initially forced to survive an unwelcoming orc-infested desert together. The sheer adversity and the dangers they faced allowed them to see a person behind the mask of an enemy. The passion that was sparked then survived far beyond a temporary alliance of convenience. And, in the end, both Belanor and Zavia chose to escape together rather than continue the feud. Now seen as traitors and deserters by their former allies, the two of them had no choice but to live on the run.</p><p>They faced persecution, poverty, and mortal danger together. Finally, they were captured and sentenced to death for their crimes. Yet when the first light of dawn broke and the jailors arrived to take the fugitives to the scaffold, they were taken aback. The cell was locked and secured, not a single hint at how the captives escaped. The only thing they found were two feathers on the stone floor, one black as night, the other - white as Lumaya’s light. To this day no one knows what transpired on that night, though some, as they often do, attribute the miraculous escape to the Arbiter.</p>"
   },
   {
     "name": "Blind Seer",
@@ -5002,7 +5066,8 @@
       ]
     },
     "default_description": "Blind Seer is a legendary assist champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Astralith",
@@ -5079,7 +5144,8 @@
       ]
     },
     "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Foli",
@@ -5156,7 +5222,8 @@
       ]
     },
     "default_description": "Foli is a legendary attack champion from the faction Dark Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Foli's origins are shrouded in mystery. Some say he was among the first Elves to have been banished from the Kingdom of Aravia for dabbling in the forbidden Dark Arts. Others - that he was unjustly persecuted by his political rivals and forced into exile. Foli himself certainly cares little for rumours and legends, his focus remains on the present and his role in the war against Siroth. For decades, he worked alone, striking alliances and backroom deals with numerous powerful figures across Teleria. His goal was ever the same - to uproot the servants of darkness wherever they could be found, by whatever means necessary.</p><p>His natural talents are enhanced manyfold by the strange armour he wears. Whether created by magical means, or a symbiotic creature eons-old, this living carapace provides exceptional protection and vitality. Crushing blows that would daze and debilitate lesser warriors seem to have little effect, wounds mend as fast as they would beneath a skilled healer's touch, and the armour itself serves as a terrifying extension of Foli's arsenal.</p><p>Such an elusive Champion is not easy to recruit, yet if his loyalty is gained few foes will be able to stand in his Company's way.</p>"
   },
   {
     "name": "Lua",
@@ -5233,7 +5300,8 @@
       ]
     },
     "default_description": "Lua is a epic attack champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Luria",
@@ -5310,7 +5378,8 @@
       ]
     },
     "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Psylar",
@@ -5387,7 +5456,8 @@
       ]
     },
     "default_description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Crimson Helm",
@@ -5464,7 +5534,8 @@
       ]
     },
     "default_description": "Crimson Helm is a epic def champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Delver",
@@ -5541,7 +5612,8 @@
       ]
     },
     "default_description": "Delver is a epic attack champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Known only as the “Delver”, this mysterious Dark Elf female has been selling her skills as an assassin and master poisoner for many years. With her mind as sharp as the quarrels of her crossbow, she excels at taking advantage of and multiplying her victims’ weaknesses. And though her origins are not known, some speculate that the moniker was earned by her ceaseless interest to old Elven ruins scattered across the continent. No one knows what she seeks there, but those unfortunate souls brave or foolish enough to assist her expedition for coin are rarely heard from again.</p>"
   },
   {
     "name": "Spider",
@@ -5618,7 +5690,8 @@
       ]
     },
     "default_description": "Spider is a epic assist champion from the faction Dark Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warden",
@@ -5695,7 +5768,8 @@
       ]
     },
     "default_description": "Warden is a epic def champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Coldheart",
@@ -5772,7 +5846,8 @@
       ]
     },
     "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Kael",
@@ -5849,7 +5924,8 @@
       ]
     },
     "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Paragon",
@@ -5926,7 +6002,8 @@
       ]
     },
     "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Spirithost",
@@ -6003,7 +6080,8 @@
       ]
     },
     "default_description": "Spirithost is a rare assist champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hexweaver",
@@ -6080,7 +6158,8 @@
       ]
     },
     "default_description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Judge",
@@ -6157,7 +6236,8 @@
       ]
     },
     "default_description": "Judge is a rare attack champion from the faction Dark Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Mystic Hand",
@@ -6234,7 +6314,8 @@
       ]
     },
     "default_description": "Mystic Hand is a rare assist champion from the faction Dark Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Retainer",
@@ -6311,7 +6392,8 @@
       ]
     },
     "default_description": "Retainer is a rare def champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The Retainer is a fiercely loyal warrior in the service of one of the ancient and noble Dark Elven houses. Sworn to service until death or dismissal, he wields a blade crafted in the forges of Fire Knight's Keep, and quenched in the blood of orcs – a blade he is honor-bound to fall upon should his Lord die in battle.</p><p>Like all in service to his master’s house, his armor and hair are dyed a bold azure – a sign of the unbreakable faith in his liege. A master swordsman, the Retainer also possesses the elven gift of hypnosis.</p>"
   },
   {
     "name": "Wanderer",
@@ -6388,7 +6470,8 @@
       ]
     },
     "default_description": "Wanderer is a rare attack champion from the faction Dark Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The Wanderer is one of the most infamous of all Dark Elven warriors. A silent fighter of awesome ability, skill, and cunning, before his fall from grace he had once served as Queen Eva's personal bodyguard and - if the rumors are to be believed – personal assassin.</p><p>Those days have long since passed, and his story is now one of exile. Charged with the Queen’s safekeeping during the height of the wars with Kaerok, he abandoned his place at her side to seek out a legendary blade in the lands beyond the Dark Ravine. Said to cut even the strongest of tempered steel, it rests now at his side – but the price was dear.</p><p>The lands of Aravia and the road back to Darkwoord Forest are closed to him for his betrayal. With a price upon his head, his kin will not risk the Queen’s wrath to give him welcome. And so, he wanders Teleria endlessly, friend to none, a dark servant without a master...</p>"
   },
   {
     "name": "Eviscerator",
@@ -6465,7 +6548,8 @@
       ]
     },
     "default_description": "Eviscerator is a rare attack champion from the faction Dark Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>It is no surprise that the cutthroat society of the Dark Elves produces many skilled warriors and assassins. The latter are especially thought after by anyone in Teleria who needs a problem resolved in a swift and bloody manner. Fortunately for her employers, and unfortunately for her victims, the assassin known as the Eviscerator specializes exactly in that. Her gruesome monicker is well-earned, as a bloody trail of successful \"contracts\" left behind would attest. Of course, there is more than simple cruelty at play. In this bloody business a fear-inspiring reputation is certainly quite important.</p><p>Granted, that reputation is coupled with impressive talent. Eviscerator is as lethal as she is graceful, striking with blinding speed and always seeking to find a weak point in the enemy's defenses. Her dual daggers are coated in poison, making certain that even the smallest scratch has a chance of bleeding her victim. Her agility allows to strike from the shadows, throwing enemy formations into disarray. She knows that it would be foolish to let an enemy recover, and always seeks to strike whenever they attempt to recuperate or gain an advantage.</p>"
   },
   {
     "name": "Pain Keeper",
@@ -6542,7 +6626,8 @@
       ]
     },
     "default_description": "Pain Keeper is a rare hp champion from the faction dark-elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Heartpiercer",
@@ -6619,7 +6704,8 @@
       ]
     },
     "default_description": "Heartpiercer is a uncommon attack champion from the faction Dark Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Trained in the ranks of the elven rangers, Heartpiercer is a prodigy when it comes to using her bow to her advantage in battle. Though she could easily hunt any beast in Darkwood Forest, her defensive skills leave much to be desired. She is seldom found alone, and fights best with an ally at her side.</p>"
   },
   {
     "name": "Redeemer",
@@ -6696,7 +6782,8 @@
       ]
     },
     "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sniper",
@@ -6773,7 +6860,8 @@
       ]
     },
     "default_description": "Sniper is a uncommon attack champion from the faction Dark Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Magekiller",
@@ -6850,7 +6938,8 @@
       ]
     },
     "default_description": "Magekiller is a common attack champion from the faction Dark Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ranger",
@@ -6927,7 +7016,8 @@
       ]
     },
     "default_description": "Ranger is a common attack champion from the faction Dark Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Mortu-Macaab",
@@ -7004,7 +7094,8 @@
       ]
     },
     "default_description": "Mortu-Macaab is a legendary attack champion from the faction Demonspawn doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Prince Kymar",
@@ -7081,7 +7172,8 @@
       ]
     },
     "default_description": "Prince Kymar is a legendary assist champion from the faction Demonspawn doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Lord Shazar",
@@ -7158,7 +7250,8 @@
       ]
     },
     "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Drexthar Bloodtwin",
@@ -7235,7 +7328,8 @@
       ]
     },
     "default_description": "Drexthar Bloodtwin is a legendary hp champion from the faction Demonspawn doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>There are many demonic creatures in service of Siroth, some born of Teleria and its magical ether, others - in the astral planes far beyond the mortal world. Some of these planes consist of naught but eldritch flames and eternal darkness. From there, the Dark Lord summoned forth some of his most powerful minions. Fire Elementals - the personification of rage and destruction given form and will. And among them, Drexthar Bloodtwin is among the most terrifying.</p><p>A being of ancient power, Drexthar's body is little more than an ephemeral spirits created by the ever-burning hellfire. To give him form, Siroth encased the elemental into a suit of might armour and armed him with a vicious blade that feeds on Drexthar's own nature. All those who dare to stand in his way must beware, for not only this servant of Siroth a mighty and experienced warrior that has ended many would-be Champions over thousands of years, but his very being presents a mortal danger as well. Though strikes may yet break through Drexthar's armour, the flames hidden beneath are volatile, hungry, and all too eager to lash out at any creature foolish enough to try extinguishing them.</p><p>Yet Drexthar's nature is also his weakness, for fire does not only consume and destroy - it brings light and warmth as well. Heroes with a sufficiently strong will may be able to bind the elemental to it, cutting him off from his dark master and turning the raw destructive potential to serve good.</p>"
   },
   {
     "name": "Alure",
@@ -7312,7 +7406,8 @@
       ]
     },
     "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Nazana",
@@ -7389,7 +7484,8 @@
       ]
     },
     "default_description": "Nazana is a epic hp champion from the faction Demonspawn doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Erinyes",
@@ -7466,7 +7562,8 @@
       ]
     },
     "default_description": "Erinyes is a epic attack champion from the faction Demonspawn doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hellgazer",
@@ -7543,7 +7640,8 @@
       ]
     },
     "default_description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Peydma",
@@ -7620,7 +7718,8 @@
       ]
     },
     "default_description": "Peydma is a epic def champion from the faction Demonspawn doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Souldrinker",
@@ -7697,7 +7796,8 @@
       ]
     },
     "default_description": "Souldrinker is a epic attack champion from the faction Demonspawn doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Diabolist",
@@ -7774,7 +7874,8 @@
       ]
     },
     "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Fellhound",
@@ -7851,7 +7952,8 @@
       ]
     },
     "default_description": "Fellhound is a rare def champion from the faction Demonspawn doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Fellhounds are hellish creations of Siroth, his beasts of war. As they pass, these vicious hounds leaving charred pawprints and the smell of sulphur behind. According to ancient legends, seeing one foretells the unfortunate observer’s imminent death. And, considering the sharpness of the fellhounds’ steel-like fangs, it is not hard to see why.</p><p>Yet those that somehow capture and tame the beast may take great advantage of their protective magic.</p>"
   },
   {
     "name": "Hellfang",
@@ -7928,7 +8030,8 @@
       ]
     },
     "default_description": "Hellfang is a rare attack champion from the faction Demonspawn doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hound Spawn",
@@ -8005,7 +8108,8 @@
       ]
     },
     "default_description": "Hound Spawn is a rare attack champion from the faction Demonspawn doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Marquess",
@@ -8082,7 +8186,8 @@
       ]
     },
     "default_description": "Marquess is a rare def champion from the faction Demonspawn doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The profane hierarchy of Siroth’s legions is not unlike that of the mortal nobility in Teleria. There is protocol, a certain twisted propriety in demonic dealings, there are ranks and titles. The Marquis and Marquesses stand high in this hierarchy, serving as tacticians and commanders of the Demonspawn hosts.</p><p>Some they there were mortals once, before Siroth’s servants came to Teleria. Driven by fear or ambition, a terrible pact has been made by the nobles to retain their status, yet at a dear price - their very souls. Servants of Lumaya say that any mortal to be foolish enough to sign such a pact lives on in torment, their consciousness entrapped in suffocating, eternal darkness. Survive they will, though most will - in time - beg for the release of death.</p><p>And yet there is never a lack of those who are willing to test these tales for the promise of power.</p>"
   },
   {
     "name": "Marquis",
@@ -8159,7 +8264,8 @@
       ]
     },
     "default_description": "Marquis is a rare def champion from the faction Demonspawn doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The profane hierarchy of Siroth’s legions is not unlike that of the mortal nobility in Teleria. There is protocol, a certain twisted propriety in demonic dealings, there are ranks and titles. The Marquis and Marquesses stand high in this hierarchy, serving as tacticians and commanders of the Demonspawn hosts.</p><p>Some they there were mortals once, before Siroth’s servants came to Teleria. Driven by fear or ambition, a terrible pact has been made by the nobles to retain their status, yet at a dear price - their very souls. Servants of Lumaya say that any mortal to be foolish enough to sign such a pact lives on in torment, their consciousness entrapped in suffocating, eternal darkness. Survive they will, though most will - in time - beg for the release of death.</p><p>And yet there is never a lack of those who are willing to test these tales for the promise of power.</p>"
   },
   {
     "name": "Ifrit",
@@ -8236,7 +8342,8 @@
       ]
     },
     "default_description": "Ifrit is a rare hp champion from the faction Demonspawn doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Ifrits are a particular demonbreed that stands above the common foot soldiers of Siroth’s hellish hierarchy. Often compared to wasps for their somewhat insectoid appearance and frequent reliance on sting-like spears, Ifrits are usually found at the head of smaller Demonspawn cohorts.</p><p>Dark magic swirls around them like an unseen mist, allowing their unholy strikes to sap away the strength of their victims or even hex those that have the skill and courage to attack them.</p>"
   },
   {
     "name": "Malbranche",
@@ -8313,7 +8420,8 @@
       ]
     },
     "default_description": "Malbranche is a rare attack champion from the faction Demonspawn doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Tormentor",
@@ -8390,7 +8498,8 @@
       ]
     },
     "default_description": "Tormentor is a rare attack champion from the faction demonspawn doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Incubus",
@@ -8467,7 +8576,8 @@
       ]
     },
     "default_description": "Incubus is a uncommon attack champion from the faction Demonspawn",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Lemure",
@@ -8544,7 +8654,8 @@
       ]
     },
     "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Pitspawn",
@@ -8621,7 +8732,8 @@
       ]
     },
     "default_description": "Pitspawn is a uncommon defense champion from the faction Demonspawn",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>In life once honored defenders of Teleria and knights of The Sacred Order, these fearsome Demonspawn were reborn in darkness to arise in their present form. In ages past, the former mortals pledged their loyaly to Siroth for for high demonic titles and privileges. But they were deceived… upon death, they were condemned to the lowest levels of the Pit, enslaved as footsoldiers in the armies of darkness, and cruelly granted the title “Little Lords of the Lie”.</p>"
   },
   {
     "name": "Belanor",
@@ -8698,7 +8810,8 @@
       ]
     },
     "default_description": "Belanor is a legendary attack champion from the faction High Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Hatred is a powerful thing, one that is, perhaps, as hard as death to overcome. Yet even here love finds a way, the story of Belanor and Zavia. Cruel fate had them fight on different sides of one of the many conflicts between the High Elves of Aravia and the exiles known as Dark Elves. Still, even though the bloody fog of war, through hate, and through fury, these two souls were united.</p><p>As stragglers of a battle between the warring Elven factions, they were initially forced to survive an unwelcoming orc-infested desert together. The sheer adversity and the dangers they faced allowed them to see a person behind the mask of an enemy. The passion that was sparked then survived far beyond a temporary alliance of convenience. And, in the end, both Belanor and Zavia chose to escape together rather than continue the feud. Now seen as traitors and deserters by their former allies, the two of them had no choice but to live on the run.</p><p>They faced persecution, poverty, and mortal danger together. Finally, they were captured and sentenced to death for their crimes. Yet when the first light of dawn broke and the jailors arrived to take the fugitives to the scaffold, they were taken aback. The cell was locked and secured, not a single hint at how the captives escaped. The only thing they found were two feathers on the stone floor, one black as night, the other - white as Lumaya’s light. To this day no one knows what transpired on that night, though some, as they often do, attribute the miraculous escape to the Arbiter.</p>"
   },
   {
     "name": "Ithos",
@@ -8775,7 +8888,8 @@
       ]
     },
     "default_description": "Ithos is a legendary attack champion from the faction High Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Royal Huntsman",
@@ -8852,7 +8966,8 @@
       ]
     },
     "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Elenaril",
@@ -8929,7 +9044,8 @@
       ]
     },
     "default_description": "Elenaril is a legendary attack champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The High Elves pride themselves on their advanced and intricate judicial system, its tenets, on paper, call upon the King or Queen to ensure fair and unbiased justice for all their subjects. Of course, the reality is much more difficult than that. Nobles and others in power often operate on their own set of laws, evading punishment where someone more humble would pay the full price of their transgression. Still, nobles are not completely immune.</p><p>Few sights cause as much concern and fear at Queen Eva’s court as the Royal Adjudicator Elenaril does. A highborn herself, she is called to settle disputes between her peers or stand judgement over them for their crimes. Intrigue and assassinations are a particularly common offense, and thus Elenaril herself has been targetted by foolish would-be murderers more than once.</p><p>She is as skilled with a bow as she is with courtly manners and her knowledge of Aravian Law. More than once an attempt on her life led to Elenaril serving as both judge and executioner, sometimes by an arrow to the heart, and sometimes by more subtle means. It is no accident that she is well-versed in the most potent poisons known to Elven alchemists and always carries a vast supply of such on her person.</p>"
   },
   {
     "name": "Lyssandra",
@@ -9006,7 +9122,8 @@
       ]
     },
     "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Shirimani",
@@ -9083,7 +9200,8 @@
       ]
     },
     "default_description": "Shirimani is a legendary assist champion from the faction High Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Arbiter",
@@ -9113,7 +9231,7 @@
         "hp": 21135,
         "attack": 1068,
         "defense": 1101,
-        "speed": 120,
+        "speed": 100,
         "critical_rate": 0.15,
         "critical_damage": 0.5,
         "resistance": 30,
@@ -9160,7 +9278,8 @@
       ]
     },
     "default_description": "Arbiter is a legendary assist champion from the faction High Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Royal Guard",
@@ -9237,7 +9356,86 @@
       ]
     },
     "default_description": "Royal Guard is a epic attack champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
+  },
+  {
+    "name": "Tayrel",
+    "rarity": "Epic",
+    "element": "Magic",
+    "type": "Def",
+    "rating": {
+      "overall": "S",
+      "campaign": "S",
+      "arena_offense": "S",
+      "arena_defense": "S",
+      "clan_boss_without_giant_slayer": "S",
+      "clan_boss_with_giant_slayer": "S",
+      "ice_guardian": "A",
+      "dragon": "S",
+      "spider": "B",
+      "fire_knight": "C",
+      "minotaur": "S",
+      "force_dungeon": "A",
+      "magic_dungeon": "B",
+      "spirit_dungeon": "B",
+      "void_dungeon": "A"
+    },
+    "slug": "tayrel",
+    "characteristics": {
+      "60": {
+        "hp": 16185,
+        "attack": 881,
+        "defense": 1343,
+        "speed": 95,
+        "critical_rate": 0.15,
+        "critical_damage": 0.5,
+        "resistance": 45,
+        "accuracy": 0
+      }
+    },
+    "auras": [],
+    "skills": [],
+    "faction": {
+      "name": "High Elves",
+      "slug": "high-elves",
+      "website_link": "/factions/high-elves/",
+      "image_slug": "image-faction-high-elves",
+      "number_of_champions": 0,
+      "default_description": "High Elves is a faction from RAID Shadow Legends",
+      "seo": {
+        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+        "description": "High Elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
+        "keywords": [
+          "raid",
+          "shadow",
+          "legends",
+          "factions",
+          "High Elves",
+          "high-elves"
+        ]
+      }
+    },
+    "faction_slug": "high-elves",
+    "website_link": "/champions/tayrel/",
+    "image_slug": "image-champion-tayrel",
+    "seo": {
+      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
+      "description": "Tayrel is a epic def champion from the faction High Elves doing magic damage. Find out more on this Raid Shadow Legends codex.",
+      "keywords": [
+        "raid",
+        "shadow",
+        "legends",
+        "champions",
+        "tier",
+        "list",
+        "Tayrel",
+        "tayrel"
+      ]
+    },
+    "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Thenasil",
@@ -9314,7 +9512,8 @@
       ]
     },
     "default_description": "Thenasil is a epic assist champion from the faction High Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Battlesage",
@@ -9391,7 +9590,8 @@
       ]
     },
     "default_description": "Battlesage is a epic assist champion from the faction High Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Exemplar",
@@ -9468,7 +9668,8 @@
       ]
     },
     "default_description": "Exemplar is a epic attack champion from the faction High Elves doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Jinglehunter",
@@ -9545,7 +9746,8 @@
       ]
     },
     "default_description": "Jinglehunter is a epic attack champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Once a modest mortal in the Elven kingdom of Aravia, the Jinglehunter led an honest life. He did others no wrong and sought nothing but to bring joy to one and all. Through his selfless dedication to others, many lives were improved, sometimes even saved. Never a true soldier at heart, he did nonetheless learn the art of the bow and would stand up to evil without fear in his heart.</p><p>And it was this kindness that saved his own life and gave him a new purpose. Lost in the Mountains of Despair on the Winter Solstice, the hunter had almost abandoned all hope when the cheerful sound of jingling bells rose him from the frost-induced slumber. At first, he could scarcely believe his eyes, for tales of Sir Nicholas were well known to the High Elves, and the poor hunter thought it was all but a dream. But when Lumaya’s servant stepped onto the icy cliffs and the cold receded by his will alone, the Elf fell to his knees and gave praise to the Goddess.</p><p>Yet this miraculous rescue was just the beginning. The hunter’s heart was pure and honest, thus Sir Nicholas gave him a chance to serve Lumaya’s law and bring hope to all those who would accept Her light. Without hesitation, the Merry Elf accepted. Known as Jinglehunter, he now rides into the night with Sir Nicholas on ever Winter Solstice.</p>"
   },
   {
     "name": "Luthiea",
@@ -9622,7 +9824,8 @@
       ]
     },
     "default_description": "Luthiea is a epic attack champion from the faction High Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Marksman",
@@ -9699,84 +9902,8 @@
       ]
     },
     "default_description": "Marksman is a epic attack champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
-  },
-  {
-    "name": "Tayrel",
-    "rarity": "Epic",
-    "element": "Magic",
-    "type": "Def",
-    "rating": {
-      "overall": "A",
-      "campaign": "SS",
-      "arena_offense": "S",
-      "arena_defense": "S",
-      "clan_boss_without_giant_slayer": "B",
-      "clan_boss_with_giant_slayer": "B",
-      "ice_guardian": "A",
-      "dragon": "A",
-      "spider": "B",
-      "fire_knight": "C",
-      "minotaur": "A",
-      "force_dungeon": "A",
-      "magic_dungeon": "B",
-      "spirit_dungeon": "B",
-      "void_dungeon": "A"
-    },
-    "slug": "tayrel",
-    "characteristics": {
-      "60": {
-        "hp": 16185,
-        "attack": 881,
-        "defense": 1343,
-        "speed": 95,
-        "critical_rate": 0.15,
-        "critical_damage": 0.5,
-        "resistance": 45,
-        "accuracy": 0
-      }
-    },
-    "auras": [],
-    "skills": [],
-    "faction": {
-      "name": "High Elves",
-      "slug": "high-elves",
-      "website_link": "/factions/high-elves/",
-      "image_slug": "image-faction-high-elves",
-      "number_of_champions": 0,
-      "default_description": "High Elves is a faction from RAID Shadow Legends",
-      "seo": {
-        "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-        "description": "High Elves is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
-        "keywords": [
-          "raid",
-          "shadow",
-          "legends",
-          "factions",
-          "High Elves",
-          "high-elves"
-        ]
-      }
-    },
-    "faction_slug": "high-elves",
-    "website_link": "/champions/tayrel/",
-    "image_slug": "image-champion-tayrel",
-    "seo": {
-      "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
-      "description": "Tayrel is a epic def champion from the faction High Elves doing magic damage. Find out more on this Raid Shadow Legends codex.",
-      "keywords": [
-        "raid",
-        "shadow",
-        "legends",
-        "champions",
-        "tier",
-        "list",
-        "Tayrel",
-        "tayrel"
-      ]
-    },
-    "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Vergis",
@@ -9853,7 +9980,8 @@
       ]
     },
     "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Apothecary",
@@ -9930,7 +10058,8 @@
       ]
     },
     "default_description": "Apothecary is a rare assist champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Elhain",
@@ -10007,7 +10136,8 @@
       ]
     },
     "default_description": "Elhain is a rare attack champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Heiress",
@@ -10084,7 +10214,8 @@
       ]
     },
     "default_description": "Heiress is a rare attack champion from the faction High Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hyria",
@@ -10161,7 +10292,8 @@
       ]
     },
     "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Avenger",
@@ -10238,7 +10370,8 @@
       ]
     },
     "default_description": "Avenger is a rare attack champion from the faction High Elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Magister",
@@ -10315,7 +10448,8 @@
       ]
     },
     "default_description": "Magister is a rare assist champion from the faction High Elves doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>In the complicated and byzantine hierarchy of the High Elves, promotion to elevated rank can take centuries. One faster step on the path to greater social rank is attaining the position of Magister. Even low-born Elven warriors willing to spend 50 years in services as a practitioner of battlefield healing magic can claim rights to this title. Those who do are valued greatly by their comrades in battle.</p>"
   },
   {
     "name": "Aristocrat",
@@ -10392,7 +10526,8 @@
       ]
     },
     "default_description": "Aristocrat is a uncommon attack champion from the faction high-elves doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Elfguard",
@@ -10469,7 +10604,8 @@
       ]
     },
     "default_description": "Elfguard is a uncommon attack champion from the faction High Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Jaeger",
@@ -10546,7 +10682,8 @@
       ]
     },
     "default_description": "Jaeger is a uncommon attack champion from the faction High Elves",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bystophus",
@@ -10623,7 +10760,8 @@
       ]
     },
     "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Soulless",
@@ -10700,7 +10838,8 @@
       ]
     },
     "default_description": "Soulless is a legendary def champion from the faction Knight Revenant doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The Soulless was a mortal King of Luzand, the city where the K'leth death cult is said to have been founded thousands of years ago. Desiring to rule Luzand indefinitely, he locked his soul to the Shield of Despair - the Luzandian symbol of royal power. At that moment the cursed city of Luzand and all its people were swallowed by the sand, leaving only their King alive. The Soulless wanders still, with no soul but his shield, reigning over none but his forsaken self...</p>"
   },
   {
     "name": "Tomb Lord",
@@ -10777,7 +10916,8 @@
       ]
     },
     "default_description": "Tomb Lord is a legendary assist champion from the faction Knight Revenant doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Doompriest",
@@ -10854,7 +10994,8 @@
       ]
     },
     "default_description": "Doompriest is a epic assist champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Doompriest is a missionary of the Knights Revenant death cult. Her faith is strong, as is her command of the dark magic of K'leth. Like all priests, she dedicates much of her life to worship — but she derives her power not from prayer, but from dark ritual and sacrifice.</p><p>A lovely young girl when she first joined the cult, she now covers her face with a mask to ensure the docility of her victims. With each innocent soul sacrificed, her own bore the taint of her deepening evil and corruption. Her once beautiful visage has decayed with each step down this path, and is now a horror to behold.</p>"
   },
   {
     "name": "Skullcrown",
@@ -10931,7 +11072,8 @@
       ]
     },
     "default_description": "Skullcrown is a epic attack champion from the faction Knight Revenant doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Crypt Witch",
@@ -11008,7 +11150,8 @@
       ]
     },
     "default_description": "Crypt Witch is a epic attack champion from the faction Knight Revenant doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>A Crypt Guard is the reborn soul of a long-dead hero that has arisen from his grave and been trapped in the body of a sacrificed young adept of the K'leth cult. No matter if it was a soul of a valiant knight or a ruthless warlord, once his soul is trapped in the body of the K'leth's cult adept, it would be bound to serve evil. Some say that the barbarian tradition of burning of passed away warlords and chiefs was created in order to save their souls from this dark fate.</p>"
   },
   {
     "name": "Sinesha",
@@ -11085,7 +11228,8 @@
       ]
     },
     "default_description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Faceless",
@@ -11162,7 +11306,8 @@
       ]
     },
     "default_description": "Faceless is a epic attack champion from the faction Knight Revenant doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Kytis",
@@ -11239,7 +11384,8 @@
       ]
     },
     "default_description": "Kytis is a epic attack champion from the faction Knight Revenant doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Deathless",
@@ -11316,7 +11462,8 @@
       ]
     },
     "default_description": "Deathless is a epic def champion from the faction Knight Revenant doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Arcanist",
@@ -11393,7 +11540,8 @@
       ]
     },
     "default_description": "Arcanist is a rare assist champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Executioner",
@@ -11470,7 +11618,8 @@
       ]
     },
     "default_description": "Executioner is a rare def champion from the faction Knight Revenant doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Acolyte",
@@ -11547,7 +11696,8 @@
       ]
     },
     "default_description": "Acolyte is a rare assist champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Daywalker",
@@ -11624,7 +11774,8 @@
       ]
     },
     "default_description": "Daywalker is a rare hp champion from the faction Knight Revenant doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>In his past life, Daywalker was a common gravedigger in Kaerok. He lived his grim but ordinary life without complaint, until one day the corpse was brought to him of a lonely old man that had passed away in the slums abutting Kaerok Castle. The man had neither relatives nor acquaintances, nor coin to pay the Telerian priests to give the last rites.</p><p>Taking pity on the wretch, the young gravedigger took it upon himself to bury the man. Preparing the body for burial, he found a strange scroll in the man's pocket.</p><p>Upon the reading, it was a dying man’s last wish to pronounce the words of a strange ritual over his body. Struggling with the unfamiliar glyphs, he spoke. The morning after, the young man left the Kaerok, and headed towards the Hallowed Halls.</p><p>His old name forgotten, his visage fell and terrible, he struck down all he met upon his path. The soul of Daywalker had found its newest vessel.</p>"
   },
   {
     "name": "Gladiator",
@@ -11701,7 +11852,8 @@
       ]
     },
     "default_description": "Gladiator is a rare attack champion from the faction Knight Revenant doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Guardian",
@@ -11778,7 +11930,8 @@
       ]
     },
     "default_description": "Guardian is a rare hp champion from the faction Knight Revenant doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Magus",
@@ -11855,7 +12008,8 @@
       ]
     },
     "default_description": "Magus is a rare attack champion from the faction Knight Revenant doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Renegade",
@@ -11932,7 +12086,8 @@
       ]
     },
     "default_description": "Renegade is a rare assist champion from the faction Knight Revenant doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Theurgist",
@@ -12009,7 +12164,8 @@
       ]
     },
     "default_description": "Theurgist is a rare assist champion from the faction Knight Revenant doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Admonitor",
@@ -12086,7 +12242,8 @@
       ]
     },
     "default_description": "Admonitor is a uncommon hp champion from the faction Knight Revenant",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Cultist",
@@ -12163,7 +12320,8 @@
       ]
     },
     "default_description": "Cultist is a uncommon attack champion from the faction Knight Revenant",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Herald",
@@ -12240,7 +12398,8 @@
       ]
     },
     "default_description": "Herald is a uncommon support champion from the faction Knight Revenant",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Fu-Shan",
@@ -12317,7 +12476,8 @@
       ]
     },
     "default_description": "Fu-Shan is a legendary attack champion from the faction Lizardmen doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Rhazin Scarhide",
@@ -12394,7 +12554,8 @@
       ]
     },
     "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Dracomorph",
@@ -12471,7 +12632,8 @@
       ]
     },
     "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Jarang",
@@ -12548,7 +12710,8 @@
       ]
     },
     "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Broadmaw",
@@ -12625,7 +12788,8 @@
       ]
     },
     "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Drake",
@@ -12702,7 +12866,8 @@
       ]
     },
     "default_description": "Drake is a epic attack champion from the faction Lizardmen doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Jizoh",
@@ -12779,7 +12944,8 @@
       ]
     },
     "default_description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skink",
@@ -12856,7 +13022,8 @@
       ]
     },
     "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Skink was never particularly liked among his tribe, both due to his cunning nature and a knack for finding trouble. But he was still given an opportunity to serve in the vanguard of many raids - an honour given in the hopes that he would one day get himself killed. That, however, never happened, and Skink now commands the loyalty and respect of an ever-growing group of young warriors, much to the displeasure of his rivals. Skink believes that one day he shall overtake his detractors to become the greatest leader the Lizardmen tribes have ever known.</p>"
   },
   {
     "name": "Bogwalker",
@@ -12933,7 +13100,8 @@
       ]
     },
     "default_description": "Bogwalker is a rare def champion from the faction Lizardmen doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Flinger",
@@ -13010,7 +13178,8 @@
       ]
     },
     "default_description": "Flinger is a rare attack champion from the faction Lizardmen doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Gator",
@@ -13087,7 +13256,8 @@
       ]
     },
     "default_description": "Gator is a rare assist champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>In his childhood, Gator’s magical ability was out of control - presenting a danger to himself and others. Were it not for a travelling magi belonging to the Coven, he would have likely killed himself with one failed spell or the other. But fate saw fit to give the young lizardman another chance and provide him with tutors open-minded enough to pass their knowledge to a creature many would not see as anything beyond a beast. Such good fortune was not wasted, and when Gator returned to his people, it was a full-fledged mage, well-versed in arts that not many shamans would dare to replicate.</p>"
   },
   {
     "name": "Hurler",
@@ -13164,7 +13334,8 @@
       ]
     },
     "default_description": "Hurler is a rare attack champion from the faction Lizardmen doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Metalshaper",
@@ -13241,7 +13412,8 @@
       ]
     },
     "default_description": "Metalshaper is a rare assist champion from the faction Lizardmen doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skullsworn",
@@ -13318,7 +13490,8 @@
       ]
     },
     "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Slasher",
@@ -13395,7 +13568,8 @@
       ]
     },
     "default_description": "Slasher is a rare attack champion from the faction Lizardmen doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Slitherbrute",
@@ -13472,7 +13646,8 @@
       ]
     },
     "default_description": "Slitherbrute is a rare attack champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Born in the sewers of Ireth, the creature now know as the Slitherbrute, had to survive on scraps in the large city. Stealing meat and fish from the stands on the market, his luck soon ran out and his arm lost to an angered butcher’s hatchet.</p><p>Doomed to die in the gutter, he has only survived due to luck and the kindness of his fellow destitutes. And in the end, life as a cripple toughened the lizardman and forged him into a relentless bute. Now grown and with his arm replaced by a crude and vicious blade, he is still said to terrorize the streets of Irith at times in search of the butcher who took his arm - but perhaps that is merely an urban legend born of the Slitherbrute’s terrifying appearance.</p>"
   },
   {
     "name": "Muckstalker",
@@ -13549,7 +13724,8 @@
       ]
     },
     "default_description": "Muckstalker is a rare hp champion from the faction Lizardmen doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hardscale",
@@ -13626,7 +13802,8 @@
       ]
     },
     "default_description": "Hardscale is a uncommon defense champion from the faction Lizardmen",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Saurus",
@@ -13703,7 +13880,8 @@
       ]
     },
     "default_description": "Saurus is a uncommon attack champion from the faction Lizardmen",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skinner",
@@ -13780,7 +13958,8 @@
       ]
     },
     "default_description": "Skinner is a uncommon attack champion from the faction Lizardmen",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Stalker",
@@ -13857,7 +14036,8 @@
       ]
     },
     "default_description": "Stalker is a uncommon hp champion from the faction Lizardmen",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Troglodyte",
@@ -13934,7 +14114,8 @@
       ]
     },
     "default_description": "Troglodyte is a common defense champion from the faction Lizardmen",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Big'Un",
@@ -14011,7 +14192,8 @@
       ]
     },
     "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ignatius",
@@ -14088,7 +14270,8 @@
       ]
     },
     "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Something of an aberration among trollkind, Ignatius is what people call a “civilized savage”. Captured and sold as a slave in his childhood, he found himself in servitude of the High Elves, used for menial tasks and hard labour. But his sharp wit and aptitude for more precise work, when coupled with his natural strength, ensured that Ignatius was apprenticed to one of Aravian blacksmiths.</p><p>As he came of age and learned the secrets of steel, so too did Ignatius’ fame grow; thanks both to his extraordinary talent, and his unusual origins. A slave no longer, he became something of a local celebrity. And yet, the call of blood is not easy to silence.</p><p>Though tales of his people were rarely flattering among the human and elf travelers, Ignatius could not help but greedily consume every bit and rumour that he could find. It was not until his fourth decade that he had finally chosen to set out beyond the only home he ever remembered, and find his people that were lost to him.</p><p>As it turned out, finding other trolls was far easier than being accepted by them. Seen as an outsider and an elf slave, Ignatius had to fight for his very survival. But he has proven to be as mighty and as fearsome as any of his kin. Weapons and armour forged by his own hand were much more impressive than the crude tools most of his adversaries wielded, and helped Ignatius rise above those who would see him dead.</p><p>Now a tolerated - and even at time respected craftsman of one of the largest troll tribes in Aravia, Ignatius forges his own destiny - and that of his people. After all, if through the sheer power of will he can control his innate savagery and only release it in battle, then, perhaps, others will learn to do so too. And who knows, a day may yet come when trolls are seen as something more than wild and loathsome beasts.</p>"
   },
   {
     "name": "Shamrock",
@@ -14165,7 +14348,8 @@
       ]
     },
     "default_description": "Shamrock is a legendary assist champion from the faction Ogryn-Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "War Mother",
@@ -14242,7 +14426,8 @@
       ]
     },
     "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>An Aravian joke has it that the only thing tougher than an angry Ogryn would be his mother. And as the elves of Aravia had to deal with Ogryn tribes for centuries, one would have to assume they know exactly what they are talking about.</p><p>No less savage and freakishly strong than her more commonly seen male counterparts, the War Mother, as she is called, holds a position of unquestionable authority within her tribe. Though she is skilled at wielding a gigantic cleaver that can easily debilitate her foes, the War Mother’s knowledge of alchemy allows her to use crude but incredibly effective explosive casks in battle. Perhaps it was this innovative approach to combat that allowed this Ogress to become so successful.</p><p>Renowned as a great beauty among her people, she is said to have a long line of suitors coming from among the most fearsome chieftains. Some evil tongues suggest that every single one ended up as the main course of a wedding feast without an actual wedding. Thus far, no scholar from the more civilized kingdoms risked interviewing the War Mother herself to find out the truth of the matter.</p>"
   },
   {
     "name": "Gurgoh the Augur",
@@ -14319,7 +14504,8 @@
       ]
     },
     "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>\"As the last yellow leaf falls, ogryn tremble and flee to their homes\" - Aravian proverb</p><p>As ancient ogryn legend has it, Gurgoh the Blizzard is an ogre-skinwalker half-breed rumored to haunt the Ice Golem's Peak. Awakening with the first snows of winter, he is said to roam the foothills looking for ogryn children to feed to the Ice Golem. \"\"If you don't eat your mutton, Gurgoh will come\"\", or \"\"Do you hear Gurgoh knocking? He asks why you don't want to go to bed.\"\" - Every ogre has heard these words since childhood. Many would say that Gurgoh is just a bedtime story for children, but during the darkest winters, many ogryn young in the region do inexplicably vanish – leaving behind only empty footprints in the drifts below the peak.</p><p>To this day you’d be hard-pressed to find an ogre outside their hut in heavy snows, for all know that when a blizzard starts to howl, Gurgoh is near...</p>"
   },
   {
     "name": "Maneater",
@@ -14395,8 +14581,9 @@
         "maneater"
       ]
     },
-    "default_description": "Maneater is a epic hp champion from the faction Ogryn-Tribes doing void damage",
-    "recommended_builds": []
+    "default_description": "Maneater is a epic attack champion from the faction Ogryn-Tribes doing void damage",
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Shatterbones",
@@ -14473,7 +14660,8 @@
       ]
     },
     "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skullcrusher",
@@ -14486,7 +14674,7 @@
       "arena_offense": "S",
       "arena_defense": "S",
       "clan_boss_without_giant_slayer": "A",
-      "clan_boss_with_giant_slayer": "S",
+      "clan_boss_with_giant_slayer": "SS",
       "ice_guardian": "A",
       "dragon": "A",
       "spider": "C",
@@ -14550,7 +14738,8 @@
       ]
     },
     "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Galkut",
@@ -14627,7 +14816,8 @@
       ]
     },
     "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Few of the Ogryn or Troll tribes living in the wilds have the means or knowledge required to tame steel. Thus, many of their warriors are armed with primitive clubs, stone axes, weapons looted on the battlefields or, sometimes, purchased from the rare merchants that are willing to trade with such dangerous customers.</p><p>Galkut, on the other hand, takes a more creative approach. His arms and armour are crafted from the bones of slain enemies, serving both to offer protection and to inspire fear in the hearts of his opponents. And the best part? Each victory brings a chance to enhance Galkut’s armour, assuming there is enough “material” left to work with.</p>"
   },
   {
     "name": "Grimskin",
@@ -14704,7 +14894,8 @@
       ]
     },
     "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Cagebreaker",
@@ -14781,7 +14972,8 @@
       ]
     },
     "default_description": "Cagebreaker is a epic attack champion from the faction Ogryn Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Captured by the Dark Elves, these two ogryn brothers were meant to be little more than cattle for the arena. Though they have proven to be far more skilled and resilient than their captors imagined. By their combined skill and teamwork, the Cagebreaker and the Towering Titan - as they became known to the audience - not only survived, but managed to gain something of a following. Still, their ultimate fate was decided and the two relentless brothers were to meet their end at the hands of the reigning Champion, Grandhammer. Or so it was planned by the slavemasters.</p><p>Grandhammer himself had little desire to keep on shedding blood in the name of slavers that kept him bound and tortured with unspeakable magic. Thus he hatched a plan to escape, one that he managed to share with his would-be opponents the night before the grand performance. Though less than keen on such risk at first and suspecting cowardice, the ogryns were convinced in the end and agreed to follow Grandhammer's lead. When the time came, they staged bloody and ruthless combat against each other, distracting arena guards. At the same time, Grandhammer and other gladiators attacked their tormentors, and soon enough both Cagebreaker and Towering Titan joined their fellow slaves in that uprising.</p><p>Once free, they chose to return to their tribe, bearing masterfully crafted gladiator armour and weapons the Dark Elves equipped them with. Such mighty defenders are sure to dissuade further slaver raids against their kin.</p>"
   },
   {
     "name": "Towering Titan",
@@ -14858,7 +15050,8 @@
       ]
     },
     "default_description": "Towering Titan is a epic hp champion from the faction Ogryn Tribes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Captured by the Dark Elves, these two ogryn brothers were meant to be little more than cattle for the arena. Though they have proven to be far more skilled and resilient than their captors imagined. By their combined skill and teamwork, the Cagebreaker and the Towering Titan - as they became known to the audience - not only survived, but managed to gain something of a following. Still, their ultimate fate was decided and the two relentless brothers were to meet their end at the hands of the reigning Champion, Grandhammer. Or so it was planned by the slavemasters.</p><p>Grandhammer himself had little desire to keep on shedding blood in the name of slavers that kept him bound and tortured with unspeakable magic. Thus he hatched a plan to escape, one that he managed to share with his would-be opponents the night before the grand performance. Though less than keen on such risk at first and suspecting cowardice, the ogryns were convinced in the end and agreed to follow Grandhammer's lead. When the time came, they staged bloody and ruthless combat against each other, distracting arena guards. At the same time, Grandhammer and other gladiators attacked their tormentors, and soon enough both Cagebreaker and Towering Titan joined their fellow slaves in that uprising.</p><p>Once free, they chose to return to their tribe, bearing masterfully crafted gladiator armour and weapons the Dark Elves equipped them with. Such mighty defenders are sure to dissuade further slaver raids against their kin.</p>"
   },
   {
     "name": "Bellower",
@@ -14935,7 +15128,8 @@
       ]
     },
     "default_description": "Bellower is a rare assist champion from the faction Ogryn-Tribes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The ordinary ogre is not a very smart creature. In his natural state, an ogre is supremely incapable of learning magic or communing with spirits.</p><p>However, once every few generations, the ogryn race is blessed with the birth of a horned shaman. Bellower may be one of the last of these living in Teleria, capable of drawing upon the power of natural spirits to give bestial strength and cunning in battles against the many enemies of his kind.</p>"
   },
   {
     "name": "Rocktooth",
@@ -15012,7 +15206,8 @@
       ]
     },
     "default_description": "Rocktooth is a rare attack champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Flesheater",
@@ -15089,7 +15284,8 @@
       ]
     },
     "default_description": "Flesheater is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Furystoker",
@@ -15166,7 +15362,8 @@
       ]
     },
     "default_description": "Furystoker is a rare assist champion from the faction Ogryn-Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Magmablood",
@@ -15243,7 +15440,8 @@
       ]
     },
     "default_description": "Magmablood is a rare attack champion from the faction Ogryn-Tribes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Siegebreaker",
@@ -15320,7 +15518,8 @@
       ]
     },
     "default_description": "Siegebreaker is a rare attack champion from the faction Ogryn-Tribes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Pounder",
@@ -15397,7 +15596,8 @@
       ]
     },
     "default_description": "Pounder is a rare def champion from the faction Ogryn-Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Some ogryn tribes are deemed dangerously wild and primitive even by other ogres. Pounder is an outstanding representative of one of those extremely isolated and savage tribes found out beyond the Downward Hills.</p><p>As Pounder speaks a savage dialect unknown to most of his brethren, none know with any certainly much about his past, including even his real name - yet stories are told of a lone ogyrn matching Pounder’s description who survived a great drought in the Downward Hills by hunting and eating his fellow tribesmen. A great warrior, he’s given a healthy distance by his new ogryn companions, and an extra portion from the nightly stew each night, just in case…</p>"
   },
   {
     "name": "Stoneskin",
@@ -15474,7 +15674,8 @@
       ]
     },
     "default_description": "Stoneskin is a rare hp champion from the faction Ogryn-Tribes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Fortress Goon",
@@ -15551,7 +15752,8 @@
       ]
     },
     "default_description": "Fortress Goon is a rare def champion from the faction Ogryn Tribes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Brute",
@@ -15628,7 +15830,8 @@
       ]
     },
     "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Frostskin",
@@ -15705,7 +15908,8 @@
       ]
     },
     "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Commonly known as Frostskins, these ice trolls dwell in the snowy mountains and ice-covered plains of Telerian North. Yet as the Shadow grows and its corruption spreads across the land, many of them are forced to abandon their cavernous homes and either join their kin to form tribes or roaming bands, or seek to survive on their own.</p><p>The magic that flows through their veins does have visible effects, allowing Frostskins to chill anything they touch - often turning their foes to ice. But they are also capable of using that same magic to heal injuries, should they choose to, even if the process is as slow as the change of seasons in their frozen homeland.</p>"
   },
   {
     "name": "Hungerer",
@@ -15782,7 +15986,8 @@
       ]
     },
     "default_description": "Hungerer is a uncommon hp champion from the faction ogryn-tribes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Oldbeard",
@@ -15859,7 +16064,8 @@
       ]
     },
     "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Oldbeards can live for hundreds of years, something that has given them their name. But while their bodies continue to grow even in extreme old age, their intellect stops developing early on in their adolescence. Though what they lack in wits, they readily make up for in sheer toughness.</p>"
   },
   {
     "name": "Warlord",
@@ -15936,7 +16142,8 @@
       ]
     },
     "default_description": "Warlord is a legendary assist champion from the faction Orcs doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Robar",
@@ -16013,7 +16220,8 @@
       ]
     },
     "default_description": "Robar is a legendary attack champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Angar",
@@ -16090,7 +16298,8 @@
       ]
     },
     "default_description": "Angar is a legendary hp champion from the faction Orcs doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>A living legend, Angar is not only a warrior of great strength and courage but is also known for his sharp tongue. Perhaps a bit uncommon for an orc, he values victory in the battle of words just as much as victory in the contest of arms.</p><p>Provoking his foes into mindless rage with barbed insults, Angar can easily make them forget about their tactics. While Angar himself prefers to keep a cool head in battle. He is known to gather grisly trophies such as skulls and bones of the slain. Some say it helps him to always remember the cost of men's folly and blind fury.</p>"
   },
   {
     "name": "Vrask",
@@ -16167,7 +16376,8 @@
       ]
     },
     "default_description": "Vrask is a epic hp champion from the faction Orcs doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Seer",
@@ -16244,7 +16454,8 @@
       ]
     },
     "default_description": "Seer is a epic assist champion from the faction Orcs doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bloodfeather",
@@ -16321,7 +16532,8 @@
       ]
     },
     "default_description": "Bloodfeather is a epic attack champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bonekeeper",
@@ -16398,7 +16610,8 @@
       ]
     },
     "default_description": "Bonekeeper is a epic attack champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Shaman",
@@ -16475,7 +16688,8 @@
       ]
     },
     "default_description": "Shaman is a epic assist champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Terrorbeast",
@@ -16552,7 +16766,8 @@
       ]
     },
     "default_description": "Terrorbeast is a epic hp champion from the faction Orcs doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Torturehelm",
@@ -16629,7 +16844,8 @@
       ]
     },
     "default_description": "Torturehelm is a epic hp champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Zargala",
@@ -16706,7 +16922,8 @@
       ]
     },
     "default_description": "Zargala is a epic attack champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Deathchanter",
@@ -16783,7 +17000,8 @@
       ]
     },
     "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Galek",
@@ -16860,7 +17078,8 @@
       ]
     },
     "default_description": "Galek is a rare attack champion from the faction Orcs doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Chopper",
@@ -16937,7 +17156,8 @@
       ]
     },
     "default_description": "Chopper is a rare attack champion from the faction Orcs doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Goremask",
@@ -17014,7 +17234,8 @@
       ]
     },
     "default_description": "Goremask is a rare attack champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Huntress",
@@ -17091,7 +17312,8 @@
       ]
     },
     "default_description": "Huntress is a rare attack champion from the faction Orcs doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ironclad",
@@ -17168,7 +17390,8 @@
       ]
     },
     "default_description": "Ironclad is a rare hp champion from the faction Orcs doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Raider",
@@ -17245,7 +17468,8 @@
       ]
     },
     "default_description": "Raider is a rare attack champion from the faction Orcs doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Spikehead",
@@ -17322,7 +17546,8 @@
       ]
     },
     "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Totem",
@@ -17399,7 +17624,8 @@
       ]
     },
     "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Veteran",
@@ -17476,7 +17702,8 @@
       ]
     },
     "default_description": "Veteran is a rare def champion from the faction Orcs doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Throatcutter",
@@ -17553,7 +17780,8 @@
       ]
     },
     "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warchanter",
@@ -17630,7 +17858,8 @@
       ]
     },
     "default_description": "Warchanter is a uncommon hp champion from the faction Orcs",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warboy",
@@ -17707,7 +17936,8 @@
       ]
     },
     "default_description": "Warboy is a common defense champion from the faction Orcs",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Abbess",
@@ -17784,7 +18014,8 @@
       ]
     },
     "default_description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Cupidus",
@@ -17861,7 +18092,8 @@
       ]
     },
     "default_description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Bards and minstrels have spun many tales about love so pure, it overcomes death itself. While it is, indeed, the stuff of many a ballad (too many, perhaps) the Realm of Teleria had seen these wondrous tales come to life.</p><p>One particular legend speaks of a maiden so fair she caught a jealous eye of an evil Sorcerer, a servant of Siroth's dark will. The spells he weaved allowed him to entrance the maiden and entrap her in a distant stronghold. Fortunately, her faith allowed the maiden to break free and regain her will before the sorcerer's vile designs could be realized, yet she remained a prisoner under threat of imminent death were she not to accept the Sorcerer's advances.</p><p>But all was not lost, for her promised one, a noble Knight of great renown, rose up to the challenge. He fought his way through untold dangers and enemies uncountable before forcing the great gates of the dark keep open. There, the entire might of the Sorceror's magic was unleashed upon him. The Knight cut down hordes of Siroth's servants, ignoring his own wounds and striking the villain down with a single blow of his blessed sword. Though life ebbed away from his body by the moment, he chose to expend the last of his strength on proclaiming his love for the Maiden who was finally free.</p><p>I was at that moment the Arbiter herself interfered. Though Lumaya may never guide the affairs of mortals, her faithful herald would not let a heroic deed driven by love as pure as that turn into tragedy. She used her power to save the dying Knight, yet such divine assistance did come with a price. Unable to live on without her beloved, the Maiden did not hesitate to swear her own soul to Lumaya’s cause. In turn, both she and her Knight were granted with life immortal.</p><p>There are many recountings of their adventures afterward, some contradicting each other, some - the stuff of fairy tales. Even their true names are lost to history, as is any proof that their origins are anything more than legend. Yet one thing is certain - wherever the mysterious lovers known as Venus and Cupidus appear, no darkness may stand before the fires of their passion. With her magic, and his trusty blade, the pair has saved lives beyond counting. Any warrior that gains the loyalty of both of these divine servants will find their force strengthened with the kind of purity only love that transcends mortal boundaries can bring.</p>"
   },
   {
     "name": "Martyr",
@@ -17938,7 +18170,8 @@
       ]
     },
     "default_description": "Martyr is a legendary def champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sir Nicholas",
@@ -18015,7 +18248,8 @@
       ]
     },
     "default_description": "Sir Nicholas is a legendary hp champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Ancient legends from all across Teleria speak of a mighty warrior, whose life spans years beyond counting. He took first steps upon this land when the world was yet young, he stood alone against odds insurmountable, and felled twisted creatures would devour the sun itself. It was him who ventured beyond the barren tundra and into the ancient frozen wastes of Telerian North to break an army of Ice Giants that threatened to overwhelm the infant human kingdoms. Having slain the Giant King in single combat, he took the castle cut out of a glacier for himself and made it into a fortress dedicated Lumaya.</p><p>Such is the tale of Sir Nicholas, known under different names to the people of Teleria, but ever-present in their folklore. It is said that to this day he sits upon a throne among the towers of jagged ice and gazes upon the world through a scrying crystal gifted by the Arbiter herself. By his judgement do the righteous receive great boons, and the wicked - their just punishment. Though perhaps Sir Nicholas is not as omnipotent a force as some of the old tales paint him, it cannot be denied that many powerful villains disappeared without a trace on a Winter Solstice night...</p>"
   },
   {
     "name": "Venus",
@@ -18092,7 +18326,8 @@
       ]
     },
     "default_description": "Venus is a legendary assist champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Bards and minstrels have spun many tales about love so pure, it overcomes death itself. While it is, indeed, the stuff of many a ballad (too many, perhaps) the Realm of Teleria had seen these wondrous tales come to life.</p><p>One particular legend speaks of a maiden so fair she caught a jealous eye of an evil Sorcerer, a servant of Siroth's dark will. The spells he weaved allowed him to entrance the maiden and entrap her in a distant stronghold. Fortunately, her faith allowed the maiden to break free and regain her will before the sorcerer's vile designs could be realized, yet she remained a prisoner under threat of imminent death were she not to accept the Sorcerer's advances.</p><p>But all was not lost, for her promised one, a noble Knight of great renown, rose up to the challenge. He fought his way through untold dangers and enemies uncountable before forcing the great gates of the dark keep open. There, the entire might of the Sorceror's magic was unleashed upon him. The Knight cut down hordes of Siroth's servants, ignoring his own wounds and striking the villain down with a single blow of his blessed sword. Though life ebbed away from his body by the moment, he chose to expend the last of his strength on proclaiming his love for the Maiden who was finally free.</p><p>I was at that moment the Arbiter herself interfered. Though Lumaya may never guide the affairs of mortals, her faithful herald would not let a heroic deed driven by love as pure as that turn into tragedy. She used her power to save the dying Knight, yet such divine assistance did come with a price. Unable to live on without her beloved, the Maiden did not hesitate to swear her own soul to Lumaya’s cause. In turn, both she and her Knight were granted with life immortal.</p><p>There are many recountings of their adventures afterward, some contradicting each other, some - the stuff of fairy tales. Even their true names are lost to history, as is any proof that their origins are anything more than legend. Yet one thing is certain - wherever the mysterious lovers known as Venus and Cupidus appear, no darkness may stand before the fires of their passion. With her magic, and his trusty blade, the pair has saved lives beyond counting. Any warrior that gains the loyalty of both of these divine servants will find their force strengthened with the kind of purity only love that transcends mortal boundaries can bring.</p>"
   },
   {
     "name": "Errol",
@@ -18169,7 +18404,8 @@
       ]
     },
     "default_description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Roshcard the Tower",
@@ -18246,7 +18482,8 @@
       ]
     },
     "default_description": "Roshcard the Tower is a legendary hp champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Frostbringer",
@@ -18323,7 +18560,8 @@
       ]
     },
     "default_description": "Frostbringer is a epic assist champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The figure of the Frostbringer, sometimes known as the Snow Maiden, does not appear in the tales of Sir Nicholas until just three centuries ago. Said to have been a warrior raised by the Sacred Order - one of the fabled Temple Maidens - she saw a vision of a great pillar of light rising above an ancient glacier and burning away the darkness. Upon waking from her sleep, the Maiden knew what she had to do. Having gathered her spear and armour, she ventured out into the frozen lands that lay beyond the walls of her Monastery to follow in the steps of the fabled Sir Nicholas.</p><p>The dangers were many, the foes - deadly. But with skill and faith, the brave young woman fought to overcome them all. She defeated Frostskin trolls that sought to turn the intruder back, purged the undead that rose from beneath the snow, guided by the Shadow’s dark will, and braved daunting mountains on the way to her goal. Not even the fearsome drakes were able to break her resolve.</p><p>Then she saw it - the mighty fortress of stone and ice that rose above the horizon. Battered and wounded, she pressed on for no fatigue could stop her when the goal was in sight. Three days and three nights she walked, waist-deep in snow, and only reached the steps of the fortress when the full moon of the third night shone brightly overhead. There she collapsed, but the light of Lumaya’s servants cannot be extinguished so easily. Sir Nicholas himself stepped forth to lift the brave youth up, and with the Arbiter’s blessing, she was granted eternal life. Ever since that fateful night, the Frostbringer remains a loyal companion and a friend to all those in Sir Nicholas’ band of Champions.</p>"
   },
   {
     "name": "Juliana",
@@ -18400,7 +18638,8 @@
       ]
     },
     "default_description": "Juliana is a epic attack champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>But, of course, it is not just love that is marked by divine intervention or tragedy that is worthy of the minstrel’s attention. Those are merely good for the dramatic flair that those knights of the lute do so enjoy. More often than not, love overcomes obstacles that are less grand on a cosmic scale, yet no less difficult for the mortals who find themselves entwined.</p><p>The Sacred Order as a whole, while not necessarily enforcing a Vow of Chastity, does forbid its members from having families and heirs - a precaution to make certain positions of power within the Order pass on by right of virtue, not that of blood. Undue attachment is heavily frowned upon as well, outright forbidden in some of the stricter Divisions of the Order.</p><p>It is no surprise then, that the Knights Romero and Juliana had never thought of themselves falling in love. Romero, ever coolheaded and pious found himself at odds with the young and brash Juliana, whose skill with the blade and fiery zeal led her to many mortal perils that she, to the young Knight’s credit, honourably overcame. But a life full of battles does tend to make emotions run wild. In time, the two warmed up to one another’s “quirks”, learned to appreciate them even. Their eventual union, though it may never be formalized by marriage, remains true and tested. Neither did that union affect their relationship as comrades-in-arms, if anything it allowed the two Knights to fight as one. Where Romero’s natural cautiousness may lead to him losing momentum, Juliana’s brazen but no less skillful tactics ensure that their forces control the initiative. And where Juliana may begin losing herself in the heat of battle, Romero is always there to serve as an anchor of reason. To this day, they remain among the Order’s prominent warriors and are ready to bring Lumaya’s light wherever it is needed most.</p>"
   },
   {
     "name": "Tallia",
@@ -18477,7 +18716,8 @@
       ]
     },
     "default_description": "Tallia is a epic attack champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Sometimes love blossoms early, and remains in the hearts of those touched by its warmth for the rest of their lives. Such is the tale of Fenax and Tallia. He was the son of a destitute noble, serving in the household of Tallia’s father. She - a cherished heiress. Though they have sworn to marry one another as children, no one had taken that vow seriously. And by the time Tallia’s father realized that this was more than childish games, that their love was not fading, it was far too late. The girl was far too headstrong and wild to be cowed into obedience, and the aging Lord had come up with a cunning and dark plot.</p><p>Fenax, then a squire, was sent with an “important message” to a neighboring bannerman. Alone with no escort, of course, as messengers had to travel light and swift. By the Lord’s design, a group of orc raiders was meant to ambush and slay Fenax - a tragedy to be sure, but one that his daughter would forget in time. Unfortunately for the Lord, he failed to take Fenax’s wit into account. Though indeed ambushed and brought low, he managed to convince his captors that he was, in fact, the heir of an important baron who would pay the savages handsomely. The greedy brigands were quick to drag him off to the camp instead, hoping to fool the Lord and gain both rewards.</p><p>And when the searching party that went after Fenax upon him “suddenly” going missing on the road, Tallia’s father became concerned. He ignored his daughter’s pleas to send a group of men-at-arms to rescue her beloved from the orcs, who left plenty of traces to be identified. The Lord refused in anger, yet once more he had miscalculated. Furious, Tallia escaped the castle to mount a rescue on her own.</p><p>A dangerous venture, to be sure. But fate was not always cruel. A Sacred Order patrol came across the young Lady, their Sergeant a man of honour and piety that did not shrink away from his duty to protect the innocent. With their help, Tallia managed to find and free Fenax from the raiders after a vicious battle in which she too was baptised by fire.</p><p>Though after a loving embrace was shared and words of comfort were spoken, the Tallia could not help but wonder what was so important that her beloved had to risk his life to deliver. She unsealed the letter only to devoid of a single drop of ink. But it was not needed, the empty parchment spoke of her father’s betrayal louder than any words could. Hurt and furious, the two young lovers did not, however, let themselves be broken. Unwilling to return to the man that would see them separated so cruelly, they both swore an oath to join the Order and dedicate their lives to Lumaya, an oath that they have carried out with honour against servants of darkness beyond counting - together.</p>"
   },
   {
     "name": "Adriel",
@@ -18554,7 +18794,8 @@
       ]
     },
     "default_description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Even among the ranks of Chaplains of the Sacred Order, Adriel is known for her ardent faith and unflinching resolve. Where some priests prefer to tend to the spiritual wellbeing of their own warriors, Adriel can always be counted upon to join the vanguard. Her loud proclamations of contempt and promises of damnation have been known to demoralize many a foe, paving the way to easy victory for her allies.</p><p>But charisma is not Adriel’s only weapon. By Lumaya’s light, she can blind the enemy, sowing confusion and weakening their attacks. The same grace allows her to close wounds with but a touch and enchant her allies’ armour to reflect attacks back at those would seek to harm them.</p>"
   },
   {
     "name": "Aothar",
@@ -18631,7 +18872,8 @@
       ]
     },
     "default_description": "Aothar is a epic attack champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Fenax",
@@ -18708,7 +18950,8 @@
       ]
     },
     "default_description": "Fenax is a epic attack champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Sometimes love blossoms early, and remains in the hearts of those touched by its warmth for the rest of their lives. Such is the tale of Fenax and Tallia. He was the son of a destitute noble, serving in the household of Tallia’s father. She - a cherished heiress. Though they have sworn to marry one another as children, no one had taken that vow seriously. And by the time Tallia’s father realized that this was more than childish games, that their love was not fading, it was far too late. The girl was far too headstrong and wild to be cowed into obedience, and the aging Lord had come up with a cunning and dark plot.</p><p>Fenax, then a squire, was sent with an “important message” to a neighboring bannerman. Alone with no escort, of course, as messengers had to travel light and swift. By the Lord’s design, a group of orc raiders was meant to ambush and slay Fenax - a tragedy to be sure, but one that his daughter would forget in time. Unfortunately for the Lord, he failed to take Fenax’s wit into account. Though indeed ambushed and brought low, he managed to convince his captors that he was, in fact, the heir of an important baron who would pay the savages handsomely. The greedy brigands were quick to drag him off to the camp instead, hoping to fool the Lord and gain both rewards.</p><p>And when the searching party that went after Fenax upon him “suddenly” going missing on the road, Tallia’s father became concerned. He ignored his daughter’s pleas to send a group of men-at-arms to rescue her beloved from the orcs, who left plenty of traces to be identified. The Lord refused in anger, yet once more he had miscalculated. Furious, Tallia escaped the castle to mount a rescue on her own.</p><p>A dangerous venture, to be sure. But fate was not always cruel. A Sacred Order patrol came across the young Lady, their Sergeant a man of honour and piety that did not shrink away from his duty to protect the innocent. With their help, Tallia managed to find and free Fenax from the raiders after a vicious battle in which she too was baptised by fire.</p><p>Though after a loving embrace was shared and words of comfort were spoken, the Tallia could not help but wonder what was so important that her beloved had to risk his life to deliver. She unsealed the letter only to devoid of a single drop of ink. But it was not needed, the empty parchment spoke of her father’s betrayal louder than any words could. Hurt and furious, the two young lovers did not, however, let themselves be broken. Unwilling to return to the man that would see them separated so cruelly, they both swore an oath to join the Order and dedicate their lives to Lumaya, an oath that they have carried out with honour against servants of darkness beyond counting - together.</p>"
   },
   {
     "name": "Hope",
@@ -18785,7 +19028,8 @@
       ]
     },
     "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Sister Hope does much to honour her name, both on the battlefield and by her kind deeds. A simple miller’s daughter, she was orphaned at a young age by a brutal orc raid. It was only a timely intervention by the Sacred Order outrider patrol that saved the girl from sharing the fate of her family, although starving to death was not a much better prospect. Fortunately for Hope, her plea did not go unheard and she was adopted into one of the Order’s abbeys, there to be educated and trained. Crafstmen and caterers of all sorts are always in demand, and it is to everyone’s benefit if orphans and the destitute that the Order cares for repay their debt by a life-long dedication.</p><p>But it was not a life of peace that Hope sought. Her experiences have molded the young woman and drove her to excel in the ways of war. She swore a mighty oath to Lumaya, pleading the Goddess to give her strength, so that by Hope’s hand atrocities such as what has been inflicted upon her family can be prevented.</p><p>Whether it is Lumaya’s grace indeed or the strength of Hope’s own conviction, but she has forged her path as a champion of the innocent ever since. She does not flinch in delivering ruthless justice to the unholy and the lawless, but it is her kindness and selfless devotion to her allies that make Hope a boon for any band of Champions. Her faith alone can serve as a powerful shield to those at her side, yet her wrath is terrible to behold as well. Her blade can do much more than simply break armour and rend flesh. By the power of faith, it dispells protective magic that many-an-enemy uses, exposing them to Hope’s fellow Champions.</p>"
   },
   {
     "name": "Lightsworn",
@@ -18862,7 +19106,8 @@
       ]
     },
     "default_description": "Lightsworn is a epic def champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>The Lightsworn is a warrior of the Sacred Order who has devoted his life to defending the Order and its ideals. Armed with his heavy armor and mace, the Lightsworn puts his life on the line for both his Queen and his fellow brothers.</p>"
   },
   {
     "name": "Relickeeper",
@@ -18939,7 +19184,8 @@
       ]
     },
     "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Romero",
@@ -19016,7 +19262,8 @@
       ]
     },
     "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>But, of course, it is not just love that is marked by divine intervention or tragedy that is worthy of the minstrel’s attention. Those are merely good for the dramatic flair that those knights of the lute do so enjoy. More often than not, love overcomes obstacles that are less grand on a cosmic scale, yet no less difficult for the mortals who find themselves entwined.</p><p>The Sacred Order as a whole, while not necessarily enforcing a Vow of Chastity, does forbid its members from having families and heirs - a precaution to make certain positions of power within the Order pass on by right of virtue, not that of blood. Undue attachment is heavily frowned upon as well, outright forbidden in some of the stricter Divisions of the Order.</p><p>It is no surprise then, that the Knights Romero and Juliana had never thought of themselves falling in love. Romero, ever coolheaded and pious found himself at odds with the young and brash Juliana, whose skill with the blade and fiery zeal led her to many mortal perils that she, to the young Knight’s credit, honourably overcame. But a life full of battles does tend to make emotions run wild. In time, the two warmed up to one another’s “quirks”, learned to appreciate them even. Their eventual union, though it may never be formalized by marriage, remains true and tested. Neither did that union affect their relationship as comrades-in-arms, if anything it allowed the two Knights to fight as one. Where Romero’s natural cautiousness may lead to him losing momentum, Juliana’s brazen but no less skillful tactics ensure that their forces control the initiative. And where Juliana may begin losing herself in the heat of battle, Romero is always there to serve as an anchor of reason. To this day, they remain among the Order’s prominent warriors and are ready to bring Lumaya’s light wherever it is needed most.</p>"
   },
   {
     "name": "Bushi",
@@ -19093,7 +19340,8 @@
       ]
     },
     "default_description": "Bushi is a epic attack champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Bushi joined the ranks of The Sacred Order in early childhood, when Rangers of The Sacred Order found him in a settlement put to the torch by Orcs. Brought back to join their number, he was enrolled in the Order’s secret academy. It was there he learned the way of the Sacred Warrior, how to weild his axe, and how to claim the heads of who deprived him of his people and his birthright those many years ago...</p>"
   },
   {
     "name": "Canoness",
@@ -19170,7 +19418,8 @@
       ]
     },
     "default_description": "Canoness is a epic def champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Cardinal",
@@ -19247,7 +19496,8 @@
       ]
     },
     "default_description": "Cardinal is a epic assist champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Athel",
@@ -19324,7 +19574,8 @@
       ]
     },
     "default_description": "Athel is a rare attack champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Chaplain",
@@ -19401,7 +19652,8 @@
       ]
     },
     "default_description": "Chaplain is a rare assist champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Confessor",
@@ -19478,7 +19730,8 @@
       ]
     },
     "default_description": "Confessor is a rare attack champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Harrier",
@@ -19555,7 +19808,8 @@
       ]
     },
     "default_description": "Harrier is a rare attack champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>It is said that love often grows from compassion and mutual care, and, indeed, such is the case with Harrier and the Hospitaller. When he was wounded in battle, it was the young sister of the Hospitaller Order that saw to his wounds. Through the long recovery, they spoke to one another daily, pushing past the initial hurdles and becoming friends. Yet so was the ranger stricken by his saviour’s kindness and beauty, that he dared to seek her out even after recovering.</p><p>It was night when he arrived, sneaking through the window of the hospital in search of his flame. In hindsight, that was not a wise idea for his flame mistook the poor Harrier for a thief and knocked him out with a chair that happened to be nearby. Needless to say, the Hospitaller was less than pleased and he was subjected to quite a lecture - all while his new bruises were tended to.</p><p>Even so, despite unforeseen and rather blunt issues, the Harrier did manage to strike a chord in her heart. In time, the two started seeing one another in secret and their love blossomed, as it does still to this day. For there are no things more precious to Lumaya than two hearts united as one.</p>"
   },
   {
     "name": "Hospitaller",
@@ -19632,7 +19886,8 @@
       ]
     },
     "default_description": "Hospitaller is a rare assist champion from the faction Sacred Order doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>It is said that love often grows from compassion and mutual care, and, indeed, such is the case with Harrier and the Hospitaller. When he was wounded in battle, it was the young sister of the Hospitaller Order that saw to his wounds. Through the long recovery, they spoke to one another daily, pushing past the initial hurdles and becoming friends. Yet so was the ranger stricken by his saviour’s kindness and beauty, that he dared to seek her out even after recovering.</p><p>It was night when he arrived, sneaking through the window of the hospital in search of his flame. In hindsight, that was not a wise idea for his flame mistook the poor Harrier for a thief and knocked him out with a chair that happened to be nearby. Needless to say, the Hospitaller was less than pleased and he was subjected to quite a lecture - all while his new bruises were tended to.</p><p>Even so, despite unforeseen and rather blunt issues, the Harrier did manage to strike a chord in her heart. In time, the two started seeing one another in secret and their love blossomed, as it does still to this day. For there are no things more precious to Lumaya than two hearts united as one.</p>"
   },
   {
     "name": "Judicator",
@@ -19709,7 +19964,8 @@
       ]
     },
     "default_description": "Judicator is a rare attack champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Justiciar",
@@ -19786,7 +20042,8 @@
       ]
     },
     "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Lamellar",
@@ -19863,7 +20120,8 @@
       ]
     },
     "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Maiden",
@@ -19940,7 +20198,8 @@
       ]
     },
     "default_description": "Maiden is a rare attack champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Penitent",
@@ -20017,7 +20276,8 @@
       ]
     },
     "default_description": "Penitent is a rare def champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Templar",
@@ -20094,7 +20354,8 @@
       ]
     },
     "default_description": "Templar is a rare def champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warpriest",
@@ -20171,7 +20432,8 @@
       ]
     },
     "default_description": "Warpriest is a rare assist champion from the faction Sacred Order doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Armiger",
@@ -20248,7 +20510,8 @@
       ]
     },
     "default_description": "Armiger is a uncommon defense champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Battle Sister",
@@ -20325,7 +20588,8 @@
       ]
     },
     "default_description": "Battle Sister is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Crusader",
@@ -20402,7 +20666,8 @@
       ]
     },
     "default_description": "Crusader is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Intercessor",
@@ -20479,7 +20744,8 @@
       ]
     },
     "default_description": "Intercessor is a uncommon support champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Militia",
@@ -20556,7 +20822,8 @@
       ]
     },
     "default_description": "Militia is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Outlaw Monk",
@@ -20633,7 +20900,8 @@
       ]
     },
     "default_description": "Outlaw Monk is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Pilgrim",
@@ -20710,7 +20978,8 @@
       ]
     },
     "default_description": "Pilgrim is a uncommon support champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sergeant",
@@ -20787,7 +21056,8 @@
       ]
     },
     "default_description": "Sergeant is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sharpshooter",
@@ -20864,7 +21134,8 @@
       ]
     },
     "default_description": "Sharpshooter is a uncommon attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Vigilante",
@@ -20941,7 +21212,8 @@
       ]
     },
     "default_description": "Vigilante is a uncommon hp champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Knecht",
@@ -21018,7 +21290,8 @@
       ]
     },
     "default_description": "Knecht is a common defense champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Novitiate",
@@ -21095,7 +21368,8 @@
       ]
     },
     "default_description": "Novitiate is a common attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Preacher",
@@ -21172,7 +21446,8 @@
       ]
     },
     "default_description": "Preacher is a common hp champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sister Militant",
@@ -21249,7 +21524,8 @@
       ]
     },
     "default_description": "Sister Militant is a common attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Yeoman",
@@ -21326,7 +21602,8 @@
       ]
     },
     "default_description": "Yeoman is a common attack champion from the faction Sacred Order",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Longbeard",
@@ -21403,7 +21680,8 @@
       ]
     },
     "default_description": "Longbeard is a legendary attack champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>As Skinwalkers shaman tell it, at Ghaar Khan’s birth, divine signs indicated he would consolidate the scattered Skinwalkers clans into one horde. As Ghaar grew, he the truth of the prophecy was revealed.</p><p>By defeating his enemies, forming alliances, and winning the loyalty of others, he managed to unite or subdue the several great nomadic tribes under his rule. At the Council of Elders, he was acknowledged as \"\"Khan\"\" and gifted with a mace made of the Holy Sheep's head - the Skinwalkers symbol of might and power.</p>"
   },
   {
     "name": "Norog",
@@ -21480,7 +21758,8 @@
       ]
     },
     "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Warchief",
@@ -21557,7 +21836,8 @@
       ]
     },
     "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hakkorhn Smashlord",
@@ -21634,7 +21914,8 @@
       ]
     },
     "default_description": "Hakkorhn Smashlord is a legendary hp champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Skinwalkers, prized for their natural resilience and strength, often become the target of slavers from all across Teleria. The Dark Elves, though often allied with certain tribes, are particularly fond of capturing the creatures they see as little more than beasts and using them for back-breaking labour or bloody gladiator battles for their own twisted amusement. Sometimes, the unfortunate few become the unwilling subjects for magicians seeking to unlock further mysteries of the Dark Arts.</p><p>Such was the fate of a minotaur known only as Hakkorhn Smashlord today. Whatever his former life used to be, it was burned to ashes. Everything stripped from him. Horrific experiments conducted by a Dark Elf witch coven infused the poor creature with a fiery rage that could not be quenched. Thus strengthened beyond even his beastly physique, the Smashlord was unleashed upon one of the slave-fighter arenas. The results were far more spectacular than his new masters could imagine, and for years the Hakkorhn reigned as the undisputed champion. But despite the various enchantments and hexes, the minotaur's will still simmered underneath. Slowly, he started regaining his former self until one fateful day where, in the midst of combat, the Smashlord turned on his captors and cut a bloody swathe through the guards with the help of his fellow slaves. Such was the carnage, that the stunned Dark Elves did not give pursuit until reinforcements arrived from a neighboring hold. And by that point, Hakkorhn and the other rebels were long gone.</p><p>Though still tortured by dark spells that once bound his will, the Hakkorhn roams the land as an errant warrior in search of a worthy cause to lend his strength to.</p>"
   },
   {
     "name": "Basher",
@@ -21711,7 +21992,8 @@
       ]
     },
     "default_description": "Basher is a epic attack champion from the faction Skinwalker doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Basher has never honored Skinwalkers' traditions and never believed in Ch’arocah legends. The only thing he believes in is brute force.</p><p>Having been exiled from his tribe in his childhood, he went to the south over the Redspike Mountains where he served first as a scout for the Ordun lords, then as cutthroat and torturer. Basher never speaks of his past and has never uttered his real name that was given to him by his mother. What makes him proud is his current nickname - Basher.</p>"
   },
   {
     "name": "Reinbeast",
@@ -21788,7 +22070,8 @@
       ]
     },
     "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>An outcast among outcasts, the Reinbeast’s very survival is as much a miracle as it is a testament to his strength and determination. Born in the darkest depths of the Durkham Forest on a cold winter morning, he was immediately marked by the strange colour of his coat and a glowing red nose. All through his childhood, the Reinbeast had to fight all those who would see him cast out. Yet beatings and cruelty only hardened the poor creature and taught him to stand tall and proud no matter the hardship.</p><p>But on one stormy night, when the wind howled like a wounded dragon among the twisted and gnarled trees of Durkham, and a terrible blizzard swept the land, his fate was changed forever. Forced out into the night by his tribe’s chief on a fool’s errand that was no doubt meant to see him dead, the Reinbeast came across a most confusing sight. A sleigh full of strange items stood there, encased by ice, and a man clad in armour of silver and red worked tirelessly to fix the damage. A small pack of reindeers shivered at his side, cold and tired, no longer able to pull the heavy carriage. Though suspicious at first, the Reinbeast was moved by the pure light that seemed to be emanating from that mysterious human, and the care he showed in trying to help his exhausted steeds.</p><p>He approached, cautiously, and offered help in a broken Common tongue. To his surprise, the man’s own words boomed within his mind loud and clear, as if spoken by one of his own people. Sir Nicholas, as the strange introduced himself, was most grateful for the aid. And with the Reinbeast now placed in the lead, his own reindeers finally managed to free the sleigh and press on their way. With magic beyond imagining, they went across Teleria in a single night to reward the just and punish the wicked, with the Reinbeast’s glowing nose leading their way. It was no surprise that when offered a single wish for his selfless help, the Reinbeast asked to remain in Sir Nicholas’ service - and thus he has remained for centuries, pulling the mighty sleigh through blizzards and storms, and fighting at Sir Nicholas’ side when such a need arose.</p>"
   },
   {
     "name": "Steelskull",
@@ -21865,7 +22148,8 @@
       ]
     },
     "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Flesh-Tearer",
@@ -21942,7 +22226,8 @@
       ]
     },
     "default_description": "Flesh-Tearer is a epic assist champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>It is a common assumption among Skinwalkers that the bigger one’s horns or antlers, the stronger one is. That is, of course, a vestige of their bestial nature, one that is often proven to be untrue. The Flesh-Tearer is a very good example of this. Despite his fear-inspiring name, he is no fearsome warrior but a wise healer who can keep others alive.</p><p>The secrets of handling herbs were passed to Flesh-Tearer from his father, just like they were from his father’s father before that.</p>"
   },
   {
     "name": "Ripper",
@@ -22019,7 +22304,8 @@
       ]
     },
     "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Ripper spent several years as a paid gladiator in the City of Ireth. Killing his enemies for the joy of the screaming crowd, he gained glory and fame as one of the most ruthless and deadly warriors in Teleria – until the day that he lost his first fight in the arena.</p><p>Broken and bowed, he bared his neck for the killing blow. But the blow never came – the elf who beat him declared him a worthy foe, spared his life, and even returned his weapon to him to that he might leave the field with honor, all in the face of the jeering spectators.</p><p>Truly impressed by the valor of the elf, Ripper offered him any boon he might grant. No one knows with certainty what was asked – only that the next day Ripper departed Ireth in the direction of the Dark Ravine, and that where Wanderer appears, Ripper soon follows. Some speculate this is his task – to seek out Wanderer and bring the traitor’s head to Queen Eva to repay the elven debt of honor.</p>"
   },
   {
     "name": "Taurus",
@@ -22096,7 +22382,8 @@
       ]
     },
     "default_description": "Taurus is a epic attack champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Though Skinwalkers at large lack the secrets of steel or alchemy to truly challenge the powerful nations of Teleria, ancient tribal lore and knowledge of the land allow them to improvise. Thus the Taurus, in addition to his brute strength, has access to potent poisons crafted by the tribe’s shamans any venomous component they can find - be it a corrupted plant or a giant spider’s powdered mandibles.</p><p>Such concoctions can be extremely virulent, if volatile and prone to poisoning the warrior using them as well as the intended targets. Though sheer animalistic toughness allows the Taurus to withstand the worst of the effects, having means of healing on hand is never a bad idea for any Warrior wishing to employ such tactics.</p>"
   },
   {
     "name": "Bloodpainter",
@@ -22173,7 +22460,8 @@
       ]
     },
     "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Channeler",
@@ -22250,7 +22538,8 @@
       ]
     },
     "default_description": "Channeler is a rare assist champion from the faction Skinwalker doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Grappler",
@@ -22327,7 +22616,8 @@
       ]
     },
     "default_description": "Grappler is a rare def champion from the faction Skinwalker doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Graybeard",
@@ -22404,7 +22694,8 @@
       ]
     },
     "default_description": "Graybeard is a rare def champion from the faction Skinwalker doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bloodhorn",
@@ -22481,7 +22772,8 @@
       ]
     },
     "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Elven scholars have documented the sad truth that Skinwalkers have are becoming increasingly wild and feral with the march of time. Having lost almost all their magical abilities over the ages, more and more of this once glorious race have chosen the way of brute strength. Losing their human side, they are slowly becoming animals.</p><p>Bloodhorn exemplifies this trend in the latest generation of Skinwalkers. He is ruthless and brutal. He often loses his weapon on battlefields. But it doesn't bother him much – his raw animal strength carries the day, and he walks away from each battle with his enormous horns covered in fresh blood.</p>"
   },
   {
     "name": "Gnarlhorn",
@@ -22558,7 +22850,8 @@
       ]
     },
     "default_description": "Gnarlhorn is a rare hp champion from the faction Skinwalker doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Satyr",
@@ -22635,7 +22928,8 @@
       ]
     },
     "default_description": "Satyr is a uncommon hp champion from the faction Skinwalker",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Windtalker",
@@ -22712,7 +23006,8 @@
       ]
     },
     "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bad-el-Kazar",
@@ -22789,7 +23084,8 @@
       ]
     },
     "default_description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bloodgorged",
@@ -22866,7 +23162,8 @@
       ]
     },
     "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Nethril",
@@ -22943,7 +23240,8 @@
       ]
     },
     "default_description": "Nethril is a legendary attack champion from the faction Undead Hordes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Ma'Shalled",
@@ -23020,7 +23318,8 @@
       ]
     },
     "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "MaShalled",
@@ -23097,7 +23396,8 @@
       ]
     },
     "default_description": "MaShalled is a legendary attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skartorsis",
@@ -23174,7 +23474,8 @@
       ]
     },
     "default_description": "Skartorsis is a legendary support champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skartosis",
@@ -23251,7 +23552,8 @@
       ]
     },
     "default_description": "Skartosis is a legendary assist champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Gorgorab",
@@ -23328,7 +23630,8 @@
       ]
     },
     "default_description": "Gorgorab is a epic assist champion from the faction Undead Hordes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Husk",
@@ -23405,7 +23708,8 @@
       ]
     },
     "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Seeker",
@@ -23482,7 +23786,8 @@
       ]
     },
     "default_description": "Seeker is a epic def champion from the faction Undead Hordes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Zelotah",
@@ -23559,7 +23864,8 @@
       ]
     },
     "default_description": "Zelotah is a epic assist champion from the faction Undead Hordes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hexia",
@@ -23636,7 +23942,8 @@
       ]
     },
     "default_description": "Hexia is a epic attack champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Once a beautiful noble Lady of Kaerok, Hexia is said to have feared nothing but the relentless march of time. Knowing full well that her beauty will wane and rot away with age, she sought to prolong her youth through dark and terrible rituals. Some say she used the blood of young peasant women in hopes of preserving her body, others that she sacrificed anything and anyone, casting their souls into Siroth’s embrace in exchange for sorcerous secrets and eternal youth.</p><p>Such was her cruelty, that the people of her fief arose in rebellion. The castle was stormed and taken. Hexia herself had been dragged to a forest beyond the town walls and hanged on an old oak. Legend says that in her last breath, the vile sorceress cursed her former subjects and vowed vengeance.</p><p>But even death was not the end for her, as the blood rituals Hexia performed allowed her spirit to remain, possessing her dead body once more and exacting a horrible price upon the townsfolk that dared take everything from her. Whether or not that is the case, the castle and the town surrounding it have been devastated by plague not a month after Hexia’s execution and burned to a cinder to stop the disease from spreading.</p><p>Even now, the burned-out ruins that sit upon a barren hill and are considered to be a blighted place by the locals. Some brave adventurers dare to stray into the ruined castle’s catacombs in search of the sorceress’ riches. The few that return in one piece speak in hushed whispers, warning all who would listen of a cruel banshee that jealously guards her former domain.</p>"
   },
   {
     "name": "Karam",
@@ -23713,7 +24020,8 @@
       ]
     },
     "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Lich",
@@ -23790,7 +24098,8 @@
       ]
     },
     "default_description": "Lich is a epic def champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Banshee",
@@ -23867,7 +24176,8 @@
       ]
     },
     "default_description": "Banshee is a rare assist champion from the faction Undead Hordes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Bone Knight",
@@ -23944,7 +24254,8 @@
       ]
     },
     "default_description": "Bone Knight is a rare attack champion from the faction Undead Hordes doing spirit damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Sorceress",
@@ -24021,7 +24332,8 @@
       ]
     },
     "default_description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Temptress",
@@ -24098,7 +24410,8 @@
       ]
     },
     "default_description": "Temptress is a rare attack champion from the faction Undead Hordes doing magic damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Where Lumaya brings us the purity of love, Siroth places his bets on the pure carnal desire. He tempts with excess and indulgence, pulling more and more willing servants into his net wherever he can. Such was the fate of a young noble of Kaerok, vain and greedy, he wished for nothing more than to better his position in power and lot in life. By the magic of Siroth’s necromancers, and by his own dark deeds he was granted a vampire’s “kiss”, turning into one of the undead beasts himself. But his pact with the Shadow stood firm, for the noble was allowed to retain his humanly looks that he so adored - for a time, at least.</p><p>One can only imagine this wicked Seducer’s shock and surprise when he was faced with another servant of Siroth, known as the Temptress. A child of a vampire and a mortal woman, she was as vain and self-assured as he was himself. And throughout all his attempts to gain the upper hand, the Seducer only succeeded in catching himself in his own trap. For even the darkest heart can sometimes be illuminated by Lumaya’s light, and he found himself hopelessly in love and at the whims of the woman he sought to outdo.</p><p>Still, it may not be such a horrible fate in the end, for despite their mutual viciousness and less than savoury practices, the two of them do go together as well as a werewolf and a full moon. That connection is hard to deny, and it overcomes even the deeply ingrained selfishness that both of them were so known for.</p>"
   },
   {
     "name": "Doomscreech",
@@ -24175,7 +24488,8 @@
       ]
     },
     "default_description": "Doomscreech is a rare hp champion from the faction Undead Hordes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Grinner",
@@ -24252,7 +24566,8 @@
       ]
     },
     "default_description": "Grinner is a rare assist champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hollow",
@@ -24329,7 +24644,8 @@
       ]
     },
     "default_description": "Hollow is a rare attack champion from the faction Undead Hordes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Siroth’s minions have brought the curse of undeath unto the world long ago, seeking to swell the ranks of their armies when the demons were sealed and imprisoned beyond Teleria’s realm. Shambling skeletons and risen corpses may not be bright, but what they lack in intelligence they make up for in sheer number. Yet, not all Undead are witless marionettes.</p><p>Some servants of Shadow consign their souls and Shards to their dark masters, and after death retain a spark of their former self. And with it, their skills and talents. Once a master hunter, the Hollow remains dangerous with his bow even as a rotting corpse, capable of finding chinks in even the toughest armour.</p>"
   },
   {
     "name": "Seducer",
@@ -24406,7 +24722,8 @@
       ]
     },
     "default_description": "Seducer is a rare def champion from the faction Undead Hordes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>Where Lumaya brings us the purity of love, Siroth places his bets on the pure carnal desire. He tempts with excess and indulgence, pulling more and more willing servants into his net wherever he can. Such was the fate of a young noble of Kaerok, vain and greedy, he wished for nothing more than to better his position in power and lot in life. By the magic of Siroth’s necromancers, and by his own dark deeds he was granted a vampire’s “kiss”, turning into one of the undead beasts himself. But his pact with the Shadow stood firm, for the noble was allowed to retain his humanly looks that he so adored - for a time, at least.</p><p>One can only imagine this wicked Seducer’s shock and surprise when he was faced with another servant of Siroth, known as the Temptress. A child of a vampire and a mortal woman, she was as vain and self-assured as he was himself. And throughout all his attempts to gain the upper hand, the Seducer only succeeded in catching himself in his own trap. For even the darkest heart can sometimes be illuminated by Lumaya’s light, and he found himself hopelessly in love and at the whims of the woman he sought to outdo.</p><p>Still, it may not be such a horrible fate in the end, for despite their mutual viciousness and less than savoury practices, the two of them do go together as well as a werewolf and a full moon. That connection is hard to deny, and it overcomes even the deeply ingrained selfishness that both of them were so known for.</p>"
   },
   {
     "name": "Wretch",
@@ -24483,7 +24800,8 @@
       ]
     },
     "default_description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": "<p>It is common practice for necromancers to raid old crypts, tombs, and sites of bloody battles in search of new minions to bind to their will. Most end up as shambling skeletons barely able to swing a sword. Sometimes, however, a capable warrior is raised in undeath. Though their soul is long gone, the body may yet hold vestiges of their waning might. Such creatures can look deceptively fragile, but underestimating them can be a deadly mistake.</p><p>Either by the will of the necromancer that awakened them, or by their own natural affinity, these undead can manifest eerie magical abilities. This particular champion, though his origins are unknown, has been able to summon mystical fire upon his master’s foes, sap away their lifeforce, and inflict wounds that defy the skills of experienced healers. But all is not lost, for such a powerful creature has to be bound to his Shard. And if one were to take possession of it, the skeletal Wretch can yet be turned against the dark powers that interrupted his eternal sleep.</p>"
   },
   {
     "name": "Arbalester",
@@ -24560,7 +24878,8 @@
       ]
     },
     "default_description": "Arbalester is a rare attack champion from the faction Undead Hordes doing void damage",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Death Knight",
@@ -24637,7 +24956,8 @@
       ]
     },
     "default_description": "Death Knight is a rare attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Dhampir",
@@ -24714,7 +25034,8 @@
       ]
     },
     "default_description": "Dhampir is a uncommon attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skellag",
@@ -24791,7 +25112,8 @@
       ]
     },
     "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Skullsquire",
@@ -24868,7 +25190,8 @@
       ]
     },
     "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Vulpine",
@@ -24945,7 +25268,8 @@
       ]
     },
     "default_description": "Vulpine is a uncommon attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Death Hound",
@@ -25022,7 +25346,8 @@
       ]
     },
     "default_description": "Death Hound is a common attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Deathknight",
@@ -25099,7 +25424,8 @@
       ]
     },
     "default_description": "Deathknight is a common hp champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   },
   {
     "name": "Hellhound",
@@ -25176,6 +25502,7 @@
       ]
     },
     "default_description": "Hellhound is a common attack champion from the faction Undead Hordes",
-    "recommended_builds": []
+    "recommended_builds": [],
+    "lore": ""
   }
 ]

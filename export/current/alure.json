@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

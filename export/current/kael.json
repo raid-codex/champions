@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Kael is a rare attack champion from the faction Dark Elves doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

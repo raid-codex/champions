@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

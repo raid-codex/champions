@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Errol is a legendary attack champion from the faction Sacred Order doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

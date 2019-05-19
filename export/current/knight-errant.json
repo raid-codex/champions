@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Knight Errant is a epic attack champion from the faction Banner-Lords doing spirit damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

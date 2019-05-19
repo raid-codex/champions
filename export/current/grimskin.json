@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

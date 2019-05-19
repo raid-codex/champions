@@ -9,7 +9,7 @@
     "arena_offense": "S",
     "arena_defense": "S",
     "clan_boss_without_giant_slayer": "A",
-    "clan_boss_with_giant_slayer": "S",
+    "clan_boss_with_giant_slayer": "SS",
     "ice_guardian": "A",
     "dragon": "A",
     "spider": "C",
@@ -73,5 +73,6 @@
     ]
   },
   "default_description": "Skullcrusher is a epic def champion from the faction Ogryn-Tribes doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }
