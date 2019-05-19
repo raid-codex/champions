@@ -28,3 +28,10 @@ before_script:
 # .golangci.yml file at the top level of your repo.
 script:
   - bash check_champions.sh
+
+
+deploy:
+  provider: script
+  script: bash deploy.sh
+  on:
+    branch: master
