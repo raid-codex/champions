@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=$(git diff-tree --name-only --no-commit-id -r HEAD)
+files=$(git diff-tree --name-only --no-commit-id -r HEAD | grep "export/" | grep -v index.json)
 for file in $files
 do
     echo "Processing $file"
