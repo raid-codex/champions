@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Bright Fury",
+      "raw_description": "Attacks 1 enemy. Has a 20% chance of decreasing the target's Turn Meter by 15%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "bright-fury"
+    },
+    {
+      "name": "Undermine",
+      "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5°<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Buff/Debuff Chance +10°<br>Lvl. 7 Cooldown -1",
+      "slug": "undermine"
+    },
+    {
+      "name": "Execution",
+      "raw_description": "Attacks 1 enemy. This attack deals 30% extra C. DMG.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5<br>Lvl. 3 Damage +5<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "execution"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",

@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally ATK in all Battles by 23%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Behead",
+      "raw_description": "Attacks 1 enemy. Grants an Extra Turn and resets the cooldown on this Champion's Holy Sword Skill if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "behead"
+    },
+    {
+      "name": "Holy Sword",
+      "raw_description": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs. Damage increases according to enemy MAX HP.<br>Damage based on: [ATK] [Enemy MAX HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "holy-sword"
+    },
+    {
+      "name": "Giant Killer",
+      "raw_description": "Each attack has a 30% chance of increasing the duration of all debuffs on the target by 1 turn. Damage inflicted by each attack increases by 30% if the enemy's current HP is over 50%.",
+      "slug": "giant-killer"
+    }
+  ],
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",

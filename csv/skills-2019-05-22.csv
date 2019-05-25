@@ -4292,7 +4292,7 @@ High Elves,Tayrel,Defense,Epic,16185,881,1343,95,15,50,45,0,"Humble Level 1
  Lvl. 3 Damage +10%
  Lvl. 4 Damage +10%
  Lvl. 5 Cooldown -1","Aura
- reases Ally DEF in all Battles by 2:",
+ Decreases Ally DEF in all Battles by 2:",
 High Elves,Thenasil,Support,Epic,15360,969,1035,105,15,50,30,0,"Spring Lullaby Level 1
  Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for
  1 turn.

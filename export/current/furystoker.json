@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Crush",
+      "raw_description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "crush"
+    },
+    {
+      "name": "Remedy",
+      "raw_description": "Removes all debuffs from a target ally. Heals the target by 20%. The heal increases according to the amount of debuffs removed.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Heal +5%<br>Lvl. 5 Heal +5%",
+      "slug": "remedy"
+    },
+    {
+      "name": "Forest Kin",
+      "raw_description": "Heals the ally with the lowest HP by 7.5% each turn. This heal can be critical. Will not heal this Champion.",
+      "slug": "forest-kin"
+    }
+  ],
   "faction": {
     "name": "Ogryn-Tribes",
     "slug": "ogryn-tribes",

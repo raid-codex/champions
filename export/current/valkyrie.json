@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Denigration",
+      "raw_description": "Attacks 1 enemy 2 times. Decreases Turn Meter by 10% on each hit if the target has any buffs.<br>Damage based on: [ATK] [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +5%",
+      "slug": "denigration"
+    },
+    {
+      "name": "Stand Firm",
+      "raw_description": "Attacks all enemies. Places a [Shield] buff on all allies for 3 turns and a [Counterattack] buff on all allies for 2 turns. The value of [Shield] and the damage inflicted are proportional to this Champion's DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Shield +10%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Shield +10%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Cooldown -1",
+      "slug": "stand-firm"
+    },
+    {
+      "name": "Jealousy",
+      "raw_description": "This Champion's Turn Meter will be increased by 10% each time an enemy Champion places a buff. Enemy Champions will have their Turn Meters decreased by 10% for each buff they receive.",
+      "slug": "jealousy"
+    }
+  ],
   "faction": {
     "name": "Barbarians",
     "slug": "barbarians",

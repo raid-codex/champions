@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally DEF in Dungeons by 33%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Whack",
+      "raw_description": "Attacks 1 enemy. Fills this Champion's Turn Meter by 20% if this attack is critical.<br>Damage based on: [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "whack"
+    },
+    {
+      "name": "Lightning Strike",
+      "raw_description": "Attacks 1 enemy.<br>Damage based on: [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "lightning-strike"
+    },
+    {
+      "name": "Cannibalism",
+      "raw_description": "Heals all allies by 10% of his MAX HP when he inflicts a critical hit.",
+      "slug": "cannibalism"
+    }
+  ],
   "faction": {
     "name": "Orcs",
     "slug": "orcs",

@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Vicious Swipes",
+      "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%",
+      "slug": "vicious-swipes"
+    },
+    {
+      "name": "Dark Burst",
+      "raw_description": "Attacks 1 enemy. Has a 60% chance of placing a [Bomb] that detonates in 3 turns.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10%",
+      "slug": "dark-burst"
+    }
+  ],
   "faction": {
     "name": "Demonspawn",
     "slug": "demonspawn",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Lemure is a uncommon hp champion from the faction Demonspawn",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

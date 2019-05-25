@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally C. RATE in the Arena by 16%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Feint",
+      "raw_description": "Attacks 1 enemy. Has an extra 25% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10%",
+      "slug": "feint"
+    },
+    {
+      "name": "Poisonous Lily",
+      "raw_description": "Attacks 1 enemy 3 times. Each hit has a 35% chance of placing a 5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10%",
+      "slug": "poisonous-lily"
+    },
+    {
+      "name": "Lead the Charge",
+      "raw_description": "",
+      "slug": "lead-the-charge"
+    }
+  ],
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",

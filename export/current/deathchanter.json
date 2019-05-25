@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally DEF in the Arena by 27%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Clobber",
+      "raw_description": "Attacks 1 enemy. Places a [Shield] buff on this Champion for 2 turns. The value of the [Shield] is equal to 20% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%",
+      "slug": "clobber"
+    },
+    {
+      "name": "Bully",
+      "raw_description": "Attacks 1 enemy. Damage increases according to this Champion's current HP.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Cooldown -1",
+      "slug": "bully"
+    },
+    {
+      "name": "Bleed Out",
+      "raw_description": "Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 3 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1<br>Lvl. 7 Cooldown -1",
+      "slug": "bleed-out"
+    }
+  ],
   "faction": {
     "name": "Orcs",
     "slug": "orcs",

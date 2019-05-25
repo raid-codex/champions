@@ -34,7 +34,13 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Flaming Shot",
+      "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Buff/Debuff Chance +10%",
+      "slug": "flaming-shot"
+    }
+  ],
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",
@@ -73,5 +79,6 @@
     ]
   },
   "default_description": "Bandit is a common attack champion from the faction Banner Lords",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

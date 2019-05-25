@@ -33,8 +33,28 @@
       "accuracy": 10
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally ACC in all Battles by 70."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Horror",
+      "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a [Block Cooldown Skills] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +15%<br>Lvl. 4 Damage +10%",
+      "slug": "horror"
+    },
+    {
+      "name": "Shadow Strike",
+      "raw_description": "Attacks all enemies. Inflicts a critical hit against targets under [Block Cooldown Skils] debuffs. Heals by 20% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Damage +20%",
+      "slug": "shadow-strike"
+    },
+    {
+      "name": "Crumble",
+      "raw_description": "Attacks 4 times at random. Each hit has a 50% chance of placing a [Block Cooldown Skills] debuff for 2 turns. Each hit also has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +15%",
+      "slug": "crumble"
+    }
+  ],
   "faction": {
     "name": "Knight Revenant",
     "slug": "knight-revenant",

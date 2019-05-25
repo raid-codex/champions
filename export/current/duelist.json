@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Elan",
+      "raw_description": "Attacks 1 enemy. Heals by 20% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Heal +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +15%<br>Lvl. 7 Heal +15%",
+      "slug": "elan"
+    },
+    {
+      "name": "Stunning Slice",
+      "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +15%<br>Lvl. 7 Damage +10%<br>Lvl. 8 Cooldown -1",
+      "slug": "stunning-slice"
+    }
+  ],
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Duelist is a uncommon attack champion from the faction Banner Lords",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

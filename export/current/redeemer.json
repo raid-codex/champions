@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Split",
+      "raw_description": "Attacks 1 enemy. Places a 25% [Increase ATK] buff on this Champion for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "split"
+    },
+    {
+      "name": "Elven Blade",
+      "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a 2.5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +15%<br>Lvl. 6 Cooldown -1",
+      "slug": "elven-blade"
+    }
+  ],
   "faction": {
     "name": "Dark Elves",
     "slug": "dark-elves",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

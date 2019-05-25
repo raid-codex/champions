@@ -34,7 +34,13 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Wide Swing",
+      "raw_description": "Attacks all enemies.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "wide-swing"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",
@@ -73,5 +79,6 @@
     ]
   },
   "default_description": "Sister Militant is a common attack champion from the faction Sacred Order",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

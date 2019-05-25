@@ -34,7 +34,28 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Heavy Blow",
+      "raw_description": "Attacks 1 enemy. Places a [Provoke] debuff for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "heavy-blow"
+    },
+    {
+      "name": "Lower Visor",
+      "raw_description": "Places a 15% [Continuous Heal] buff and a 30% [Increase DEF] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
+      "slug": "lower-visor"
+    },
+    {
+      "name": "Last Breath",
+      "raw_description": "Attacks all enemies. Damage increases according to the amount of HP this Champion has lost.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "last-breath"
+    },
+    {
+      "name": "Valorous",
+      "raw_description": "Places an [Unkillable] buff on this Champion for 1 turn if incoming damage exceeds 30% MAX HP in one attack.",
+      "slug": "valorous"
+    }
+  ],
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",

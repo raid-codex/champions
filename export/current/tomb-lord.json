@@ -33,8 +33,28 @@
       "accuracy": 20
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally DEF in the Arena by 42%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Crippling Blows",
+      "raw_description": "Attacks 1 enemy 3 times. Places a 30% [Decrease SPD] debuff on the target for 2 turns if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "crippling-blows"
+    },
+    {
+      "name": "Death Burst",
+      "raw_description": "Attacks 1 enemy. Has a 70% chance of placing three 5% [Poison] debuffs on all enemies for 1 turn if the target is killed by this attack. This skill always inflicts a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Cooldown -1",
+      "slug": "death-burst"
+    },
+    {
+      "name": "Blight",
+      "raw_description": "Resets the Turn Meter of all enemies with less than 50% HP. Has an 80% chance of placing a 50% [Decrease ATK] debuff on all enemies for 2 turns. Also has an 80% chance of placing a 60% [Decrease DEF] debuff on all enemies for 2 turns.<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "blight"
+    }
+  ],
   "faction": {
     "name": "Knight Revenant",
     "slug": "knight-revenant",
