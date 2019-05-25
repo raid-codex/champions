@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Deathblow",
+      "raw_description": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "deathblow"
+    },
+    {
+      "name": "Bloody Feast",
+      "raw_description": "Attacks all enemies. Heals by 20% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "bloody-feast"
+    }
+  ],
   "faction": {
     "name": "Undead Hordes",
     "slug": "undead-hordes",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Dhampir is a uncommon attack champion from the faction Undead Hordes",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

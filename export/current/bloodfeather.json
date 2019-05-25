@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Hunt Down",
+      "raw_description": "Attacks 1 enemy. Has an extra 10% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%",
+      "slug": "hunt-down"
+    },
+    {
+      "name": "Armor Breaker",
+      "raw_description": "Attacks 1 enemy. Has an extra 15% chance of inflicting a critical hit. Places a 60% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1",
+      "slug": "armor-breaker"
+    },
+    {
+      "name": "Charged Shot",
+      "raw_description": "Attacks 1 enemy. Places a 30% [Decrease SPD] debuff for 2 turns. Decreases the target's Turn Meter by 30%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "charged-shot"
+    }
+  ],
   "faction": {
     "name": "Orcs",
     "slug": "orcs",

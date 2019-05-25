@@ -33,8 +33,33 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally SPD in all Battles by 24%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Stigmata",
+      "raw_description": "Attacks 1 enemy. Has a 60% chance of placing a 100% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Damage +15%<br>Lvl. 6 Buff/Debuff Chance +15%",
+      "slug": "stigmata"
+    },
+    {
+      "name": "Falling from Grace",
+      "raw_description": "Attacks all enemies 2 times. Places a [Block Buffs] debuff for 2 turns on targets under [Heal Reduction] debuffs. Each hit has a 50% chance of placing a [Block Buffs] debuff for 2 turns against targets not under [Heal Reduction] debuffs.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Cooldown -1",
+      "slug": "falling-from-grace"
+    },
+    {
+      "name": "Fiery Rage",
+      "raw_description": "Has a 10% chance to unlock a secret skill, Peril, for 1 turn. Also has a 20% chance to fill this Champion's Turn Meter by 25% when attacked.",
+      "slug": "fiery-rage"
+    },
+    {
+      "name": "Peril",
+      "raw_description": "Attacks 1 enemy 2 times. Will ignore [Shield] and [Block Damage] buffs as well as DEF. Enemies killed by this skill cannot be revived.<br>Damage based on: [HP]",
+      "slug": "peril"
+    }
+  ],
   "faction": {
     "name": "Demonspawn",
     "slug": "demonspawn",

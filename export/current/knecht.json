@@ -34,7 +34,13 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Stab",
+      "raw_description": "Attacks 1 enemy. Has an extra 20% chance of inflicting a critical hit. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
+      "slug": "stab"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",
@@ -73,5 +79,6 @@
     ]
   },
   "default_description": "Knecht is a common defense champion from the faction Sacred Order",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

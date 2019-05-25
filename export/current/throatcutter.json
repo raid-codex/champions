@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Cleaver",
+      "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Damage +10%",
+      "slug": "cleaver"
+    },
+    {
+      "name": "Gratuitous Death",
+      "raw_description": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "gratuitous-death"
+    }
+  ],
   "faction": {
     "name": "Orcs",
     "slug": "orcs",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

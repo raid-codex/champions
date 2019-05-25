@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Head Wound",
+      "raw_description": "Attacks 1 enemy. Has a 20% chance of applying a [Stun] debuff for 1 turn.<br>Damage based on: [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%",
+      "slug": "head-wound"
+    },
+    {
+      "name": "Frenzy",
+      "raw_description": "Attacks all enemies. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 1 turn. Also has a 25% chance of placing a [Provoke] debuff for 1 turn.<br>Damage based on: [ATK] i i Provoke<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Cooldown -1",
+      "slug": "frenzy"
+    }
+  ],
   "faction": {
     "name": "Orcs",
     "slug": "orcs",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Warchanter is a uncommon hp champion from the faction Orcs",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

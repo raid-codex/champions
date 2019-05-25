@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally DEF in all Battles by 25%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Skull Rattle",
+      "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Buff/Debuff Chance +10%",
+      "slug": "skull-rattle"
+    },
+    {
+      "name": "Battle Shout",
+      "raw_description": "Attacks all enemies. Has a 50% chance of placing a [Provoke] debuff for 1 turn.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Cooldown -1",
+      "slug": "battle-shout"
+    },
+    {
+      "name": "Turn to Ash",
+      "raw_description": "Attacks all enemies. Has a 75% chance of placing a [HP Burn] debuff for 2 turns. This debuff cannot be resisted.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Cooldown -1",
+      "slug": "turn-to-ash"
+    }
+  ],
   "faction": {
     "name": "Ogryn-Tribes",
     "slug": "ogryn-tribes",

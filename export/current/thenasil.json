@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally RESIST in Dungeons by 70."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Spring Lullaby",
+      "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Buff/Debuff Chance +10%",
+      "slug": "spring-lullaby"
+    },
+    {
+      "name": "Oak-Skinned",
+      "raw_description": "Places a 60% [increase DEF) buff on all allies for 2 turns. Heals all allies by 25% of this Champion's MAX HP.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Heal +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "oak-skinned"
+    },
+    {
+      "name": "Wither",
+      "raw_description": "Attacks all enemies. Decreases the duration of all enemy buffs by 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "wither"
+    }
+  ],
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",

@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Brute Strength",
+      "raw_description": "Attacks 1 enemy. Has a 30% chance of placing a [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5'<br>Lvl. 5 Buff/Debuff Chance +5",
+      "slug": "brute-strength"
+    },
+    {
+      "name": "Burning Blade",
+      "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a [HP Burn] debuff for 4 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +109<br>Lvl. 5 Buff/Debuff Chance +15<br>Lvl. 6 Cooldown -1",
+      "slug": "burning-blade"
+    },
+    {
+      "name": "Sear Away",
+      "raw_description": "Attacks 1 enemy. Decreases the target's MAX HP by 30% of the damage dealt.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "sear-away"
+    }
+  ],
   "faction": {
     "name": "Barbarians",
     "slug": "barbarians",

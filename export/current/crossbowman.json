@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Snap Shot",
+      "raw_description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%",
+      "slug": "snap-shot"
+    },
+    {
+      "name": "Sharp Eye",
+      "raw_description": "Places a 30% [Increase C. RATE] buff on a target ally for 2 turns. Grants an Extra Turn.<br>Lvl. 2 Cooldown -1",
+      "slug": "sharp-eye"
+    },
+    {
+      "name": "Blunted Arrow",
+      "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn. Also has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Buff/Debuff Chance +15%",
+      "slug": "blunted-arrow"
+    }
+  ],
   "faction": {
     "name": "Banner-Lords",
     "slug": "banner-lords",

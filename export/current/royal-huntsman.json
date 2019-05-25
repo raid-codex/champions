@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Spirit Ally ATK in all Battles by 38%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Confident Shot",
+      "raw_description": "Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%",
+      "slug": "confident-shot"
+    },
+    {
+      "name": "Slaughter Volley",
+      "raw_description": "Attacks all enemies. Places a 50% [Decrease DEF] debuff on the target for 2 turns if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "slaughter-volley"
+    },
+    {
+      "name": "Dead Aim",
+      "raw_description": "Attacks 1 enemy. Will ignore DEF by 100%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%",
+      "slug": "dead-aim"
+    }
+  ],
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",

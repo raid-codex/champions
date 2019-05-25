@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Pounce",
+      "raw_description": "Attacks 1 enemy. Has a 30% chance of placing a [Block Buffs] debuff for 2 turns.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Buff/Debuff Chance +10%",
+      "slug": "pounce"
+    },
+    {
+      "name": "Strangle",
+      "raw_description": "Attacks 1 enemy. Places a [Sleep] debuff for 2 turns if the target has no active buffs.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
+      "slug": "strangle"
+    },
+    {
+      "name": "Herbal Balm",
+      "raw_description": "Places a 15% [Continuous Heal] buff on this Champion for 2 turns if incoming damage exceeds 20% HP in one attack.",
+      "slug": "herbal-balm"
+    }
+  ],
   "faction": {
     "name": "Lizardmen",
     "slug": "lizardmen",

@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "reases Ally ATK in Dungeons by 35%."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Blazing Sword",
+      "raw_description": "Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%",
+      "slug": "blazing-sword"
+    },
+    {
+      "name": "Helmbreaker",
+      "raw_description": "Attacks 1 enemy 3 times. Each hit has a 50% chance to ignore DEF.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +15%<br>Lvl. 6 Cooldown -1",
+      "slug": "helmbreaker"
+    },
+    {
+      "name": "Negation",
+      "raw_description": "Steals all buffs from a target enemy, then attacks the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +15%<br>Lvl. 3 Damage +15%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Cooldown -1",
+      "slug": "negation"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",

@@ -34,7 +34,23 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Rage",
+      "raw_description": "Attacks 1 enemy 2 times. Has a 15% chance of stealing 1 random buff from the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5<br>Lvl. 6 Buff/Debuff Chance +5",
+      "slug": "rage"
+    },
+    {
+      "name": "Holy Flame",
+      "raw_description": "Attacks 4 times at random. Places a 5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
+      "slug": "holy-flame"
+    },
+    {
+      "name": "Brand",
+      "raw_description": "Attacks 1 enemy. Places a [Block Cooldown Skills] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1<br>Lvl. 6 Cooldown -1",
+      "slug": "brand"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",

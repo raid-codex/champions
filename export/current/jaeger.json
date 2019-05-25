@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Shackle Shot",
+      "raw_description": "Attacks 1 enemy. Has a 10% chance of placing a 15% [Decrease SPD] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Buff/Debuff Chance +10%",
+      "slug": "shackle-shot"
+    },
+    {
+      "name": "Freezing Arrow",
+      "raw_description": "Attacks 1 enemy. Has a 30% chance of placing a [Freeze] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Buff/Debuff Chance +20%<br>Lvl. 7 Cooldown -1",
+      "slug": "freezing-arrow"
+    }
+  ],
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Jaeger is a uncommon attack champion from the faction High Elves",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

@@ -34,7 +34,18 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "True Strike",
+      "raw_description": "Attacks 1 enemy. Has an extra 25% chance of placing a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +5%",
+      "slug": "true-strike"
+    },
+    {
+      "name": "Gust of Dust",
+      "raw_description": "Attacks 1 enemy. Decreases the target's Turn Meter by 50%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
+      "slug": "gust-of-dust"
+    }
+  ],
   "faction": {
     "name": "Barbarians",
     "slug": "barbarians",
@@ -73,5 +84,6 @@
     ]
   },
   "default_description": "Pit Fighter is a uncommon hp champion from the faction Barbarians",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

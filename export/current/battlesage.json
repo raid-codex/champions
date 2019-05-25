@@ -33,8 +33,28 @@
       "accuracy": 0
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally SPD in all Battles by 19%"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Lightning Slash",
+      "raw_description": "Attacks all enemies.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "lightning-slash"
+    },
+    {
+      "name": "Nature's Touch",
+      "raw_description": "Removes all debuffs on all allies, then places a 50% [Increase ATK]<br>Lvl. 2 Cooldown -1",
+      "slug": "nature-s-touch"
+    },
+    {
+      "name": "Mother's Embrace",
+      "raw_description": "Places a [Revive On Death] buff on a target ally for 3 turns. The ally will instantly revive if killed.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
+      "slug": "mother-s-embrace"
+    }
+  ],
   "faction": {
     "name": "High Elves",
     "slug": "high-elves",

@@ -34,7 +34,13 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Volley",
+      "raw_description": "Attacks 1 enemy 3 times. Each hit has a 10% chance to decrease the Turn Meter by 20%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10",
+      "slug": "volley"
+    }
+  ],
   "faction": {
     "name": "Sacred Order",
     "slug": "sacred-order",
@@ -73,5 +79,6 @@
     ]
   },
   "default_description": "Yeoman is a common attack champion from the faction Sacred Order",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

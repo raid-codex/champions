@@ -76,13 +76,33 @@
         },
         "aura": {
             "type": "object",
-            "required": [],
-            "properties": {}
+            "required": [
+                "raw_description"
+            ],
+            "properties": {
+                "raw_description": {
+                    "type": "string"
+                }
+            }
         },
         "skill": {
             "type": "object",
-            "required": [],
-            "properties": {}
+            "required": [
+                "raw_description",
+                "slug",
+                "name"
+            ],
+            "properties": {
+                "slug": {
+                    "$ref": "#/definitions/slug"
+                },
+                "name": {
+                    "type": "string"
+                },
+                "raw_description": {
+                    "type": "string"
+                }
+            }
         },
         "seo": {
             "type": "object",

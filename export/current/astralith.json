@@ -33,8 +33,28 @@
       "accuracy": 10
     }
   },
-  "auras": [],
-  "skills": [],
+  "auras": [
+    {
+      "raw_description": "Increases Ally ACC in the Arena by 90."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Assault Leader",
+      "raw_description": "Attacks 1 enemy. Fills the Turn Meter of a random ally by 15%. Fills the Turn Meter by 30% if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
+      "slug": "assault-leader"
+    },
+    {
+      "name": "Heart Rot",
+      "raw_description": "Attacks 1 enemy. Places two [Bomb] debuffs that detonate after 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
+      "slug": "heart-rot"
+    },
+    {
+      "name": "Judgement",
+      "raw_description": "Exchanges remaining HP levels with a target enemy, then attacks with the default skill. Cannot be used on a boss.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
+      "slug": "judgement"
+    }
+  ],
   "faction": {
     "name": "Dark Elves",
     "slug": "dark-elves",

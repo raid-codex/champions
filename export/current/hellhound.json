@@ -34,7 +34,13 @@
     }
   },
   "auras": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Paralyzing Bite",
+      "raw_description": "Attacks 1 enemy. Places a [Sleep] debuff on the target for 1 turn when hit with a critical hit.<br>Damage based on: [ATK] [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%",
+      "slug": "paralyzing-bite"
+    }
+  ],
   "faction": {
     "name": "Undead Hordes",
     "slug": "undead-hordes",
@@ -73,5 +79,6 @@
     ]
   },
   "default_description": "Hellhound is a common attack champion from the faction Undead Hordes",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }
