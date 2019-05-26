@@ -68,7 +68,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -86,6 +87,21 @@
       "list",
       "Slayer",
       "slayer"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Slayer is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-slayer.jpg",
+        "name": "Slayer",
+        "url": "https://raid-codex.com/champions/slayer/"
+      }
     ]
   },
   "default_description": "Slayer is a rare attack champion from the faction Barbarians doing force damage",

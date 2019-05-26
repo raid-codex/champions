@@ -63,7 +63,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -81,6 +82,21 @@
       "list",
       "Elfguard",
       "elfguard"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Elfguard is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-elfguard.jpg",
+        "name": "Elfguard",
+        "url": "https://raid-codex.com/champions/elfguard/"
+      }
     ]
   },
   "default_description": "Elfguard is a uncommon attack champion from the faction High Elves",

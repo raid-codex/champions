@@ -72,7 +72,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -90,6 +91,21 @@
       "list",
       "Jizoh",
       "jizoh"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Jizoh is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-jizoh.jpg",
+        "name": "Jizoh",
+        "url": "https://raid-codex.com/champions/jizoh/"
+      }
     ]
   },
   "default_description": "Jizoh is a epic def champion from the faction Lizardmen doing spirit damage",

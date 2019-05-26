@@ -72,7 +72,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -90,6 +91,21 @@
       "list",
       "Ma'Shalled",
       "ma-shalled"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Ma'Shalled is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-ma-shalled.jpg",
+        "name": "Ma'Shalled",
+        "url": "https://raid-codex.com/champions/ma-shalled/"
+      }
     ]
   },
   "default_description": "Ma'Shalled is a legendary attack champion from the faction Undead Hordes doing spirit damage",

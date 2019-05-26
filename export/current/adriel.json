@@ -72,7 +72,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -90,6 +91,21 @@
       "list",
       "Adriel",
       "adriel"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Adriel is a champion of Epic rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-adriel.jpg",
+        "name": "Adriel",
+        "url": "https://raid-codex.com/champions/adriel/"
+      }
     ]
   },
   "default_description": "Adriel is a epic assist champion from the faction Sacred Order doing magic damage",

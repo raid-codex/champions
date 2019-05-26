@@ -63,7 +63,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -81,6 +82,21 @@
       "list",
       "Death Hound",
       "death-hound"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Death Hound is a champion of Common rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-death-hound.jpg",
+        "name": "Death Hound",
+        "url": "https://raid-codex.com/champions/death-hound/"
+      }
     ]
   },
   "default_description": "Death Hound is a common attack champion from the faction Undead Hordes",

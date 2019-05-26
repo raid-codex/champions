@@ -68,7 +68,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -86,6 +87,21 @@
       "list",
       "Hexweaver",
       "hexweaver"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Hexweaver is a champion of Rare rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-hexweaver.jpg",
+        "name": "Hexweaver",
+        "url": "https://raid-codex.com/champions/hexweaver/"
+      }
     ]
   },
   "default_description": "Hexweaver is a rare assist champion from the faction Dark Elves doing spirit damage",

@@ -72,7 +72,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -90,6 +91,21 @@
       "list",
       "Relickeeper",
       "relickeeper"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Relickeeper is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-relickeeper.jpg",
+        "name": "Relickeeper",
+        "url": "https://raid-codex.com/champions/relickeeper/"
+      }
     ]
   },
   "default_description": "Relickeeper is a epic attack champion from the faction Sacred Order doing force damage",

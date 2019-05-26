@@ -68,7 +68,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -86,6 +87,21 @@
       "list",
       "Coldheart",
       "coldheart"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Coldheart is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-coldheart.jpg",
+        "name": "Coldheart",
+        "url": "https://raid-codex.com/champions/coldheart/"
+      }
     ]
   },
   "default_description": "Coldheart is a rare attack champion from the faction Dark Elves doing void damage",

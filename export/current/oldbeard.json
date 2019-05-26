@@ -63,7 +63,8 @@
         "factions",
         "Ogryn Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -81,6 +82,21 @@
       "list",
       "Oldbeard",
       "oldbeard"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Oldbeard is a champion of Uncommon rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-oldbeard.jpg",
+        "name": "Oldbeard",
+        "url": "https://raid-codex.com/champions/oldbeard/"
+      }
     ]
   },
   "default_description": "Oldbeard is a uncommon defense champion from the faction Ogryn Tribes",

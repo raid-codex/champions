@@ -68,7 +68,8 @@
         "factions",
         "Demonspawn",
         "demonspawn"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "demonspawn",
@@ -86,6 +87,21 @@
       "list",
       "Alure",
       "alure"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Demonspawn"
+        },
+        "description": "Member of the faction Demonspawn, Alure is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-alure.jpg",
+        "name": "Alure",
+        "url": "https://raid-codex.com/champions/alure/"
+      }
     ]
   },
   "default_description": "Alure is a epic attack champion from the faction Demonspawn doing magic damage",

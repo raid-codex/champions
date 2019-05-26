@@ -68,7 +68,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -86,6 +87,21 @@
       "list",
       "Luria",
       "luria"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Luria is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-luria.jpg",
+        "name": "Luria",
+        "url": "https://raid-codex.com/champions/luria/"
+      }
     ]
   },
   "default_description": "Luria is a epic attack champion from the faction Dark Elves doing spirit damage",

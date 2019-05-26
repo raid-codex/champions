@@ -68,7 +68,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -86,6 +87,21 @@
       "list",
       "Woad-Painted",
       "woad-painted"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Woad-Painted is a champion of Epic rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-woad-painted.jpg",
+        "name": "Woad-Painted",
+        "url": "https://raid-codex.com/champions/woad-painted/"
+      }
     ]
   },
   "default_description": "Woad-Painted is a epic hp champion from the faction Barbarians doing spirit damage",

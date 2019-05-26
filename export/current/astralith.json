@@ -72,7 +72,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -90,6 +91,21 @@
       "list",
       "Astralith",
       "astralith"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Astralith is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-astralith.jpg",
+        "name": "Astralith",
+        "url": "https://raid-codex.com/champions/astralith/"
+      }
     ]
   },
   "default_description": "Astralith is a legendary attack champion from the faction Dark Elves doing spirit damage",

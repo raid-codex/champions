@@ -68,7 +68,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -86,6 +87,21 @@
       "list",
       "Altan",
       "altan"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Altan is a champion of Legendary rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-altan.jpg",
+        "name": "Altan",
+        "url": "https://raid-codex.com/champions/altan/"
+      }
     ]
   },
   "default_description": "Altan is a legendary def champion from the faction Barbarians doing magic damage",

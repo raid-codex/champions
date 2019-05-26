@@ -72,7 +72,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -90,6 +91,21 @@
       "list",
       "Lyssandra",
       "lyssandra"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Lyssandra is a champion of Legendary rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-lyssandra.jpg",
+        "name": "Lyssandra",
+        "url": "https://raid-codex.com/champions/lyssandra/"
+      }
     ]
   },
   "default_description": "Lyssandra is a legendary assist champion from the faction High Elves doing spirit damage",

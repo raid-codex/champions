@@ -72,7 +72,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -90,6 +91,21 @@
       "list",
       "Royal Huntsman",
       "royal-huntsman"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Royal Huntsman is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-royal-huntsman.jpg",
+        "name": "Royal Huntsman",
+        "url": "https://raid-codex.com/champions/royal-huntsman/"
+      }
     ]
   },
   "default_description": "Royal Huntsman is a legendary attack champion from the faction High Elves doing spirit damage",

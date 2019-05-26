@@ -68,7 +68,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -86,6 +87,21 @@
       "list",
       "Dracomorph",
       "dracomorph"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Dracomorph is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-dracomorph.jpg",
+        "name": "Dracomorph",
+        "url": "https://raid-codex.com/champions/dracomorph/"
+      }
     ]
   },
   "default_description": "Dracomorph is a legendary attack champion from the faction Lizardmen doing magic damage",

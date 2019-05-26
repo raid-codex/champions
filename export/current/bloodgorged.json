@@ -68,7 +68,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -86,6 +87,21 @@
       "list",
       "Bloodgorged",
       "bloodgorged"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Bloodgorged is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-bloodgorged.jpg",
+        "name": "Bloodgorged",
+        "url": "https://raid-codex.com/champions/bloodgorged/"
+      }
     ]
   },
   "default_description": "Bloodgorged is a legendary attack champion from the faction Undead Hordes doing force damage",

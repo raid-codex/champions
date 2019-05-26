@@ -58,7 +58,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -76,6 +77,21 @@
       "list",
       "Preacher",
       "preacher"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Preacher is a champion of Common rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-preacher.jpg",
+        "name": "Preacher",
+        "url": "https://raid-codex.com/champions/preacher/"
+      }
     ]
   },
   "default_description": "Preacher is a common hp champion from the faction Sacred Order",

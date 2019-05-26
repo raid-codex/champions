@@ -77,7 +77,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -95,6 +96,21 @@
       "list",
       "Cupidus",
       "cupidus"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Cupidus is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-cupidus.jpg",
+        "name": "Cupidus",
+        "url": "https://raid-codex.com/champions/cupidus/"
+      }
     ]
   },
   "default_description": "Cupidus is a legendary attack champion from the faction Sacred Order doing spirit damage",

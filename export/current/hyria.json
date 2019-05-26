@@ -72,7 +72,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -90,6 +91,21 @@
       "list",
       "Hyria",
       "hyria"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Hyria is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-hyria.jpg",
+        "name": "Hyria",
+        "url": "https://raid-codex.com/champions/hyria/"
+      }
     ]
   },
   "default_description": "Hyria is a rare attack champion from the faction High Elves doing spirit damage",

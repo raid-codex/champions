@@ -68,7 +68,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -86,6 +87,21 @@
       "list",
       "Hope",
       "hope"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Hope is a champion of Epic rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-hope.jpg",
+        "name": "Hope",
+        "url": "https://raid-codex.com/champions/hope/"
+      }
     ]
   },
   "default_description": "Hope is a epic hp champion from the faction Sacred Order doing magic damage",

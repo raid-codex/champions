@@ -72,7 +72,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -90,6 +91,21 @@
       "list",
       "Broadmaw",
       "broadmaw"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Broadmaw is a champion of Epic rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-broadmaw.jpg",
+        "name": "Broadmaw",
+        "url": "https://raid-codex.com/champions/broadmaw/"
+      }
     ]
   },
   "default_description": "Broadmaw is a epic assist champion from the faction Lizardmen doing void damage",

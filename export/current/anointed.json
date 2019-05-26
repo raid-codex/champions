@@ -68,7 +68,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -86,6 +87,21 @@
       "list",
       "Anointed",
       "anointed"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Anointed is a champion of Rare rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-anointed.jpg",
+        "name": "Anointed",
+        "url": "https://raid-codex.com/champions/anointed/"
+      }
     ]
   },
   "default_description": "Anointed is a rare assist champion from the faction Barbarians doing force damage",

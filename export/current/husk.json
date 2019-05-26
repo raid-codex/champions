@@ -72,7 +72,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -90,6 +91,21 @@
       "list",
       "Husk",
       "husk"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Husk is a champion of Epic rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-husk.jpg",
+        "name": "Husk",
+        "url": "https://raid-codex.com/champions/husk/"
+      }
     ]
   },
   "default_description": "Husk is a epic hp champion from the faction Undead Hordes doing force damage",

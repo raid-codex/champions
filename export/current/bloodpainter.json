@@ -68,7 +68,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -86,6 +87,21 @@
       "list",
       "Bloodpainter",
       "bloodpainter"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Bloodpainter is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-bloodpainter.jpg",
+        "name": "Bloodpainter",
+        "url": "https://raid-codex.com/champions/bloodpainter/"
+      }
     ]
   },
   "default_description": "Bloodpainter is a rare attack champion from the faction Skinwalker doing force damage",

@@ -68,7 +68,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -86,6 +87,21 @@
       "list",
       "Justiciar",
       "justiciar"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Justiciar is a champion of Rare rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-justiciar.jpg",
+        "name": "Justiciar",
+        "url": "https://raid-codex.com/champions/justiciar/"
+      }
     ]
   },
   "default_description": "Justiciar is a rare def champion from the faction Sacred Order doing void damage",

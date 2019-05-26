@@ -68,7 +68,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -86,6 +87,21 @@
       "list",
       "Reinbeast",
       "reinbeast"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Reinbeast is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-reinbeast.jpg",
+        "name": "Reinbeast",
+        "url": "https://raid-codex.com/champions/reinbeast/"
+      }
     ]
   },
   "default_description": "Reinbeast is a epic def champion from the faction Skinwalker doing force damage",

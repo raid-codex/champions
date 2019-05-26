@@ -63,7 +63,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -81,6 +82,21 @@
       "list",
       "Ritualist",
       "ritualist"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Ritualist is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-ritualist.jpg",
+        "name": "Ritualist",
+        "url": "https://raid-codex.com/champions/ritualist/"
+      }
     ]
   },
   "default_description": "Ritualist is a uncommon attack champion from the faction Barbarians",

@@ -68,7 +68,8 @@
         "factions",
         "Demonspawn",
         "demonspawn"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "demonspawn",
@@ -86,6 +87,21 @@
       "list",
       "Diabolist",
       "diabolist"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Demonspawn"
+        },
+        "description": "Member of the faction Demonspawn, Diabolist is a champion of Rare rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-diabolist.jpg",
+        "name": "Diabolist",
+        "url": "https://raid-codex.com/champions/diabolist/"
+      }
     ]
   },
   "default_description": "Diabolist is a rare assist champion from the faction Demonspawn doing magic damage",

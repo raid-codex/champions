@@ -68,7 +68,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -86,6 +87,21 @@
       "list",
       "Marked",
       "marked"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Marked is a champion of Rare rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-marked.jpg",
+        "name": "Marked",
+        "url": "https://raid-codex.com/champions/marked/"
+      }
     ]
   },
   "default_description": "Marked is a rare assist champion from the faction Barbarians doing magic damage",

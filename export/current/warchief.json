@@ -68,7 +68,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -86,6 +87,21 @@
       "list",
       "Warchief",
       "warchief"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Warchief is a champion of Legendary rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-warchief.jpg",
+        "name": "Warchief",
+        "url": "https://raid-codex.com/champions/warchief/"
+      }
     ]
   },
   "default_description": "Warchief is a legendary def champion from the faction Skinwalker doing force damage",

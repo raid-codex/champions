@@ -63,7 +63,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -81,6 +82,21 @@
       "list",
       "Skellag",
       "skellag"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Skellag is a champion of Uncommon rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-skellag.jpg",
+        "name": "Skellag",
+        "url": "https://raid-codex.com/champions/skellag/"
+      }
     ]
   },
   "default_description": "Skellag is a uncommon defense champion from the faction Undead Hordes",

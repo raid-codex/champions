@@ -72,7 +72,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -90,6 +91,21 @@
       "list",
       "Tayrel",
       "tayrel"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Tayrel is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-tayrel.jpg",
+        "name": "Tayrel",
+        "url": "https://raid-codex.com/champions/tayrel/"
+      }
     ]
   },
   "default_description": "Tayrel is a epic def champion from the faction High Elves doing magic damage",

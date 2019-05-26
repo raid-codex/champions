@@ -63,7 +63,8 @@
         "factions",
         "Ogryn Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -81,6 +82,21 @@
       "list",
       "Frostskin",
       "frostskin"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Frostskin is a champion of Uncommon rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-frostskin.jpg",
+        "name": "Frostskin",
+        "url": "https://raid-codex.com/champions/frostskin/"
+      }
     ]
   },
   "default_description": "Frostskin is a uncommon support champion from the faction Ogryn Tribes",

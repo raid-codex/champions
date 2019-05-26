@@ -68,7 +68,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -86,6 +87,21 @@
       "list",
       "Steelskull",
       "steelskull"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Steelskull is a champion of Epic rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-steelskull.jpg",
+        "name": "Steelskull",
+        "url": "https://raid-codex.com/champions/steelskull/"
+      }
     ]
   },
   "default_description": "Steelskull is a epic assist champion from the faction Skinwalker doing spirit damage",

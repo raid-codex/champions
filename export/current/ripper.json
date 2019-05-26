@@ -72,7 +72,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -90,6 +91,21 @@
       "list",
       "Ripper",
       "ripper"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Ripper is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-ripper.jpg",
+        "name": "Ripper",
+        "url": "https://raid-codex.com/champions/ripper/"
+      }
     ]
   },
   "default_description": "Ripper is a epic attack champion from the faction Skinwalker doing force damage",

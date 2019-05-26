@@ -63,7 +63,8 @@
         "factions",
         "Banner Lords",
         "banner-lords"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "banner-lords",
@@ -81,6 +82,21 @@
       "list",
       "Stalwart",
       "stalwart"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Banner-Lords"
+        },
+        "description": "Member of the faction Banner-Lords, Stalwart is a champion of Uncommon rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-stalwart.jpg",
+        "name": "Stalwart",
+        "url": "https://raid-codex.com/champions/stalwart/"
+      }
     ]
   },
   "default_description": "Stalwart is a uncommon hp champion from the faction Banner Lords",

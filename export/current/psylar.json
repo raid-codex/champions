@@ -68,7 +68,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -86,6 +87,21 @@
       "list",
       "Psylar",
       "psylar"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Psylar is a champion of Epic rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-psylar.jpg",
+        "name": "Psylar",
+        "url": "https://raid-codex.com/champions/psylar/"
+      }
     ]
   },
   "default_description": "Psylar is a epic assist champion from the faction Dark Elves doing void damage",

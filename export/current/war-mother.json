@@ -68,7 +68,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -86,6 +87,21 @@
       "list",
       "War Mother",
       "war-mother"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, War Mother is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-war-mother.jpg",
+        "name": "War Mother",
+        "url": "https://raid-codex.com/champions/war-mother/"
+      }
     ]
   },
   "default_description": "War Mother is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",

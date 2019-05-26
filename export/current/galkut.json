@@ -72,7 +72,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -90,6 +91,21 @@
       "list",
       "Galkut",
       "galkut"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Galkut is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-galkut.jpg",
+        "name": "Galkut",
+        "url": "https://raid-codex.com/champions/galkut/"
+      }
     ]
   },
   "default_description": "Galkut is a epic attack champion from the faction Ogryn-Tribes doing spirit damage",

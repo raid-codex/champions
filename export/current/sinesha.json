@@ -68,7 +68,8 @@
         "factions",
         "Knight Revenant",
         "knight-revenant"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "knight-revenant",
@@ -86,6 +87,21 @@
       "list",
       "Sinesha",
       "sinesha"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Knight Revenant"
+        },
+        "description": "Member of the faction Knight Revenant, Sinesha is a champion of Epic rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-sinesha.jpg",
+        "name": "Sinesha",
+        "url": "https://raid-codex.com/champions/sinesha/"
+      }
     ]
   },
   "default_description": "Sinesha is a epic assist champion from the faction Knight Revenant doing force damage",

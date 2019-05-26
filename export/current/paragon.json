@@ -68,7 +68,8 @@
         "factions",
         "Dark Elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -86,6 +87,21 @@
       "list",
       "Paragon",
       "paragon"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Paragon is a champion of Rare rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-paragon.jpg",
+        "name": "Paragon",
+        "url": "https://raid-codex.com/champions/paragon/"
+      }
     ]
   },
   "default_description": "Paragon is a rare def champion from the faction Dark Elves doing void damage",
