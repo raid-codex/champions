@@ -72,7 +72,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -90,6 +91,21 @@
       "list",
       "Shatterbones",
       "shatterbones"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Shatterbones is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-shatterbones.jpg",
+        "name": "Shatterbones",
+        "url": "https://raid-codex.com/champions/shatterbones/"
+      }
     ]
   },
   "default_description": "Shatterbones is a epic attack champion from the faction Ogryn-Tribes doing force damage",

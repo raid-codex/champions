@@ -72,7 +72,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -90,6 +91,21 @@
       "list",
       "Wretch",
       "wretch"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Wretch is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-wretch.jpg",
+        "name": "Wretch",
+        "url": "https://raid-codex.com/champions/wretch/"
+      }
     ]
   },
   "default_description": "Wretch is a rare attack champion from the faction Undead Hordes doing force damage",

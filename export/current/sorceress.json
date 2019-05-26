@@ -68,7 +68,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -86,6 +87,21 @@
       "list",
       "Sorceress",
       "sorceress"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Sorceress is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-sorceress.jpg",
+        "name": "Sorceress",
+        "url": "https://raid-codex.com/champions/sorceress/"
+      }
     ]
   },
   "default_description": "Sorceress is a rare attack champion from the faction Undead Hordes doing force damage",

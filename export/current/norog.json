@@ -72,7 +72,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -90,6 +91,21 @@
       "list",
       "Norog",
       "norog"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Norog is a champion of Legendary rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-norog.jpg",
+        "name": "Norog",
+        "url": "https://raid-codex.com/champions/norog/"
+      }
     ]
   },
   "default_description": "Norog is a legendary def champion from the faction Skinwalker doing magic damage",

@@ -63,7 +63,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -81,6 +82,21 @@
       "list",
       "Pilgrim",
       "pilgrim"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Pilgrim is a champion of Uncommon rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-pilgrim.jpg",
+        "name": "Pilgrim",
+        "url": "https://raid-codex.com/champions/pilgrim/"
+      }
     ]
   },
   "default_description": "Pilgrim is a uncommon support champion from the faction Sacred Order",

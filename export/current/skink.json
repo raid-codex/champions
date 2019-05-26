@@ -72,7 +72,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -90,6 +91,21 @@
       "list",
       "Skink",
       "skink"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Skink is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-skink.jpg",
+        "name": "Skink",
+        "url": "https://raid-codex.com/champions/skink/"
+      }
     ]
   },
   "default_description": "Skink is a rare attack champion from the faction Lizardmen doing magic damage",

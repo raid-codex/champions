@@ -63,7 +63,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -81,6 +82,21 @@
       "list",
       "Skullsquire",
       "skullsquire"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Skullsquire is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-skullsquire.jpg",
+        "name": "Skullsquire",
+        "url": "https://raid-codex.com/champions/skullsquire/"
+      }
     ]
   },
   "default_description": "Skullsquire is a uncommon attack champion from the faction Undead Hordes",

@@ -52,7 +52,8 @@
         "factions",
         "dark-elves",
         "dark-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "dark-elves",
@@ -70,8 +71,24 @@
       "list",
       "Pain Keeper",
       "pain-keeper"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Dark Elves"
+        },
+        "description": "Member of the faction Dark Elves, Pain Keeper is a champion of Rare rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-pain-keeper.jpg",
+        "name": "Pain Keeper",
+        "url": "https://raid-codex.com/champions/pain-keeper/"
+      }
     ]
   },
   "default_description": "Pain Keeper is a rare hp champion from the faction dark-elves doing void damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

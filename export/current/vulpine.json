@@ -63,7 +63,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -81,6 +82,21 @@
       "list",
       "Vulpine",
       "vulpine"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Vulpine is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-vulpine.jpg",
+        "name": "Vulpine",
+        "url": "https://raid-codex.com/champions/vulpine/"
+      }
     ]
   },
   "default_description": "Vulpine is a uncommon attack champion from the faction Undead Hordes",

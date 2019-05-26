@@ -72,7 +72,8 @@
         "factions",
         "High Elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -90,6 +91,21 @@
       "list",
       "Vergis",
       "vergis"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Vergis is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-vergis.jpg",
+        "name": "Vergis",
+        "url": "https://raid-codex.com/champions/vergis/"
+      }
     ]
   },
   "default_description": "Vergis is a epic def champion from the faction High Elves doing spirit damage",

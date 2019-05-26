@@ -68,7 +68,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -86,6 +87,21 @@
       "list",
       "Bloodhorn",
       "bloodhorn"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Bloodhorn is a champion of Rare rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-bloodhorn.jpg",
+        "name": "Bloodhorn",
+        "url": "https://raid-codex.com/champions/bloodhorn/"
+      }
     ]
   },
   "default_description": "Bloodhorn is a rare hp champion from the faction Skinwalker doing void damage",

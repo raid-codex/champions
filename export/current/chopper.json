@@ -72,7 +72,8 @@
         "factions",
         "Orcs",
         "orcs"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "orcs",
@@ -90,6 +91,21 @@
       "list",
       "Chopper",
       "chopper"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Orcs"
+        },
+        "description": "Member of the faction Orcs, Chopper is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-chopper.jpg",
+        "name": "Chopper",
+        "url": "https://raid-codex.com/champions/chopper/"
+      }
     ]
   },
   "default_description": "Chopper is a rare attack champion from the faction Orcs doing magic damage",

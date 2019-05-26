@@ -68,7 +68,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -86,6 +87,21 @@
       "list",
       "Abbess",
       "abbess"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Abbess is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-abbess.jpg",
+        "name": "Abbess",
+        "url": "https://raid-codex.com/champions/abbess/"
+      }
     ]
   },
   "default_description": "Abbess is a legendary attack champion from the faction Sacred Order doing force damage",

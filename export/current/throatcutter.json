@@ -63,7 +63,8 @@
         "factions",
         "Orcs",
         "orcs"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "orcs",
@@ -81,6 +82,21 @@
       "list",
       "Throatcutter",
       "throatcutter"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Orcs"
+        },
+        "description": "Member of the faction Orcs, Throatcutter is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-throatcutter.jpg",
+        "name": "Throatcutter",
+        "url": "https://raid-codex.com/champions/throatcutter/"
+      }
     ]
   },
   "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs",

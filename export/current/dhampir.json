@@ -63,7 +63,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -81,6 +82,21 @@
       "list",
       "Dhampir",
       "dhampir"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Dhampir is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-dhampir.jpg",
+        "name": "Dhampir",
+        "url": "https://raid-codex.com/champions/dhampir/"
+      }
     ]
   },
   "default_description": "Dhampir is a uncommon attack champion from the faction Undead Hordes",

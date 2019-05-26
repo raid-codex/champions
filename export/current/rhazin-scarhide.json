@@ -72,7 +72,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -90,6 +91,21 @@
       "list",
       "Rhazin Scarhide",
       "rhazin-scarhide"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Rhazin Scarhide is a champion of Legendary rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-rhazin-scarhide.jpg",
+        "name": "Rhazin Scarhide",
+        "url": "https://raid-codex.com/champions/rhazin-scarhide/"
+      }
     ]
   },
   "default_description": "Rhazin Scarhide is a legendary def champion from the faction Lizardmen doing force damage",

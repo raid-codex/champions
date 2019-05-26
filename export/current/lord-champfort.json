@@ -72,7 +72,8 @@
         "factions",
         "Banner-Lords",
         "banner-lords"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "banner-lords",
@@ -90,6 +91,21 @@
       "list",
       "Lord Champfort",
       "lord-champfort"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Banner-Lords"
+        },
+        "description": "Member of the faction Banner-Lords, Lord Champfort is a champion of Legendary rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-lord-champfort.jpg",
+        "name": "Lord Champfort",
+        "url": "https://raid-codex.com/champions/lord-champfort/"
+      }
     ]
   },
   "default_description": "Lord Champfort is a legendary hp champion from the faction Banner-Lords doing magic damage",

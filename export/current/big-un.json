@@ -72,7 +72,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -90,6 +91,21 @@
       "list",
       "Big'Un",
       "big-un"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Big'Un is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-big-un.jpg",
+        "name": "Big'Un",
+        "url": "https://raid-codex.com/champions/big-un/"
+      }
     ]
   },
   "default_description": "Big'Un is a legendary attack champion from the faction Ogryn-Tribes doing magic damage",

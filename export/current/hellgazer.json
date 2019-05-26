@@ -68,7 +68,8 @@
         "factions",
         "Demonspawn",
         "demonspawn"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "demonspawn",
@@ -86,6 +87,21 @@
       "list",
       "Hellgazer",
       "hellgazer"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Demonspawn"
+        },
+        "description": "Member of the faction Demonspawn, Hellgazer is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-hellgazer.jpg",
+        "name": "Hellgazer",
+        "url": "https://raid-codex.com/champions/hellgazer/"
+      }
     ]
   },
   "default_description": "Hellgazer is a epic attack champion from the faction Demonspawn doing spirit damage",

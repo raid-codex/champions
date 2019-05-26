@@ -68,7 +68,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -86,6 +87,21 @@
       "list",
       "Skullsworn",
       "skullsworn"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Skullsworn is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-skullsworn.jpg",
+        "name": "Skullsworn",
+        "url": "https://raid-codex.com/champions/skullsworn/"
+      }
     ]
   },
   "default_description": "Skullsworn is a rare attack champion from the faction Lizardmen doing force damage",

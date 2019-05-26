@@ -68,7 +68,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -86,6 +87,21 @@
       "list",
       "Lamellar",
       "lamellar"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Lamellar is a champion of Rare rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-lamellar.jpg",
+        "name": "Lamellar",
+        "url": "https://raid-codex.com/champions/lamellar/"
+      }
     ]
   },
   "default_description": "Lamellar is a rare hp champion from the faction Sacred Order doing force damage",

@@ -63,7 +63,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -81,6 +82,21 @@
       "list",
       "Spiritwalker",
       "spiritwalker"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Spiritwalker is a champion of Uncommon rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-spiritwalker.jpg",
+        "name": "Spiritwalker",
+        "url": "https://raid-codex.com/champions/spiritwalker/"
+      }
     ]
   },
   "default_description": "Spiritwalker is a uncommon support champion from the faction Barbarians",

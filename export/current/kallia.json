@@ -72,7 +72,8 @@
         "factions",
         "Barbarians",
         "barbarians"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "barbarians",
@@ -90,6 +91,21 @@
       "list",
       "Kallia",
       "kallia"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Barbarians"
+        },
+        "description": "Member of the faction Barbarians, Kallia is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-kallia.jpg",
+        "name": "Kallia",
+        "url": "https://raid-codex.com/champions/kallia/"
+      }
     ]
   },
   "default_description": "Kallia is a epic attack champion from the faction Barbarians doing force damage",

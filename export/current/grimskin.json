@@ -68,7 +68,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -86,6 +87,21 @@
       "list",
       "Grimskin",
       "grimskin"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Grimskin is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-grimskin.jpg",
+        "name": "Grimskin",
+        "url": "https://raid-codex.com/champions/grimskin/"
+      }
     ]
   },
   "default_description": "Grimskin is a epic def champion from the faction Ogryn-Tribes doing magic damage",

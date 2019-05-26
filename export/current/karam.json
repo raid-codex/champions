@@ -68,7 +68,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -86,6 +87,21 @@
       "list",
       "Karam",
       "karam"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Karam is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-karam.jpg",
+        "name": "Karam",
+        "url": "https://raid-codex.com/champions/karam/"
+      }
     ]
   },
   "default_description": "Karam is a epic attack champion from the faction Undead Hordes doing force damage",

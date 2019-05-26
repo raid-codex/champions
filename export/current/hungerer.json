@@ -52,7 +52,8 @@
         "factions",
         "ogryn-tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -70,8 +71,24 @@
       "list",
       "Hungerer",
       "hungerer"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Hungerer is a champion of Uncommon rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-hungerer.jpg",
+        "name": "Hungerer",
+        "url": "https://raid-codex.com/champions/hungerer/"
+      }
     ]
   },
   "default_description": "Hungerer is a uncommon hp champion from the faction ogryn-tribes doing force damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }

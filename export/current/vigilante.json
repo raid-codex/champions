@@ -63,7 +63,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -81,6 +82,21 @@
       "list",
       "Vigilante",
       "vigilante"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Vigilante is a champion of Uncommon rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-vigilante.jpg",
+        "name": "Vigilante",
+        "url": "https://raid-codex.com/champions/vigilante/"
+      }
     ]
   },
   "default_description": "Vigilante is a uncommon hp champion from the faction Sacred Order",

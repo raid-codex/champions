@@ -72,7 +72,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -90,6 +91,21 @@
       "list",
       "Ignatius",
       "ignatius"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Ignatius is a champion of Legendary rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-ignatius.jpg",
+        "name": "Ignatius",
+        "url": "https://raid-codex.com/champions/ignatius/"
+      }
     ]
   },
   "default_description": "Ignatius is a legendary def champion from the faction Ogryn-Tribes doing magic damage",

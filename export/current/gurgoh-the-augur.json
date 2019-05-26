@@ -73,7 +73,8 @@
         "factions",
         "Ogryn-Tribes",
         "ogryn-tribes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "ogryn-tribes",
@@ -91,6 +92,21 @@
       "list",
       "Gurgoh the Augur",
       "gurgoh-the-augur"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Ogryn-Tribes"
+        },
+        "description": "Member of the faction Ogryn-Tribes, Gurgoh the Augur is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-gurgoh-the-augur.jpg",
+        "name": "Gurgoh the Augur",
+        "url": "https://raid-codex.com/champions/gurgoh-the-augur/"
+      }
     ]
   },
   "default_description": "Gurgoh the Augur is a legendary attack champion from the faction Ogryn-Tribes doing void damage",

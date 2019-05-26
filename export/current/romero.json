@@ -73,7 +73,8 @@
         "factions",
         "Sacred Order",
         "sacred-order"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "sacred-order",
@@ -91,6 +92,21 @@
       "list",
       "Romero",
       "romero"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Sacred Order"
+        },
+        "description": "Member of the faction Sacred Order, Romero is a champion of Epic rarity and of Def type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-romero.jpg",
+        "name": "Romero",
+        "url": "https://raid-codex.com/champions/romero/"
+      }
     ]
   },
   "default_description": "Romero is a epic def champion from the faction Sacred Order doing force damage",

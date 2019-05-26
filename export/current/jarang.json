@@ -68,7 +68,8 @@
         "factions",
         "Lizardmen",
         "lizardmen"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "lizardmen",
@@ -86,6 +87,21 @@
       "list",
       "Jarang",
       "jarang"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Lizardmen"
+        },
+        "description": "Member of the faction Lizardmen, Jarang is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-jarang.jpg",
+        "name": "Jarang",
+        "url": "https://raid-codex.com/champions/jarang/"
+      }
     ]
   },
   "default_description": "Jarang is a epic attack champion from the faction Lizardmen doing magic damage",

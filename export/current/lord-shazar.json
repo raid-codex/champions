@@ -68,7 +68,8 @@
         "factions",
         "Demonspawn",
         "demonspawn"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "demonspawn",
@@ -86,6 +87,21 @@
       "list",
       "Lord Shazar",
       "lord-shazar"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Demonspawn"
+        },
+        "description": "Member of the faction Demonspawn, Lord Shazar is a champion of Legendary rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-lord-shazar.jpg",
+        "name": "Lord Shazar",
+        "url": "https://raid-codex.com/champions/lord-shazar/"
+      }
     ]
   },
   "default_description": "Lord Shazar is a legendary hp champion from the faction Demonspawn doing spirit damage",

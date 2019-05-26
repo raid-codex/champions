@@ -72,7 +72,8 @@
         "factions",
         "Skinwalker",
         "skinwalker"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "skinwalker",
@@ -90,6 +91,21 @@
       "list",
       "Basher",
       "basher"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Skinwalker"
+        },
+        "description": "Member of the faction Skinwalker, Basher is a champion of Epic rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-basher.jpg",
+        "name": "Basher",
+        "url": "https://raid-codex.com/champions/basher/"
+      }
     ]
   },
   "default_description": "Basher is a epic attack champion from the faction Skinwalker doing void damage",

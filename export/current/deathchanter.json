@@ -72,7 +72,8 @@
         "factions",
         "Orcs",
         "orcs"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "orcs",
@@ -90,6 +91,21 @@
       "list",
       "Deathchanter",
       "deathchanter"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Orcs"
+        },
+        "description": "Member of the faction Orcs, Deathchanter is a champion of Rare rarity and of HP type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-deathchanter.jpg",
+        "name": "Deathchanter",
+        "url": "https://raid-codex.com/champions/deathchanter/"
+      }
     ]
   },
   "default_description": "Deathchanter is a rare hp champion from the faction Orcs doing magic damage",

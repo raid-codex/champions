@@ -72,7 +72,8 @@
         "factions",
         "Knight Revenant",
         "knight-revenant"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "knight-revenant",
@@ -90,6 +91,21 @@
       "list",
       "Bystophus",
       "bystophus"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Knight Revenant"
+        },
+        "description": "Member of the faction Knight Revenant, Bystophus is a champion of Legendary rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-bystophus.jpg",
+        "name": "Bystophus",
+        "url": "https://raid-codex.com/champions/bystophus/"
+      }
     ]
   },
   "default_description": "Bystophus is a legendary attack champion from the faction Knight Revenant doing force damage",

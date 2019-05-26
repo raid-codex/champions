@@ -72,7 +72,8 @@
         "factions",
         "Orcs",
         "orcs"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "orcs",
@@ -90,6 +91,21 @@
       "list",
       "Spikehead",
       "spikehead"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Orcs"
+        },
+        "description": "Member of the faction Orcs, Spikehead is a champion of Rare rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-spikehead.jpg",
+        "name": "Spikehead",
+        "url": "https://raid-codex.com/champions/spikehead/"
+      }
     ]
   },
   "default_description": "Spikehead is a rare attack champion from the faction Orcs doing magic damage",

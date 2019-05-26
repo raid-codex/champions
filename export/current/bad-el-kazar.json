@@ -72,7 +72,8 @@
         "factions",
         "Undead Hordes",
         "undead-hordes"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "undead-hordes",
@@ -90,6 +91,21 @@
       "list",
       "Bad-el-Kazar",
       "bad-el-kazar"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Undead Hordes"
+        },
+        "description": "Member of the faction Undead Hordes, Bad-el-Kazar is a champion of Legendary rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-bad-el-kazar.jpg",
+        "name": "Bad-el-Kazar",
+        "url": "https://raid-codex.com/champions/bad-el-kazar/"
+      }
     ]
   },
   "default_description": "Bad-el-Kazar is a legendary assist champion from the faction Undead Hordes doing force damage",

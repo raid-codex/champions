@@ -68,7 +68,8 @@
         "factions",
         "Orcs",
         "orcs"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "orcs",
@@ -86,6 +87,21 @@
       "list",
       "Totem",
       "totem"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "Orcs"
+        },
+        "description": "Member of the faction Orcs, Totem is a champion of Rare rarity and of Assist type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-totem.jpg",
+        "name": "Totem",
+        "url": "https://raid-codex.com/champions/totem/"
+      }
     ]
   },
   "default_description": "Totem is a rare assist champion from the faction Orcs doing spirit damage",

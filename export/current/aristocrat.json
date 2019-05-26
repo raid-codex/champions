@@ -52,7 +52,8 @@
         "factions",
         "high-elves",
         "high-elves"
-      ]
+      ],
+      "structured_data": null
     }
   },
   "faction_slug": "high-elves",
@@ -70,8 +71,24 @@
       "list",
       "Aristocrat",
       "aristocrat"
+    ],
+    "structured_data": [
+      {
+        "@context": "http://schema.org/",
+        "@type": "Person",
+        "affiliation": {
+          "@context": "http://schema.org",
+          "@type": "Organization",
+          "name": "High Elves"
+        },
+        "description": "Member of the faction High Elves, Aristocrat is a champion of Uncommon rarity and of Attack type",
+        "image": "https://raid-codex.com/wp-content/uploads/champions/image-champion-aristocrat.jpg",
+        "name": "Aristocrat",
+        "url": "https://raid-codex.com/champions/aristocrat/"
+      }
     ]
   },
   "default_description": "Aristocrat is a uncommon attack champion from the faction high-elves doing magic damage",
-  "recommended_builds": []
+  "recommended_builds": [],
+  "lore": ""
 }
