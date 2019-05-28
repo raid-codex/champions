@@ -56,7 +56,7 @@
     },
     {
       "name": "Punishing Partner",
-      "raw_description": "Attacks inflict 25% more damage to targets under debuffs.",
+      "raw_description": "Attacks inflict 25% more damage to targets under debuffs. Only available when Venus is on the same team.",
       "slug": "punishing-partner"
     }
   ],
