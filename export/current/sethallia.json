@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-hp-burn",
           "slug": "hp-burn",
-          "website_link": "/debuff/hp-burn"
+          "website_link": "/debuff/hp-burn",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -69,7 +70,8 @@
           "value": 0,
           "image_slug": "image-buff-block-debuffs",
           "slug": "block-debuffs",
-          "website_link": "/buff/block-debuffs"
+          "website_link": "/buff/block-debuffs",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -85,7 +87,8 @@
           "value": 0,
           "image_slug": "image-debuff-leech",
           "slug": "leech",
-          "website_link": "/debuff/leech"
+          "website_link": "/debuff/leech",
+          "extra": false
         }
       ],
       "damaged_based_on": [

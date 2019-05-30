@@ -41,8 +41,8 @@
       "slug": "denigration",
       "effects": [],
       "damaged_based_on": [
-        "DEF",
-        "ATK"
+        "ATK",
+        "DEF"
       ]
     },
     {
@@ -52,19 +52,21 @@
       "effects": [
         {
           "effect_type": "buff",
-          "type": "Shield",
-          "value": 0,
-          "image_slug": "image-buff-shield",
-          "slug": "shield",
-          "website_link": "/buff/shield"
-        },
-        {
-          "effect_type": "buff",
           "type": "Counterattack",
           "value": 0,
           "image_slug": "image-buff-counterattack",
           "slug": "counterattack",
-          "website_link": "/buff/counterattack"
+          "website_link": "/buff/counterattack",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": [

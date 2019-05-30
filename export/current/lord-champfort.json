@@ -56,19 +56,21 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Decrease ATK",
+          "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
-          "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "image_slug": "image-debuff-decrease-acc-2",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         },
         {
           "effect_type": "debuff",
-          "type": "Decrease ACC",
+          "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
-          "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "image_slug": "image-debuff-decrease-atk-2",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -79,20 +81,22 @@
       "slug": "thornsphere",
       "effects": [
         {
-          "effect_type": "buff",
-          "type": "Shield",
-          "value": 0,
-          "image_slug": "image-buff-shield",
-          "slug": "shield",
-          "website_link": "/buff/shield"
-        },
-        {
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
           "image_slug": "image-debuff-decrease-spd",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": []

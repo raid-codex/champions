@@ -49,25 +49,28 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
-          "image_slug": "image-debuff-decrease-def",
+          "image_slug": "image-debuff-decrease-def-2",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -80,20 +83,22 @@
       "slug": "vile-insults",
       "effects": [
         {
-          "effect_type": "buff",
-          "type": "Reflect Damage",
-          "value": 0,
-          "image_slug": "image-buff-reflect-damage",
-          "slug": "reflect-damage",
-          "website_link": "/buff/reflect-damage"
-        },
-        {
           "effect_type": "debuff",
           "type": "Provoke",
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Reflect Damage",
+          "value": 0,
+          "image_slug": "image-buff-reflect-damage-2",
+          "slug": "reflect-damage",
+          "website_link": "/buff/reflect-damage",
+          "extra": true
         }
       ],
       "damaged_based_on": [

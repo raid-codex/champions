@@ -44,9 +44,10 @@
           "effect_type": "debuff",
           "type": "Poison",
           "value": 0,
-          "image_slug": "image-debuff-poison",
+          "image_slug": "image-debuff-poison-2",
           "slug": "poison",
-          "website_link": "/debuff/poison"
+          "website_link": "/debuff/poison",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -69,9 +70,10 @@
           "effect_type": "buff",
           "type": "Increase DEF",
           "value": 0,
-          "image_slug": "image-buff-increase-def",
+          "image_slug": "image-buff-increase-def-2",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/buff/increase-def",
+          "extra": true
         }
       ],
       "damaged_based_on": []

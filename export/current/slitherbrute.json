@@ -49,9 +49,10 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [

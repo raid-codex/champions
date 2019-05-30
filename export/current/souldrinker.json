@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-bomb",
           "slug": "bomb",
-          "website_link": "/debuff/bomb"
+          "website_link": "/debuff/bomb",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -64,7 +65,8 @@
           "value": 0,
           "image_slug": "image-debuff-bomb",
           "slug": "bomb",
-          "website_link": "/debuff/bomb"
+          "website_link": "/debuff/bomb",
+          "extra": false
         },
         {
           "effect_type": "debuff",
@@ -72,7 +74,8 @@
           "value": 0,
           "image_slug": "image-debuff-poison",
           "slug": "poison",
-          "website_link": "/debuff/poison"
+          "website_link": "/debuff/poison",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -90,7 +93,8 @@
           "value": 0,
           "image_slug": "image-debuff-bomb",
           "slug": "bomb",
-          "website_link": "/debuff/bomb"
+          "website_link": "/debuff/bomb",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -108,7 +112,8 @@
           "value": 0,
           "image_slug": "image-debuff-bomb",
           "slug": "bomb",
-          "website_link": "/debuff/bomb"
+          "website_link": "/debuff/bomb",
+          "extra": false
         }
       ],
       "damaged_based_on": []

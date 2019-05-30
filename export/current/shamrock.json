@@ -56,27 +56,21 @@
       "effects": [
         {
           "effect_type": "buff",
-          "type": "Continuous Heal",
-          "value": 0,
-          "image_slug": "image-buff-continuous-heal",
-          "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
-        },
-        {
-          "effect_type": "buff",
           "type": "Block Debuffs",
           "value": 0,
           "image_slug": "image-buff-block-debuffs",
           "slug": "block-debuffs",
-          "website_link": "/buff/block-debuffs"
+          "website_link": "/buff/block-debuffs",
+          "extra": false
         },
         {
           "effect_type": "buff",
-          "type": "Increase DEF",
+          "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-increase-def",
-          "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal",
+          "extra": false
         },
         {
           "effect_type": "buff",
@@ -84,7 +78,17 @@
           "value": 0,
           "image_slug": "image-buff-increase-c-rate",
           "slug": "increase-c-rate",
-          "website_link": "/buff/increase-c-rate"
+          "website_link": "/buff/increase-c-rate",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def-2",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -98,9 +102,10 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": []

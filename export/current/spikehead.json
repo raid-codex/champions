@@ -56,19 +56,21 @@
       "effects": [
         {
           "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk-2",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk",
+          "extra": true
+        },
+        {
+          "effect_type": "buff",
           "type": "Increase C. RATE",
           "value": 0,
           "image_slug": "image-buff-increase-c-rate",
           "slug": "increase-c-rate",
-          "website_link": "/buff/increase-c-rate"
-        },
-        {
-          "effect_type": "buff",
-          "type": "Increase ATK",
-          "value": 0,
-          "image_slug": "image-buff-increase-atk",
-          "slug": "increase-atk",
-          "website_link": "/buff/increase-atk"
+          "website_link": "/buff/increase-c-rate",
+          "extra": false
         }
       ],
       "damaged_based_on": []

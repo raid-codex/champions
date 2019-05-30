@@ -53,9 +53,10 @@
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
-          "image_slug": "image-debuff-decrease-def",
+          "image_slug": "image-debuff-decrease-def-2",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": true
         }
       ],
       "damaged_based_on": [

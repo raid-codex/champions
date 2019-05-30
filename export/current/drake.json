@@ -67,17 +67,19 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [

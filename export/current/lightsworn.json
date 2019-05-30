@@ -53,17 +53,19 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
+          "image_slug": "image-debuff-decrease-atk-2",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -79,9 +81,10 @@
           "effect_type": "buff",
           "type": "Increase DEF",
           "value": 0,
-          "image_slug": "image-buff-increase-def",
+          "image_slug": "image-buff-increase-def-2",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/buff/increase-def",
+          "extra": true
         },
         {
           "effect_type": "debuff",
@@ -89,7 +92,8 @@
           "value": 0,
           "image_slug": "image-debuff-revive-on-death",
           "slug": "revive-on-death",
-          "website_link": "/debuff/revive-on-death"
+          "website_link": "/debuff/revive-on-death",
+          "extra": false
         }
       ],
       "damaged_based_on": []

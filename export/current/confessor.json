@@ -58,9 +58,10 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         }
       ],
       "damaged_based_on": [

@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -69,15 +70,8 @@
           "value": 0,
           "image_slug": "image-debuff-block-buffs",
           "slug": "block-buffs",
-          "website_link": "/debuff/block-buffs"
-        },
-        {
-          "effect_type": "debuff",
-          "type": "Heal Reduction",
-          "value": 0,
-          "image_slug": "image-debuff-heal-reduction",
-          "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/block-buffs",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -103,7 +97,8 @@
           "value": 0,
           "image_slug": "image-buff-block-damage",
           "slug": "block-damage",
-          "website_link": "/buff/block-damage"
+          "website_link": "/buff/block-damage",
+          "extra": false
         },
         {
           "effect_type": "buff",
@@ -111,7 +106,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": [

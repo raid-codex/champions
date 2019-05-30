@@ -55,20 +55,22 @@
       "slug": "clan-banner",
       "effects": [
         {
-          "effect_type": "debuff",
-          "type": "Weaken",
-          "value": 0,
-          "image_slug": "image-debuff-weaken",
-          "slug": "weaken",
-          "website_link": "/debuff/weaken"
-        },
-        {
           "effect_type": "buff",
           "type": "Increase C. RATE",
           "value": 0,
-          "image_slug": "image-buff-increase-c-rate",
+          "image_slug": "image-buff-increase-c-rate-2",
           "slug": "increase-c-rate",
-          "website_link": "/buff/increase-c-rate"
+          "website_link": "/buff/increase-c-rate",
+          "extra": true
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken-2",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken",
+          "extra": true
         }
       ],
       "damaged_based_on": []

@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun"
+          "website_link": "/debuff/stun",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -62,9 +63,10 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -82,7 +84,8 @@
           "value": 0,
           "image_slug": "image-debuff-bomb",
           "slug": "bomb",
-          "website_link": "/debuff/bomb"
+          "website_link": "/debuff/bomb",
+          "extra": false
         }
       ],
       "damaged_based_on": [

@@ -60,7 +60,8 @@
           "value": 0,
           "image_slug": "image-buff-block-damage",
           "slug": "block-damage",
-          "website_link": "/buff/block-damage"
+          "website_link": "/buff/block-damage",
+          "extra": false
         },
         {
           "effect_type": "debuff",
@@ -68,7 +69,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [

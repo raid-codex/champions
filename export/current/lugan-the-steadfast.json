@@ -51,19 +51,21 @@
       "effects": [
         {
           "effect_type": "buff",
-          "type": "Increase DEF",
+          "type": "Ally Protection",
           "value": 0,
-          "image_slug": "image-buff-increase-def",
-          "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "image_slug": "image-buff-ally-protection-2",
+          "slug": "ally-protection",
+          "website_link": "/buff/ally-protection",
+          "extra": true
         },
         {
           "effect_type": "buff",
-          "type": "Ally Protection",
+          "type": "Increase DEF",
           "value": 0,
-          "image_slug": "image-buff-ally-protection",
-          "slug": "ally-protection",
-          "website_link": "/buff/ally-protection"
+          "image_slug": "image-buff-increase-def-2",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -79,7 +81,8 @@
           "value": 0,
           "image_slug": "image-debuff-block-cooldown-skills",
           "slug": "block-cooldown-skills",
-          "website_link": "/debuff/block-cooldown-skills"
+          "website_link": "/debuff/block-cooldown-skills",
+          "extra": false
         }
       ],
       "damaged_based_on": [

@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -66,19 +67,21 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Decrease SPD",
-          "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
-          "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
-        },
-        {
-          "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
           "image_slug": "image-debuff-decrease-acc",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": false
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd",
+          "extra": false
         }
       ],
       "damaged_based_on": [

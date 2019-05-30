@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-sleep",
           "slug": "sleep",
-          "website_link": "/debuff/sleep"
+          "website_link": "/debuff/sleep",
+          "extra": false
         }
       ],
       "damaged_based_on": [

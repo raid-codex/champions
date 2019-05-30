@@ -49,9 +49,10 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -65,19 +66,21 @@
       "effects": [
         {
           "effect_type": "buff",
-          "type": "Continuous Heal",
+          "type": "Ally Protection",
           "value": 0,
-          "image_slug": "image-buff-continuous-heal",
-          "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "image_slug": "image-buff-ally-protection-2",
+          "slug": "ally-protection",
+          "website_link": "/buff/ally-protection",
+          "extra": true
         },
         {
           "effect_type": "buff",
-          "type": "Ally Protection",
+          "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-ally-protection",
-          "slug": "ally-protection",
-          "website_link": "/buff/ally-protection"
+          "image_slug": "image-buff-continuous-heal-2",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -91,9 +94,10 @@
           "effect_type": "buff",
           "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-continuous-heal",
+          "image_slug": "image-buff-continuous-heal-2",
           "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "website_link": "/buff/continuous-heal",
+          "extra": true
         }
       ],
       "damaged_based_on": []

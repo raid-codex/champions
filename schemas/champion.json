@@ -37,7 +37,7 @@
         },
         "slug": {
             "type": "string",
-            "pattern": "^[a-z\\-]+$"
+            "pattern": "^[a-z0-9\\-]+$"
         },
         "faction": {
             "type": "object",

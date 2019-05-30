@@ -49,9 +49,10 @@
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
-          "image_slug": "image-debuff-decrease-def",
+          "image_slug": "image-debuff-decrease-def-2",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -77,9 +78,10 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [

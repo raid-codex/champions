@@ -64,7 +64,8 @@
           "value": 0,
           "image_slug": "image-buff-unkillable",
           "slug": "unkillable",
-          "website_link": "/buff/unkillable"
+          "website_link": "/buff/unkillable",
+          "extra": false
         }
       ],
       "damaged_based_on": []

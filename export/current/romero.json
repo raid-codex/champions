@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-buff-continuous-heal",
           "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "website_link": "/buff/continuous-heal",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -62,9 +63,10 @@
           "effect_type": "buff",
           "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-continuous-heal",
+          "image_slug": "image-buff-continuous-heal-2",
           "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "website_link": "/buff/continuous-heal",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -80,7 +82,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": []

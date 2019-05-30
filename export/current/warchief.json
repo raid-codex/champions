@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-freeze",
           "slug": "freeze",
-          "website_link": "/debuff/freeze"
+          "website_link": "/debuff/freeze",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -64,7 +65,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [

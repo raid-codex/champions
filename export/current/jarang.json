@@ -55,7 +55,8 @@
           "value": 0,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun"
+          "website_link": "/debuff/stun",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -71,17 +72,19 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
+          "image_slug": "image-debuff-decrease-atk-2",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
-          "image_slug": "image-debuff-decrease-def",
+          "image_slug": "image-debuff-decrease-def-2",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": true
         }
       ],
       "damaged_based_on": [

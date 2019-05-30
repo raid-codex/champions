@@ -42,27 +42,30 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Heal Reduction",
+          "type": "Decrease DEF",
           "value": 0,
-          "image_slug": "image-debuff-heal-reduction",
-          "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "image_slug": "image-debuff-decrease-def-2",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
+          "image_slug": "image-debuff-decrease-spd-2",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         },
         {
           "effect_type": "debuff",
-          "type": "Decrease DEF",
+          "type": "Heal Reduction",
           "value": 0,
-          "image_slug": "image-debuff-decrease-def",
-          "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -80,7 +83,8 @@
           "value": 0,
           "image_slug": "image-debuff-freeze",
           "slug": "freeze",
-          "website_link": "/debuff/freeze"
+          "website_link": "/debuff/freeze",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -98,7 +102,8 @@
           "value": 0,
           "image_slug": "image-debuff-block-buffs",
           "slug": "block-buffs",
-          "website_link": "/debuff/block-buffs"
+          "website_link": "/debuff/block-buffs",
+          "extra": false
         }
       ],
       "damaged_based_on": [
