@@ -38,17 +38,64 @@
     {
       "name": "Flurry of Arrows",
       "raw_description": "Attacks 4 times at random. Each hit has a 25% chance of placing a 100% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%",
-      "slug": "flurry-of-arrows"
+      "slug": "flurry-of-arrows",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Art of Pain",
       "raw_description": "Attacks all enemies. Has a 30% chance of placing a 50% [Decrease ACC] debuff for 1 turn. Places a 5% [Poison] debuff for 2 turns if the target is under a [Heal Reduction] debuff.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Cooldown -1",
-      "slug": "art-of-pain"
+      "slug": "art-of-pain",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Heartseeker",
       "raw_description": "Attacks 1 enemy. Fully depletes the Turn Meter. Has an extra 30% chance of inflicting a critical hit. Damage increases according to enemy MAX HP.<br>Damage based on: [Enemy MAX HP] [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Cooldown -1",
-      "slug": "heartseeker"
+      "slug": "heartseeker",
+      "effects": [],
+      "damaged_based_on": [
+        "Enemy MAX HP",
+        "ATK"
+      ]
     }
   ],
   "faction": {

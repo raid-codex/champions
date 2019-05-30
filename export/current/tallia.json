@@ -35,24 +35,69 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally C. RATE in Dungeons by 15%."
+      "raw_description": "Increases Ally C. RATE in Dungeons by 15%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Hack and Slash",
       "raw_description": "Attacks 1 enemy 3 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "hack-and-slash"
+      "slug": "hack-and-slash",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Rise to Duty",
       "raw_description": "Places a 25% [Increase ATK] buff and a 30% [Increase C. RATE] buff on this Champion for 2 turns, then attacks all enemies. After 3 turns when Fenax is on the same team.]<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
-      "slug": "rise-to-duty"
+      "slug": "rise-to-duty",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Awesome Presence",
       "raw_description": "Places a [Counterattack] buff on this Champion for 2 turns. Has a 75% chance of placing a 25% [Weaken] debuff on enemies for 2 turns.<br>Lvl. 3 Buff/Debuff Chance +15% Lvl<br>Lvl. 4 Cooldown -1",
-      "slug": "awesome-presence"
+      "slug": "awesome-presence",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Counterattack",
+          "value": 0,
+          "image_slug": "image-buff-counterattack",
+          "slug": "counterattack",
+          "website_link": "/buff/counterattack"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

@@ -38,12 +38,18 @@
     {
       "name": "Thunder Strike",
       "raw_description": "Attacks 1 enemy 2 times. Each hit decreases the target's Turn Meter by 5%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +5%",
-      "slug": "thunder-strike"
+      "slug": "thunder-strike",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Pilgrim's Shield",
       "raw_description": "Places a 30% buff on all allies for 2 turns.",
-      "slug": "pilgrim-s-shield"
+      "slug": "pilgrim-s-shield",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {
@@ -99,7 +105,7 @@
       }
     ]
   },
-  "default_description": "Pilgrim is a uncommon support champion from the faction Sacred Order",
+  "default_description": "Pilgrim is a uncommon assist champion from the faction Sacred Order",
   "recommended_builds": [],
   "lore": ""
 }

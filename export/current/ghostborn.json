@@ -38,17 +38,65 @@
     {
       "name": "Energy Bolt",
       "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +20%",
-      "slug": "energy-bolt"
+      "slug": "energy-bolt",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Petrify",
       "raw_description": "Attacks all enemies. Has a 75% chance of placing a 100% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK] [SPD]<br>Lvl. 2 Buff/Debuff Chance +10%<br>Lvl. 3 Buff/Debuff Chance +15%<br>Lvl. 4 Cooldown -1",
-      "slug": "petrify"
+      "slug": "petrify",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK",
+        "SPD"
+      ]
     },
     {
       "name": "Ancestral Spirits",
       "raw_description": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. This debuff cannot be resisted. Places a 50% [Increase ATK] buff on all allies for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +10%<br>Lvl. 3 Buff/Debuff Chance +15%<br>Lvl. 4 Cooldown -1",
-      "slug": "ancestral-spirits"
+      "slug": "ancestral-spirits",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

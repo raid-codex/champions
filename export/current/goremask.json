@@ -35,24 +35,54 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in the Arena by 25%."
+      "raw_description": "Increases Ally HP in the Arena by 25%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Snap",
       "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +10%",
-      "slug": "snap"
+      "slug": "snap",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Go for the Throat",
       "raw_description": "Attacks 1 enemy. Damage increases by 20% if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Cooldown -1",
-      "slug": "go-for-the-throat"
+      "slug": "go-for-the-throat",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Tearing Jaws",
       "raw_description": "Attacks 1 enemy. Will ignore [Shield] and [Block Damage] buffs.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
-      "slug": "tearing-jaws"
+      "slug": "tearing-jaws",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Block Damage",
+          "value": 0,
+          "image_slug": "image-buff-block-damage",
+          "slug": "block-damage",
+          "website_link": "/buff/block-damage"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

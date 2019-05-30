@@ -38,17 +38,29 @@
     {
       "name": "Spread Misery",
       "raw_description": "Attacks 1 enemy. Has a 50% chance of transferring 1 random debuff from this Champion to the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +15%",
-      "slug": "spread-misery"
+      "slug": "spread-misery",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Lethargy",
       "raw_description": "Attacks 1 enemy. Has a 60% chance of putting the target's skills on cooldown.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Buff/Debuff Chance +10%",
-      "slug": "lethargy"
+      "slug": "lethargy",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Soulbreak",
       "raw_description": "Attacks 1 enemy. Damage increases according to the number of debuffs on the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Cooldown -1",
-      "slug": "soulbreak"
+      "slug": "soulbreak",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

@@ -35,24 +35,68 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally DEF in the Arena by 25%."
+      "raw_description": "Increases Ally DEF in the Arena by 25%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Paralyzing Touch",
       "raw_description": "Attacks 1 enemy. Has a 20% chance of placing a [Sleep] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +10%<br>Lvl. 7 Damage +10%",
-      "slug": "paralyzing-touch"
+      "slug": "paralyzing-touch",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Sleep",
+          "value": 0,
+          "image_slug": "image-debuff-sleep",
+          "slug": "sleep",
+          "website_link": "/debuff/sleep"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Unnatural Recovery",
       "raw_description": "Places a 15% [Continuous Heal] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "unnatural-recovery"
+      "slug": "unnatural-recovery",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Continuous Heal",
+          "value": 0,
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Vigor",
       "raw_description": "Places a 25% [Increase ATK] buff and a 15% [Increase C. RATE] buff on all allies for 3 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "vigor"
+      "slug": "vigor",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

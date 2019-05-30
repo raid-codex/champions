@@ -35,24 +35,63 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally C. RATE in the Arena by 27%."
+      "raw_description": "Increases Ally C. RATE in the Arena by 27%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "High Stance",
       "raw_description": "Attacks 1 enemy 2 times. Places an extra hit if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "high-stance"
+      "slug": "high-stance",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Pincer Attack",
       "raw_description": "Attacks 3 times at random. Each hit has a 50% chance of placing a 25% [Weaken] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Cooldown -1<br>Lvl. 6 Cooldown -1",
-      "slug": "pincer-attack"
+      "slug": "pincer-attack",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Capture",
       "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a [Freeze] debuff for 1 turn and a [Block Cooldown Skills] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "capture"
+      "slug": "capture",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Freeze",
+          "value": 0,
+          "image_slug": "image-debuff-freeze",
+          "slug": "freeze",
+          "website_link": "/debuff/freeze"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Block Cooldown Skills",
+          "value": 0,
+          "image_slug": "image-debuff-block-cooldown-skills",
+          "slug": "block-cooldown-skills",
+          "website_link": "/debuff/block-cooldown-skills"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

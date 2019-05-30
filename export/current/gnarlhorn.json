@@ -35,24 +35,51 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally DEF in Dungeons by 27%."
+      "raw_description": "Increases Ally DEF in Dungeons by 27%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Ram",
       "raw_description": "Attacks 1 enemy. Damage increases according to how much HP this Champion has lost. This attack cannot be a strong, critical, or weak hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "ram"
+      "slug": "ram",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "War Drum",
       "raw_description": "Places a [Provoke] debuff on all enemies for 1 turn. Places a 30% {Increase DEF] buff on this Champion for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "war-drum"
+      "slug": "war-drum",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Determined",
       "raw_description": "Places an [Unkillable] buff on this Champion for 2 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "determined"
+      "slug": "determined",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Unkillable",
+          "value": 0,
+          "image_slug": "image-buff-unkillable",
+          "slug": "unkillable",
+          "website_link": "/buff/unkillable"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

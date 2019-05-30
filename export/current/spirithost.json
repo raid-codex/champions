@@ -35,24 +35,51 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally SPD in all Battles by 10%."
+      "raw_description": "Increases Ally SPD in all Battles by 10%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Reap",
       "raw_description": "Attacks 1 enemy. Heals by 50% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "reap"
+      "slug": "reap",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Strengthen",
       "raw_description": "Places a 50% [Increase ATK] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "strengthen"
+      "slug": "strengthen",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Dark Gift",
       "raw_description": "Removes all debuffs on all allies. Places a [Block Debuffs] buff on all allies for 1 turn.<br>Lvl. 2 Cooldown -1",
-      "slug": "dark-gift"
+      "slug": "dark-gift",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Block Debuffs",
+          "value": 0,
+          "image_slug": "image-buff-block-debuffs",
+          "slug": "block-debuffs",
+          "website_link": "/buff/block-debuffs"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

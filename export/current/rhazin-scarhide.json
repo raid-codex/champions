@@ -35,24 +35,54 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally RESIST in the Arena by 90."
+      "raw_description": "Increases Ally RESIST in the Arena by 90.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Bone Sword",
       "raw_description": "Attacks 1 enemy 3 times. Has a 20% chance of removing 1 random buff from the target.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +15%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +15%",
-      "slug": "bone-sword"
+      "slug": "bone-sword",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Shear",
       "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a 60% [Decrease DEF] debuff and a 25% [Weaken] debuff for 2 turns.<br>Damage based on: [DEF] x Weaken<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +15%<br>Lvl. 6 Cooldown -1",
-      "slug": "shear"
+      "slug": "shear",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Bog Down",
       "raw_description": "Attacks all enemies. Decreases the Turn Meter by 100%.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +15%<br>Lvl. 4 Cooldown -1",
-      "slug": "bog-down"
+      "slug": "bog-down",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     }
   ],
   "faction": {

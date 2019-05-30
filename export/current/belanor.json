@@ -35,29 +35,111 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally C. RATE in all Battles by 24%."
+      "raw_description": "Increases Ally C. RATE in all Battles by 24%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Swordleader",
-      "raw_description": "Attacks 1 enemy. Places a 30% [increase C. RATE] buff on all allies for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%",
-      "slug": "swordleader"
+      "raw_description": "Attacks 1 enemy. Places a 30% [Increase C. RATE] buff on all allies for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%",
+      "slug": "swordleader",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "insurmountable",
       "raw_description": "Places a 60% [Decrease DEF] and a 25% [Weaken] debuff for 2 turns on 1 enemy, then attacks them. Places a 60% [Increase DEF] buff on this Champion for 2 turns if this attack kills an enemy.<br>Damage based on: [ATK] \"MY Decrease DEF * Weaken<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%",
-      "slug": "insurmountable"
+      "slug": "insurmountable",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Overkill",
       "raw_description": "Attacks 1 enemy. Will heal this Champion equal to any surplus damage if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Cooldown -1",
-      "slug": "overkill"
+      "slug": "overkill",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Tactical Partner",
       "raw_description": "Places a 5% [Poison] debuff, a 50% [Decrease ATK] debuff, a 30% [Decrease SPD] debuff, and a 50% [Decrease ACC] debuff for 2 turns. x Decrease SPD S Decrease ACC",
-      "slug": "tactical-partner"
+      "slug": "tactical-partner",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

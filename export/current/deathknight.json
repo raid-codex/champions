@@ -38,12 +38,27 @@
     {
       "name": "Rusty Sword",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Sleep] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Damage +5%<br>Lvl. 7 Buff/Debuff Chance +10%<br>Lvl. 8 Damage +10%",
-      "slug": "rusty-sword"
+      "slug": "rusty-sword",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Sleep",
+          "value": 0,
+          "image_slug": "image-debuff-sleep",
+          "slug": "sleep",
+          "website_link": "/debuff/sleep"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Payback",
       "raw_description": "Has a 30% chance of counterattacking when hit.",
-      "slug": "payback"
+      "slug": "payback",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

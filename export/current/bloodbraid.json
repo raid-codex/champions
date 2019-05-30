@@ -38,17 +38,47 @@
     {
       "name": "Enraging Prowess",
       "raw_description": "Attacks 1 enemy. Has a 25% chance of placing a [Provoke] for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Buff/Debuff Chance +5)<br>Lvl. 5 Damage +15%<br>Lvl. 6 Buff/Debuff Chance +10",
-      "slug": "enraging-prowess"
+      "slug": "enraging-prowess",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Tireless Assault",
       "raw_description": "Attacks 1 enemy 3 times. Has a 25% chance of granting an Extra Turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Buff/Debuff Chance +10<br>Lvl. 6 Cooldown -1",
-      "slug": "tireless-assault"
+      "slug": "tireless-assault",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Lifecurse",
       "raw_description": "Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 2 turns. Heals this Champion by 30% of the damage dealt.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Cooldown -1",
-      "slug": "lifecurse"
+      "slug": "lifecurse",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

@@ -41,7 +41,7 @@
     "website_link": "/factions/ogryn-tribes/",
     "image_slug": "image-faction-ogryn-tribes",
     "number_of_champions": 0,
-    "default_description": "ogryn-tribes is a faction from RAID Shadow Legends",
+    "default_description": "Ogryn-Tribes is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "ogryn-tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -88,7 +88,7 @@
       }
     ]
   },
-  "default_description": "Hungerer is a uncommon hp champion from the faction ogryn-tribes doing force damage",
+  "default_description": "Hungerer is a uncommon hp champion from the faction Ogryn-Tribes doing force damage",
   "recommended_builds": [],
   "lore": ""
 }

@@ -38,17 +38,53 @@
     {
       "name": "Snap Shot",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%",
-      "slug": "snap-shot"
+      "slug": "snap-shot",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Sharp Eye",
       "raw_description": "Places a 30% [Increase C. RATE] buff on a target ally for 2 turns. Grants an Extra Turn.<br>Lvl. 2 Cooldown -1",
-      "slug": "sharp-eye"
+      "slug": "sharp-eye",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Blunted Arrow",
       "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a [Stun] debuff for 1 turn. Also has a 50% chance of placing a 30% [Decrease SPD] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +15%<br>Lvl. 5 Buff/Debuff Chance +15%",
-      "slug": "blunted-arrow"
+      "slug": "blunted-arrow",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

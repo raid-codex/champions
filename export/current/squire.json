@@ -38,12 +38,29 @@
     {
       "name": "Overhead Swing",
       "raw_description": "Attacks 1 enemy.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "overhead-swing"
+      "slug": "overhead-swing",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Weapon Breaker",
       "raw_description": "Attacks all enemies. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.<br>Damage based on: [DEF]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
-      "slug": "weapon-breaker"
+      "slug": "weapon-breaker",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     }
   ],
   "faction": {
@@ -52,7 +69,7 @@
     "website_link": "/factions/banner-lords/",
     "image_slug": "image-faction-banner-lords",
     "number_of_champions": 0,
-    "default_description": "Banner Lords is a faction from RAID Shadow Legends",
+    "default_description": "Banner-Lords is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "Banner Lords is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -99,7 +116,7 @@
       }
     ]
   },
-  "default_description": "Squire is a uncommon defense champion from the faction Banner Lords",
+  "default_description": "Squire is a uncommon def champion from the faction Banner-Lords",
   "recommended_builds": [],
   "lore": ""
 }

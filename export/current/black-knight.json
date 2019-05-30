@@ -38,22 +38,69 @@
     {
       "name": "Heavy Blow",
       "raw_description": "Attacks 1 enemy. Places a [Provoke] debuff for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "heavy-blow"
+      "slug": "heavy-blow",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Lower Visor",
       "raw_description": "Places a 15% [Continuous Heal] buff and a 30% [Increase DEF] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "lower-visor"
+      "slug": "lower-visor",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Continuous Heal",
+          "value": 0,
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Last Breath",
       "raw_description": "Attacks all enemies. Damage increases according to the amount of HP this Champion has lost.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "last-breath"
+      "slug": "last-breath",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Valorous",
       "raw_description": "Places an [Unkillable] buff on this Champion for 1 turn if incoming damage exceeds 30% MAX HP in one attack.",
-      "slug": "valorous"
+      "slug": "valorous",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Unkillable",
+          "value": 0,
+          "image_slug": "image-buff-unkillable",
+          "slug": "unkillable",
+          "website_link": "/buff/unkillable"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

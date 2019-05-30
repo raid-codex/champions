@@ -37,18 +37,55 @@
   "skills": [
     {
       "name": "Searing Rebuke",
-      "raw_description": "Attacks 1 enemy. Places a [Burn] debuff for 2 turns. This debuff cannot be resisted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%",
-      "slug": "searing-rebuke"
+      "raw_description": "Attacks 1 enemy. Places a [HP Burn] debuff for 2 turns. This debuff cannot be resisted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%",
+      "slug": "searing-rebuke",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "HP Burn",
+          "value": 0,
+          "image_slug": "image-debuff-hp-burn",
+          "slug": "hp-burn",
+          "website_link": "/debuff/hp-burn"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Smolder",
       "raw_description": "Attacks all enemies. Places a 5% [Poison] debuff for 2 turns. Places a second 5% [Poison] debuff for 2 turns if the attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "smolder"
+      "slug": "smolder",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Combust",
       "raw_description": "Deals damage from all [Poison] debuffs on all enemies instantly.",
-      "slug": "combust"
+      "slug": "combust",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

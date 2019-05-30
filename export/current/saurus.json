@@ -38,12 +38,29 @@
     {
       "name": "Wind Cutter",
       "raw_description": "Attacks all enemies.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "wind-cutter"
+      "slug": "wind-cutter",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Fire Wave",
       "raw_description": "Attacks all enemies 2 times. Has a 10% chance of placing a 50% [Heal Reduction] debuff for 1 turn. Places a 50% [Heal Reduction] debuff if the target's current HP is less than or equal to 40%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Cooldown -1",
-      "slug": "fire-wave"
+      "slug": "fire-wave",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

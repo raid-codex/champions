@@ -38,17 +38,43 @@
     {
       "name": "Swing",
       "raw_description": "Attacks 1 enemy.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "swing"
+      "slug": "swing",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Energizing Presence",
-      "raw_description": "Increases the duration of all buffs on all allies by 1 turn. Also decreases the duration of all debuffs on all allies by 1 turn. Places a 25% [increase ATK] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "energizing-presence"
+      "raw_description": "Increases the duration of all buffs on all allies by 1 turn. Also decreases the duration of all debuffs on all allies by 1 turn. Places a 25% [Increase ATK] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
+      "slug": "energizing-presence",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Protect",
       "raw_description": "Places a [Shield] buff on all allies for 2 turns. The value of the [Shield] depends on this Champion's Level. Heals each ally according to the number of buffs they are currently under.<br>Lvl. 2 Shield +5%<br>Lvl. 3 Shield +5%<br>Lvl. 4 Shield +5%<br>Lvl. 5 Shield +5%",
-      "slug": "protect"
+      "slug": "protect",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

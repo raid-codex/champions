@@ -35,24 +35,68 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ACC in all Battles by 30."
+      "raw_description": "Increases Ally ACC in all Battles by 30.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Eviscerate",
       "raw_description": "Attacks 1 enemy. Damage increases by 10% for each debuff on the target, stacking up to a maximum of 100%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "eviscerate"
+      "slug": "eviscerate",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Blade Dance",
       "raw_description": "Attacks all enemies 2 times. Fills the Turn Meter by 10% for each critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "blade-dance"
+      "slug": "blade-dance",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Chaos Armor",
       "raw_description": "Each time this Champion is hit, has a 30% chance of placing a 50% [Decrease ACC] debuff OR a 30% [Decrease SPD] debuff OR a 50% [Decrease ATK] debuff OR a 60% [Decrease DEF] debuff on the attacker for 1 turn.",
-      "slug": "chaos-armor"
+      "slug": "chaos-armor",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

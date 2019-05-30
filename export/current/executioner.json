@@ -35,24 +35,71 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally DEF in all Battles by 17%."
+      "raw_description": "Increases Ally DEF in all Battles by 17%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Shield Bash",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Buff/Debuff Chance +5%",
-      "slug": "shield-bash"
+      "slug": "shield-bash",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Tumult",
       "raw_description": "Attacks all enemies. Decreases the Turn Meter by 20%. Has a 50% chance of placing a 15% [Decrease SPD] debuff for 2 turns.<br>Damage based on: [ATK] [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +15%<br>Lvl. 6 Cooldown -1",
-      "slug": "tumult"
+      "slug": "tumult",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK",
+        "DEF"
+      ]
     },
     {
       "name": "Schiltron",
       "raw_description": "Places a 60% [Increase DEF] buff and a [Counterattack] buff on this Champion for 3 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "schiltron"
+      "slug": "schiltron",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Counterattack",
+          "value": 0,
+          "image_slug": "image-buff-counterattack",
+          "slug": "counterattack",
+          "website_link": "/buff/counterattack"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

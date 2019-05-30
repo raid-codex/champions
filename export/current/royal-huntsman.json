@@ -35,24 +35,55 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Spirit Ally ATK in all Battles by 38%."
+      "raw_description": "Increases Spirit Ally ATK in all Battles by 38%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Confident Shot",
       "raw_description": "Attacks 1 enemy. Places a 50% [Increase ATK] buff on this Champion for 2 turns if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%",
-      "slug": "confident-shot"
+      "slug": "confident-shot",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Slaughter Volley",
       "raw_description": "Attacks all enemies. Places a 50% [Decrease DEF] debuff on the target for 2 turns if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "slaughter-volley"
+      "slug": "slaughter-volley",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Dead Aim",
       "raw_description": "Attacks 1 enemy. Will ignore DEF by 100%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%",
-      "slug": "dead-aim"
+      "slug": "dead-aim",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

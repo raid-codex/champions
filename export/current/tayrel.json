@@ -35,24 +35,80 @@
   },
   "auras": [
     {
-      "raw_description": "Decreases Ally DEF in all Battles by 2:"
+      "raw_description": "Decreases Ally DEF in all Battles by 2:",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Humble",
       "raw_description": "Attacks 1 enemy 2 times. Each hit has a 40% chance of placing a 50% [Decrease ATK] debuff for 2 turns. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +15%",
-      "slug": "humble"
+      "slug": "humble",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Singing Steel",
       "raw_description": "Attacks all enemies. Has a 75% chance of placing a 60% [Decrease DEF] debuff for 2 turns. If the target is under a [Decrease ATK] debuff, it will place a [Sleep] debuff for 1 turn. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +10%",
-      "slug": "singing-steel"
+      "slug": "singing-steel",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Sleep",
+          "value": 0,
+          "image_slug": "image-debuff-sleep",
+          "slug": "sleep",
+          "website_link": "/debuff/sleep"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Preemptive Strike",
       "raw_description": "Attacks 1 enemy. Decreases the target's Turn Meter by 50%. If the attack fully depletes the Turn Meter, it will place a [Stun] debuff for 2 turns. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "preemptive-strike"
+      "slug": "preemptive-strike",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     }
   ],
   "faction": {

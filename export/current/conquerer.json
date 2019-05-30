@@ -35,24 +35,37 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ATK in all Battles by 18%."
+      "raw_description": "Increases Ally ATK in all Battles by 18%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Swift Blow",
       "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "swift-blow"
+      "slug": "swift-blow",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Cut Down To Size",
       "raw_description": "Attacks 1 enemy. Removes 2 random buffs from the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Cooldown -1",
-      "slug": "cut-down-to-size"
+      "slug": "cut-down-to-size",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Purge",
       "raw_description": "Attacks 1 enemy. Enemies killed by this skill cannot be revived.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Cooldown -1",
-      "slug": "purge"
+      "slug": "purge",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

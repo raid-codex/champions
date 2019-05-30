@@ -35,24 +35,53 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally SPD in all Battles by 24%."
+      "raw_description": "Increases Ally SPD in all Battles by 24%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Howl",
       "raw_description": "Attacks 1 enemy. Has a 25% chance of placing an extra hit.<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +15%",
-      "slug": "howl"
+      "slug": "howl",
+      "effects": [],
+      "damaged_based_on": []
     },
     {
       "name": "Frightful Claws",
       "raw_description": "Attacks all enemies 2 times. Each hit has a 20% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +15%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Cooldown -1",
-      "slug": "frightful-claws"
+      "slug": "frightful-claws",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Shred",
       "raw_description": "Attacks 4 times at random. Each hit has a 50% chance of placing a 60% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Cooldown -1<br>Lvl. 4 Buff/Debuff Chance +25%<br>Lvl. 5 Cooldown -1",
-      "slug": "shred"
+      "slug": "shred",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

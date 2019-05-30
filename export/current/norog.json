@@ -35,24 +35,78 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally DEF in Dungeons by 40%."
+      "raw_description": "Increases Ally DEF in Dungeons by 40%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Maul",
       "raw_description": "Attacks 1 enemy. Has a 25% chance of placing a 50% [Decrease ACC] debuff for 1 turn. This debuff cannot be resisted or blocked.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10% % ey a eee Crs ya",
-      "slug": "maul"
+      "slug": "maul",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Ice Pillar",
       "raw_description": "Attacks all enemies. Places a [Block Buffs] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1",
-      "slug": "ice-pillar"
+      "slug": "ice-pillar",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Block Buffs",
+          "value": 0,
+          "image_slug": "image-debuff-block-buffs",
+          "slug": "block-buffs",
+          "website_link": "/debuff/block-buffs"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Thick Skin",
       "raw_description": "Immune to [Stun], [Freeze], [Sleep] debuffs. Decreases the damage taken by all allies by 15%.",
-      "slug": "thick-skin"
+      "slug": "thick-skin",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Freeze",
+          "value": 0,
+          "image_slug": "image-debuff-freeze",
+          "slug": "freeze",
+          "website_link": "/debuff/freeze"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Sleep",
+          "value": 0,
+          "image_slug": "image-debuff-sleep",
+          "slug": "sleep",
+          "website_link": "/debuff/sleep"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

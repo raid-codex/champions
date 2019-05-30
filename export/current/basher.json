@@ -35,24 +35,64 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in all Battles by 25%."
+      "raw_description": "Increases Ally HP in all Battles by 25%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Splintering Bash",
       "raw_description": "Attacks 1 enemy. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "splintering-bash"
+      "slug": "splintering-bash",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Stinging Blast",
       "raw_description": "Attacks all enemies. If the target has a [Block Buffs] debuff, increases the cooldown on one random target skill for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1",
-      "slug": "stinging-blast"
+      "slug": "stinging-blast",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Block Buffs",
+          "value": 0,
+          "image_slug": "image-debuff-block-buffs",
+          "slug": "block-buffs",
+          "website_link": "/debuff/block-buffs"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Cause Fear",
       "raw_description": "Attacks 4 times at random. Has a 75% chance of placing a [Block Buffs] debuff for 2 turns.<br>Damage based on: [ATK] %@ Block Buffs<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Cooldown -1",
-      "slug": "cause-fear"
+      "slug": "cause-fear",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Block Buffs",
+          "value": 0,
+          "image_slug": "image-debuff-block-buffs",
+          "slug": "block-buffs",
+          "website_link": "/debuff/block-buffs"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

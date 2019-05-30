@@ -38,12 +38,27 @@
     {
       "name": "Holy Fire",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Damage +10%<br>Lvl. 8 Buff/Debuff Chance +5%",
-      "slug": "holy-fire"
+      "slug": "holy-fire",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Quickheal",
       "raw_description": "Heals the ally with the lowest HP by 40% of this Champion's HP. Completely fills the target's Turn Meter if the ally is fully healed. This Champion's Turn Meter cannot be filled by this Skill.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Heal +5%<br>Lvl. 5 Heal +10%<br>Lvl. 6 Cooldown -1<br>Lvl. 7 Cooldown -1",
-      "slug": "quickheal"
+      "slug": "quickheal",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {
@@ -52,7 +67,7 @@
     "website_link": "/factions/banner-lords/",
     "image_slug": "image-faction-banner-lords",
     "number_of_champions": 0,
-    "default_description": "Banner Lords is a faction from RAID Shadow Legends",
+    "default_description": "Banner-Lords is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "Banner Lords is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -99,7 +114,7 @@
       }
     ]
   },
-  "default_description": "Commander is a uncommon support champion from the faction Banner Lords",
+  "default_description": "Commander is a uncommon assist champion from the faction Banner-Lords",
   "recommended_builds": [],
   "lore": ""
 }

@@ -35,24 +35,62 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in the Arena by 25%."
+      "raw_description": "Increases Ally HP in the Arena by 25%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Sure Strike",
       "raw_description": "Attacks 1 enemy. Has a 20% chance of placing a 50% [Decrease ACC] debuff on the target for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Buff/Debuff Chance +10%",
-      "slug": "sure-strike"
+      "slug": "sure-strike",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Fortify",
       "raw_description": "Places a [Block Debuffs] buff and a 60% [Increase DEF] buff on this Champion for 2 turns. <br>Lvl. 2 Cooldown -1",
-      "slug": "fortify"
+      "slug": "fortify",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Block Debuffs",
+          "value": 0,
+          "image_slug": "image-buff-block-debuffs",
+          "slug": "block-debuffs",
+          "website_link": "/buff/block-debuffs"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Helmcleaver",
       "raw_description": "Attacks 1 enemy. Will Ignore DEF if the target has less than 50% HP. Damage increases according to this Champion's MAX HP.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "helmcleaver"
+      "slug": "helmcleaver",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK",
+        "HP"
+      ]
     }
   ],
   "faction": {

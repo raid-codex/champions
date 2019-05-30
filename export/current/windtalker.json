@@ -38,12 +38,36 @@
     {
       "name": "Thunder",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +10%",
-      "slug": "thunder"
+      "slug": "thunder",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Spiritual Wind",
-      "raw_description": "Places a 60% [increase DEF] buff on a target ally for 2 turns. Heals the target by 20% of their MAX HP.<br>Lvl. 2 Heal +10%<br>Lvl. 3 Heal +10%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Heal +10%<br>Lvl. 6 Heal +10%<br>Lvl. 7 Cooldown -1",
-      "slug": "spiritual-wind"
+      "raw_description": "Places a 60% [Increase DEF] buff on a target ally for 2 turns. Heals the target by 20% of their MAX HP.<br>Lvl. 2 Heal +10%<br>Lvl. 3 Heal +10%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Heal +10%<br>Lvl. 6 Heal +10%<br>Lvl. 7 Cooldown -1",
+      "slug": "spiritual-wind",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {
@@ -99,7 +123,7 @@
       }
     ]
   },
-  "default_description": "Windtalker is a uncommon support champion from the faction Skinwalker",
+  "default_description": "Windtalker is a uncommon assist champion from the faction Skinwalker",
   "recommended_builds": [],
   "lore": ""
 }
