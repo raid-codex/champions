@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -62,9 +63,10 @@
           "effect_type": "buff",
           "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-continuous-heal",
+          "image_slug": "image-buff-continuous-heal-2",
           "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "website_link": "/buff/continuous-heal",
+          "extra": true
         },
         {
           "effect_type": "buff",
@@ -72,7 +74,8 @@
           "value": 0,
           "image_slug": "image-buff-increase-def",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/buff/increase-def",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -97,7 +100,8 @@
           "value": 0,
           "image_slug": "image-buff-unkillable",
           "slug": "unkillable",
-          "website_link": "/buff/unkillable"
+          "website_link": "/buff/unkillable",
+          "extra": false
         }
       ],
       "damaged_based_on": []

@@ -65,35 +65,39 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Decrease DEF",
-          "value": 0,
-          "image_slug": "image-debuff-decrease-def",
-          "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
-        },
-        {
-          "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
-        },
-        {
-          "effect_type": "debuff",
-          "type": "Decrease SPD",
-          "value": 0,
-          "image_slug": "image-debuff-decrease-spd",
-          "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
+          "image_slug": "image-debuff-decrease-atk-2",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def-2",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def",
+          "extra": true
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd-2",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": []

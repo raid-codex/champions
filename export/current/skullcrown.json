@@ -58,9 +58,10 @@
           "effect_type": "debuff",
           "type": "Weaken",
           "value": 0,
-          "image_slug": "image-debuff-weaken",
+          "image_slug": "image-debuff-weaken-2",
           "slug": "weaken",
-          "website_link": "/debuff/weaken"
+          "website_link": "/debuff/weaken",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -78,7 +79,8 @@
           "value": 0,
           "image_slug": "image-buff-unkillable",
           "slug": "unkillable",
-          "website_link": "/buff/unkillable"
+          "website_link": "/buff/unkillable",
+          "extra": false
         }
       ],
       "damaged_based_on": []

@@ -55,7 +55,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -71,7 +72,8 @@
           "value": 0,
           "image_slug": "image-buff-increase-def",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/buff/increase-def",
+          "extra": false
         }
       ],
       "damaged_based_on": []

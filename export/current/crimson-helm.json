@@ -49,9 +49,10 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
+          "image_slug": "image-debuff-decrease-atk-2",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -65,20 +66,22 @@
       "slug": "vile-tongue",
       "effects": [
         {
-          "effect_type": "debuff",
-          "type": "Provoke",
-          "value": 0,
-          "image_slug": "image-debuff-provoke",
-          "slug": "provoke",
-          "website_link": "/debuff/provoke"
-        },
-        {
           "effect_type": "buff",
           "type": "Block Damage",
           "value": 0,
           "image_slug": "image-buff-block-damage",
           "slug": "block-damage",
-          "website_link": "/buff/block-damage"
+          "website_link": "/buff/block-damage",
+          "extra": false
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -91,20 +94,22 @@
       "slug": "en-garde",
       "effects": [
         {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def-2",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def",
+          "extra": true
+        },
+        {
           "effect_type": "debuff",
           "type": "Revive on Death",
           "value": 0,
           "image_slug": "image-debuff-revive-on-death",
           "slug": "revive-on-death",
-          "website_link": "/debuff/revive-on-death"
-        },
-        {
-          "effect_type": "buff",
-          "type": "Increase DEF",
-          "value": 0,
-          "image_slug": "image-buff-increase-def",
-          "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/debuff/revive-on-death",
+          "extra": false
         }
       ],
       "damaged_based_on": []

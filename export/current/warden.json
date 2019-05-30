@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-weaken",
           "slug": "weaken",
-          "website_link": "/debuff/weaken"
+          "website_link": "/debuff/weaken",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -64,20 +65,22 @@
       "slug": "rending-flames",
       "effects": [
         {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk-2",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
+        },
+        {
           "effect_type": "buff",
           "type": "Increase DEF",
           "value": 0,
           "image_slug": "image-buff-increase-def",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
-        },
-        {
-          "effect_type": "debuff",
-          "type": "Decrease ATK",
-          "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
-          "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/buff/increase-def",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -93,9 +96,10 @@
           "effect_type": "buff",
           "type": "Reflect Damage",
           "value": 0,
-          "image_slug": "image-buff-reflect-damage",
+          "image_slug": "image-buff-reflect-damage-2",
           "slug": "reflect-damage",
-          "website_link": "/buff/reflect-damage"
+          "website_link": "/buff/reflect-damage",
+          "extra": true
         }
       ],
       "damaged_based_on": []

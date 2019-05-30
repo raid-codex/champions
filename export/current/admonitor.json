@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -62,9 +63,10 @@
           "effect_type": "buff",
           "type": "Ally Protection",
           "value": 0,
-          "image_slug": "image-buff-ally-protection",
+          "image_slug": "image-buff-ally-protection-2",
           "slug": "ally-protection",
-          "website_link": "/buff/ally-protection"
+          "website_link": "/buff/ally-protection",
+          "extra": true
         }
       ],
       "damaged_based_on": []

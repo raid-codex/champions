@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-buff-increase-atk",
           "slug": "increase-atk",
-          "website_link": "/buff/increase-atk"
+          "website_link": "/buff/increase-atk",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -59,20 +60,22 @@
       "slug": "anoint",
       "effects": [
         {
+          "effect_type": "buff",
+          "type": "Reflect Damage",
+          "value": 0,
+          "image_slug": "image-buff-reflect-damage-2",
+          "slug": "reflect-damage",
+          "website_link": "/buff/reflect-damage",
+          "extra": true
+        },
+        {
           "effect_type": "debuff",
           "type": "Revive on Death",
           "value": 0,
           "image_slug": "image-debuff-revive-on-death",
           "slug": "revive-on-death",
-          "website_link": "/debuff/revive-on-death"
-        },
-        {
-          "effect_type": "buff",
-          "type": "Reflect Damage",
-          "value": 0,
-          "image_slug": "image-buff-reflect-damage",
-          "slug": "reflect-damage",
-          "website_link": "/buff/reflect-damage"
+          "website_link": "/debuff/revive-on-death",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -88,7 +91,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [

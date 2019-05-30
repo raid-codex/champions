@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-decrease-acc",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": false
         }
       ],
       "damaged_based_on": [

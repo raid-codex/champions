@@ -67,9 +67,10 @@
           "effect_type": "buff",
           "type": "Increase SPD",
           "value": 0,
-          "image_slug": "image-buff-increase-spd",
+          "image_slug": "image-buff-increase-spd-2",
           "slug": "increase-spd",
-          "website_link": "/buff/increase-spd"
+          "website_link": "/buff/increase-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": []

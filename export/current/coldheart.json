@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -60,27 +61,21 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Heal Reduction",
-          "value": 0,
-          "image_slug": "image-debuff-heal-reduction",
-          "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
-        },
-        {
-          "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         },
         {
           "effect_type": "debuff",
           "type": "Poison",
           "value": 0,
-          "image_slug": "image-debuff-poison",
+          "image_slug": "image-debuff-poison-2",
           "slug": "poison",
-          "website_link": "/debuff/poison"
+          "website_link": "/debuff/poison",
+          "extra": true
         }
       ],
       "damaged_based_on": [
@@ -93,8 +88,8 @@
       "slug": "heartseeker",
       "effects": [],
       "damaged_based_on": [
-        "Enemy MAX HP",
-        "ATK"
+        "ATK",
+        "Enemy MAX HP"
       ]
     }
   ],

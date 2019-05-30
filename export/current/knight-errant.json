@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-leech",
           "slug": "leech",
-          "website_link": "/debuff/leech"
+          "website_link": "/debuff/leech",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -69,7 +70,8 @@
           "value": 0,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun"
+          "website_link": "/debuff/stun",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -85,9 +87,10 @@
           "effect_type": "debuff",
           "type": "Weaken",
           "value": 0,
-          "image_slug": "image-debuff-weaken",
+          "image_slug": "image-debuff-weaken-2",
           "slug": "weaken",
-          "website_link": "/debuff/weaken"
+          "website_link": "/debuff/weaken",
+          "extra": true
         }
       ],
       "damaged_based_on": [

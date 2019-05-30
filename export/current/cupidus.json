@@ -60,7 +60,8 @@
           "value": 0,
           "image_slug": "image-debuff-hp-burn",
           "slug": "hp-burn",
-          "website_link": "/debuff/hp-burn"
+          "website_link": "/debuff/hp-burn",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -76,9 +77,10 @@
           "effect_type": "buff",
           "type": "Increase ATK",
           "value": 0,
-          "image_slug": "image-buff-increase-atk",
+          "image_slug": "image-buff-increase-atk-2",
           "slug": "increase-atk",
-          "website_link": "/buff/increase-atk"
+          "website_link": "/buff/increase-atk",
+          "extra": true
         }
       ],
       "damaged_based_on": [

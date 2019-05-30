@@ -51,19 +51,21 @@
       "effects": [
         {
           "effect_type": "debuff",
-          "type": "Sleep",
-          "value": 0,
-          "image_slug": "image-debuff-sleep",
-          "slug": "sleep",
-          "website_link": "/debuff/sleep"
-        },
-        {
-          "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
           "image_slug": "image-debuff-decrease-def",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": false
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Sleep",
+          "value": 0,
+          "image_slug": "image-debuff-sleep",
+          "slug": "sleep",
+          "website_link": "/debuff/sleep",
+          "extra": false
         }
       ],
       "damaged_based_on": [

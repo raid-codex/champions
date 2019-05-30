@@ -51,19 +51,21 @@
       "effects": [
         {
           "effect_type": "buff",
-          "type": "Increase SPD",
-          "value": 0,
-          "image_slug": "image-buff-increase-spd",
-          "slug": "increase-spd",
-          "website_link": "/buff/increase-spd"
-        },
-        {
-          "effect_type": "buff",
           "type": "Counterattack",
           "value": 0,
           "image_slug": "image-buff-counterattack",
           "slug": "counterattack",
-          "website_link": "/buff/counterattack"
+          "website_link": "/buff/counterattack",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase SPD",
+          "value": 0,
+          "image_slug": "image-buff-increase-spd-2",
+          "slug": "increase-spd",
+          "website_link": "/buff/increase-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": []

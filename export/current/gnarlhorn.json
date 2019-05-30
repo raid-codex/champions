@@ -60,7 +60,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -76,7 +77,8 @@
           "value": 0,
           "image_slug": "image-buff-unkillable",
           "slug": "unkillable",
-          "website_link": "/buff/unkillable"
+          "website_link": "/buff/unkillable",
+          "extra": false
         }
       ],
       "damaged_based_on": []

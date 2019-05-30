@@ -60,7 +60,8 @@
           "value": 0,
           "image_slug": "image-buff-counterattack",
           "slug": "counterattack",
-          "website_link": "/buff/counterattack"
+          "website_link": "/buff/counterattack",
+          "extra": false
         },
         {
           "effect_type": "buff",
@@ -68,7 +69,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": []
@@ -82,9 +84,10 @@
           "effect_type": "buff",
           "type": "Continuous Heal",
           "value": 0,
-          "image_slug": "image-buff-continuous-heal",
+          "image_slug": "image-buff-continuous-heal-2",
           "slug": "continuous-heal",
-          "website_link": "/buff/continuous-heal"
+          "website_link": "/buff/continuous-heal",
+          "extra": true
         },
         {
           "effect_type": "debuff",
@@ -92,7 +95,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [

@@ -51,12 +51,13 @@
           "value": 0,
           "image_slug": "image-debuff-decrease-def",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def"
+          "website_link": "/debuff/decrease-def",
+          "extra": false
         }
       ],
       "damaged_based_on": [
-        "SPD",
-        "ATK"
+        "ATK",
+        "SPD"
       ]
     },
     {
@@ -70,7 +71,8 @@
           "value": 0,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun"
+          "website_link": "/debuff/stun",
+          "extra": false
         }
       ],
       "damaged_based_on": [

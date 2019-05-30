@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -65,7 +66,8 @@
           "value": 0,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun"
+          "website_link": "/debuff/stun",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -81,9 +83,10 @@
           "effect_type": "debuff",
           "type": "Poison",
           "value": 0,
-          "image_slug": "image-debuff-poison",
+          "image_slug": "image-debuff-poison-2",
           "slug": "poison",
-          "website_link": "/debuff/poison"
+          "website_link": "/debuff/poison",
+          "extra": true
         }
       ],
       "damaged_based_on": [

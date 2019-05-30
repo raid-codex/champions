@@ -51,7 +51,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -78,7 +79,8 @@
           "value": 0,
           "image_slug": "image-debuff-hp-burn",
           "slug": "hp-burn",
-          "website_link": "/debuff/hp-burn"
+          "website_link": "/debuff/hp-burn",
+          "extra": false
         }
       ],
       "damaged_based_on": [

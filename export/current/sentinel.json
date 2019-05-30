@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -63,9 +64,10 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
-          "image_slug": "image-debuff-decrease-atk",
+          "image_slug": "image-debuff-decrease-atk-2",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk"
+          "website_link": "/debuff/decrease-atk",
+          "extra": true
         },
         {
           "effect_type": "debuff",
@@ -73,7 +75,8 @@
           "value": 0,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction"
+          "website_link": "/debuff/heal-reduction",
+          "extra": false
         }
       ],
       "damaged_based_on": [

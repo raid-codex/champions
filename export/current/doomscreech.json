@@ -44,14 +44,15 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
-          "image_slug": "image-debuff-decrease-acc",
+          "image_slug": "image-debuff-decrease-acc-2",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc"
+          "website_link": "/debuff/decrease-acc",
+          "extra": true
         }
       ],
       "damaged_based_on": [
-        "HP",
-        "ATK"
+        "ATK",
+        "HP"
       ]
     },
     {
@@ -63,9 +64,10 @@
           "effect_type": "buff",
           "type": "Increase DEF",
           "value": 0,
-          "image_slug": "image-buff-increase-def",
+          "image_slug": "image-buff-increase-def-2",
           "slug": "increase-def",
-          "website_link": "/buff/increase-def"
+          "website_link": "/buff/increase-def",
+          "extra": true
         }
       ],
       "damaged_based_on": []
@@ -81,7 +83,8 @@
           "value": 0,
           "image_slug": "image-buff-shield",
           "slug": "shield",
-          "website_link": "/buff/shield"
+          "website_link": "/buff/shield",
+          "extra": false
         }
       ],
       "damaged_based_on": [

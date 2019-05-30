@@ -46,12 +46,13 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": [
-        "HP",
-        "ATK"
+        "ATK",
+        "HP"
       ]
     },
     {
@@ -60,25 +61,27 @@
       "slug": "infuriate",
       "effects": [
         {
-          "effect_type": "buff",
-          "type": "Reflect Damage",
-          "value": 0,
-          "image_slug": "image-buff-reflect-damage",
-          "slug": "reflect-damage",
-          "website_link": "/buff/reflect-damage"
-        },
-        {
           "effect_type": "debuff",
           "type": "Provoke",
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
+        },
+        {
+          "effect_type": "buff",
+          "type": "Reflect Damage",
+          "value": 0,
+          "image_slug": "image-buff-reflect-damage-2",
+          "slug": "reflect-damage",
+          "website_link": "/buff/reflect-damage",
+          "extra": true
         }
       ],
       "damaged_based_on": [
-        "HP",
-        "ATK"
+        "ATK",
+        "HP"
       ]
     },
     {
@@ -92,7 +95,8 @@
           "value": 0,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke"
+          "website_link": "/debuff/provoke",
+          "extra": false
         }
       ],
       "damaged_based_on": []

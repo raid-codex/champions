@@ -46,7 +46,8 @@
           "value": 0,
           "image_slug": "image-debuff-sleep",
           "slug": "sleep",
-          "website_link": "/debuff/sleep"
+          "website_link": "/debuff/sleep",
+          "extra": false
         }
       ],
       "damaged_based_on": [
@@ -62,9 +63,10 @@
           "effect_type": "buff",
           "type": "Increase SPD",
           "value": 0,
-          "image_slug": "image-buff-increase-spd",
+          "image_slug": "image-buff-increase-spd-2",
           "slug": "increase-spd",
-          "website_link": "/buff/increase-spd"
+          "website_link": "/buff/increase-spd",
+          "extra": true
         }
       ],
       "damaged_based_on": [
