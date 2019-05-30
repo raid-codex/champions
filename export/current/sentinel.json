@@ -38,17 +38,54 @@
     {
       "name": "Hook",
       "raw_description": "Attacks 1 enemy. Has a 60% chance of placing a [Provoke] debuff for 1 turn. Damage is proportional to ATK and DEF.<br>Damage based on: [ATK] [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +10'<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +15",
-      "slug": "hook"
+      "slug": "hook",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK",
+        "DEF"
+      ]
     },
     {
       "name": "Glaive Swing",
       "raw_description": "Attacks all enemies. Has a 50% chance of placing a 25% [Decrease ATK] debuff for 2 turns. Has a 50% chance of placing a 100% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Cooldown -1",
-      "slug": "glaive-swing"
+      "slug": "glaive-swing",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Regeneration",
       "raw_description": "Heals this Champion by 10% HP at the start of each turn. This Heal can be critical.",
-      "slug": "regeneration"
+      "slug": "regeneration",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

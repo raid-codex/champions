@@ -38,12 +38,29 @@
     {
       "name": "Power Slash",
       "raw_description": "Attacks 1 enemy 2 times. Has a 15% chance of decreasing enemy MAX HP by 25% of the damage dealt.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chan<br>Lvl. 6 Buff/Debuff Chance +5",
-      "slug": "power-slash"
+      "slug": "power-slash",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Wrath of Gods",
       "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "wrath-of-gods"
+      "slug": "wrath-of-gods",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

@@ -38,7 +38,20 @@
     {
       "name": "Run Through",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Freeze] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +10%<br>Lvl. 7 Damage +10%<br>Lvl. 8 Buff/Debuff Chance +15%",
-      "slug": "run-through"
+      "slug": "run-through",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Freeze",
+          "value": 0,
+          "image_slug": "image-debuff-freeze",
+          "slug": "freeze",
+          "website_link": "/debuff/freeze"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {
@@ -47,7 +60,7 @@
     "website_link": "/factions/banner-lords/",
     "image_slug": "image-faction-banner-lords",
     "number_of_champions": 0,
-    "default_description": "Banner Lords is a faction from RAID Shadow Legends",
+    "default_description": "Banner-Lords is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "Banner Lords is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -94,7 +107,7 @@
       }
     ]
   },
-  "default_description": "Pikeman is a common defense champion from the faction Banner Lords",
+  "default_description": "Pikeman is a common def champion from the faction Banner-Lords",
   "recommended_builds": [],
   "lore": ""
 }

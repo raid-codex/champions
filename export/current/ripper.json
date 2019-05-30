@@ -35,24 +35,37 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Force Ally C. RATE in all Battles by 23%."
+      "raw_description": "Increases Force Ally C. RATE in all Battles by 23%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Scar for Life",
       "raw_description": "Attacks 1 enemy. Decreases their MAX HP by 10% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "scar-for-life"
+      "slug": "scar-for-life",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "No Quarter",
       "raw_description": "Attacks 1 enemy 2 times. Damage increases as the target's HP decreases.<br>Damage based on: [ATK]<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "no-quarter"
+      "slug": "no-quarter",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Heavy Slam",
       "raw_description": "Attacks 1 enemy. Will ignore 50% of the target's DEF. Decreases their MAX HP by 30% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%",
-      "slug": "heavy-slam"
+      "slug": "heavy-slam",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

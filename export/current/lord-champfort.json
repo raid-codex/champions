@@ -35,24 +35,67 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in Dungeons by 50%."
+      "raw_description": "Increases Ally HP in Dungeons by 50%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Annihilation",
       "raw_description": "Attacks 1 enemy. Has an extra 15% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "annihilation"
+      "slug": "annihilation",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Earthshaker",
       "raw_description": "Attacks all enemies. Places a 50% [Decrease ACC] debuff anda 50% [Decrease ATK] debuff for 2 turns. ® Decrease ACC<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Cooldown -1",
-      "slug": "earthshaker"
+      "slug": "earthshaker",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Thornsphere",
       "raw_description": "Places a [Shield] buff on this Champion for 2 turns at the start of each turn. Will place a 15% [Decrease SPD] debuff for 1 turn on whichever Champion destroys the [Shield].<br>Lvl. 2 Cooldown -1",
-      "slug": "thornsphere"
+      "slug": "thornsphere",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

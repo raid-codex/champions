@@ -35,24 +35,37 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ATK in Dungeons by 21%."
+      "raw_description": "Increases Ally ATK in Dungeons by 21%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Spin Throw",
       "raw_description": "Attacks 1 enemy 2 times. Each hit has a 25% chance to Ignore DEF by 50%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%",
-      "slug": "spin-throw"
+      "slug": "spin-throw",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Firebolt",
       "raw_description": "Attacks 1 enemy. Removes 1 random buff from a target. Fill this Champion's Turn Meter by 30%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%",
-      "slug": "firebolt"
+      "slug": "firebolt",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Pin Down",
       "raw_description": "Attacks 1 enemy. Puts the target's skills on cooldown.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%",
-      "slug": "pin-down"
+      "slug": "pin-down",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

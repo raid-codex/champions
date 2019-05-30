@@ -38,7 +38,20 @@
     {
       "name": "Plunder",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Provoke] debuff for 1 turn.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "plunder"
+      "slug": "plunder",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     }
   ],
   "faction": {
@@ -94,7 +107,7 @@
       }
     ]
   },
-  "default_description": "Warboy is a common defense champion from the faction Orcs",
+  "default_description": "Warboy is a common def champion from the faction Orcs",
   "recommended_builds": [],
   "lore": ""
 }

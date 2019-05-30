@@ -38,12 +38,29 @@
     {
       "name": "Dirty Cuts",
       "raw_description": "Attacks 2 times at random. Has a 50% chance of placing a 5% [Poison] debuff for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "dirty-cuts"
+      "slug": "dirty-cuts",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Rip and Tear",
       "raw_description": "Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
-      "slug": "rip-and-tear"
+      "slug": "rip-and-tear",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {
@@ -52,7 +69,7 @@
     "website_link": "/factions/ogryn-tribes/",
     "image_slug": "image-faction-ogryn-tribes",
     "number_of_champions": 0,
-    "default_description": "Ogryn Tribes is a faction from RAID Shadow Legends",
+    "default_description": "Ogryn-Tribes is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "Ogryn Tribes is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -99,7 +116,7 @@
       }
     ]
   },
-  "default_description": "Brute is a uncommon attack champion from the faction Ogryn Tribes",
+  "default_description": "Brute is a uncommon attack champion from the faction Ogryn-Tribes",
   "recommended_builds": [],
   "lore": ""
 }

@@ -35,24 +35,51 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ATK in Campaign Battles by 40%."
+      "raw_description": "Increases Ally ATK in Campaign Battles by 40%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Crusade",
       "raw_description": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "crusade"
+      "slug": "crusade",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Surging Strength",
       "raw_description": "Places a 50% [Increase ATK] buff on this Champion for 4 turns. Grants an Extra Turn.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "surging-strength"
+      "slug": "surging-strength",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Ageless Endurance",
       "raw_description": "When hit by an enemy, places a 15% [Continuous Heal] buff on this Champion for 2 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "ageless-endurance"
+      "slug": "ageless-endurance",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Continuous Heal",
+          "value": 0,
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

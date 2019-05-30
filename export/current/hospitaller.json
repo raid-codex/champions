@@ -35,29 +35,51 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally SPD in all Battles by 10%"
+      "raw_description": "Increases Ally SPD in all Battles by 10%",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Quick Slash",
       "raw_description": "Attacks 1 enemy.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5<br>Lvl. 3 Damage +5<br>Lvl. 4 Damage +10%",
-      "slug": "quick-slash"
+      "slug": "quick-slash",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Wave of Purification",
       "raw_description": "Attacks all enemies. Has a 50% chance of removing 1 random buff from each target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10°<br>Lvl. 6 Damage +10%<br>Lvl. 7 Buff/Debuff Chance +109",
-      "slug": "wave-of-purification"
+      "slug": "wave-of-purification",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Invigorating Prayers",
       "raw_description": "Places a 15% all allies for 2 turn",
-      "slug": "invigorating-prayers"
+      "slug": "invigorating-prayers",
+      "effects": [],
+      "damaged_based_on": []
     },
     {
       "name": "Merciful Partner",
       "raw_description": "Revives a random ally with 25% HP and places a [Block Damage] buff on them for 1 turn whenever H kills an enemy.",
-      "slug": "merciful-partner"
+      "slug": "merciful-partner",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Block Damage",
+          "value": 0,
+          "image_slug": "image-buff-block-damage",
+          "slug": "block-damage",
+          "website_link": "/buff/block-damage"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

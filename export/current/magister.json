@@ -38,17 +38,62 @@
     {
       "name": "Majestic Staff",
       "raw_description": "Attacks 1 enemy. If the hit is critical, places a 25% [Increase ATK] buff on a random ally for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "majestic-staff"
+      "slug": "majestic-staff",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Anoint",
-      "raw_description": "Places a 30% [Revive On Death] buff and a 30% [Reflect Damage] buff on a target ally for 2 turns. Heals all other allies by 10% of the target's HP.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Heal +10%<br>Lvl. 5 Heal +10%",
-      "slug": "anoint"
+      "raw_description": "Places a 30% [Revive on Death] buff and a 30% [Reflect Damage] buff on a target ally for 2 turns. Heals all other allies by 10% of the target's HP.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Heal +10%<br>Lvl. 5 Heal +10%",
+      "slug": "anoint",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Revive on Death",
+          "value": 0,
+          "image_slug": "image-debuff-revive-on-death",
+          "slug": "revive-on-death",
+          "website_link": "/debuff/revive-on-death"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Reflect Damage",
+          "value": 0,
+          "image_slug": "image-buff-reflect-damage",
+          "slug": "reflect-damage",
+          "website_link": "/buff/reflect-damage"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Censure",
       "raw_description": "Attacks all enemies. Has a 50% chance of placing a 50% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +15%",
-      "slug": "censure"
+      "slug": "censure",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

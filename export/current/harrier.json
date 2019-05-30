@@ -38,22 +38,45 @@
     {
       "name": "Trick Shot",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing an extra hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "trick-shot"
+      "slug": "trick-shot",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Puncture Bolts",
       "raw_description": "Attacks 1 enemy 2 times. Each hit has a 30% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +55<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5<br>Lvl. 6 Buff/Debuff Chance +10",
-      "slug": "puncture-bolts"
+      "slug": "puncture-bolts",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Deadeye's Strike",
       "raw_description": "Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1",
-      "slug": "deadeye-s-strike"
+      "slug": "deadeye-s-strike",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Skillful Partner",
       "raw_description": "Will ignore 50% of the target's DEF when this Champion inflicts a critical hit.",
-      "slug": "skillful-partner"
+      "slug": "skillful-partner",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

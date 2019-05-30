@@ -38,17 +38,61 @@
     {
       "name": "Teardown",
       "raw_description": "Attacks 1 enemy 3 times. Decreases the target's Turn Meter by 10%.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%",
-      "slug": "teardown"
+      "slug": "teardown",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Brutality",
       "raw_description": "Attacks 1 enemy. Places a 50% [Decrease ATK] debuff and a 30% [Decrease SPD] debuff for 2 turns.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "brutality"
+      "slug": "brutality",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Decrease SPD",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-spd",
+          "slug": "decrease-spd",
+          "website_link": "/debuff/decrease-spd"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "indomitable",
       "raw_description": "Places a 60% [Increase DEF] buff and a [Revive on Death] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
-      "slug": "indomitable"
+      "slug": "indomitable",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase DEF",
+          "value": 0,
+          "image_slug": "image-buff-increase-def",
+          "slug": "increase-def",
+          "website_link": "/buff/increase-def"
+        },
+        {
+          "effect_type": "debuff",
+          "type": "Revive on Death",
+          "value": 0,
+          "image_slug": "image-debuff-revive-on-death",
+          "slug": "revive-on-death",
+          "website_link": "/debuff/revive-on-death"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

@@ -35,24 +35,61 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ATK in Dungeons by 34%."
+      "raw_description": "Increases Ally ATK in Dungeons by 34%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Bloodsucker",
       "raw_description": "Attacks 1 enemy. Heals this Champion by 30% of the damage inflicted.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +10%",
-      "slug": "bloodsucker"
+      "slug": "bloodsucker",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Tornado",
-      "raw_description": "Places a 30% [increase SPD] buff and a 30% [Increase C. RATE] buff on the target for 2 turns. Grants this Champion an Extra Turn.<br>Lvl. 2 Cooldown -1",
-      "slug": "tornado"
+      "raw_description": "Places a 30% [Increase SPD] buff and a 30% [Increase C. RATE] buff on the target for 2 turns. Grants this Champion an Extra Turn.<br>Lvl. 2 Cooldown -1",
+      "slug": "tornado",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase SPD",
+          "value": 0,
+          "image_slug": "image-buff-increase-spd",
+          "slug": "increase-spd",
+          "website_link": "/buff/increase-spd"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Open Wounds",
       "raw_description": "Attacks 1 enemy. Places a 100% [Heal Reduction] debuff for 2 turns. Inflicts 50% more damage against targets under buffs.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1",
-      "slug": "open-wounds"
+      "slug": "open-wounds",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Heal Reduction",
+          "value": 0,
+          "image_slug": "image-debuff-heal-reduction",
+          "slug": "heal-reduction",
+          "website_link": "/debuff/heal-reduction"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

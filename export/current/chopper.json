@@ -35,24 +35,56 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally ACC in the Arena by 40."
+      "raw_description": "Increases Ally ACC in the Arena by 40.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Staggering Hit",
       "raw_description": "Attacks 1 enemy. Has a 20% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [SPD] [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Buff/Debuff Chance +5%",
-      "slug": "staggering-hit"
+      "slug": "staggering-hit",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": [
+        "SPD",
+        "ATK"
+      ]
     },
     {
       "name": "Grapple",
       "raw_description": "Attacks 1 enemy. Places a [Stun] debuff for 1 turn if the target's current HP is lower than this Champion's current HP.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1<br>Lvl. 6 Cooldown -1",
-      "slug": "grapple"
+      "slug": "grapple",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Stun",
+          "value": 0,
+          "image_slug": "image-debuff-stun",
+          "slug": "stun",
+          "website_link": "/debuff/stun"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Incapacitate",
       "raw_description": "Attacks 1 enemy. Removes 2 random buffs from the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Cooldown -1",
-      "slug": "incapacitate"
+      "slug": "incapacitate",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

@@ -38,17 +38,52 @@
     {
       "name": "Killer Crescent",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a 25% [Decrease ACC] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%",
-      "slug": "killer-crescent"
+      "slug": "killer-crescent",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ACC",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-acc",
+          "slug": "decrease-acc",
+          "website_link": "/debuff/decrease-acc"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Intervene",
       "raw_description": "Places a 50% [Ally Protection] buff on 2 random allies for 2 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "intervene"
+      "slug": "intervene",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Ally Protection",
+          "value": 0,
+          "image_slug": "image-buff-ally-protection",
+          "slug": "ally-protection",
+          "website_link": "/buff/ally-protection"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Deep Defense",
       "raw_description": "If an ally is hit with a critical hit, places a 15% [Continuous Heal] buff on them for 1 turn.",
-      "slug": "deep-defense"
+      "slug": "deep-defense",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Continuous Heal",
+          "value": 0,
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

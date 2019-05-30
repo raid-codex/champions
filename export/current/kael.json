@@ -35,24 +35,55 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in all Battles by 15%."
+      "raw_description": "Increases Ally HP in all Battles by 15%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Dark Bolt",
       "raw_description": "Attacks 1 enemy. Has an 80% chance of placing a 2.5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +10%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Damage +10%",
-      "slug": "dark-bolt"
+      "slug": "dark-bolt",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Acid Rain",
       "raw_description": "Attacks all enemies. Has an extra 15% chance of inflicting a critical killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "acid-rain"
+      "slug": "acid-rain",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Disintegrate",
       "raw_description": "Attacks 4 times at random. Has a 40% chance of placing a 5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Cooldown -1",
-      "slug": "disintegrate"
+      "slug": "disintegrate",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Poison",
+          "value": 0,
+          "image_slug": "image-debuff-poison",
+          "slug": "poison",
+          "website_link": "/debuff/poison"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

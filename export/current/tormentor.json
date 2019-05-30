@@ -41,7 +41,7 @@
     "website_link": "/factions/demonspawn/",
     "image_slug": "image-faction-demonspawn",
     "number_of_champions": 0,
-    "default_description": "demonspawn is a faction from RAID Shadow Legends",
+    "default_description": "Demonspawn is a faction from RAID Shadow Legends",
     "seo": {
       "title": "%%title%% %%page%% %%sep%% %%parent_title%% %%sep%% %%sitename%%",
       "description": "demonspawn is a faction from RAID Shadow Legends. Find out more on this Raid Shadow Legends codex.",
@@ -88,7 +88,7 @@
       }
     ]
   },
-  "default_description": "Tormentor is a rare attack champion from the faction demonspawn doing magic damage",
+  "default_description": "Tormentor is a rare attack champion from the faction Demonspawn doing magic damage",
   "recommended_builds": [],
   "lore": ""
 }

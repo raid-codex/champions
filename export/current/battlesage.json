@@ -35,24 +35,51 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally SPD in all Battles by 19%"
+      "raw_description": "Increases Ally SPD in all Battles by 19%",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Lightning Slash",
       "raw_description": "Attacks all enemies.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "lightning-slash"
+      "slug": "lightning-slash",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Nature's Touch",
       "raw_description": "Removes all debuffs on all allies, then places a 50% [Increase ATK]<br>Lvl. 2 Cooldown -1",
-      "slug": "nature-s-touch"
+      "slug": "nature-s-touch",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Mother's Embrace",
-      "raw_description": "Places a [Revive On Death] buff on a target ally for 3 turns. The ally will instantly revive if killed.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "mother-s-embrace"
+      "raw_description": "Places a [Revive on Death] buff on a target ally for 3 turns. The ally will instantly revive if killed.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
+      "slug": "mother-s-embrace",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Revive on Death",
+          "value": 0,
+          "image_slug": "image-debuff-revive-on-death",
+          "slug": "revive-on-death",
+          "website_link": "/debuff/revive-on-death"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

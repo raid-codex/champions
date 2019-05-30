@@ -38,12 +38,18 @@
     {
       "name": "Dagger Throw",
       "raw_description": "Attacks 1 enemy. Has a 10% chance of granting an Extra Turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff<br>Lvl. 4 Buff<br>Lvl. 5 Buff/C",
-      "slug": "dagger-throw"
+      "slug": "dagger-throw",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Foul Play",
       "raw_description": "Places a 5% debuff on the target for 2 turns.",
-      "slug": "foul-play"
+      "slug": "foul-play",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

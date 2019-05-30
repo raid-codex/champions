@@ -38,17 +38,42 @@
     {
       "name": "Vicious Rip",
       "raw_description": "Attacks 1 enemy 2 times. Has a 20% chance of placing an extra hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Buff/Debuff Chance +5%<br>Lvl. 8 Buff/Debuff Chance +5%",
-      "slug": "vicious-rip"
+      "slug": "vicious-rip",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Cry For Blood",
       "raw_description": "Places a 30% [Increase SPD] buff on this Champion for 2 turns. Also places a [Counterattack] buff on this Champion for 2 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
-      "slug": "cry-for-blood"
+      "slug": "cry-for-blood",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase SPD",
+          "value": 0,
+          "image_slug": "image-buff-increase-spd",
+          "slug": "increase-spd",
+          "website_link": "/buff/increase-spd"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Counterattack",
+          "value": 0,
+          "image_slug": "image-buff-counterattack",
+          "slug": "counterattack",
+          "website_link": "/buff/counterattack"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Feral Hunter",
       "raw_description": "Fills this Champion's Turn Meter by 15% on critical hits. Fills this Champion's Turn Meter by 50% if this Champion kills an enemy.",
-      "slug": "feral-hunter"
+      "slug": "feral-hunter",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

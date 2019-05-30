@@ -35,24 +35,62 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Magic Ally RESIST in all Battles by 50."
+      "raw_description": "Increases Magic Ally RESIST in all Battles by 50.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Put to Flame",
       "raw_description": "Attacks 1 enemy. Has a 30% chance of placing a [HP Burn] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%",
-      "slug": "put-to-flame"
+      "slug": "put-to-flame",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "HP Burn",
+          "value": 0,
+          "image_slug": "image-debuff-hp-burn",
+          "slug": "hp-burn",
+          "website_link": "/debuff/hp-burn"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Lordly Embrace",
       "raw_description": "Heals a target ally by 75% of their MAX HP and places a [Block Debuffs] buff for 2 turns.<br>Lvl. 2 Heal +5%<br>Lvl. 3 Heal +5%<br>Lvl. 4 Cooldown -1",
-      "slug": "lordly-embrace"
+      "slug": "lordly-embrace",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Block Debuffs",
+          "value": 0,
+          "image_slug": "image-buff-block-debuffs",
+          "slug": "block-debuffs",
+          "website_link": "/buff/block-debuffs"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Aggress",
       "raw_description": "Attacks 3 times at random. Places a 10% [Leech] debuff for 2 turns on the third hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
-      "slug": "aggress"
+      "slug": "aggress",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Leech",
+          "value": 0,
+          "image_slug": "image-debuff-leech",
+          "slug": "leech",
+          "website_link": "/debuff/leech"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

@@ -38,17 +38,61 @@
     {
       "name": "Crackling Blade",
       "raw_description": "Attacks 1 enemy 2 times. Has a 30% chance of placing a 25% [Weaken] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +109<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +10°",
-      "slug": "crackling-blade"
+      "slug": "crackling-blade",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK"
+      ]
     },
     {
       "name": "Ancestors",
       "raw_description": "Places a 50% [Increase ATK] buff, a 30% [Increase C. RATE] buff and a 30% [Increase SPD] buff on this Champion for 2 turns. Grants an Extra Turn.<br>Lvl. 2 Cooldown -1",
-      "slug": "ancestors"
+      "slug": "ancestors",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Increase C. RATE",
+          "value": 0,
+          "image_slug": "image-buff-increase-c-rate",
+          "slug": "increase-c-rate",
+          "website_link": "/buff/increase-c-rate"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase SPD",
+          "value": 0,
+          "image_slug": "image-buff-increase-spd",
+          "slug": "increase-spd",
+          "website_link": "/buff/increase-spd"
+        },
+        {
+          "effect_type": "buff",
+          "type": "Increase ATK",
+          "value": 0,
+          "image_slug": "image-buff-increase-atk",
+          "slug": "increase-atk",
+          "website_link": "/buff/increase-atk"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Juggernaut",
       "raw_description": "Attacks 1 enemy 2 times. Damage increases according to the number of buffs on this Champion. If the target is killed, resets the cooldown of this skill.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +10%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Cooldown -1<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
-      "slug": "juggernaut"
+      "slug": "juggernaut",
+      "effects": [],
+      "damaged_based_on": [
+        "ATK"
+      ]
     }
   ],
   "faction": {

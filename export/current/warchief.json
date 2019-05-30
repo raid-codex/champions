@@ -38,17 +38,45 @@
     {
       "name": "Freezing Cold",
       "raw_description": "Attacks 1 enemy 3 times. Has a 15% chance of placing a [Freeze] debuff for 1 turn. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +10%",
-      "slug": "freezing-cold"
+      "slug": "freezing-cold",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Freeze",
+          "value": 0,
+          "image_slug": "image-debuff-freeze",
+          "slug": "freeze",
+          "website_link": "/debuff/freeze"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Marauder",
       "raw_description": "Attacks 1 enemy. Places a [Provoke] debuff for 3 turns. Has a 75% chance of stealing 2 random buffs from the target. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF] dl Provoke<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Cooldown -1",
-      "slug": "marauder"
+      "slug": "marauder",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Provoke",
+          "value": 0,
+          "image_slug": "image-debuff-provoke",
+          "slug": "provoke",
+          "website_link": "/debuff/provoke"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Standstill",
       "raw_description": "DEF increases by 10% for each dead ally.",
-      "slug": "standstill"
+      "slug": "standstill",
+      "effects": [],
+      "damaged_based_on": []
     }
   ],
   "faction": {

@@ -38,12 +38,21 @@
     {
       "name": "Riposte",
       "raw_description": "Attacks 1 enemy. Decreases the Turn Meter by 30% if this attack is critical. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "riposte"
+      "slug": "riposte",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Lay to Rest",
       "raw_description": "Attacks 1 enemy. Damage inflicted is proportional to DEF and increases according to enemy MAX HP. Enemies killed by this skill cannot be revived.<br>Damage based on: [DEF] [Enemy MAX HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
-      "slug": "lay-to-rest"
+      "slug": "lay-to-rest",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF",
+        "Enemy MAX HP"
+      ]
     }
   ],
   "faction": {
@@ -99,7 +108,7 @@
       }
     ]
   },
-  "default_description": "Armiger is a uncommon defense champion from the faction Sacred Order",
+  "default_description": "Armiger is a uncommon def champion from the faction Sacred Order",
   "recommended_builds": [],
   "lore": ""
 }

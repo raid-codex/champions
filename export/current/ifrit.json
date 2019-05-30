@@ -35,24 +35,61 @@
   },
   "auras": [
     {
-      "raw_description": "Increases Ally HP in all Battles by 15%."
+      "raw_description": "Increases Ally HP in all Battles by 15%.",
+      "effects": []
     }
   ],
   "skills": [
     {
       "name": "Feebleness Curse",
       "raw_description": "Attacks 1 enemy. Places a 15% [Weaken] debuff for 1 turn.<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
-      "slug": "feebleness-curse"
+      "slug": "feebleness-curse",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Weaken",
+          "value": 0,
+          "image_slug": "image-debuff-weaken",
+          "slug": "weaken",
+          "website_link": "/debuff/weaken"
+        }
+      ],
+      "damaged_based_on": []
     },
     {
       "name": "Withering Bolt",
       "raw_description": "Attacks 1 enemy. Places a 25% [Decrease ATK] debuff for 2 turns. Damage increases according to this Champion's MAX HP.<br>Damage based on: [ATK] [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
-      "slug": "withering-bolt"
+      "slug": "withering-bolt",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease ATK",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-atk",
+          "slug": "decrease-atk",
+          "website_link": "/debuff/decrease-atk"
+        }
+      ],
+      "damaged_based_on": [
+        "ATK",
+        "HP"
+      ]
     },
     {
       "name": "Shadow Field",
       "raw_description": "Decreases the damage received by 50% if damage from a single hit exceeds 30% HP. Places a 30% [Decrease DEF] debuff for 2 turns on the attacker if the attack is critical.",
-      "slug": "shadow-field"
+      "slug": "shadow-field",
+      "effects": [
+        {
+          "effect_type": "debuff",
+          "type": "Decrease DEF",
+          "value": 0,
+          "image_slug": "image-debuff-decrease-def",
+          "slug": "decrease-def",
+          "website_link": "/debuff/decrease-def"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {

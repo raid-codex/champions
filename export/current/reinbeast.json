@@ -38,17 +38,45 @@
     {
       "name": "Caning",
       "raw_description": "Attacks 1 enemy. Places a 15% [Continuous Heal] buff on the ally with the lowest HP for 1 turn.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%",
-      "slug": "caning"
+      "slug": "caning",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Continuous Heal",
+          "value": 0,
+          "image_slug": "image-buff-continuous-heal",
+          "slug": "continuous-heal",
+          "website_link": "/buff/continuous-heal"
+        }
+      ],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "Open Slay",
       "raw_description": "Attacks 1 enemy 2 times. Revives a random ally with full HP if this attack kills the enemy.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
-      "slug": "open-slay"
+      "slug": "open-slay",
+      "effects": [],
+      "damaged_based_on": [
+        "DEF"
+      ]
     },
     {
       "name": "It Glows",
       "raw_description": "When an ally is attacked, places a [Shield] buff equal to 35% of this Champion's MAX HP on that ally for 2 turns. Occurs once per turn.<br>Lvl. 2 Shield +10%<br>Lvl. 3 Shield +10%<br>Lvl. 4 Shield +10%",
-      "slug": "it-glows"
+      "slug": "it-glows",
+      "effects": [
+        {
+          "effect_type": "buff",
+          "type": "Shield",
+          "value": 0,
+          "image_slug": "image-buff-shield",
+          "slug": "shield",
+          "website_link": "/buff/shield"
+        }
+      ],
+      "damaged_based_on": []
     }
   ],
   "faction": {
