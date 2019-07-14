@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "dervish",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Flurry",
       "raw_description": "Attacks 2 times at random. Has a 25% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance",
       "slug": "flurry",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-def",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def",
-          "extra": false
+          "website_link": "/debuffs/decrease-def",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2480_s1",
+      "upgrades": [],
+      "image_slug": "9796585fb98dd63bd441ffeab82f173e",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Sealing Arrow",
       "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a 50% [Heal Reduction] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Buff/Debuff Chance +109<br>Lvl. 3 Buff/Debuff Chance +10<br>Lvl. 4 Buff/Debuff Chance +109<br>Lvl. 5 Buff/Debuff Chance +20'<br>Lvl. 6 Cooldown -1",
       "slug": "sealing-arrow",
@@ -63,15 +91,25 @@
           "effect_type": "debuff",
           "type": "Heal Reduction",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-heal-reduction",
           "slug": "heal-reduction",
-          "website_link": "/debuff/heal-reduction",
-          "extra": false
+          "website_link": "/debuffs/heal-reduction",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2480_s2",
+      "upgrades": [],
+      "image_slug": "c3cd5be9a1402d3ac0c08c57dda88add",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -93,7 +131,9 @@
         "barbarians"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/dervish/",
@@ -129,5 +169,8 @@
   },
   "default_description": "Dervish is a uncommon attack champion from the faction Barbarians",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "2480",
+  "synergy": [],
+  "thumbnail": "b06b5541a62ed438f956b662b4e1ec28"
 }

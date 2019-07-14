@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "warboy",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Plunder",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a [Provoke] debuff for 1 turn.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "plunder",
@@ -44,15 +61,25 @@
           "effect_type": "debuff",
           "type": "Provoke",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke",
-          "extra": false
+          "website_link": "/debuffs/provoke",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "DEF"
-      ]
+      ],
+      "giid": "680_s1",
+      "upgrades": [],
+      "image_slug": "e504ccc249a0a06d2c890606a13c2a65",
+      "skill_number": "A1"
     }
   ],
   "faction": {
@@ -74,7 +101,9 @@
         "orcs"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "orcs",
   "website_link": "/champions/warboy/",
@@ -110,5 +139,8 @@
   },
   "default_description": "Warboy is a common def champion from the faction Orcs",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "680",
+  "synergy": [],
+  "thumbnail": "fccb3cdc9acc14a6e70a12f74560c026"
 }

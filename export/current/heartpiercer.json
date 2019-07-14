@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "heartpiercer",
   "characteristics": {
     "60": {
@@ -36,15 +52,21 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Perforate",
       "raw_description": "Attacks 1 enemy.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "perforate",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2870_s1",
+      "upgrades": [],
+      "image_slug": "3d3fcefb6fc7344db0c4df750cba2dc4",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Sight In",
       "raw_description": "Attacks 1 enemy. If the hit is critical, places a 25% [Increase ATK] buff on this Champion for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
       "slug": "sight-in",
@@ -53,15 +75,25 @@
           "effect_type": "buff",
           "type": "Increase ATK",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-buff-increase-atk",
           "slug": "increase-atk",
-          "website_link": "/buff/increase-atk",
-          "extra": false
+          "website_link": "/buffs/increase-atk",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2870_s2",
+      "upgrades": [],
+      "image_slug": "19cad1b28d5e20b28c68d6083c836dc7",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -83,7 +115,9 @@
         "dark-elves"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/heartpiercer/",
@@ -119,5 +153,8 @@
   },
   "default_description": "Heartpiercer is a uncommon attack champion from the faction Dark Elves",
   "recommended_builds": [],
-  "lore": "<p>Trained in the ranks of the elven rangers, Heartpiercer is a prodigy when it comes to using her bow to her advantage in battle. Though she could easily hunt any beast in Darkwood Forest, her defensive skills leave much to be desired. She is seldom found alone, and fights best with an ally at her side.</p>"
+  "lore": "<p>Trained in the ranks of the elven rangers, Heartpiercer is a prodigy when it comes to using her bow to her advantage in battle. Though she could easily hunt any beast in Darkwood Forest, her defensive skills leave much to be desired. She is seldom found alone, and fights best with an ally at her side.</p>",
+  "giid": "2870",
+  "synergy": [],
+  "thumbnail": "327708dd10d68b1361ad3addbaca01f2"
 }

@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "outlander",
   "characteristics": {
     "60": {
@@ -36,22 +52,32 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Savage Strike",
       "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
       "slug": "savage-strike",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "840_s1",
+      "upgrades": [],
+      "image_slug": "4f95f209224c536536922cb486636889",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Talisman of Power",
       "raw_description": "Attacks all enemies. Has a 50% chance of decreasing the Turn Meter by 30%.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5'<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +5<br>Lvl. 7 Buff/Debuff Chance +109<br>Lvl. 8 Cooldown -1",
       "slug": "talisman-of-power",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "840_s2",
+      "upgrades": [],
+      "image_slug": "89afe53c12b710eb860ea2eee74ae5b3",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -73,7 +99,9 @@
         "barbarians"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "barbarians",
   "website_link": "/champions/outlander/",
@@ -109,5 +137,8 @@
   },
   "default_description": "Outlander is a uncommon attack champion from the faction Barbarians",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "840",
+  "synergy": [],
+  "thumbnail": "fa83a11a198d5a7f0bf77a1987bcd006"
 }

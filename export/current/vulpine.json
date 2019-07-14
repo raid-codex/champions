@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "vulpine",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Bare Fangs",
       "raw_description": "Attacks 1 enemy. Has a 60% chance of placing a 30% [Decrease DEF] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +15%<br>Lvl. 5 Damage +10%",
       "slug": "bare-fangs",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-def-2",
-          "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def",
-          "extra": true
+          "slug": "decrease-def-2",
+          "website_link": "/debuffs/decrease-def",
+          "extra": true,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1190_s1",
+      "upgrades": [],
+      "image_slug": "c14c6e0832f874ae661ef6e7c6372d2b",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Alpha",
       "raw_description": "Places a 25% [Increase ATK] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1",
       "slug": "alpha",
@@ -63,13 +91,23 @@
           "effect_type": "buff",
           "type": "Increase ATK",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-buff-increase-atk",
           "slug": "increase-atk",
-          "website_link": "/buff/increase-atk",
-          "extra": false
+          "website_link": "/buffs/increase-atk",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
-      "damaged_based_on": []
+      "damaged_based_on": [],
+      "giid": "1190_s2",
+      "upgrades": [],
+      "image_slug": "5a20c3ebf778f7cd52964eaa8850dabb",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -91,7 +129,9 @@
         "undead-hordes"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/vulpine/",
@@ -127,5 +167,8 @@
   },
   "default_description": "Vulpine is a uncommon attack champion from the faction Undead Hordes",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1190",
+  "synergy": [],
+  "thumbnail": "160c88652d47d0be60bfbfed25111412"
 }

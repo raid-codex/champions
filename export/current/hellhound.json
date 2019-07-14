@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "hellhound",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Paralyzing Bite",
       "raw_description": "Attacks 1 enemy. Places a [Sleep] debuff on the target for 1 turn when hit with a critical hit.<br>Damage based on: [ATK] [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%",
       "slug": "paralyzing-bite",
@@ -44,16 +61,26 @@
           "effect_type": "debuff",
           "type": "Sleep",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-sleep",
           "slug": "sleep",
-          "website_link": "/debuff/sleep",
-          "extra": false
+          "website_link": "/debuffs/sleep",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK",
         "DEF"
-      ]
+      ],
+      "giid": "2290_s1",
+      "upgrades": [],
+      "image_slug": "b370152efde0ffb460c7a6de6a98fde0",
+      "skill_number": "A1"
     }
   ],
   "faction": {
@@ -75,7 +102,9 @@
         "undead-hordes"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/hellhound/",
@@ -111,5 +140,8 @@
   },
   "default_description": "Hellhound is a common attack champion from the faction Undead Hordes",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "2290",
+  "synergy": [],
+  "thumbnail": "1177967c7957072da3dc1db4ceb30e7a"
 }

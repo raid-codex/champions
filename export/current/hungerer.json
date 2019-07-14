@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "hungerer",
   "characteristics": {
     "60": {
@@ -54,7 +70,9 @@
         "ogryn-tribes"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/hungerer/",
@@ -90,5 +108,8 @@
   },
   "default_description": "Hungerer is a uncommon hp champion from the faction Ogryn-Tribes doing force damage",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "3320",
+  "synergy": [],
+  "thumbnail": "36ed197b3f31618fdbadb3df86f804bd"
 }

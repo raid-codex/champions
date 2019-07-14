@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "herald",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Doombolt",
       "raw_description": "Attacks 1 enemy. Has a 15% chance of placing a 15% [Decrease SPD] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Buff/Debuff Chance +5%",
       "slug": "doombolt",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-spd",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd",
-          "extra": false
+          "website_link": "/debuffs/decrease-spd",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1380_s1",
+      "upgrades": [],
+      "image_slug": "a7f2ea32b6b9198804553601a659c46d",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Unholy Grace",
       "raw_description": "Places a 30% [Increase C. RATE] buff on all allies for 2 turns.<br>Lvl. 2 Cooldown -1<br>Lvl. 3 Cooldown -1",
       "slug": "unholy-grace",
@@ -63,13 +91,23 @@
           "effect_type": "buff",
           "type": "Increase C. RATE",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-buff-increase-c-rate-2",
-          "slug": "increase-c-rate",
-          "website_link": "/buff/increase-c-rate",
-          "extra": true
+          "slug": "increase-c-rate-2",
+          "website_link": "/buffs/increase-c-rate",
+          "extra": true,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
-      "damaged_based_on": []
+      "damaged_based_on": [],
+      "giid": "1380_s2",
+      "upgrades": [],
+      "image_slug": "7a328c65ada1d1af0b8c587b02e1528a",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -91,7 +129,9 @@
         "knight-revenant"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "knight-revenant",
   "website_link": "/champions/herald/",
@@ -127,5 +167,8 @@
   },
   "default_description": "Herald is a uncommon assist champion from the faction Knight Revenant",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1380",
+  "synergy": [],
+  "thumbnail": "ea8fcd92d59581717e06eb187f10666d"
 }

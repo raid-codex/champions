@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "squire",
   "characteristics": {
     "60": {
@@ -36,15 +52,21 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Overhead Swing",
       "raw_description": "Attacks 1 enemy.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "overhead-swing",
       "effects": [],
       "damaged_based_on": [
         "DEF"
-      ]
+      ],
+      "giid": "1880_s1",
+      "upgrades": [],
+      "image_slug": "99a92b3cb75fbbe5790d6816a18f6581",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Weapon Breaker",
       "raw_description": "Attacks all enemies. Has a 30% chance of placing a 25% [Decrease ATK] debuff for 2 turns.<br>Damage based on: [DEF]<br>Lvl. 2 Buff/Debuff Chance +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
       "slug": "weapon-breaker",
@@ -53,15 +75,25 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-atk",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk",
-          "extra": false
+          "website_link": "/debuffs/decrease-atk",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "DEF"
-      ]
+      ],
+      "giid": "1880_s2",
+      "upgrades": [],
+      "image_slug": "92995fd20a06293313da67ca23c76c4f",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -83,7 +115,9 @@
         "banner-lords"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/squire/",
@@ -119,5 +153,8 @@
   },
   "default_description": "Squire is a uncommon def champion from the faction Banner-Lords",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1880",
+  "synergy": [],
+  "thumbnail": "3214a6d842cc69597f9edf26df552e43"
 }

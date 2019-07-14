@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "magekiller",
   "characteristics": {
     "60": {
@@ -36,13 +52,18 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Harry",
       "raw_description": "Attacks 1 enemy. Has a 10% chance of putting the target's skills on cooldown.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "harry",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "400_s1",
+      "upgrades": [],
+      "image_slug": "e683755404f7d293be4d7df121ff00bb",
+      "skill_number": "A1"
     }
   ],
   "faction": {
@@ -64,7 +85,9 @@
         "dark-elves"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/magekiller/",
@@ -100,5 +123,8 @@
   },
   "default_description": "Magekiller is a common attack champion from the faction Dark Elves",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "400",
+  "synergy": [],
+  "thumbnail": "18d8042386b79e2c279fd162df0205c8"
 }

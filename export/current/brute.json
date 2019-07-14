@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "brute",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Dirty Cuts",
       "raw_description": "Attacks 2 times at random. Has a 50% chance of placing a 5% [Poison] debuff for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "dirty-cuts",
@@ -44,24 +61,39 @@
           "effect_type": "debuff",
           "type": "Poison",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-poison-2",
-          "slug": "poison",
-          "website_link": "/debuff/poison",
-          "extra": true
+          "slug": "poison-2",
+          "website_link": "/debuffs/poison",
+          "extra": true,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "700_s1",
+      "upgrades": [],
+      "image_slug": "0431b1d5b5ccfbb3d4311bc355288e77",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Rip and Tear",
       "raw_description": "Attacks 1 enemy. Has an extra 30% chance of inflicting a critical hit.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
       "slug": "rip-and-tear",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "700_s2",
+      "upgrades": [],
+      "image_slug": "ff9d8d1a19bba17188de41f1fc7955f7",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -83,7 +115,9 @@
         "ogryn-tribes"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "ogryn-tribes",
   "website_link": "/champions/brute/",
@@ -119,5 +153,20 @@
   },
   "default_description": "Brute is a uncommon attack champion from the faction Ogryn-Tribes",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "700",
+  "synergy": [
+    {
+      "context": {
+        "key": "poison-counterattack"
+      },
+      "champions": [
+        "valkyrie",
+        "jizoh",
+        "skullcrusher",
+        "martyr"
+      ]
+    }
+  ],
+  "thumbnail": "e5841df2166dd424a57127423d276bbe"
 }

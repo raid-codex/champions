@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "ranger",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Pin",
       "raw_description": "Attacks 1 enemy. Has a 20% chance of placing a 15% [Decrease SPD] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%",
       "slug": "pin",
@@ -44,24 +61,39 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-spd",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd",
-          "extra": false
+          "website_link": "/debuffs/decrease-spd",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "50_s1",
+      "upgrades": [],
+      "image_slug": "cce1ebca182bfd5f130f4a9c511342ab",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Multi-Shot",
       "raw_description": "Attacks all enemies.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
       "slug": "multi-shot",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "50_s2",
+      "upgrades": [],
+      "image_slug": "4aed2f66b687b4b38feb7f6cc1a6e80c",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -83,7 +115,9 @@
         "dark-elves"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/ranger/",
@@ -119,5 +153,8 @@
   },
   "default_description": "Ranger is a common attack champion from the faction Dark Elves",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "50",
+  "synergy": [],
+  "thumbnail": "c0c7c76d30bd3dcaefc96f40275bdc0a"
 }

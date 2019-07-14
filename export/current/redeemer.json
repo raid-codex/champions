@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "redeemer",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Split",
       "raw_description": "Attacks 1 enemy. Places a 25% [Increase ATK] buff on this Champion for 1 turn if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
       "slug": "split",
@@ -44,17 +61,28 @@
           "effect_type": "buff",
           "type": "Increase ATK",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-buff-increase-atk",
           "slug": "increase-atk",
-          "website_link": "/buff/increase-atk",
-          "extra": false
+          "website_link": "/buffs/increase-atk",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1220_s1",
+      "upgrades": [],
+      "image_slug": "b4c89fda6ceb1e4505b60ebaabcf3391",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Elven Blade",
       "raw_description": "Attacks 1 enemy. Has a 50% chance of placing a 2.5% [Poison] debuff for 2 turns.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +10%<br>Lvl. 5 Buff/Debuff Chance +15%<br>Lvl. 6 Cooldown -1",
       "slug": "elven-blade",
@@ -63,15 +91,25 @@
           "effect_type": "debuff",
           "type": "Poison",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-poison-2",
-          "slug": "poison",
-          "website_link": "/debuff/poison",
-          "extra": true
+          "slug": "poison-2",
+          "website_link": "/debuffs/poison",
+          "extra": true,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1220_s2",
+      "upgrades": [],
+      "image_slug": "96189f8ce1f6159d3b0c36392047653c",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -93,7 +131,9 @@
         "dark-elves"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "dark-elves",
   "website_link": "/champions/redeemer/",
@@ -129,5 +169,8 @@
   },
   "default_description": "Redeemer is a uncommon attack champion from the faction Dark Elves",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1220",
+  "synergy": [],
+  "thumbnail": "b24d516bb65a5a58079f0f3526c87c57"
 }

@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "archer",
   "characteristics": {
     "60": {
@@ -36,15 +52,21 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Double Shot",
       "raw_description": "Attacks 1 enemy 2 times. Has an extra 15% chance of inflicting a critical hit. Fills this Champion's Turn Meter by 15% if this attack is critical.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
       "slug": "double-shot",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "790_s1",
+      "upgrades": [],
+      "image_slug": "ed5773b9a1d889d2f634bf6e4bcc3080",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Rain of Arrows",
       "raw_description": "Attacks all enemies 2 times. Has a 10% chance to place a 15% [Decrease SPD] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Cooldown -1<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Buff/Debuff Chance +5%<br>Lvl. 7 Damage +15%<br>Lvl. 8 Buff/Debuff Chance +5%",
       "slug": "rain-of-arrows",
@@ -53,15 +75,25 @@
           "effect_type": "debuff",
           "type": "Decrease SPD",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-spd",
           "slug": "decrease-spd",
-          "website_link": "/debuff/decrease-spd",
-          "extra": false
+          "website_link": "/debuffs/decrease-spd",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "790_s2",
+      "upgrades": [],
+      "image_slug": "261856b64430bf9af8001424ff412b9c",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -83,7 +115,9 @@
         "banner-lords"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/archer/",
@@ -119,5 +153,8 @@
   },
   "default_description": "Archer is a uncommon attack champion from the faction Banner-Lords",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "790",
+  "synergy": [],
+  "thumbnail": "2dace78f80bc92e6d7493423d729448e"
 }

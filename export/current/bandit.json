@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "bandit",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Flaming Shot",
       "raw_description": "Attacks 1 enemy. Has a 75% chance of placing a 30% [Decrease DEF] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Buff/Debuff Chance +10%",
       "slug": "flaming-shot",
@@ -44,15 +61,25 @@
           "effect_type": "debuff",
           "type": "Decrease DEF",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-def",
           "slug": "decrease-def",
-          "website_link": "/debuff/decrease-def",
-          "extra": false
+          "website_link": "/debuffs/decrease-def",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "220_s1",
+      "upgrades": [],
+      "image_slug": "d7f6cec07443422ed6ed13b1e2382310",
+      "skill_number": "A1"
     }
   ],
   "faction": {
@@ -74,7 +101,9 @@
         "banner-lords"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/bandit/",
@@ -110,5 +139,8 @@
   },
   "default_description": "Bandit is a common attack champion from the faction Banner-Lords",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "220",
+  "synergy": [],
+  "thumbnail": "ec8ce6abb3e952a85b8551ba726a1227"
 }

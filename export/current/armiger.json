@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "armiger",
   "characteristics": {
     "60": {
@@ -36,15 +52,21 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Riposte",
       "raw_description": "Attacks 1 enemy. Decreases the Turn Meter by 30% if this attack is critical. Damage inflicted is proportional to DEF.<br>Damage based on: [DEF]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "riposte",
       "effects": [],
       "damaged_based_on": [
         "DEF"
-      ]
+      ],
+      "giid": "1050_s1",
+      "upgrades": [],
+      "image_slug": "154fcd9d4507a8e3bf26e24326600b00",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Lay to Rest",
       "raw_description": "Attacks 1 enemy. Damage inflicted is proportional to DEF and increases according to enemy MAX HP. Enemies killed by this skill cannot be revived.<br>Damage based on: [DEF] [Enemy MAX HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
       "slug": "lay-to-rest",
@@ -52,7 +74,11 @@
       "damaged_based_on": [
         "DEF",
         "Enemy MAX HP"
-      ]
+      ],
+      "giid": "1050_s2",
+      "upgrades": [],
+      "image_slug": "fbb87c0f4636684814b42f0a663e4ca0",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -74,7 +100,9 @@
         "sacred-order"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/armiger/",
@@ -110,5 +138,8 @@
   },
   "default_description": "Armiger is a uncommon def champion from the faction Sacred Order",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1050",
+  "synergy": [],
+  "thumbnail": "5055cbf43fac3f7e2336b27310f0b9ef"
 }

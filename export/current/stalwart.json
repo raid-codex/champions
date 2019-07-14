@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "stalwart",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Rattle",
       "raw_description": "Attacks 1 enemy. Has a 25% chance of placing a [Block Cooldown Skills] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +10%",
       "slug": "rattle",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Block Cooldown Skills",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-block-cooldown-skills",
           "slug": "block-cooldown-skills",
-          "website_link": "/debuff/block-cooldown-skills",
-          "extra": false
+          "website_link": "/debuffs/block-cooldown-skills",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2020_s1",
+      "upgrades": [],
+      "image_slug": "f8e6727cf25ff2e8c1b3478650f674a8",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Headbutt",
       "raw_description": "Attacks 1 enemy 2 times. Has a 25% chance of placing a [Stun] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Buff/Debuff Chance +5%<br>Lvl. 5 Damage +10%",
       "slug": "headbutt",
@@ -63,15 +91,25 @@
           "effect_type": "debuff",
           "type": "Stun",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun",
-          "extra": false
+          "website_link": "/debuffs/stun",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2020_s2",
+      "upgrades": [],
+      "image_slug": "a4701c890715744e239df9ba0de7cddf",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -93,7 +131,9 @@
         "banner-lords"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "banner-lords",
   "website_link": "/champions/stalwart/",
@@ -129,5 +169,8 @@
   },
   "default_description": "Stalwart is a uncommon hp champion from the faction Banner-Lords",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "2020",
+  "synergy": [],
+  "thumbnail": "7b7a53e239400a13bd6be6c91c4f6c4e"
 }

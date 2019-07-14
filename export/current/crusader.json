@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "crusader",
   "characteristics": {
     "60": {
@@ -36,20 +52,30 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Hack",
       "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "hack",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "2110_s1",
+      "upgrades": [],
+      "image_slug": "0381d189255db0bcc5cbfc7e50e03fb7",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Rally",
       "raw_description": "Attacks 1 enemy with 1 random ally. The ally joining the attack use their default skill.<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Damage +10%<br>Lvl. 6 Cooldown -1",
       "slug": "rally",
       "effects": [],
-      "damaged_based_on": []
+      "damaged_based_on": [],
+      "giid": "2110_s2",
+      "upgrades": [],
+      "image_slug": "ad7c88311eda3a24dfbb6f76f1e3c06a",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -71,7 +97,9 @@
         "sacred-order"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "sacred-order",
   "website_link": "/champions/crusader/",
@@ -107,5 +135,8 @@
   },
   "default_description": "Crusader is a uncommon attack champion from the faction Sacred Order",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "2110",
+  "synergy": [],
+  "thumbnail": "c3535febaff29fcb7c0d20cbe94391c7"
 }

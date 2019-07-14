@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "skinner",
   "characteristics": {
     "60": {
@@ -36,22 +52,32 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Sharpened Bone",
       "raw_description": "Attacks 1 enemy 3 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%",
       "slug": "sharpened-bone",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1080_s1",
+      "upgrades": [],
+      "image_slug": "e3f95963a2ff9449e0c8278ee86e15c4",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Skinning Slice",
       "raw_description": "Attacks 1 enemy. Removes 2 random buffs from the target.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Cooldown -1",
       "slug": "skinning-slice",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1080_s2",
+      "upgrades": [],
+      "image_slug": "c27b7a3e1389c1499543e4d239b688b4",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -73,7 +99,9 @@
         "lizardmen"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "lizardmen",
   "website_link": "/champions/skinner/",
@@ -109,5 +137,8 @@
   },
   "default_description": "Skinner is a uncommon attack champion from the faction Lizardmen",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1080",
+  "synergy": [],
+  "thumbnail": "731c83db8d2ff01bdc000083fd3c3740"
 }

@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "skellag",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Thrust",
       "raw_description": "Attacks 1 enemy. Has a 25% chance of placing a [Freeze] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%",
       "slug": "thrust",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Freeze",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-freeze",
           "slug": "freeze",
-          "website_link": "/debuff/freeze",
-          "extra": false
+          "website_link": "/debuffs/freeze",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "560_s1",
+      "upgrades": [],
+      "image_slug": "a94cd4c801e545204a477cc60e9a1296",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Blizzard",
       "raw_description": "Attacks all enemies. Has a 60% chance of placing a 25% [Decrease ACC] debuff for 1 turn.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Buff/Debuff Chance +20%<br>Lvl. 6 Damage +15%<br>Lvl. 7 Buff/Debuff Chance +20%<br>Lvl. 8 Cooldown -1",
       "slug": "blizzard",
@@ -63,15 +91,25 @@
           "effect_type": "debuff",
           "type": "Decrease ACC",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-acc",
           "slug": "decrease-acc",
-          "website_link": "/debuff/decrease-acc",
-          "extra": false
+          "website_link": "/debuffs/decrease-acc",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "560_s2",
+      "upgrades": [],
+      "image_slug": "d5ab2a473326cc2b3ae3c1232b97c812",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -93,7 +131,9 @@
         "undead-hordes"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "undead-hordes",
   "website_link": "/champions/skellag/",
@@ -129,5 +169,8 @@
   },
   "default_description": "Skellag is a uncommon def champion from the faction Undead Hordes",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "560",
+  "synergy": [],
+  "thumbnail": "a9a6653e48976138166de32772b1bf40"
 }

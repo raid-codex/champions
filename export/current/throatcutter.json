@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "throatcutter",
   "characteristics": {
     "60": {
@@ -36,22 +52,32 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Cleaver",
       "raw_description": "Attacks 1 enemy 2 times.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Damage +5%<br>Lvl. 6 Damage +10%<br>Lvl. 7 Damage +10%",
       "slug": "cleaver",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1670_s1",
+      "upgrades": [],
+      "image_slug": "0c2fcd020372f7d5075dc12e5bffe1da",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Gratuitous Death",
       "raw_description": "Attacks 1 enemy. Grants an Extra Turn if the target is killed.<br>Damage based on: [ATK]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Damage +10%<br>Lvl. 4 Damage +10%<br>Lvl. 5 Cooldown -1",
       "slug": "gratuitous-death",
       "effects": [],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "1670_s2",
+      "upgrades": [],
+      "image_slug": "90a00c7e2aeb9c3a6b980f2d2fc0a942",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -73,7 +99,9 @@
         "orcs"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "orcs",
   "website_link": "/champions/throatcutter/",
@@ -109,5 +137,8 @@
   },
   "default_description": "Throatcutter is a uncommon attack champion from the faction Orcs",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "1670",
+  "synergy": [],
+  "thumbnail": "148510031349642de5ca0c544f31b2ef"
 }

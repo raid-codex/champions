@@ -20,6 +20,22 @@
     "spirit_dungeon": "",
     "void_dungeon": ""
   },
+  "reviews": {
+    "amount": 0,
+    "campaign": 0,
+    "arena_offense": 0,
+    "arena_defense": 0,
+    "clan_boss": 0,
+    "ice_guardian": 0,
+    "dragon": 0,
+    "spider": 0,
+    "fire_knight": 0,
+    "minotaur": 0,
+    "force_dungeon": 0,
+    "magic_dungeon": 0,
+    "spirit_dungeon": 0,
+    "void_dungeon": 0
+  },
   "slug": "warchanter",
   "characteristics": {
     "60": {
@@ -36,6 +52,7 @@
   "auras": [],
   "skills": [
     {
+      "passive": false,
       "name": "Head Wound",
       "raw_description": "Attacks 1 enemy. Has a 20% chance of applying a [Stun] debuff for 1 turn.<br>Damage based on: [HP]<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +5%",
       "slug": "head-wound",
@@ -44,17 +61,28 @@
           "effect_type": "debuff",
           "type": "Stun",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-stun",
           "slug": "stun",
-          "website_link": "/debuff/stun",
-          "extra": false
+          "website_link": "/debuffs/stun",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "HP"
-      ]
+      ],
+      "giid": "730_s1",
+      "upgrades": [],
+      "image_slug": "c46035c31d44ce96a201f978e2c87395",
+      "skill_number": "A1"
     },
     {
+      "passive": false,
       "name": "Frenzy",
       "raw_description": "Attacks all enemies. Has a 25% chance of placing a 25% [Decrease ATK] debuff for 1 turn. Also has a 25% chance of placing a [Provoke] debuff for 1 turn.<br>Damage based on: [ATK] i i Provoke<br>Lvl. 2 Damage +5%<br>Lvl. 3 Buff/Debuff Chance +5%<br>Lvl. 4 Damage +5%<br>Lvl. 5 Buff/Debuff Chance +10%<br>Lvl. 6 Cooldown -1",
       "slug": "frenzy",
@@ -63,24 +91,40 @@
           "effect_type": "debuff",
           "type": "Decrease ATK",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-decrease-atk",
           "slug": "decrease-atk",
-          "website_link": "/debuff/decrease-atk",
-          "extra": false
+          "website_link": "/debuffs/decrease-atk",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         },
         {
           "effect_type": "debuff",
           "type": "Provoke",
           "value": 0,
+          "chance": 0,
+          "turns": 0,
+          "target": null,
           "image_slug": "image-debuff-provoke",
           "slug": "provoke",
-          "website_link": "/debuff/provoke",
-          "extra": false
+          "website_link": "/debuffs/provoke",
+          "extra": false,
+          "raw_description": "",
+          "places_if": "",
+          "amount": 0
         }
       ],
       "damaged_based_on": [
         "ATK"
-      ]
+      ],
+      "giid": "730_s2",
+      "upgrades": [],
+      "image_slug": "a309bc55a673047a151a09caadc4685e",
+      "skill_number": "A2"
     }
   ],
   "faction": {
@@ -102,7 +146,9 @@
         "orcs"
       ],
       "structured_data": null
-    }
+    },
+    "giid": "",
+    "raw_description": ""
   },
   "faction_slug": "orcs",
   "website_link": "/champions/warchanter/",
@@ -138,5 +184,8 @@
   },
   "default_description": "Warchanter is a uncommon hp champion from the faction Orcs",
   "recommended_builds": [],
-  "lore": ""
+  "lore": "",
+  "giid": "730",
+  "synergy": [],
+  "thumbnail": "d5cfead94f5350c12c322b5b664544c1"
 }
